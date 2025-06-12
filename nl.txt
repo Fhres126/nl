@@ -1,6 +1,10 @@
 I recommend that you view it as a pdf and dark mode(for font and image): https://glki.netlify.app/nl.pdf
 
-official youtube channel : https://youtube.com/@normallanguage?si=4E6OEKgSuZa9OJAj
+official youtube channel(for emergency): https://youtube.com/@normallanguage?si=4E6OEKgSuZa9OJAj
+
+all feedback is welcome!
+
+
 
 NL(Normal Language){
 
@@ -16,33 +20,36 @@ It is the simplest, most efficient, easiest and most logical future global langu
 
 NL dont have exception.
 
-over 50% of words is compound word or antonym or arranged in an orderly way.
+over 65% of words is compound word or antonym or arranged in an orderly way.
 
 so you can remember words easily.
 
 NL is phonetic script.
 
-Since NL is a binary language, it can easily be converted into NL versions of barcodes, QR codes, and Morse code.
+NL versions of barcodes, QR codes is called NL QR
 
-NL version QR code uses over 5 times less space than a QR code.
+Since NL is a binary language, it can easily be converted into NL QR and and Morse code.
 
+NL can express all meanings using only binary.
 
-NL version barcode is over 1.5 times more efficient than a barcode.
+ 
 
+NL QR2 uses over 5 times less space than a QR code.(the both image mean 'i am people')
+ 
 
-it means the same from any angle like QR code.
+NL QR1 is over 1.5 times more efficient than a barcode.(both image mean same)
+ 
 
-
-it can express all meanings using only binary.
-
+NL QR means the same from any angle like QR code.
+ 
 
 one sentence has only one meaning.
 
-ex 'A and B of C' can be interpreted as '(A of B) and C' and 'A of (B and C)' in english.
+ex 'A and B of C' can be interpreted as '(A and B) of C' and 'A and (B of C)' in english.
 
-but in NL, 'bf af A B C' mean only '(A of B) and C'.
+but in NL, 'af C bf A B' mean only '(A and B) of C'.
 
-'af A bf B C' mean only 'A of (B and C)'.
+'bf A af C B' mean only 'A and (B of C)'.
 
 'i know you' in NL is 'nidgbd'.
 
@@ -52,15 +59,19 @@ NL is 24 bit(one letter is 4bit).
 
 NL is three times more efficient than English.
 
-NL can be expressed in one, two, or three and more dimensions(pdf user can see image).
+so NL reduces environmental pollution.
 
-NL will become the global language.
+NL QR can be expressed in one, two, or three and more dimensions(pdf user can see image). 
+
+NL will become the international language.
 
 }advertisement
 
+
+
 alphabet{
 
-alphabet is only 0 and 1. then it can be expressed as 16 latin letter.
+alphabet is only 0 and 1 then it can be expressed as 16 latin letter.
 
 a:0000. b:1000. c:0100. d:1100.
 
@@ -73,26 +84,728 @@ m:0011. n:1011. o:0111. p:1111.
 NL uses only lowercase letters.
 
 more efficient alphabet is here(only pdf user can see. bottom to top writting alphabet):
+ 
+8n-th bit determines length of word.
 
-in binary, The 8n-th bit 1 makes the word have more bits.
+a word whose 8n-th bit is 1 make the word consist of more bit.(ex sentence '{0000101(1)0110000(0)}{0111000(0)}' consist of two words.
 
-if 8n-th bit is 0, it has seperator.(ex sentence '(00001011,01100000,)(01110000)' is consist of two words)
+between of '(' and ')' is 8n-th bit.
 
-the example converted to latin letter is 'anga,oa,'.
+between of '{' and '}' is one word.)
 
-it means 2n-th letter between 'a'(0000) and 'h'(1110) is letter that have separator.
+it means that word whose 2n-th letter is between of 'a'(0000) and 'h'(1110) consist of smaller quantity bit.
 
-so it dont need whitespace cuz the 8n-th bit plays the same role as spacing in English.
+the example converted to latin letter is 'anga oa'.
+
+so it dont need whitespace cuz the 8n-th bit 0 plays the same role as whitespace in English.
 
 but ill use whitespace to make you easily understand.
 
-pronunciation{
+you will learn about pronunciation later.
 
-'fc ee anba' is pronounced as 'neo da maeb'.
+}alphabet
+
+
+
+EML(Efficient Memory Language){
+
+lecture{
+
+
+
+basic{
+
+grammar of NL is same as math.
+
+transitive verb is function.
+
+object is parameter.
+
+
+
+structure of NL sentence is list of two objects.
+
+NL dont use be verb.
+
+NL use VOS word order.
+
+NL sentence 'A B' mean 'B is A'.
+
+'djca aoad' mean 'ore is solid'.
+
+'djca' mean 'solid'.
+
+'aoad' mean 'ore'.
+
+
+
+some word must have parameter like function.
+
+'mmfd oa oa' mean 'i love me', 'thing that love me is me'.
+
+'mmfd' is function that must have parameter.
+
+'mmfd A' mean 'thing that love A'.
+
+'oa' mean 'i' so 'mmfd oa' mean 'thing that love me'.
+
+'mmfd oa' is one object.
+
+if subject is omitted, subject is 'i' so sentence 'mmfd oa' mean 'mmfd oa oa'.
+
+this grammar can express every meaning.
+
+ex 'The happy boy gives her a small book in the morning and smiles.' is expressed as 'ab gb if ab dmkg pf bida mlmb kjkc ac ajfg ajea ab dmdg boob'.
+
+}basic
+
+
+
+<How to interpret a word dictionary>{
+
+sometime few words in this language is changed to become perfect, some word in lecture can be old versions.
+
+word dictionary is more accurate.
+
+
+
+'fojb r!=dead thing.'{
+
+word is expressed as it in word dictionary.
+
+far left is NL word.
+
+far right is meaning of this word.
+
+between of NL word and '!' is word type.
+
+'r' is an abbreviation for 'real'.
+
+'r' type word mean word that can exist in reality 'r'.
+
+}
+
+
+'kjgg r!=alive thing.//anto die'{
+
+'//' is for an additional explanation.
+
+'anto' is an abbreviation for 'antonym'.
+
+'anto A' mean 'this word is antonym of A'.
+
+The antonym form is the inversion of the original word's bits.
+
+0 becomes 1. 1 becomes 0.
+
+inversion of 'fojb'(10100111,10011000) is 'kjgg'(01011001,01100110).
+
+}
+
+
+
+'oa r!=i.//com express,this,symbol that omit parameter..'{
+
+'com' is an abbreviation for 'compound word'.
+
+'com A,B' mean 'this word is compound word of A and B'.
+
+'oa' is compound word of 'kb' and 'ha' and 'ad'.
+
+length of all that words is 24bit.
+
+but i want to express word 'i' as 8bit word cuz word 'i' is used a lot.
+
+The floor of 8 divided by 3 is 2.
+
+2bit is from 'kb'(01,011000).
+
+2bit is from 'ha'(11,100000).
+
+4bit is from 'ad'(0000,1100).
+
+result is 'oa'(01,11,0000).
+
+}
+
+
+
+'anga r!=people.//pron de mensch'{
+
+'pron' is an abbreviation for 'pronunciation'.
+
+'pron de mensch' means that the pronunciation of this word is derived from the German word 'mensch'.
+
+'de' mean german in ISO code alpha2.
+
+}
+
+
+
+'eb v!o=thing except A.'{
+
+between of '!' and '=' is parameter that this function must have.
+
+'o' is an abbreviation for 'object'.
+
+any object can be in object type parameter.
+
+capital letter in far right is parameter value.
+
+ex 'eb fojb' mean 'thing except dead thing'.
+
+function in parameter have parameter.
+
+}
+
+
+
+'ha p!o=this A.'{
+
+'p' is abbreviation for 'parameter'.
+
+parameter value determines type of this function.
+
+ex 'ha ih' is number cuz 'ih' is number.
+
+}
+
+
+
+'ih n!=0'{
+
+'n' is abbreviation for 'number'.
+
+}
+
+
+
+'pc si!=continue speaking.'{
+
+'si' is abbreviation for 'sign'.
+
+'si' type word dont interface all words.
+
+ex sentence 'eb pc anga oa' mean 'eb anga oa' cuz word dont interface 'si' type word.
+
+You can continue what you were saying before by using word 'pc'.
+
+}
+
+
+
+'ad si!=symbol that omit parameter'{
+
+some 'si' type have
+
+}
+
+
+
+'fc r!o,o=thing that ask B about A.'{
+
+'!A,B' mean this function need 'A' and 'B' as parameter.
+
+A is first parameter of NL word, the second one as B, and then C, D, E, F, and so on.
+
+parameter that this function must have is object and object.
+
+}
+
+
+
+'bg n!int=integer'{
+
+'int' is an abbreviation for 'integer'.
+
+'int' is for expressing only integer.
+
+so it dont make parameter.
+
+'bg' express integer number.
+
+ex 'bg he' is 35.
+
+first bit determines whether the number is positive or negative.
+
+if first bit is zero, number is negative.
+
+integer 'he' is '111000010'.
+
+(2nd bit)*1=1.
+
+(3rd bit)*2=2.
+
+(4th bit)*4=0.
+
+(5th bit)*8=0.
+
+(6th bit)*16=0.
+
+(7th bit)*32=32.
+
+1+2+32=35.
+
+so it is 35.
+
+}
+
+
+
+'ka 2p!o-o-n=thing that become B using A.'{
+
+'2p' is '2rd parameter'.
+
+type of word in 2rd parameter value determines type of this word.
+
+ex type of 'ka anga kjgg' is 'r' cuz 'kjgg' is 'r'.
+
+The symbol '-' means that if the parameter is omitted by symbol that omit parameter, the next parameter is omitted too.
+
+ad si!=symbol that omit one parameter.
+
+}
+
+
+
+'gb p!s-n=reason why A2 is A1'{
+
+'s' is an abbreviation for 'sentence'.
+
+'s' is 'o-o'.
+
+so 'A1' is first 'o'.
+
+'A2' is second 'o'.
+
+}
+
+
+
+'bf p!c o=A1 and A2 and....'{
+
+'c o' mean 'this word have object type parameter until it met symbol that omit parameter'.
+
+'A1' is first parameter.
+
+'A2' is second paramerer.
+
+ex 'bf oa oa oa ad' mean 'me and me and me'.
+
+}
+
+
+
+'he p!o=thing that have A
+
+
+
+}<How to interpret a word dictionary>
+
+
+
+conversation example{
+
+<basic 2>{
+
+'mmfd bd oa', 'me fd bd oa'='thing that love you is me', 'i love you'{
+
+mmfd r!o,n=thing that love A with B percent intensity,//com desire,normal,
+
+me r!s,n=thing that hope A2 is A1 true with B percent intensity.
+
+fd r!=normal,
+
+'me fd bd' mean 'thing that hope you are normal'.
+
+}
+
+
+
+}<basic 2>
+
+
+
+<how to ask>{
+
+'fc ne bd'='where are you?,i ask you', 'thing that ask you about location of you is me'{
+
+ne v!o=location of A.
+
+}
+
+
+
+'fc gb dnfd oa bd'='why do you hate me?, 'thing that ask you about reason why thing that hate me is you is me'{
+
+fc r!o,o=thing that ask B about A.
+
+gb p!s,n=reason why A2 is A1.
+
+dnfd r!o,n=thing that hate A.//com dread,normal,
+
+if second parmeter of 'fc' is omitted, it is 'you' or 'i'(alone think).
+
+}
+
+
+
+'fc jc dnea noba bd'='thing that ask you about what happens if thing that give up being worker is you is me', 'what if you give up being worker?'{
+
+jc p!s,n=what happens if A2 is A1.
+
+dena r!o=thing that gave up being A.
+
+noba r!=worker.
+
+}
+
+
+
+'fc bb hmea oa bd'='thing that ask you about whether thing that see me is you is me', 'are you looking at me?'{
+
+bb r!s=whether A is true.
+
+hmea r!o=thing that see A.//com sense,photon,.
+
+}
+
+
+
+'fc ec gjkb ha anga boba'='how do we save this person?', 'thing that ask you about how we become thing that save this people is me'{
+
+ec r!s-n=how A2 become A1.
+
+gjkb r!o,n=thing that save A.//com reason,alive,.
+
+ha p!o=this A.
+
+boba r!=we.//com and,i,you,o,.
+
+}
+
+
+
+'fc ee he id boba'='when we sense each other?', 'thing that ask you about time when thing that sense each other is we is me'{
+
+ee t!s=time when A is true.//com what,thing that be B when A,
+
+id r!=each other.//com what,interface,self,.
+
+}
+
+
+
+}<how to ask>
+
+
+
+time{
+
+'jb gjfg anga oa', 'jb gb fojb anga oa'='thing that was thing that kill people is me', 'i killed people'{
+
+jb p!o=thing that was A.
+
+gjfg ow,n=thing that kill A.//com reason,die,.
+
+eida o!=that.
+
+gb p!s,n=reason of A.
+
+fojb r!=die.
+
+'gb fojb anga' means 'reason why people is die'.
+
+}
+
+
+
+'gc gjfg eida oa'='thing that was thing that kill that is me', 'i will kill that'{
+
+gc p!o=thing that will be A.//anto was A.
+
+}
+
+
+'eb jb fojb oa'='i have never died'{
+
+
+
+}
+
+
+
+}time
+
+
+
+<symbol that omit parameter>{
+
+'fc ad bd'='thing that ask you about something is me', 'i ask you'{
+
+ad si!=symbol that omit one parameter. 
+
+bc si!=symbol that omit two parameter.
+
+cc si!=symbol that omit three parameter.
+
+dc si!=symbol that omit four parameter.
+
+omitted parameter become mean 'something'.
+
+}
+
+
+
+'dnfd bf bd dnfd bd bc oa'='i hate you and thing that hate you'{
+
+dnfd r!o,n=thing that hate A.
+
+bf p!c w=A1 and A2 and....
+
+in this siruation
+
+it should omit two parameter so 'bc' is used instead of 'ad'.
+
+the first omitted parameter is 2th parameter of 'dnfd'.
+
+second is for finish 'bf'.
+
+}
+
+}<symbol that omit parameter>
+
+
+
+<number>{
+
+'ag'~'ph' is number word.
+
+'bg da', 'lh'='1'{
+
+'bg da' is '10000110,11000000'.
+
+'lh' is '11011110'.
+
+and see between of '(' and ')' in next.
+
+'bg da' is '10000110,(110)00000'.
+
+'lh' is '(110)11110'.
+
+'ih'~'ph' is 'eni'(efficient number integer).
+
+}
+
+'ja kh fojb'='two dead thing'{
+
+in original, 'kh' is '-1' but the quantity cannot be negative.
+
+so in situation that dont need minus, it become positive integer.
+
+so 'kh' become 2.
+
+in original, 'ih'(0,00,11110) is '0'.
+
+'kh'(0,10,11110) is '-1',
+
+'lh'('1,10,11110') is '1'...
+
+'ph'(1,11,11110) is 3.
+
+in situation that dont need minus, 'ih' is '0',
+
+'jh' is '1',
+
+'kh' is '2'...
+
+'ph' is '7'.
+
+}
+
+'jafojb'='quantity of dead thing'{
+
+}
+
+
+
+'dg fa jh'='1.25'{
+
+dg n!int-n=real number.
+
+'fa jh'='10100000.10011110'.
+
+'fa' is in decimal area.
+
+'jh' is 4 but in situation that dont need minus, number become positive.
+
+
+
+}
+
+}<number>
+
+
+
+how to command{
+
+'be alive!'='fa kjgg'{
+
+fa r!o,o=thing that orders B to become A.
+
+kjgg r!=alive.//anto die
+
+}
+
+}how to command
+
+
+
+<how to use 'ea'>{
+
+'mmfd bd oa', 'bd ea mmfd oa'='i love you'{
+
+first sentence mean 'i love you'.
+
+second sentencee mean 'what i love is you'.
+
+'ea' is similar to 'what' of english.
+
+}
+
+
+
+'fc ad bd', 'bd ea kh fc'='i ask you'{
+
+To know the meaning, you need to list the parameters of all words in sentence of paramrter of the 'ea'.
+
+ea v!c n,s:'ea omit targeted word'=what.
+
+'kh' is not in sentence paramter of 'ea'.
+
+'ea kh fc' mean 'second parameter of 'fc' ' cuz 'kh' is 2 in situation that dont need minus.
+
+}
+
+'nidg bd oa', 'bd ea nidg pa oa'='i know you'{
+
+first sentence mean 'i know you'.
+
+second sentence mean 'what i know is you'.
+
+}
+
+
+
+//i review document up to this point using 20250604version nl.
+
+'cpmb ea jh mmfd bd', 'cpmb ea mmfd bd', 'cpmb ea mmfd pa bd'='thing that dont know what you love is me', 'i dont know what you love'{
+
+explanation:
+
+parameter of 'mmfd' is 'w,n'.
+
+parameter of 'bd'=none.
+
+if 'c n' parameter of 'ea' is omitted, it automatically target first parameter(in this case, it is parameter 'w' of 'mmfd'(what it loves)).
+
+how to express using parameter 'n' of 'ea'.
+
+second sentence use 'n' using 'eni'.
+
+that situation dont need minus so 'jh' become 2.
+
+'jh' target first parameter of 'mmcd'.
+
+how to express using word 'pa'.
+
+Put the word 'pa' into content you want to express.
+
+ex 'ea de pa bd'='what you sense'. parameter of 'de' is 'what oneself senses'.
+
+}
+
+
+
+}<how to use 'ea'>
+
+
+
+<number and mathematical expression>{
+
+'mmfd cd ph'='i love you with 100percent intensity'{
+
+}
+
+'lh bd nh ad ph'='1+2=3'{
+
+lh n!=1.
+
+nh n!=2.
+
+ph n!=3.
+
+number word in sentence become have parameter 'int'.
+
+it is operator.
+
+yeah, 'bd' is 'you' in original but it is in math expression.
+
+'bd' is 'plus'.
+
+'ad' is 'equal'.
+
+}
+
+
+
+'ja v!n,o=A B.'{
+
+example of 'number' + 'word' in english is 'one apple'.
+
+ex 'ja ih anga' mean 'zero people'.
+
+ih=0.
+
+If different type word like 'r' is in place of an 'n' type parameter, then 'n' is automatically omitted.
+
+if parameter 'n' of 'ja' is omitted, function 'ja' return quantity.
+
+ex 'ja anga' mean 'quantity of people'.
+
+you can omit number type parameter to express quantity of number using symbol that omit parameter.
+
+ex 'ja ad ih' mean 'quantity of 0'.
+
+}
+
+
+
+}<number and mathematical expression>
+
+
+
+//u
+
+<logic and how to make new word>{
+
+}<logic and how to make new word>
+
+
+
+<advanced>{
+
+}<advanced>
+
+}conversation example
+
+pronunciation{
 
 The (2n-1)th letter is pronounced as initial consonant. 
 
-and the 2n-th letter is pronounced as vowel also final consonant. 
+and the 2n-th letter is pronounced as vowel also final consonant.
+
+ex 'fc ee anba' is pronounced as 'neo da maeb'.
 
 (2n-1)th letter 'f' is pronounced as 'n'.
 
@@ -102,7 +815,7 @@ and the 2n-th letter is pronounced as vowel also final consonant.
 
 2n-th letter 'e' is pronounced as 'a'.
 
-then 'anba' is pronounced as 'maemboo' but it can be pronounced as 'maeb'.
+then 'anba' is pronounced as 'maemboo' then it can be pronounced as 'maeb'.
 
 pronunciation chart{
 
@@ -130,557 +843,13 @@ m:'sam'. n:'s͈ɛm'. o:'tɕim'. p:'t͈ɕwɛ'.
 
 }pronunciation
 
-}alphabet
+NL QR{
 
-EL(Efficient Language){
 
-EML(Efficient Memory Language){
 
-lecture{
 
-orientation{
 
-NL is on left.
-
-}orientation
-
-basic{
-
-grammar of NL is same as math.
-
-transitive verb is function.
-
-object is parameter.
-
-sentence 'anga oa' mean 'i am people'.
-
-NL dont have be verb.
-
-'he bd, oa' mean 'thing that sense you is me'.
-
-word 'he' is function.
-
-so it must have parameter.
-
-'bd' is in parameter of 'he'.
-
-'he bd' mean 'thing that sense you' cuz 'bd' mean 'you'.
-
-verb and object always attach to each other.
-
-'oa' mean 'i'.
-
-this grammar can express everything.
-
-ex 'The happy boy gives her a small book in the morning and smiles.' is expressed as 'ab gb if ab dmkg pf bida mlmb kjkc ac ajfg ajea ab dmdg boob'.
-
-}basic
-
-<How to interpret a word dictionary>{
-
-'fojb r!=dead thing.'{
-
-word is expressed as it in word dictionary.
-
-far left is NL word.
-
-far right is meaning of this word.
-
-between of NL word and '!' is word type.
-
-'r' is an abbreviation for 'real'.
-
-word 'r' is thing that can exist in reality.
-
-dead thing can exist in reality so this word type is r.
-
-}
-
-'kjgg r!=alive thing.//anto die'{
-
-'//' is for an additional explanation.
-
-'anto' is an abbreviation for 'antonym'.
-
-'anto A' mean 'this word is antonym of A'.
-
-The antonym form is the inversion of the original word's bits.
-
-0 becomes 1. 1 becomes 0.
-
-inversion of 'fojb'(10100111,10011000) is 'kjgg'(01011001,01100110).
-
-}
-
-'oa r!=i.//com express,this,o,'{
-
-'com' is an abbreviation for 'compound word'.
-
-'com A,B' mean 'this word is compound word of A and B'.
-
-but i want to express word 'i' as 8bit word cuz word 'i' is used a lot.
-
-The floor of 8 divided by 3 is 2.
-
-2bit is from 'kb'(01,011000) 2bit is from 'ha'(11,100000).
-
-4bit is from 'ad'(0000,1100).
-
-result is 'oa'(01,11,0000).
-
-}
-
-'anga r!=people.//pron de mensch'{
-
-'pron' is an abbreviation for 'pronunciation'.
-
-'pron de mensch' means that the pronunciation of this word is derived from the German word 'mensch'.
-
-'de' mean german in ISO code alpha2.
-
-}
-
-'he r!w=thing that detect A.'{
-
-between of '!' and '=' is parameter that this word must have.
-
-'w' is an abbreviation for 'word'.
-
-any word can be in word type parameter.
-
-capital letter in far right is parameters.
-
-A is first parameter of NL word, the second one as B, and then C, D, E, F, and so on.
-
-ex 'he fojb' mean 'thing that detect dead thing'.
-
-word in parameter can have parameter.
-
-ex 'he he fojb' is 'thing that detect thing that detect dead thing'.
-
-}
-
-'ha p!w=this A.'{
-
-'p' is abbreviation for 'parameter'.
-
-The type of this word is determined by parameter of this word.
-
-ex 'ha ih' is number cuz 'ih' is number.
-
-}
-
-'ih n!=0'{
-
-'n' is abbreviation for 'number'.
-
-}
-
-'pc si!=continue speaking.'{
-
-'si' is abbreviation for 'sign'.
-
-ex sentence 'he pc oa oa' is same as 'he oa oa' cuz 'si' type word dont impact grammar.
-
-You can continue what you were saying before by using word 'pc'.
-
-}
-
-'ja v!n,w=A B.'{
-
-symbol ',' mean 'and'.
-
-this word must have number and word type parameter.
-
-example of 'number' + 'word' in english is 'one apple'.
-
-ex 'ja ih fojb' mean 'zero dead thing'.
-
-ih=0.
-
-if parameter 'n' of 'ja' is omitted, function 'ja' return quantity.
-
-ex 'ja fojb' mean quantity of dead thing.
-
-If different type word like 'r' is used in place of an 'n' type parameter, then 'n' is automatically omitted.
-
-but someone want to express quantity of mumber.
-
-you can omit 'n' type parameter using symbol that omit parameter.
-
-ex 'ja ad ih' mean 'quantity of 0'.
-
-}
-
-'ka 2p!w-w-n=thing that become B using A.'{
-
-'2p' is 2rd parameter.
-
-type of word in 2rd parameter determite type of this word.
-
-The symbol '-' means that if the parameter is omitted by symbol that omit parameter, the next parameter is omitted too.
-
-ad si!=symbol that omit one parameter.
-
-ex sentence 'ka ad eida' mean 'thing that become something using something is that' and 'that is user'.
-
-eida w!=that.
-
-}
-
-'bg n!int=integer'{
-
-'int' is an abbreviation for 'integer'.
-
-'int' is for expressing only integer.
-
-so binary in 'int' dont make parameter.
-
-ex 'bg he' is 33.
-
-first bit determines whether the number is positive or negative.
-
-if first bit is zero, number is negative.
-
-integer 'he' is '11100010'.
-
-(2nd bit)*1=1.
-
-(3rd bit)*2=2.
-
-(4th bit)*4=0.
-
-(5th bit)*8=0.
-
-(6th bit)*16=0.
-
-(7th bit)*32=32.
-
-1+2+32=35.
-
-so it is 35.
-
-}
-
-'gb p!s-n=reason why A2 is A1'{
-
-'s' is an abbreviation for 'sentence'.
-
-'s' is 'w-w' except math expression.
-
-so 'A1' is first 'w'.
-
-'A2' is second 'w'.
-
-}
-
-'bf p!c w=A1 and A2 and....'{
-
-'c w' mean `parameter of this word is between this word and symbol that omit parameter. then parameter type is 'word'`.
-
-ex 'bf,oaoaoa,ad' mean 'me and me and me'
-
-}
-
-}<How to interpret a word dictionary>
-
-example{
-
-<basic>{
-
-'anga oa'='i am people'{
-
-explanation:
-
-it is expressed as '(0000101,1,0010000,0,)(0111000,0,)' in binary.(8n-th bit is important)
-
-NL is on the left.
-
-anga r!=people.//pron de mensch.
-
-oa r!=i.
-
-mean of NL sentence 'word word' is '2rd-word is 1st-word'.
-
-NL dont have be verb.
-
-}
-
-'he bd oa'='thing that sense you is me','i sense you'{
-
-he r!w=thing that sense A.
-
-bd r!=you.
-
-}
-
-'mmfd bd oa', 'me fd bd oa'='thing that love you is me', 'i love you'{
-
-mmfd r!w,n=thing that love A with B percent intensity,//com desire,normal,
-
-me r!s,n=thing that desire A is true with B percent intensity.
-
-fd r!=normal,
-
-'oa' is in parameter 'n' of 'mmfd'.
-
-if diffrent type word is in parameter 'n', parameter 'n' is automatically omitted.
-
-}
-
-'gjfg eida jb oa', 'gb fojb eida jb oa'='thing that kill that is me of past','i killed that'{
-
-gjfg w,n=thing that kill A.//com reason,die,.
-
-eida w!=that.
-
-jb p!w=A of past.
-
-gb p!s,n=reason of A.
-
-fojb r!=die.
-
-'gb fojb that' means 'reason it die'.
-
-}
-
-'gjfg eida gc oa', 'gjfg eida gc'='thing that kill that is me of futue', 'i will kill that'{
-
-gc p!w=A of future,//anto A of past.
-
-if parameter of 'gc' is omitted, it is 'me of future'.
-
-}
-
-}<basic>
-
-<how to ask>{
-
-'fc ne bd'='thing that ask you about location of you is me', 'where are you?,i ask you'{
-
-ne v!w=location of A.
-
-}
-
-'fc gb dnfd oa bd', 'thing that ask you about reason why thing that hate me is you is me', 'why do you hate me?'{
-
-fc r!w,w=thing that ask B about A.
-
-gb p!s,n=reason why A2 is A1.
-
-dnfd r!w,n=thing that hate A.//com dread,normal,
-
-if second parmeter of 'fc' is omitted, it is 'you' or 'i'(alone think).
-
-}
-
-'fc jc dnea noba bd'='thing that ask you about what happens if thing that give up being worker is you is me', 'what if you give up being worker?'{
-
-jc p!s,n=what happens if A2 is A1.
-
-dena r!w=thing that gave up being A.
-
-noba r!=worker.
-
-}
-
-'fc bb hmea oa bd'='thing that ask you about whether thing that see me is you is me', 'are you looking at me?'{
-
-bb r!s=whether A is true.
-
-hmea r!w=thing that see A.//com sense,photon,.
-
-}
-
-'fc ec gjkb ha anga boba'='thing that ask you about how we become thing that save this people is me', 'how do we save this person?'{
-
-ec r!w-w-n=how B become A.
-
-gjkb w,n=thing that save A.//com reason,alive,.
-
-ha p!w=this A.
-
-boba r!=we.//com and,i,you,o,.
-
-}
-
-}<how to ask>
-
-<symbol that omit parameter>{
-
-'fc ad bd'='thing that ask you about something is me', 'i ask you'{
-
-ad si!=symbol that omit one parameter. 
-
-bc si!=symbol that omit two parameter.
-
-cc si!=symbol that omit three parameter.
-
-dc si!=symbol that omit four parameter.
-
-omitted parameter become mean something.
-
-}
-
-'dnfd bf bd dnfd bd bc oa'='i hate you and thing that hate you'{
-
-dnbd r!w,n=thing that hate A.
-
-bf p!c w=A1 and A2 and....
-
-bd r!=you.//anto i.
-
-bc si!=symbol that omit parameter.
-
-oa r!=i.//com,express,this,o,.
-
-'bc' is used instead of 'ad' cuz it should omit two parameter.
-
-the first omitted parameter is 2th parameter of 'dnbd'.
-
-second is for finish 'bf'.
-
-}
-
-}<symbol that omit parameter>
-
-<number>{
-
-'ja kh fojb'='two dead thing'{
-
-in original, 'kh' is -1 but the quantity cannot be negative.
-
-so in situation that dont need minus, it become positive integer.
-
-so 'kh' become 2.
-
-in original, 'ih'(0,00,11110) is 0,
-
-'kh'(0,10,11110) is '-1',
-
-'lh'('1,10,11110') is 1...
-
-'ph'(1,11,11110) is 3.
-
-in situation that dont need minus, 'ih' is 0,
-
-'jh' is 1,
-
-'kh' is 2...
-
-'ph' is 7.
-
-'ih'~'ph' is called 'eni'(efficient number integer).
-
-'ag'~'ph' is number word.
-
-}
-
-'jafojb'='quantity of dead thing'{
-
-}
-
-'dg fa jh'='1.25'{
-
-dg int-n=real number,
-
-'fa jh'='10100000.10011110'.
-
-'fa' is in decimal area.
-
-'jh' is 4 but in situation that dont need minus, all 'e n' become positive.
-
-}
-
-}<number>
-
-how to command{
-
-'be alive!'='fa kjgg'{
-
-fa w,w-t=thing that orders B to become A.
-
-kjgg=alive.//anto die
-
-}
-
-}how to command
-
-<how to use 'ea'>{
-
-'cpmb ea mmfd bd', 'cpmb ea jh mmfd bd', 'cpmb ea mmfd pa bd'='thing that dont know what you love is me', 'i dont know what you love'{
-
-explanation:
-
-ea c n,s:'ea omit targeted word'=what,
-
-To know the meaning, you need to list the parameters of all words in the sentence of 'ea'.
-
-parameter of 'mmcd' is 'w,n'.
-
-parameter of 'bd'=none.
-
-if 'n' parameter of 'ea' is omitted, it automatically target first parameter(in this case, it is parameter 'w' of 'mmcd'(what it loves)).
-
-how to express using parameter 'n' of 'ea'.
-
-second sentence use 'n' using 'eni'.
-
-that situation dont need minus so 'jh' become 2.
-
-'jh' target first parameter of 'mmcd'.
-
-how to express using word 'pa'.
-
-Put the word 'pa' into content you want to express.
-
-ex 'ea de pa bd'='what you sense'. parameter of 'de' is 'what oneself senses'.
-
-}
-
-}<how to use 'ea'>
-
-<number and mathematical expression>{
-
-'mmcd cd ph'='i love you with 100percent intensity'{
-
-}
-
-'lh bd kh ad ph'='1+2=3'{
-
-lh=1.
-
-kh=2.
-
-ph=3.
-
-number in sentence become have parameter 'int'. it is operator.
-
-yeah, 'bd' is 'you' in original but it is in parameter 'int' of number.
-
-'bd' is 'plus'.
-
-'ad' is 'equal'.
-
-}
-
-}<number and mathematical expression>
-
-//u
-
-<logic and how to make new word>{
-
-}<logic and how to make new word>
-
-<advanced>{
-
-}<advanced>
-
-<symbol that express 'parameter and property' of dictionary>{
-
-}<symbol that express 'parameter and property' of dictionary>
-
-}example
+}NL QR
 
 quiz{
 
@@ -692,42 +861,46 @@ answer{
 
 }lecture
 
+
+
 word dictionary{
 
 word{
 
 aa si!=finish-all,
 
-ba,
+ba si!=whitespace.
 
 ca
 
 da si!=enter.
 
-ea p!c ni,s:'ea omit targeted word'=what.
+ea p!c ni,s:'ea omit targeted word'=ohat.//certainty
 
-fa r!w,w,t=thing that command.
+fa r!o,o=thing that orders B to become A.
 
-ga p!w=only A.
+ga p!o=only A.
 
-ha p!w=this A.
+ha p!o=this A.
 
-ia
+ia p!o=value marker.
 
-ja p!n,w=A B,
+ja p!n,o=A B,
 
-ka p!w-w-n=thing that become B using A.
+ka p!o-o-n=thing that become B using A.
 
  n=symbol-that-change-language,//MTCL.
 ni:proton,ni:neutron,ni:electron=atom
 
-la r!=fact,//com too and,true,A include,real,o,.
+la
 
-ma p!w=all,
+c o,o=A among B.
 
-na
+ma p!o=all,
 
-w-n=into or,
+na r!=fact,//com too and,A include,real,true,o,.
+
+o-n=into or,
 
 oa=r!i,//com express,this,omit word,
 
@@ -735,25 +908,21 @@ pa
 
 =finish_standard,
 
-ab r!w-w=A also B,//com be,and,.
+ab r!o-o=A also B,//com be,and,.
 
 int,n,para=symbol_that_change_parameter_to_word_type,
 
 bb s=whether A is true.//zero is true.cuz true is important.exist made false.one is exist.
 
- c w=too and.
+ c o=too and.
 
 cb
 
- w=minus,
-
-db
+db v!int=word as int A from onself.
 
  int=name,
 
-eb p!w=thing other than A.
-
-p!n,w=thing that similar to A.
+eb p!o=thing other than A.
 
 t!s=date,//com what,2ni,
 
@@ -761,55 +930,53 @@ fb
 
 gb p!s-n=reason of A,
 
- w-w= B according to A,
+ o-o= B according to A,
 
-hb
+hb p!o,n=thing that can be A with B percent probability.//bisi becoming.
 
 ib
 
-jb p!w=A of past,//cant com,also,past,o,
+jb p!o=thing that oas A.//cant com b when a,past,o,.
 
-kb p!w=thing that express A,
+kb p!o=thing that express A,
 
-lb r!=true.//com whether,one,o,one,o2.
+lb
 
 mb
 
+ p!o=average of A.
+
 nb
 
-ob r!=real,
+ob
 
 pb
 
-w!=thing,//com include in,alls,.
-
 si!ni=backspace,
 
-ac p!w-w=B that A include.//com also,thing that A include,.
+ac p!o-o=B that A include.//com also,thing that A include,.
 
-t!s=when,
-
-bc si!=symbol that omit two parameter.
+bc si!=symbol that omit too parameter.
 
 cc si!=symbol that omit three parameter.
 
 dc si!=symbol that omit four parameter.
 
-ec r!<w-w>-n=how 1A2 become 1A1.//what,should,
+ec r!<o-o>-n=how B become A.//what,should,
 
  n,{n,n,n}...=molecule,
 
-fc r!w,w=thing that ask B about A,//com command,express,
+fc r!o,o=thing that ask B about A,//com command,express,
 
-gc p!w=A of future,//anto A of past,.
+gc p!o=thing that will be A.//anto A of past,.
 
- w,n=say,
+ o,n=say,
 
-hc by p!w=element of A,//include promise.
+hc
 
- !w=category-of,
+ !o=category-of,
 
-ic p!w-w=intersection of A and B,//com also,A include,A include,
+ic p!o-o=intersection of A and B,//com also,A include,A include,
 
  !int=elementary-particle,
 
@@ -817,17 +984,17 @@ jc p!s-n=result of that.//anto reason.
 
 kc
 
-lc
+lc !int-int-para...=too function.
 
-mc
+mc=1p!t-o=thing that be B when A.
 
- !n,w=B that has id A,
+ !n,o=B that has id A,
 
-nc r!w=thing that call A.//com command,sense,i,.
+nc r!o=thing that call A.//com command,sense,i,.
 
-oc p!w=thing that becoming A.
+oc p!o=thing that becoming A.
 
- !n,w=Ath B.//minus is from last.
+ !n,o=Ath B.//minus is from last.
 
 pc si!=continue-say,
 
@@ -835,33 +1002,35 @@ ad si!=symbol that omit one parameter.
 
 bd r!=you.//anto i,
 
-cd p!w=other A.//com also,not,wac,.
+cd p!<o-o>-n=thing that become A using oneself also B.//use,also,self,.
 
-dd c=self,//com word-as-id,+2id.
+dd c=self,//no cw but intend com word-as-id,+2id.
 
-ed 2p!w-<w,n>=B by A.//B that A include,result,fact,.
+ed 2p!o-o=thing that be B with A.//cooperation,,no cw but intend com also,around,,.
 
 fd r!=normal.
 
-gd
+gd int=A th function.
 
-p!w=thing that has the characteristic A,//characteristic is for expressing '성질'
+ r!o=thing that make A.//com reason,real,
+
+p!o=thing that has the characteristic A,//characteristic is for expressing '성질'
 
 percent,
 
-hd p!w=word A.
+hd p!o=word A.
 
 id r!=each other.//com what,interface,self,.
 
 jd
 
-kd p!<w-w>-n=thing that become A using oneself also B.//use,sen,self,.
+kd
 
-ld
+ld c int=nl ipa.
 
-md p!w,n=thing that intend be A.
+md p!o,n=thing that intend be A.
 
-nd
+nd t!=now.
 
  n,int...=phonetic.
 
@@ -869,65 +1038,63 @@ od si!int=version marker.
 
 pd si!=cancel-express,
 
-ae p!w-<c n,s>=what_with_category,//also,what,.
+ae p!<c n,s>=what_with_category,//com also,.
 
-be p!c w-n=or{,
+be p!<c o>-n=or{.
 
-ce
+ce p!o=other A.//com also,not,oac,.
 
-de int=A th function.
+de r!o=thing that sense A.
 
  n=word as int,
 
-ee
+ee t!s=time when A is true.//com what,thing that be B when A,
 
-fe r!w,w,t=thing that prohibit B from being A.//com command,not,
+fe r!o,o,t=thing that prohibit B from being A.//com command,not,
 
- w=text,
+ o=text,
 
-ge
+ge p!n,o=thing that similar to A.
 
-he r!w=thing that sense A.
+he by p!o=element of A,//include promise.
 
 ie
 
 =name_or_var,
 
-p!w=essence of A.
+p!o=essence of A.
 
 je t!s=past of A,
 
- c w->=array,
+ c o->=array,
 
 ke r!n=abnormal.//anto normal,
 
- !w-w->=converted,
+ !o-o->=converted,
 
-le p!w-w=between of A and B.//com
+le p!o-o=between of A and B.//com
 
 me r!s,n=thing that desire A is true with B percent intensity.
 
- !e n,w=cast,
+ !e n,o=cast,
 
-ne n or r!w=location of A.
-
-=word-result,
+ne n or r!o=location of A.
 
  !str=argb,
 
-oe p!w,n=thing that can be A with B percent probability,
+oe
 
-p!w=thing that become A.
+p!o=thing that become A.
 
-p!w=thing that tends to become A.
+p!o=thing that tends to become A.
 
-pe w!int=word_as_situation_and_id.
+pe o!int=word_as_situation_and_id.
 
-af 2p!w-w=A of B.//com also,element-of,.
+af 2p!o-o=B of A.//com also,element-of,.
 
  int=operator,
 
-bf p!c w=and{,//com or,most
+bf p!c o=and{,//com or,most
 
 si!c int,n=duplicate_word,
 
@@ -935,480 +1102,505 @@ cf r!s=that A2 is A1.
 
 df r!s,n=thing that dread A with B percent intensity,//anto desire,
 
-ef
+ef 2p!o-<o,n>=B that is by A.//also,result,fact,.
 
 ff
-
- !int-int-para...=two_function,
 
 gf t!s=future of A,//anto past of A.
 
 hf
 
-if r!w=thing that have A.//anto element,.including promise
+if r!o=thing that have A.//anto element,.including promise
 
 jf r!s=thing that know A is true.//com know,sen,true,whether,.
 
- !w=average,
-
-kf r!w:thing,w:to=answers B saying A//anto ask,
+kf r!o,o=thing that ansoers B saying A.//anto ask,
 
 r!s=directly cause,//com reason,over,nh,
 
-lf
+lf o=around of A.
 
- !w-w=most-near,
+ !o-o=most-near,
 
-mf
+mf si!=word as context.
 
-p!w-n=part of A.
+ o=minus of A.
+
+p!o-n=part of A.
 
 nf
 
- w=now,
+of c int=foreign language.
 
-of
+pf
 
-pf si!=word as context.
+
 
 ag
 
 bg n!int:-1 in minus=integers,
 
-cg n_int=value,
+cg n!int=value,
 
-dg
+dg n!o-o=and A B.
 
-eg n_int-n:int=real number,
+eg n!int-n:int=real number,
 
-fg n_w=efficieny-bracket,
+fg n!o-o=or A B.
 
-gg
+gg n!o-o=xor A B.
 
-hg
+hg n!o-o=nor A B.
 
 ig
 
-n_=other-math,
+n!=other-math,
 
 jg
 
-kg n_w=less than A,//A>
+kg n!o=less than A,//A>
 
  int-int...=string,
 
-lg n_w=bellow than A,//A>=
+lg n!o=bellow than A,//A>=
 
-mg n_w=numerical,//it is only number.
+mg n or t!o-o=A plus B.
 
-ng n_int=unknown,
+ n!o=numerical.
 
-og
+ng n!o-o=A times B.
 
-pg n_=number,
+ n!int=unknown,
 
-ah 
+og n!o-o=A square B.
 
-bh
+pg n!=x.
 
-ch,
+ n!=number.
 
-dh
+ah
 
-eh n_w=exceed than A.//anto bellow,,A<=
+bh n!o-o=A root B.
 
-fh n_w=more than A.//anto less,,A<
+ch n!o-o=A divided by B.//anto sqare.
+
+dh n!o-o=A minus B.//anto plus.
+
+eh n!o=exceed than A.//anto bellow,,A<=
+
+fh n!o=more than A.//anto less,,A<
 
 gh
 
-hh
+hh n!=y.
 
-ih n_=0,
+ih n!=0.
 
-jh n_=4,
+jh n!=4.
 
-kh n_=-1,
+kh n!=-1.
 
-lh n_=1,
+lh n!=1.
 
-mh n_=-2,
+mh n!=-2.
 
-nh n_=2,
+nh n!=2,
 
-oh n_=-3,
+oh n!=-3,
 
-ph n_=3,
+ph n!=3,
+
+
 
 etc{
 
-glea p_n=n-th word,
+glea p!n=n-th word,
 
-bmba r_=world,
+bmba r!=world.
 
-iiba r_=logic,
+cnad=situation.//com sen,o,.
 
-cjba r_=transistor,
+ekke r!=logic.//how,true,situation,.
 
-bjda r_=god,//pron ru bog
+cjba r!=transistor,
 
-ejba r_=crops,
+bjda r!=god,//pron ru bog
+
+ojda r!=crops,
+
+bjdg r!=true.//com whether,zero,zero,
+
+njba r!=real.
 
 kjba=empire,
 
-ljba r_=shop,
+ljba r!=shop,
 
-njba r_w=thing that famous in A,
+r!o=thing that famous in A,
 
-akba r_=app,
+akba r!=app,
 
-bkba r_=weapon,
+bkba r!=weapon,
 
-ckba r_=game,
+ckba r!=game,
 
-dkba r_=ideology,
+dkba r!=ideology,
 
-fkba r_=scholarship,
+fkba r!=scholarship,
 
-gkba r_n=job,
+gkba r!n=job,
 
-mkba r_=city,
+mkba r!=city,
 
 nkba
 
-elph r_w=thing that focus be A.//com intend,ph,.
+elph r!o=thing that focus be A.//com intend,ph,.
 
-dlba r_w=map of A,
+dlba r!o=map of A,
 
 elba r_int=digit,
 
 flba r_s:purpose-s,n=thing that efficient than B for be A,
 
-eida r_=that.
+eida o!=that.
 
-bmba r_w=south of A.
+bmba r!o=south of A.
 
-cmba r_w=west of A.
+cmba r!o=west of A.
 
-dmba r_w=north of A.
+dmba r!o=north of A.
 
-emba r_w=east of A.
+emba r!o=east of A.
 
-hmba r_=home.
+hmba r!=home.
 
-kmba r_w=think that thank A.
+kmba r!o=think that thank A.
 
-lmba r_w=thing that revenge A.
+lmba r!o=thing that revenge A.
 
-nmba r_w=entropy,
+nmba r!o=entropy,
 
-inba p_w=A dollar,
+inba p!o=A dollar,
 
-r_w=As.//com how many,over,one,.
+!o=thing that never be A.//com not,all,A of past.
 
-onba r_=mistake,
+r!o=As.//com hoo many,over,one,.
 
-doba p_w=information of A,
+onba r!=mistake,
 
-joba r_=cpu,
+doba p!o=information of A,
 
-akga r_=money,
+joba r!=cpu,
 
-noba r_=worker,
+t!=today.//com this,day,.
 
-ooba r_w,n=thing that enjoy be A.
+akga r!=money,
 
-poba p_n or s=wages.
+noba r!=worker,
 
-apga r_n=company.
+ooba r!o,n=thing that enjoy be A.
 
-epba r_w=thing that vote A.
+poba p!n or s=wages.
+
+apga r!n=company.
+
+epba r!o=thing that vote A.
 
 apba=time.
 
-bpba t!w=A second,
+bpba t!o=A second,
 
-cpba t!w=A minute,
+cpba t!o=A minute,
 
-dpba t!w=A hour,
+dpba t!o=A hour,
 
-epba t!w=A day,
+epba t!o=A day,
 
-pidg t!w=what A be.//about A,
+pmib p!o=what A be.//about A,
 
-fpmb t!w=thing that be A.//anto what A be,.
+alhg p!o=thing that be a.//anto A be.
 
-gpba t!w=A week,
+gpba t!o=A week,
 
-hpba t!w=A month,
+hpba t!o=A month,
 
-ipba t!w=A year,
+ipba t!o=A year,
 
 ppba =write is until here,
 
 aica r!n=mosfet,
 
-dica p!w=thing that start be A.
+dica p!o=thing that start be A.
 
-eica p!w,n=middle of A.
+eica p!o,n=middle of A.
 
-fica p!w=thing that finish be A.
+fica p!o=thing that finish be A.
 
-w,n=thing that gives birth to A,//com launch,baby,.
+o,n=thing that gives birth to A,//com launch,baby,.
 
-kica r_=baby,
+kica r!=baby,
 
-ajca r_n=political party,
+ajca r!n=political party,
 
-bjca r_=gas,
+bjca r!=gas,
 
-cjca r_=liquid,
+cjca r!=liquid,
 
-djca r_=solid,
+djca r!=solid,
 
-ijca r_=book,
+ijca r!=book,
 
-mjca r_w,w,n=thing that write A at B,
+mjca r!o,o,n=thing that write A at B,
 
-r_w=thing that see A,//com sense,light,
+r!o=thing that see A.//com sense,light,
 
 n:'number of id'-id:'words'-str:'structure of parameter'=expressing-mean-of-word,
 
-dkca r_w=daily of A,
+dkca r!o=daily of A,
 
-ekca r_w=life of A,
+ekca r!o=life of A,
 
 r!=food,//com what,inhale,also,normal,animal,.
 
 kjkc r!=thing that laughs.//com,express,fun,
 
-hkca r!w=structure of A,
+hkca r!o=structure of A,
 
-ikca r!w=principle of A,
+ikca r!o=principle of A,
 
-kkca r!w,n=thing that think A is fun,
+kkca r!o,n=thing that think A is fun,
 
-mkca r_=gun,
+mkca r!=gun,
 
-lkkb r_w=thing that inhale A.
+lkkb r!o=thing that inhale A.
 
-dlca r_w=thing that aim A.
+dlca r!o=thing that aim A.
 
 jlca n=var,//of js
 
 klca n=let,//of js
 
-olca r_w=terrain of A.
+olca r!o=terrain of A.
 
-cpmb r_w=thing that dont know A,.//anto know,.
+cpmb r!o=thing that dont know A,.//anto know,.
 
-fmca r_=video,
-gmca r_w=select,
+fmca r!=video.
 
-kmca p_w,w=imilarities.
+gmca r!o=thing that select A.
 
-pmca p_n=thing that split into A.
+kmca p!o,o=imilarities.
 
-p_s,n=thing that help A,//com intend,reason,
+pmca p!n=thing that split into A.
+
+r!s,n=thing that help A,//com intend,reason,
 
 n=level of language.
 
-elgf r_w,n=thing that feel angry by A.//com intend,ruin,.
+elgf r!o,n=thing that feel angry by A.//com intend,ruin,.
 
-knca w=attribute.
+knca o=attribute.
 
 lnca,
 
-mnca r_=planet.
+mnca r!=planet.
 
-nnca r_=sun.
+nnca r!=sun.
 
-onca r_w=standard of A.
+onca r!o=standard of A.
 
-coca w:target,w:location=pros,
+coca o:target,o:location=pros,
 
-doca w,w=cons,
+doca o,o=cons,
 
 eoca ni=natural-phenomenon,
 
 hida
 
-gida p_w=limit of A,
+gida p!o=limit of A,
 
-jida r_w=thing that looking for A.
+eknb s=evidence of A.//what,need,know,whether,.
 
-nida p_w-w=between of A and B,
+jida r!o=thing that looking for A.
 
-aoad r_=ore,
+nida p!o-o=between of A and B,
 
-p:'n:w,,w:n'w=age of A.
+aoad r!=ore.
 
-cjda =novel,
+p:o=age of A.
 
-djda =legend,
+cjda =novel.
 
-gjda r_w=thing that sex with A.
+djda =legend.
 
-hjda pregnancy,
+gjda r!o=thing that sex with A.
 
-ijda =birth,
+hjda pregnancy.
 
-kjda ni=money,
+ijda =birth.
 
-bkda w=value of A,
+kjda ni=money.
 
-ekda=capital,
+bkda o=value of A.
 
-hkda n or w=rgb,
+ekda=capital.
 
-cnda n-id...=IPA,
+hkda n or o=rgb.
 
-fnda w=speed of A,
+cnda n-id...=IPA.
 
-gnda w=momentum,
+fnda o=speed of A,
 
-hnda w=rotation,
+gnda o=momentum,
 
-inda w=angular-momentum,
+hnda o=rotation,
 
-knda w=electric-charge,
+inda o=angular-momentum,
+
+knda o=electric-charge,
 
 mnda ni=plant,
 
-clba w:'promise to be',w:'with who'=promise B to A,
+clba o-o=thing that promise B to A.
 
-aoda w,w:standard=inconvenient,
+aoda o,o:standard=inconvenient,
 
-coda w=symbol of A,
+coda o=symbol of A.
 
-eoda =religion,
+eoda =religion.
 
 goda =civilzation,
 
-joda w,n=thing that forgive A,
+joda o,n=thing that forgive A,
 
 moda n=pressed,
 
-poda w,w:standard=important,
+poda o,o:standard=important,
 
-niea w=thing that eat A,
+niea o=thing that eat A,
 
-oiea w=thing that chew A,
+oiea o=thing that cheo A,
 
-piea w=thing that gulp down A,
+piea o=thing that gulp doon A,
 
-ajea w=thing that digest A,
+ajea o=thing that digest A,
 
 =excrete,//com launch,shit,.
 
 cjea =shit,
 
-gjea w,n=thing that repeat A,
+gjea o,n=thing that repeat A.
 
-jjea w,w,n=thing that sorry.
+jjea o,o,n=thing that sorry.
 
-ongg w=thing that go in A.//com go,inside,.
+ongg o=thing that go in A.//com go,inside,.
 
-gmob w=inside of A.
+gmob o=inside of A.
 
-fjda w,n=thing that have purpose of being A,
+jlbg o=outside of A.
 
-jkea w:is,w,t=difficulty,
+fjda o,n=thing that have purpose of being A,
 
-mkob w,n=thing that ignore A,
+jkea o:is,o,t=difficulty,
+
+mkob o,n=thing that ignore A,
 
 clea s=request,
 
-flea w=thing that trade with A,
+ejba=objective.//what,beilive,true,logic,.
+
+flea o=thing that trade with A,
 
 nlea ni=peninsula,
 
-amea id=QR code,
+amea id=QR code.
 
-emga w,n=thing that rule A,
+fnfg animal.//pron en animal.
 
-alba w=law of A,
+emga o,n=thing that rule A,
+
+alba o=law of A,
 
 kmea id, str...=UTF8,
 
-dnea w,n=thing that was given up on being A.
+dnea o,n=thing that was given up on being A.
 
 =initial-consonant,
 
 gnea=oil,
 
-jnea w=thing that subscribe A.
+jnea o=thing that subscribe A.
 
 hifa=document,
 
-kifa w=thing that put on A,
+kifa o=thing that put on A,
 
-nifa w:standard,w,n=rank,
+nifa o:standard,o,n=rank,
 
 pifa id:location-of-standrard-mark=prevent-error,
 
 njfa=mountain,
 
-jkfa w=thing that looking for A,
+jkfa o=thing that looking for A,
 
-glfa w=plan,
+glfa o=plan,
 
-w=property,
+p!o=property of A.
 
-bifa w=meter,
+bifa o=meter,
 
-cifa w=metet^2,
+cifa o=metet^2,
 
-difa w=meter^3,
+difa o=meter^3,
 
 goic s,s,s,c s=for-loop,//'for(int i=0,i==3;i+=2)'='goicjhadocagphocaglhadocag'
 
-=thing that feel emotion,
+hmga=thing that feel emotion.//pron jp kanjou.
 
-n-w=max,
+n-o=max,
 
 s=but.//com reverse,sen
 
-id:<number of word>-ni:<targeting parameter>-id<word>-id<structure>=mean of function,
+id:<number of oord>-ni:<targeting parameter>-id<oord>-id<structure>=mean of function,
 
-w-w:of=distinguish,//
+o-o:of=distinguish,//
 
-w=A as well,
+o=A as well,
 
-mmkd w-w=diffrence,
+mmkd o-o=difference betoween A and B.
 
-emkg=justice,
+=justice.//objectice,equality,.
 
-mjdd w=peace,
+mjdd o=peace.
 
-boob w,n=thing that feel pleasure by A,
+boob o,n=thing that feel pleasure by A.
 
-gmgd w:who-w:theme=win,
+gmgd o:who-o:theme=thing that win A.
 
 gmda=sound,
 
 gmbg=music,//com sound,pleasure,
 
-fneg=shift,//anto stay,
+fneg=shift,//anto motionless,
 
-mlcd w=out,
+mlcd o=out,
 
-nmbg w,w,n=thing that dont need A to B.
+nmbg o,o,n=thing that dont need A to B.
 
-gmnb w=thing that think that enemy is A,
+gmnb o=thing that think that enemy is A,
 
-jmob w,n=thing that feel beauty,
+jmob o,n=thing that feel beauty,
 
 fojb =die,
 
-cpjc w=thing that A include,
+cpjc o=thing that A include,
 
-bida=newton,//pron newton=stength,
+bida=newton,//pron neoton=stength,
 
-mkfa w=thing that for A,//pron en for,
+mkfa o=thing that for A,//pron en for,
 
-lmoe w,n=thing that become B using A also oneself.//com use,sen,self,.
+lmoe o,n=thing that become B using A also oneself.//com use,sen,self,.
 
-eiea =country,//pron kr 국,
+giga =country,//pron kr 국,
 
 anba=people//pron de mensch,
 
@@ -1416,99 +1608,101 @@ ilnc=heart,//pron en hearts,
 
 letter//pron kr 글,
 
-enfg w=thing that launch A,//anto inhale,.
+enfg o=thing that launch A,//anto inhale,.
 
-nigf w=thing that include A,//anto thing that A include,.
+nigf o=thing that include A,//anto thing that A include,.
 
-dome w=thing that fight with A,//anto peace,
+dome o=thing that fight with A,//anto peace,
 
-ojbg w,n=thing that feel pain by A,//anto pleasure,
+ojbg o,n=thing that feel pain by A,//anto pleasure,
 
-fnoe w,n=think that should not be A,//com dont need,sen,self
+fnoe o,n=think that should not be A,//com dont need,sen,self
 
 kjgg n=alive,//anto die,
 
-epjg w,n=no,//anto yes,
+epjg o,n=no,//anto yes,
 
-jlbg w,n=thing that think that A is ugly,//anto feel-ugly
+glbg o,n=thing that think that A is ugly,//anto ugly.
 
-clob w-<w,n>=thing that need A to be B,
+clob o-<o,n>=thing that need A to be B,
 
-jkdg w=thing that think A is friend,//anto enemy,
+jkdg o=thing that think A is friend,//anto enemy,
 
-dmne w=in,//anto out,
+dmne o=in,//anto out,
 
-jlje w:who-w:theme=lose,//anto win,
+jlje o:who-o:theme=lose,//anto win,
 
-gjfg w,n=thing that kill A,
+gjfg o,n=thing that kill A,
 
-coea w=name of A.//com what,wac,express,sen,target_what,
+coea o=name of A.//com what,wac,express,sen,target_what,
 
-ajda w=A of past.//com also,was,o,
+ajda o=A of past.//com also,oas,o,
 
-apba w=A of future.//com also,will,o,
+apba o=A of future.//com also,will,o,
 
 =phonetic-alphabet,//com express,sound,alphabet,
 
-who-is,//com ask,of,real,
+who-is,//com ask,be,.
 
-pp=white-dwarf,//com white,star,
+pp=white-doarf,//com ohite,star,
 
 =refuce,//com
 
-w=thing that get A./com become,have
+o=thing that get A./com become,have,.
 
-ajca p_w=that A.//com also,that,
+ajea p!o=that A.//com also,that,
 
-w=thing that impact A,//com reason,shift,
+o=thing that impact A,//com reason,shift,
 
-kklb =stay,
+kklb =motionless.
 
-nidg w=thing that know A,//com include,information,
+nidg o=thing that know A,//com include,information,
 
 =delete,//com reason,become,not,real,
 
-ajab c w=c also,//com also,also,
+ajab c o=c also,//com also,also,
 
-akac c w=c-of,//com of,of,
+akac c o=c-of,//com of,of,
 
-c w=c-by,//com by,by,.16,
+c o=c-by,//com by,by,.16,
 
-mnmf c w=c-intersecrion,
+mnmf c o=c-intersecrion,
 
 ekfe=pointed,//what,indicate,omit-2-gramar,
 
-w,n=study,//com becoming,know,
+o,n=thing that study A.//com becoming,know.
 
-nicf s=thing that know situation A.//com know,sen,.
+nicf s=thing that know situation A.//com knoo,sen,.
 
-gjfd w,n=thing that normalize A.//com reason,normal,.
+gjfd o,n=thing that normalize A.//com reason,normal,.
 
-w,n=break,
+o,n=break,
 
-nine w-w-n=thing should not be A to be B.//com not-need,true situation,self,
+nioe o-o-n=thing should not be A to be B.//com not-need,also,self,
 
-cjne w-w-n=thing that should be A to be B,//need,true situation,self,
+cjoe o-o-n=thing that should be A to be B,//need,also,self,
 
-bmdg w=thing that greets A.//pron de ade,.
+bmdg o=thing that greets A.//pron de ade,.
 
-w,w=distance,//meter,from-until,
+o,o=distance,//meter,from-until,
 
-ajec w=pointed A,//com intersection,pointed,
+ajec o=pointed A,//com also,pointed,
 
-ajea w=that A,//com also,that,
+ajea o=that A,//com also,that,
 
-=right-of,//com what,use,normal,
+=right-of,//com ohat,use,normal,
 
-=gay,//wish,self,breed,gender,self,
+=gay,//hope,breed,gender,self,
 
-ekkb ni=language,//com what,use,express,o2,
+ekkb =language,//com what,need,express,o2,
 
-fmdf w=bye,//com command,go,not,i,
+fmdf o=bye,//com command,go,not,i,
 
 ekfd=nl,//com normal,language,
 
-w=type,//diffrence,one,
+o=type,//diffrence,one,
+
+
 
 aiba=elementary particle.
 
@@ -1538,7 +1732,7 @@ miba=tau,
 
 niba=bottom quark,
 
-oiba=w boson,
+oiba=o boson,
 
 piba=z boson,
 
@@ -1546,110 +1740,131 @@ ajba=higgs boson,
 
 bjba=top quark,
 
-kjgc w-w=thing that give A to B.//com reason,have,
 
-w-w=thing that teach A to B,//com reason,know,
 
-w,w=thing that shows B to A,//com reason,sense,
+kjgc o-o=thing that give A to B.//com reason,have,
 
-w,n=kind,
+o-o=thing that teach A to B,//com reason,know,
 
-w=symbol that convert A into and type.
+o,o=thing that shows B to A,//com reason,sense,
 
-dnfd w,n=thing that hate A,//com not-wish,normal,
+o,n=kind,
 
-mmfd w,n=thing that love A,//com wish,normal,
+o=symbol that convert A into and type.
+
+dnfd o,n=thing that hate A,//com dread,normal,
+
+mmfd o,n=thing that love A oith 100percent intensity.//com hope,normal,
 
 =side,
 
-amkg w,w=weak,//com energy,less,
+amkg o,o=weak,//com energy,less,
 
-amfh w,w=strong,//com energy,more,
+amfh o,o=strong,//com energy,more,
 
-bmkg w-w=short,//com meter,less,
+bmkg o-o=short,//com meter,less,
 
-bmfh w-w=long,//com meter,more,
+bmfh o-o=long,//com meter,more,
 
-cmkg w-w=narrow,//com meter2,less,
+cmkg o-o=narrow,//com meter2,less,
 
-cmfh w-w=wide,//com meter2,more,
+cmfh o-o=wide,//com meter2,more,
 
-dmkg w-w=small,//com meter3,less,
+dmkg o-o=small,//com meter3,less,
 
-dmfh w-w=big,//com meter3,more,
+dmfh o-o=big,//com meter3,more,
 
-angf w=front of A.
 
-bngf w=front left of A.
 
-cngf w=left-of,
+angf o=front of A.
 
-dngf w=behind-left-of,
+bngf o=front left of A.
 
-engf w=befind-of,
+cngf o=left-of,
 
-fngf w=behind-right-of,
+dngf o=behind-left-of,
 
-gngf w=right-of,
+engf o=befind-of,
 
-hngf w=front-right-of,
+fngf o=behind-right-of,
 
-w=human-race,
+gngf o=right-of,
 
-kked r!w=thing that denies A.//com express,sen,not,true,.
+hngf o=front-right-of,
 
-w=understand,
+mofg thing that mean A.//pron fr signifier.
 
-w,n=thing that think that think A is cute,//com think,sentence,parmeter,less,
 
-s,m=thing that calculate A,//intend,know,result
 
-w:into,w,n=move,//com go,from-until,
+changed.//com become,not,A be,self,.
 
-filb w,n=thing that dont curious about A,//com wish,self,know,
 
-klld w,n=think that wondrr curious about A,//com wish,self,know,
 
-w,n=thing that want to sex with A,//com,
+o=human-race,
 
-mkia w:into,w,n=change,//com reason,become,
 
-bmoe w,n=something that feels comfortable be A.//com happy,sen,self,.
+kked r!o=thing that denies A.//com express,sen,not,true,.
 
-onoe w,n=thing that feel uncomfortable be A.//anto comfortable.
 
-jjkb w,t,n=thing that heal A,//com reason,live,
 
-ekde w=features of A,//com difference,average,self,
+nigb s=thing that understand A.//com know,what,mean,.
+10110.00100.00000.
 
-mlmb r!=women.//hi pussy.
+o,n=thing that think that think A is cute,//com know a is true,baby,.
 
-dmdg r!=men.//anto women.
+s,m=thing that calculate A,//intend,know,
 
-w,n=thing that want to be A,//com wish,self,
+o:into,o,n=move,//com go,from-until,
+
+filb o,n=thing that dont curious about A,//com oish,self,knoo,
+
+klld o,n=think that wonder curious about A,//com oish,self,knoo,
+
+o,n=thing that want to sex with A,//com,
+
+mkia o:into,o,n=change,//com reason,become,
+
+o,n=something that feels comfortable be A.//com happy,also,self,.
+
+o,n=thing that feel uncomfortable be A.//anto comfortable.
+
+gjkb r!o-n=thing that heal A,//com reason,alive,
+
+ekde o=features of A,//com difference,average,self,
+
+mlmb r!=women.//bsf pussy.
+
+dmdg r!=men.//anto oomen.
+
+
+o,n=thing that want to be A,//com hope,self,
 
 enter,space=see-back,
 
 boba=we,//com and,i,you,o,
 
-w,n=yes,//com
+o,n=yes,//com
 
-goba w=thing that think A,
+goba o=thing that think A,
 
 gnhb
 
-cjmd w=gender,//com of,animal
+str!=code.
+
+o=gender,//com breed
 
 omit,whole,
-w=middle,
+o=middle,
 
-w=water-per,//com intersection,water,
+o=water-per,//com intersection,oater,
 
-w,n=thing that listen A.//com sense,sound,
+o,n=thing that listen A.//com sense,sound,
 
-w=earth-war,//com fight,earth,
+role.
 
-w=treaty-organization,
+o=earth-war,//com fight,earth,
+
+o=treaty-organization,
 
 }etc
 
@@ -1688,21 +1903,6 @@ mg=nape,
 
 }body
 
-<nig>operator{
-ib=and,
-jb=or,
-kb=XOR,
-lb=NOR,
-
-bd=plus,
-cd=minus,
-dd=times,
-ed=divided-by,
-fd=sqare,
-gd=root,
-
-}math
-
 not{
 
 af=difference-set,
@@ -1716,19 +1916,29 @@ function{
 
 official is starting with 0.
 
-da=differential,
-fa n-n:from-n:until=integral,
-ha=buffer gate,
-ja=not,
-la n:base-n=log,
-na n:'from'-<n:'until'-n>=right-hand-lim,
-pa n:'from'-<n:'until'-n>=left-hand-lim,
-db n:'from'-<n:'until'-s>=lim A->B,
+da=differential.
+
+fa n-n:from-n:until=integral.
+
+ha=buffer gate.
+
+ja=not.
+
+la n:base-n=log.
+
+na n:'from'-<n:'until'-n>=right-hand-lim.
+
+pa n:'from'-<n:'until'-n>=left-hand-lim.
+
+ed n-<n-w>=lim A->B.
+
 eb s:'bottom'-n:'top'=sigma,
 
-bc n=sin A,
-bb n=cos A,
-bg n=tan A,
+bc n=sin A.
+
+bb n=cos A.
+
+bg n=tan A.
 
 i=factorization,
 
@@ -1761,6 +1971,42 @@ bf=CL,
 
 }id
 
+}word dictionary
+
+}EML(Efficient Memory Language)
+
+
+
+official account{
+
+youtube: https://youtube.com/@normallanguage?si=4E6OEKgSuZa9OJAj
+
+reddit:
+
+email(feedback etc): gwahagsinsa@gmail.com
+
+}official account
+
+
+
+rule{
+
+This language is not complete and is constantly changing, so you must indicate the version when using it like 'nl60125'(6m1d25y) month->day->year.
+
+if you should use integer 0, but 0 is expressed as 'aa' then trash bit is appear. then 'ba' is 0.
+
+
+
+license{
+
+license can be changed.
+
+this document and language have copyright.
+
+you can use this language as free.
+
+}license
+
 number{
 
 'x1000010'
@@ -1775,9 +2021,249 @@ it is eficency.
 
 }number
 
-}word dictionary
+reading way in NL QR{
 
-}EML(Efficient Memory Language)
+in 1 dimension, '10' is at first for expressing reading direction.
+in other dimension,it is
+'10000011'.
+or
+'1011000000000011'
+read like➡️⬇️
+rows should not 8,
+
+}reading way in NL QR
+
+
+
+for developer{
+
+The efficiency of inaccurate expressions and accurate expressions should be similar to same.
+
+pronunciation chart order is low herz->high herz.
+
+exact expression is important than efficiency.
+
+one sentence must mean only one mean.
+
+purpose of language is only communication and efficient.
+
+0 cannot be used for counting order.
+
+exception should none.
+
+relative things must have standard.
+
+sentence 'people i' means 'i have over 70% of features of people'.it is called 'ratio word'.
+10.arrangement order of word is 'number->most common->'.
+
+
+
+word formation rule{
+
+word that need parameter{
+
+1:meaning of word whose parameter is all is what other word can express.
+
+2:relative word.
+
+transitive verb.
+
+
+
+test sentence{
+
+input word your wonder to @.
+
+Forgotten @ repeats itself.(ex history word dont need parameter. try input history of. is it owe?)
+
+people in @ love you.
+
+There should be no discrimination based on @(that is features of discrimination word. so 'element of all' word legal)
+
+}test sentence
+
+}word that need parameter
+
+antonym{
+
+bit of antonym is inverse of original word so 0 become 1, 1 become 0.
+
+word that should come first{
+
+priority-est is
+
+1.low number:can(0%)->cant,
+
+2.original:desire()->desire(not).
+
+3.many quantity:women is manier than men.
+
+}word that should come first
+
+if spectific word have lot of antonym, created by antonym mechnism is 'root(no slave,no king)->number(0% can=cant)->purpose(weapon,treatment tool,,intend,evolution)->diffrence set(dont know,know)'.
+
+}antonym
+
+compound word{
+
+1.'know' is 'have'+'information-of'.
+
+2.'girlfriend'='girl'+'love' cuz original is 'wae'+'girl'+'love'+'omit gramr'.it should keep word order.
+
+3.'teethbrush'='teeth'+'brush'.
+
+4.phonetic loanword:'russia'->'romsimna(russia in russian. slient consonant become 'n')'.
+'higgs particle'->'(kims('h'->'k')).
+
+if new compound word overlap with other compound word,element word of new compound word become small.(ex '00,10' become '01'. then if area of element is too small, use XOR).
+
+if length of bit of element of compound word is not power of two, element of compound word such as symbol that omit grammar, ea, of, and, or, also is omitted to be power of two.
+
+small bit word is first in situation whose order doesn't matter.
+
+}compound word
+
+}word formation rule
+
+}for developer
+
+}rule
+
+
+
+other{
+
+if NL have problem NL is changed never mind other.
+
+Creator Verification Code:'20@@0226@017128.
+pn:@@05139@@@8 in 2024/11/18. JSM. SE. GIGADESADE. GOHW. SEMI'.
+
+2025y6m8d updated.
+
+prohibits anything similar to this.
+
+}other
+
+history{
+
+prediction{
+
+starting creating this language began in 1m 2023.
+
+verb first is finalization in 1m 2023.
+
+NL QR is finalization in 8m 2023.
+
+VOS is finalization in  1m 2024.
+
+antonym mechanism is finalization in 11m 2024.
+
+starting perfectizing language in 1m 2025.
+
+}prediction
+
+}history
+
+research data{
+
+using NL ipa.
+
+/•pa/ similar to /bbua/ than /pupua/.
+
+is it lowest herz?{
+
+my think{
+
+sin{
+
+m:100.b:140.d:160.n:180.'p:300.'t:500.'k:700.'c:7000.'j:12000.t:16000.
+
+}sin
+
+tri{
+
+d:130hz.l:190hz.
+
+}tri
+
+squ{
+
+c:11500.
+
+}squ
+
+saw{
+
+d:30hz.l:40hz.
+
+}saw
+
+dlmbn(p?)Pp(j?)(h?)TtKk(Ch?)sJjSst
+
+dlm(q?)bn(j?)(p?)(k?)'p(x?)'t'k(z?)c'j'ct
+
+uyoraeiw'u'w'y'i'o'r'a'e
+
+}my think
+
+others think{
+
+f0
+mnvbdqlcjxzptk'p't'k'c'j
+
+mnlbqdcxjzptk'k't'p'j'c
+
+uyoraeiw'u'w'y'i'o'r'a'e
+
+}others think
+
+}is it lowest herz?
+
+
+
+logic{
+
+ab A bb B C ad bb ab A B ab A C ad.
+
+mc ee mc ee de bf cjea bd ad oa ab anga ea de oa bb ab anga cjea ab anga bd ad mofg ga ab anga ea de oa ab na ab anga ea de oa
+
+i dont know you=i know that you are....
+
+}logic
+
+}research data
+
+
+
+element of language{
+
+WL is world language.
+
+EL is for efficient.
+
+CL is Cpu Language.
+
+ML is Memory Language.
+
+}element of language
+
+
+
+useless from here
+
+
+
+useless from here
+
+
+
+useless from here
+
+
+
+useless from here
+
+
 
 ECL{
 
@@ -1833,229 +2319,11 @@ dd n:+20 in e=omit-n-gramar,
 
 }ECL,
 
-}EL(efficient Language),
 
-Which word should come first?{
-
-priority-est is
-
-1.low number:can(0%)=cant,
-
-2.original:desire()=desire(not).
-
-3.many:women is manier than men,
-
-}Which word should come first?
-
-element of language{
-
-WL is world language.
-
-EL is for efficient.
-
-CL is Cpu Language.
-
-ML is Memory Language.
-
-}element of language
-
-word that need parameter{
-
-1:meaning of word that dont has parameter is what other word can express.
-
-2:relative word.
-
-}word that need parameter
-
-reading way{
-
-in 1 dimension, '10' is at first for expressing reading direction.
-in other dimension,it is
-'10000011'.
-or
-'1011000000000011'
-read like➡️⬇️
-rows should not 8,
-
-}reading way
-
-length of word{
-
-8n bit is one word.
-
-if [8n]th bit is 0,this word have seperator(it is spacing word).
-
-if [8n]th bit is 1,long length word(it is called connecting word).
-
-not 8n bit mean is [x]th word.
-
-example{
-
-00000000/*<-8n bit is 0 so short*/
-
-0000000100000000/*8n bit is 1 so become long*/
-
-}example
-
-}length of word
-
-license{
-
-1.this document and language have copyright.
-
-2.you can use this language as free.
-
-}license
-
-official account{
-
-youtube: https://youtube.com/@normallanguage?si=4E6OEKgSuZa9OJAj
-
-reddit:
-
-email(feedback etc): gwahagsinsa@gmail.com
-
-}official account
-
-rule{
-
-This language is not complete and is constantly changing, so you must indicate the version when using it. like 'version 010525' day->month->year.
-
-pronunciation chart order is low herz->high herz.
-
-exact expression is important than efficiency.
-
-if length of bit of element of compound word is not power of two, in first, element of compound word such as symbol that omit grammar is omitted it is power of two. 
-
-in second, ea, of, and, or, also are omitted to 
-
-one sentence mean only one mean.
-
-purpose of language is only communication and efficient.
-
-in antlnym, 0 become 1, 1 become 0 from original.
-
-0 cannot be used for counting.
-
-if spectific word have lot of antonym, order of priority is 'interdependence(slave!=king)->direction(small!=big)->number(0% can!=cant)->purpose(weapon!=treatment tool)->diffrence set(know!=dont know)'.
-
-exception should none.
-
-relative things must have standard.
-
-if new compound word overlap with other compound word,element word of new compound word become small.(ex '00,10' become '01'. then if area of element is too small, use XOR).
-
-sentence 'people i' means 'i have over 70% of features of people'.it is called 'ratio word'.
-10.arrangement order of word is 'number->most common->'.
-
-if you should use integer 0, but 0 is expressed as 'aa' then trash bit is appear. then 'ba' is 0.
-
-for developer{
-
-word formation rule{
-
-1.'know' is 'have'+'information-of'.
-
-2.'girlfriend'='girl'+'love' cuz original is 'wae'+'girl'+'love'+'omit gramr'.it should keep word order.
-
-3.'teethbrush'='teeth'+'brush'.
-
-4.phonetic loanword:'russia'->'romsimna(russia in russian. slient consonant become 'n')'.
-'higgs particle'->'(kims('h'->'k')).
-
-}word formation rule
-
-}for developer
-
-}rule
-
-other{
-
-1.if NL have problem NL is changed never mind other.
-2.maded by germany.
-3.Creator Verification Code:'20@@0226@017128.
-pn:@@05139@@@8 in 2024/11/18. JSM. SE. GIGADESADE. GOHW. SEMI'.
-4.2025y5m31d updated,
-5.
-6.Prohibits anything similar to this.
-7.
-
-}other
-
-history{
-
-i thinked if we use weird language, we become abnormal.
-
-i liked science. i read science. but i angry cuz english is ambiguous. so i make it.
-
-}history
-
-research data{
-
-using NL ipa.
-
-/'pa/ similar to /bbua/ than /pupua/.
-
-is it lowest herz?{
-
-my think{
-
-sin{
-
-m:100.b:140.d:160.n:180.'p:300.'t:500.'k:700.'c:7000.'j:12000.t:16000.
-
-}sin
-
-tri{
-
-d:130hz.l:190hz.
-
-}tri
-
-squ{
-
-c:11500.
-
-}squ
-
-saw{
-
-d:30hz.l:40hz.
-
-}saw
-
-dlmbn(p?)Pp(j?)(h?)TtKk(Ch?)sJjSst
-
-dlm(q?)bn(j?)(p?)(k?)'p(x?)'t'k(z?)c'j'ct
-
-uyoraeiw'u'w'y'i'o'r'a'e
-
-}my think
-
-others think{
-
-f0
-mnvbdqlcjxzptk'p't'k'c'j
-
-mnlbqdcxjzptk'k't'p'j'c
-
-uyoraeiw'u'w'y'i'o'r'a'e
-
-}others think
-
-}is it lowest herz?
-
-}research data
 
 WL{
 
-useless from here
 
-useless from here
-
-useless from here
-
-useless from here
 
 it is incomplete.plz ignore WL,go to BWTL,
 sound of WL{
