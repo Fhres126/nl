@@ -8,15 +8,15 @@ our chat room: https://discord.gg/VhHBjXbpkz
 
 all feedback is welcome!
 
-NL{
+norlang{
 
-this artificial language is called NL(Normal Language) in english.
+this artificial language is called norlang(Normal Language) in english.
 
 advertisement{
 
-NL will become the international language.
+norlang will become the international language.
 
-NL dont have exception.
+norlang dont have exception.
 
 over 65% of words is compound word or antonym or arranged in an orderly way.
 
@@ -24,33 +24,33 @@ so you can remember words easily.
 
 one sentence has only one meaning.
 
-ex 'A and B of C' can be interpreted as '(A and B) of C' and 'A and (B of C)' in english.
+eg 'A and B of C' can be interpreted as '(A and B) of C' and 'A and (B of C)' in english.
 
-but in NL, 'af C bf A B' mean only '(A and B) of C'.
+but in norlang, 'af C bf A B' mean only '(A and B) of C'.
 
 'bf A af C B' mean only 'A and (B of C)'.
 
-'i know you' in NL is 'nidgbd'.(This is pronounced differently from English.it is easy to pronounce)
+'i know you' in norlang is 'nbbd'.(This is pronounced differently from English. it is easy to pronounce)
 
 english is 80bit(in ascii code).
 
-NL is 24 bit(one letter is 4bit).
+norlang is 16 bit(one letter is 4bit).
 
-NL is three times more efficient than English.
+norlang is five times more efficient than English.
 
-so NL reduces environmental pollution.
+so norlang reduces environmental pollution.
 
-NL helps easy communication.
+norlang helps easy communication.
 
-NL brings peace and helps technology grow.
+norlang brings peace and helps technology grow.
 
-NL is phonetic script.
+norlang is phonetic script.
 
-NL versions of barcodes and QR codes is called NL QR.
+norlang versions of barcodes and QR codes is called NL QR.
 
-Since NL is a binary language, it can easily be converted into NL QR and and NL version morse code.
+Since norlang is a binary language, it can easily be converted into NL QR and and norlang version morse code.
 
-NL can express all meanings using only binary.
+norlang can express all meanings using only binary.
 
 NL QR1 is over 1.5 times more efficient than a barcode.(both image mean same)
 
@@ -61,11 +61,11 @@ NL QR means the same from any angle like QR code.
 
 NL QR can be expressed in one, two, or three and more dimensions(pdf user can see image).
 
-you can use NL fluently in just one month
+you can use norlang fluently in just one month
 
 It is the simplest, most efficient, easiest and most logical future international language.
 
-NL can be used in programming.
+norlang can be used in programming.
 
 it is called ECL.
 
@@ -73,7 +73,7 @@ it is called ECL.
 
 alphabet{
 
-alphabet is only 0 and 1 then it can be expressed as 16 latin letter.
+* alphabet is only 0 and 1 then it can be expressed as 16 latin letter.
 
 a:0000. b:1000. c:0100. d:1100.
 
@@ -83,19 +83,19 @@ i:0001. j:1001. k:0101. l:1101.
 
 m:0011. n:1011. o:0111. p:1111.
 
-NL uses only lowercase letters.
+norlang uses only lowercase letters.
 
 more efficient alphabet is here(only pdf user can see. bottom to top writting alphabet):
 
-8n-th bit determines length of word.
+* 8n-th bit determines length of word.
 
-a word whose 8n-th bit is 1 make the word consist of more bit.(ex sentence '{0000101(1)0110000(0)}{0111000(0)}' consist of two words.
+8n-th bit 1 make the word consist of more bit.(eg sentence '{0000101(1)0110000(0)}{0111000(0)}' consist of two words.
 
-between of '(' and ')' is 8n-th bit.
+between '(' and ')' is 8n-th bit.
 
-between of '{' and '}' is one word.)
+between '{' and '}' is one word.)
 
-it means that word whose 2n-th letter is between of 'a'(0000) and 'h'(1110) consist of smaller quantity bits.
+it means that word whose 2n-th letter is between 'a'(0000) and 'h'(1110) consist of smaller quantity bits.
 
 the example converted to latin letter is 'anga oa'.
 
@@ -105,19 +105,19 @@ but ill use whitespace to make you easily understand.
 
 pronunciation{
 
-Two letters make one syllable.
+* Two letters make one syllable.
 
-The (2n-1)th letter is pronounced as initial consonant. 
+* (2n-1)th letter is pronounced as initial consonant. 
 
-and the 2n-th letter is pronounced as vowel also final consonant.
+* 2n-th letter is pronounced as vowel also final consonant.
 
-ex 'fc ee anba' is pronounced as 'neo da maeb'.
+eg 'fc ee anba' is pronounced as 'neo da maemboo'.
 
 (2n-1)th letter 'f' is pronounced as 'n'.
 
 2n-th letter 'c' is pronounced as 'eo'.
 
-(2n-1)th letter 'e' is pronounced as 'd'.
+(2n-1)th letter 'e' is pronounced as 'd'.('e' is 'da' in pronunciation chart)
 
 2n-th letter 'e' is pronounced as 'a'.
 
@@ -127,27 +127,27 @@ pronunciation chart{
 
 sound consists of decibels (dB) and hertz (Hz).
 
-it is arranged with lower Hz sounds coming first.(ex m(100hz) < s(14000hz))
+it is arranged with lower Hz sounds coming first.(eg m(100hz) < s(14000hz))
 
 so it is not biased toward any specific culture.
 
 a:'moo'. b:'bo'. c:'leo'. d:'geu'.
 
-e:'da'. f:'nae'. g:'kki'. h:'kwo'.
+e:'da'. f:'nae'. g:'kki'. h:'ttwo'.
 
-i:'ppoom'. j:'ttom'. k:'peom'. l:'teum'.
+i:'ppoom'. j:'kom'. k:'teom'. l:'peum'.
 
-m:'sam'. n:'thaem'. o:'jim'. p:'jjwae'.
+m:'sam'. n:'jaem'. o:'ssim'. p:'jjwae'.
 
 IPA version{
 
 a:'mu'. b:'bo'. c:'ɾʌ'. d:'gɯ'.
 
-e:'da'. f:'nɛ'. g:'k͈i'. h:'kʰwʌ'.
+e:'da'. f:'nɛ'. g:'k͈i'. h:'t͈wʌ'.
 
-i:'p͈um'. j:'t͈om'. k:'pʰʌm'. l:'tʰɯm'.
+i:'p͈um'. j:'kʰom'. k:'tʰʌm'. l:'pʰɯm'.
 
-m:'sam'. n:'s͈ɛm'. o:'tɕim'. p:'t͈ɕwɛ'.
+m:'sam'. n:'tɕɛm'. o:'s͈im'. p:'t͈ɕwɛ'.
 
 }IPA version
 
@@ -163,43 +163,41 @@ lecture{
 
 basic{
 
-grammar of NL is same as math.
+* grammar of norlang is same as math.
 
-transitive verb is function.
+* transitive verb is function.
 
-object is parameter.
+* object is parameter.
 
-NL dont use be verb.
+* norlang dont use be verb.
 
-NL use VOS word order.
+* norlang use VOS word order.
 
-NL sentence 'A B' mean 'B is A'.
+* norlang sentence 'A B' mean 'B is A'.
 
-structure of NL sentence is list of two objects.
+* structure of norlang sentence is list of two objects.
 
-'djca   aoad' mean 'ore is solid'.
+eg 'djca   aoad' mean 'ore is solid'.
 
 'djca' mean 'solid'.
 
 'aoad' mean 'ore'.
 
-some word must have parameter like function.
+* some word must have parameter like function.
 
-'mmfd oa   oa' mean 'i love me', 'thing that love me is me'.
+'jd bd   oa' mean 'i think you', 'thing that think you is me'.
 
-'mmfd' is function that must have parameter.
+* 'jd' is function that must have parameter so 'jd bd' is one object.
 
-'mmfd oa' is one object cuz mmfd is function.
-
-'mmfd oa' mean 'thing that love me'.
+'bd' mean 'i' so 'jd bd' mean 'thing that think you'.
 
 'oa' mean 'i'.
 
-if subject is omitted, subject is 'i' so 'i love me' is expressed as sentence 'mmfd oa' and 'mmfd oa oa'.
+* if subject is omitted, subject is 'i' so 'i think you' is expressed as sentence 'jd bd' and 'jd bd oa'.
 
 this grammar can express every meaning.
 
-ex 'The happy boy gives her a small book in the morning and smiles.' is expressed as 'ab gb if ab dmkg pf bida mlmb kjkc ac ajfg ajea ab dmdg boob'.
+eg 'The happy boy gives her a small book in the morning and smiles.' is expressed as 'ab gb if ab dmkg pf bida ajmd kjkc ac hied ajea ab dmdg boob'.
 
 To learn in detail, you need to know how to interpret a dictionary.
 
@@ -209,15 +207,15 @@ To learn in detail, you need to know how to interpret a dictionary.
 
 word is expressed as it in word dictionary.
 
-far left is NL word.
+* far left is norlang word.
 
-far right is meaning of this word.
+* far right is meaning of this word.
 
-between of NL word and '!' is word type.
+* between norlang word and '!' is word type.
 
-'r' is an abbreviation for 'real'.
+* 'r' is an abbreviation for 'reality'.
 
-only thing that can exist in reality is real type object.
+only thing that can exist in reality is reality type object.
 
 }
 
@@ -227,19 +225,19 @@ only thing that can exist in reality is real type object.
 
 'anto' is an abbreviation for 'antonym'.
 
-'anto A' mean 'this word is antonym of A'.
+* 'anto A' mean 'this word is antonym of A'.
 
-The antonym form is the inversion of the original word's bits.
+* The antonym form is the inversion of the original word's bits.
 
 0 becomes 1. 1 becomes 0.
 
-ex antonym of 'fojb'(10100111,10011000) is 'kjgg'(01011001,01100110).
+eg antonym of 'fojb'(10100111,10011000) is 'kjgg'(01011001,01100110).
 
 }
 
 'jd r!o=thing that think A.'{
 
-between of '!' and '=' is parameter that this function must have.
+between '!' and '=' is parameter that this function must have.
 
 'o' is an abbreviation for 'object'.
 
@@ -247,9 +245,7 @@ any object can be in object type parameter.
 
 capital letter in far right is input value of parameter of this function.
 
-ex 'jd oa' mean 'thing that think me'.
-
-function in parameter have parameter.
+eg 'jd oa' mean 'thing that think me'.
 
 }
 
@@ -259,7 +255,7 @@ function in parameter have parameter.
 
 'si' type word dont interface all words.
 
-ex sentence 'eb pc anga oa' mean 'eb anga oa' cuz word dont interface 'si' type word.
+eg sentence 'jd pc bd oa' mean 'jd bd oa' cuz word dont interface 'si' type word.
 
 You can use 'pc' word to continue what you were saying before.
 
@@ -277,7 +273,7 @@ any word can be in object type parameter.
 
 ad si!=symbol that omit one parameter.
 
-paramrter of jd is omitted by ad.
+paramrter of 'jd' is omitted by 'ad'.
 
 }
 
@@ -286,8 +282,6 @@ paramrter of jd is omitted by ad.
 fmeg r!o=thing that greets A.//pron de ade,.
 
 subject is omitted so subject is 'i'.
-
-the example sentence mean 'i am thing that greets'.
 
 }
 
@@ -307,11 +301,11 @@ intermediate{
 
 '!A,B' mean this function need 'A' and 'B' as parameter.
 
-A is first parameter of NL word, the second one as B, and then C, D, E, F, and so on.
+A is first input value of this function of norlang word, the second one as B, and then C, D, E, F, and so on.
 
-parameter that this function must have is object and object.
+parameter type that this function must have is object and object.
 
-ex fc  bd mean thing that ask oa about anga.
+eg 'fc aoad  oa' mean 'thing that ask me(oa) about ore(aoad)'.
 
 }
 
@@ -321,7 +315,7 @@ ex fc  bd mean thing that ask oa about anga.
 
 parameter value determines type of this function.
 
-ex 'ha fojb' is number cuz fojb is real type object.
+eg 'ha fojb' is reality type cuz fojb is reality type object.
 
 }
 
@@ -329,15 +323,13 @@ ex 'ha fojb' is number cuz fojb is real type object.
 
 '2p' mean '2rd parameter'.
 
-type of object in 2rd parameter value determines type of this word.
+type of 2rd input value determines type of this word.
 
-ex type of 'ka oa kjgg' is real type object cuz 'kjgg' is real type object.
+eg type of 'ka oa kjgg' is reality type object cuz 'kjgg' is reality type object.
 
 The symbol '-' means that if the parameter is omitted by symbol that omit parameter, the next parameter is omitted too.
 
-ex 'ka ad' 
-
-'ka' have three parameter but all parameter of ka can be omitted by 
+you can omit all parameter of 'ka' with only one 'ad'.
 
 }
 
@@ -351,7 +343,7 @@ ex 'ka ad'
 
 'kb ha ad' mean 'thing that express this'.
 
-length of all that words is 24bit.
+total length of all that words is 24bit.
 
 but i want to express word 'i' as 8bit word cuz word 'i' is used a lot.
 
@@ -389,19 +381,15 @@ so 'A1' is first 'o'.
 
 }
 
-}<How to interpret a word dictionary>
+'bf p!c o=A1 and A2 and....'{
 
-'ka af oa bode dmea bd'='i see you using my eye', 'thing that become thing that see you using eye of me'{
+'c o' mean 'this word have object type parameter until it met symbol that omit parameter'.
 
-ka 2p!o-o-n=thing that become B using A.
-
-af 2p!o-o=B of A.//com also,element-of,.
-
-bode r!=eye.//com body,see,.
-
-dmea r!o=thing that see A.//com sense,light,
+eg 'bf oa oa oa ad' mean 'me and me and me'.
 
 }
+
+}<How to interpret a word dictionary>
 
 <how to ask>{
 
@@ -415,11 +403,11 @@ fc r!o,o=thing that ask B about A.
 
 ne v!o=location of A.
 
-if parameter of 'fc' is omitted, the parameter mean 'you'.
+if second parameter of 'fc' is omitted, the second parameter mean 'you'.
 
 }
 
-'fc  gb dnfd oa bd'='why do you hate me?', 'thing that ask you about reason why thing that hate me is you is me'{
+'fc  gb  dnfd oa  bd'='why do you hate me?', 'thing that ask you about reason why thing that hate me is you is me'{
 
 gb p!s,n=reason why A2 is A1.
 
@@ -431,7 +419,7 @@ if second parmeter of 'fc' is omitted, it is 'you' or 'i'(alone think).
 
 }
 
-'fc jc dnea noba bd'='what if you give up being worker?', 'thing that ask you about what happens if thing that give up being worker is you is me'{
+'fc  jc  dnea noba  bd'='what if you give up being worker?', 'thing that ask you about what happens if thing that give up being worker is you is me'{
 
 jc p!s,n=what happens if A2 is A1.
 
@@ -441,15 +429,15 @@ noba r!=worker.
 
 }
 
-'fc ja dmea oa bd'='are you looking at me?', 'thing that ask you about whether thing that see me is you is me', {
+'fc  ja  dmea oa  bd'='are you looking at me?', 'thing that ask you about whether thing that see me is you is me', {
 
-ja r!s=whether A is true.
+ja r!s=whether A2 is A1.
 
 dmea r!o=thing that see A.//com sense,photon,.
 
 }
 
-'fc ec gjkb ha anga boba'='how do we save this person?', 'thing that ask you about how we become thing that save this people is me'{
+'fc  ec  gjkb  ha anga  boba'='how do we save this person?', 'thing that ask you about how we become thing that save this people is me'{
 
 ec r!s-n=how A2 become A1.
 
@@ -461,9 +449,9 @@ boba r!=we.//com and,i,you,o,.
 
 }
 
-'fc ee de id boba'='when we sense each other?', 'thing that ask you about time when thing that sense each other is we is me'{
+'fc  ee  de id  boba'='when we sense each other?', 'thing that ask you about time when thing that sense each other is we is me'{
 
-ee t!s=time when A is true.//com what,thing that be B when A,
+ee t!s=time when A2 is A1.//com what,thing that be B when A,
 
 id r!=each other.//com what,interface,self,.
 
@@ -471,15 +459,27 @@ id r!=each other.//com what,interface,self,.
 
 }<how to ask>
 
+how to command{
+
+'be alive!'='fa kjgg'{
+
+fa r!o,o=thing that orders B to become A.
+
+kjgg r!=alive.//anto die
+
+}
+
+}how to command
+
 time{
 
-'jb gjfg anga oa', 'jb gb fojb anga oa'='i killed people', 'thing that was thing that kill people is me'{
+'jb  gjfg anga   oa', 'jb  gb fojb anga   oa'='i killed people', 'thing that was thing that kill people is me'{
 
 jb p!o=thing that was A.
 
 gjfg ow,n=thing that kill A.//com reason,die,.
 
-eida o!=that.
+eida o!=the thing.
 
 gb p!s,n=reason why  A2 is A1.
 
@@ -539,23 +539,23 @@ second is for finish 'bf'.
 
 }<symbol that omit parameter>
 
-how to command{
+'ka  af oa bode  dmea bd'='i see you using my eye', 'thing that become thing that see you using eye of me'{
 
-'be alive!'='fa kjgg'{
+ka 2p!o-o-n=thing that become B using A.
 
-fa r!o,o=thing that orders B to become A.
+af 2p!o-o=B of A.//com also,element-of,.
 
-kjgg r!=alive.//anto die
+bode r!=eye.//com body,see,.
+
+dmea r!o=thing that see A.//com sense,light,
 
 }
 
-}how to command
-
 'kjge fleg'='i speak fleg'{
 
-kjge r!o=thing that speak A.//com express,sound,.
+gmkb r!o=thing that speak A.//com sound,express.
 
-fleg=nl,//com normal,language,.
+fleg=norlang,//com normal,language,.
 
 }
 
@@ -565,13 +565,13 @@ fleg=nl,//com normal,language,.
 
 'mmfd bd   oa', 'me fd bd   oa'='i love you', 'thing that love you is me'{
 
-mmfd r!o,n=thing that love A with B percent intensity,//com hope,normal,
+mmfd r!o,n=thing that love A by B percent.//com hope,normal,
 
-me r!s,n=thing that hope A2 is A1 true with B percent intensity.
+me r!s,n=thing that hope that A2 is A1 by B percent.
 
 fd r!=normal,
 
-'me fd bd' mean 'thing that hope you are normal'.
+'me fd bd' mean 'thing that hope that you are normal'.
 
 }
 
@@ -580,18 +580,6 @@ fd r!=normal,
 upper intermediate{
 
 <How to interpret a word dictionary>{
-
-'bf p!c o=A1 and A2 and....'{
-
-'c o' mean 'this word have object type parameter until it met symbol that omit parameter'.
-
-'A1' is first parameter.
-
-'A2' is second paramerer.
-
-ex 'bf oa oa oa ad' mean 'me and me and me'.
-
-}
 
 'ih n!=0'{
 
@@ -605,33 +593,37 @@ ex 'bf oa oa oa ad' mean 'me and me and me'.
 
 'mmfd bd oa', 'bd ea mmfd oa'='i love you'{
 
-first sentence mean 'i love you'.
-
-second sentencee mean 'what i love is you'.
+'bd ea mmfd oa' mean 'what i love is you'.
 
 'ea' is similar to 'what' of english.
 
 }
 
-'fc ad bd', 'bd ea kh fc'='i ask you'{
+'fc ad bd oa', 'bd ea kh fc ad oa'='i ask you'{
 
-To know the meaning, you need to list the parameters of all words in sentence of paramrter of the 'ea'.
+ea v!c n,s=what.//ea remove targeted parameter by A.
 
-ea v!c n,s:'ea omit targeted word'=what.
+To know the meaning, you need to list the parameters of all function in parameter sentence of the 'ea'.
 
-'kh' is not in sentence paramter of 'ea'.
+function in parameter sentence of 'ea' is 'fc'.
 
-'ea kh fc' mean 'second parameter of 'fc' ' cuz 'kh' is 2 in situation that dont need minus.
+The parameters of 'fc' are 'what it asks about' and 'what it asks'.
+
+'kh' is 2 in situation that dont need minus.
+
+so 'ea' target second parameter of 'fc'.
 
 }
 
-'nidg bd oa', 'bd ea nidg pa oa'='i know you'{
+'nb bd oa', 'bd ea nb pa oa'='i know you'{
 
 first sentence mean 'i know you'.
 
 second sentence mean 'what i know is you'.
 
-The 'pa' is where 'bd' originally was.
+The 'pa' is in parameter of 'nb'.
+
+parameter of 'nb' is 'what it know'.
 
 }
 
@@ -639,9 +631,13 @@ The 'pa' is where 'bd' originally was.
 
 }
 
-'ae anga mmfd oa'='people that i love'{
+'ae anga mmfd oa'='people that i love', 'lovely people'{
 
-ae p!<c n,s>=what_with_category,//com also,what,.
+ae p!o-<c n,s>=A that C2 C1.//C2 is subject,,C1 is verb,,com also,what,
+
+'ae anga mmfd oa' mean 'ab anga ea mmfd oa'.
+
+ab p!o-o=A also B.
 
 }
 
@@ -663,7 +659,7 @@ so it dont make parameter.
 
 'bg' express integer number.
 
-ex 'bg he' is 35.
+eg 'bg he' is 35.
 
 first bit determines whether the number is positive or negative.
 
@@ -697,7 +693,7 @@ he p!o=element of A.
 
 'he' is '1 1 1 0 0 0 1 0'.
 
-antonym of 'he' seems  'id'.
+antonym of 'he' seems  'id'(00011100).
 
 antonyms have an order.
 
@@ -733,7 +729,7 @@ But the length of element word in the compound word must be a power of 2.
 
 'lh' is '11011110'.
 
-and see between of '(' and ')' in next.
+and see between '(' and ')' in next.
 
 'bg da' is '10000110,(110)00000'.
 
@@ -789,7 +785,7 @@ dg n!int-n=real number.
 
 example of 'number' + 'word' in english is 'one apple'.
 
-ex 'cb ih anga' mean 'zero people'.
+eg 'cb ih anga' mean 'zero people'.
 
 ih=0.
 
@@ -797,11 +793,11 @@ If different type word like 'r' is in place of an 'n' type parameter, then 'n' i
 
 if parameter 'n' of 'cb' is omitted, function 'cb' return quantity.
 
-ex 'cb anga' mean 'quantity of people'.
+eg 'cb anga' mean 'quantity of people'.
 
 you can omit number type parameter to express quantity of number using symbol that omit parameter.
 
-ex 'cb ad ih' mean 'quantity of 0'.
+eg 'cb ad ih' mean 'quantity of 0'.
 
 }
 
@@ -821,7 +817,7 @@ ex 'cb ad ih' mean 'quantity of 0'.
 
 }advanced
 
-//i review document up to this point using 20250612version nl.
+//i review document up to this point using 20250612version norlang.
 
 <logic and how to make new word>{
 
@@ -845,11 +841,11 @@ draw '11' at last to finish.
 
 read from '10' to '11'.
 
-ex 'oa'->'01110000' -> '10,01110000' -> '10,01110000,11'.
+eg 'oa'->'01110000' -> '10,01110000' -> '10,01110000,11'.
 
 if last is not finished by '01' then you can omit '11' of last.
 
-ex '10,01110000'.
+eg '10,01110000'.
 
 }NL QR1
 
@@ -859,7 +855,7 @@ draw '10000011'
 
 draw bit in right or left.
 
-ex 'oa' ->
+eg 'oa' ->
 
 10000011
 01110000
@@ -888,11 +884,11 @@ aa si!=finish-all,
 
 ba si!=whitespace.
 
-ca
+ca v!o=freeze function.
 
 da si!=enter.
 
-ea p!c n,s:'ea omit targeted word'=what.//target,certainty,pronoun,
+ea v!c n,s=what.//ea remove targeted parameter by A,,target,certainty,pronoun,
 
 fa r!o,o=thing that orders B to become A.
 
@@ -900,7 +896,7 @@ ga p!o=only A.
 
 ha p!o=this A.
 
-ia v!o=freeze function.
+ia
 
 ja s=whether A is true.//zero is true.cuz true is important.exist made false.one is exist.
 
@@ -961,7 +957,7 @@ mb
 
  p!o=average of A.
 
-nb
+nb o=thing that know A.//com include,information,
 
 ob
 
@@ -981,7 +977,7 @@ ec r!<o-o>-n=how B become A.//what,should,
 
  n,{n,n,n}...=molecule,
 
-fc r!o,o=thing that ask B about A,//com command,express,
+fc r!o,o=thing that ask B about A,//com command,reply,
 
 gc p!o=thing that will be A.//anto A of past,.
 
@@ -995,11 +991,11 @@ ic p!o-o=intersection of A and B,//com also,A include,A include,
 
  !int=elementary-particle,
 
-jc p!s-n=result of that.//anto reason.
+jc p!s-n=what happens if A2 is A1.//anto reason.
 
-kc
+kc p1!o-o=B which is called A.
 
-lc o=around of A.
+lcp!o=but.//com inverse,that a2 is a1,.
 
  !int-int-para...=too function.
 
@@ -1023,7 +1019,9 @@ cd p!<o-o>-n=thing that become A using oneself also B.//use,also,self,.
 
 dd c=self.//no cw but intend com word-as-id,+2id.
 
-ed 2p!o-o=thing that be B with A.//cooperation,,no cw but intend com among,around,,.
+ed p!o-o=between A and B.//com exceed,below,.
+
+2p!o-o=thing that be B with A.//cooperation,
 
 fd r!=normal.
 
@@ -1035,7 +1033,7 @@ p!o=thing that has the characteristic A,//characteristic is for expressing '성�
 
 percent,
 
-hd p!o=A word.
+hd p!=word.
 
 id r!=each other.//com what,interface,self,.
 
@@ -1043,11 +1041,13 @@ jd r!thing that think A.
 
 kd
 
-ld c int=nl ipa.
+ld c int=norlang ipa.
 
 md p!o,n=thing that intend be A.
 
-nd t!=now.
+nd
+
+ t!=now.
 
  n,int...=phonetic.
 
@@ -1055,7 +1055,7 @@ od si!int=version marker.
 
 pd si!=cancel-express,
 
-ae p!<c n,s>=what_with_category,//com also,what,.
+ae p!o-<c n,s>=A that C2 C1(verb)//com also,what,,C1 is verb.
 
 be p!<c o>-n=or{.
 
@@ -1067,7 +1067,7 @@ de r!o=thing that sense A.
 
  n=word as int,
 
-ee t!s=time when A is true.//com what,thing that be B when A,
+ee t!s=time when A2 is A1.//com what,thing that be B when A,
 
 fe r!o,o,t=thing that prohibit B from being A.//com command,not,
 
@@ -1077,7 +1077,7 @@ ge p!n,o=thing that similar to A.
 
 he by p!o=element of A,//include promise.
 
-ie p!c n,s:'ia remove targeted word by c n'=what.//com freeze func,what,.
+ie o=minus of A.
 
 =name_or_var,
 
@@ -1091,7 +1091,7 @@ ke r!n=abnormal.//anto normal,
 
  !o-o->=converted,
 
-le p!o-o=between of A and B.//com
+le o=around of A. 
 
 me r!s,n=thing that desire A is true with B percent intensity.
 
@@ -1101,9 +1101,7 @@ ne n or r!o=location of A.
 
  !str=argb,
 
-oe
-
-p!o=thing that become A.
+oe p!o=thing that become A.
 
 p!o=thing that tends to become A.
 
@@ -1111,17 +1109,15 @@ pe o!int=word_as_situation_and_id.
 
 af 2p!o-o=B of A.//com also,element-of,.
 
- int=operator,
-
 bf p!c o=and{,//com or,most
 
-si!c int,n=duplicate_word,
+si!c int,n=duplicate word.
 
 cf r!s=that A2 is A1.
 
 df r!s,n=thing that dread A with B percent intensity,//anto desire,
 
-ef 2p!o-<o,n>=B that is by A.//among,result,fact,.
+ef 2p!o-<o,n>=B that is by A.//also,result,fact,.
 
 ff
 
@@ -1133,19 +1129,13 @@ if r!o=thing that have A.//anto element,.including promise
 
 jf r!s=thing that know A is true.//com know,sen,true,whether,.
 
-kf r!o,o=thing that ansoers B saying A.//anto ask,
-
-r!s=directly cause,//com reason,over,nh,
+kf r!o,o=thing that reply to A by saying B..//anto ask,
 
 lf
 
  !o-o=most-near,
 
 mf o!=word as context.
-
- o=minus of A.
-
-p!o-n=part of A.
 
 nf
 
@@ -1253,15 +1243,13 @@ ljba r!=shop,
 
 r!o=thing that famous in A,
 
-akba r!=app,
+ba r!=app,
 
-bkba r!=weapon,
+r!=game,
 
-ckba r!=game,
+r!=ideology,
 
-dkba r!=ideology,
-
-fkba r!=scholarship,
+r!=scholarship,
 
 gkba r!n=job,
 
@@ -1277,7 +1265,7 @@ elba r_int=digit,
 
 flba r_s:purpose-s,n=thing that efficient than B for be A,
 
-eida o!=that.
+eida o!=the thing.
 
 bmba r!o=south of A.
 
@@ -1303,17 +1291,19 @@ jnca r!o=As.//com quantity,over,one,.
 
 onba r!=mistake,
 
-doba p!o=information of A,
+boca p!o=information of A,
 
 joba r!=cpu,
 
-t!=today.//com this,day,.
+hied t!=today.//com this,day,.
 
 akga r!=money,
 
 noba r!=worker,
 
-ooba r!o,n=thing that enjoy be A.
+bidd r!o,n=thing that enjoy be A.//com pleasure,also,self,.
+
+mlka r!o,n=thing that mind A.//com intend,use,.
 
 poba p!n or s=wages.
 
@@ -1323,21 +1313,21 @@ epba r!o=thing that vote A.
 
 p!o=thing that determine A.
 
-apba=time.
+alba=time.
 
-bpba t!o=A second,
+blba t!o=A second,
 
-cpba t!o=A minute,
+clba t!o=A minute,
 
-dpba t!o=A hour,
+dlba t!o=A hour,
 
-epba t!o=A day,
+elba t!o=A day.
 
-gpba t!o=A week,
+glba t!o=A week,
 
-hpba t!o=A month,
+hlba t!o=A month,
 
-ipba t!o=A year,
+ilba t!o=A year,
 
 ppba =write is until here,
 
@@ -1351,7 +1341,7 @@ fica p!o=thing that finish be A.
 
 o,n=thing that gives birth to A,//com launch,baby,.
 
-kica r!=baby,
+kica r!=baby.
 
 ajca r!n=political party,
 
@@ -1395,7 +1385,7 @@ klca n=let,//of js
 
 olca r!o=terrain of A.
 
-cpmb r!o=thing that dont know A,.//anto know,.
+njob r!o=thing that dont know A,.//anto know,.
 
 fmca r!=video.
 
@@ -1437,8 +1427,6 @@ eonb s=evidence of A.//what,need,know,whether,.
 
 jida r!o=thing that looking for A.
 
-nida p!o-o=between of A and B,
-
 aoad r!=ore.
 
 p:o=age of A.
@@ -1447,7 +1435,7 @@ cjda =novel.
 
 djda =legend.
 
-gjda r!o=thing that sex with A.
+goma r!o=thing that sex with A.
 
 hjda pregnancy.
 
@@ -1473,7 +1461,7 @@ inda o=angular-momentum,
 
 knda o=electric-charge,
 
-mnda ni=plant,
+mnda ni=plant.
 
 clba o-o=thing that promise B to A.
 
@@ -1561,11 +1549,13 @@ glfa o=plan,
 
 p!o=property of A.
 
-bifa o=meter,
+akba v!o=akba.
 
-cifa o=metet^2,
+bkba v!o=A meter.
 
-difa o=meter^3,
+ckba v!o=A metet^2.
+
+dkba v!o=A meter^3.
 
 goic s,s,s,c s=for-loop,//'for(int i=0,i==3;i+=2)'='goicjhadocagphocaglhadocag'
 
@@ -1585,6 +1575,8 @@ mmkd o-o=difference betoween A and B.
 
 =justice.//objectice,equality,.
 
+r!o=thing that discriminates against A.//anto justice
+
 mjdd o=peace.
 
 boob o,n=thing that feel pleasure by A.
@@ -1593,7 +1585,7 @@ gmgd o:who-o:theme=thing that win A.
 
 gmda=sound.
 
-kjge r!o=thing that speak A.//com express,sound,.
+gmkb r!o=thing that speak A.//com express,sound,,ori use,sound,express,.
 
 gmbg=music,//com sound,pleasure,
 
@@ -1607,11 +1599,23 @@ jmob o,n=thing that feel beauty.
 
 fojb =die.
 
-cpjc o=thing that A include,
+colc o=thing that A include,
+
+dmcg A taster.//com sense, a include,.
 
 bida r!o=newton,//pron neoton=stength,
 
 ijca o=thing that for A,//pron en for
+
+ajmd r!=she.//com the,women,.
+
+anae p!o=her A.//com of,she,.
+
+ajde r!=he.//com the,men,.
+
+ajad p!o=his A.//com,he,.
+
+p!o,n=detail of A.
 
 =country.//pron
 
@@ -1623,9 +1627,13 @@ letter//pron kr 글,
 
 enfg o=thing that launch A.//anto inhale,.
 
-nigf o=thing that include A,//anto thing that A include,.
+njef o=thing that include A,//anto thing that A include,.
 
 dome o=thing that fight with A,//anto peace,
+
+nmbg=open.//anto closed.
+
+clob=closed.//lesi closed.
 
 ojbg o,n=thing that feel pain by A.//anto pleasure,.
 
@@ -1653,13 +1661,9 @@ pp=white-doarf,//com white,star,
 
 o=thing that get A./com become,have,.
 
-ajea p!o=that A.//com among,that,
-
 o=thing that impact A,//com reason,shift,
 
 kklb=motionless.
-
-nidg o=thing that know A.//com include,information,
 
 =delete,//com reason,not,real,
 
@@ -1673,7 +1677,7 @@ mnmf c o=c-intersecrion,
 
 =pointed,//what,indicate,omit-2-gramar,
 
-o,n=thing that study A.//com becoming,know.
+okne o,n=thing that study A.//com becoming,know.
 
 nicf s=thing that know situation A.//com know,sen,.
 
@@ -1691,7 +1695,9 @@ o,o=distance,//meter,from-until,
 
 ajec o=pointed A,//com also,pointed,
 
-ajea o=that A.//com also,that,
+o,o=thing that record A at B.
+
+ajea o=the A.//com also,the,.
 
 =gay,//hope,breed,gender,self,.
 
@@ -1699,7 +1705,7 @@ eokb =language,//com what,need,express,o2,
 
 o=bye,//com command,around,not,i,
 
-fleg=nl,//com normal,language,.
+fleg=norlang.//com normal,language,.
 
 o=type,//diffrence,one,
 
@@ -1739,13 +1745,17 @@ ajba=higgs boson,
 
 bjba=top quark,
 
+moke o,n=thing that angry at A.//com hope,reason,abnormal,
+
 kjif o-o=thing that give A to B.//com reason,have,
 
-kjna o-o=thing that teach A to B.//com reason,know,
+gjne o-o=thing that teach A to B.//com reason,know,
 
 kjde o,o=thing that shows A to B.//com reason,sense,
 
 o,n=kind,
+
+lica p!o=inverse of A.
 
 o=symbol that convert A into and type.
 
@@ -1755,21 +1765,21 @@ mmfd o,n=thing that love A by B percent.//com hope,normal,
 
 =side,
 
-amkg o,o=weak,//com energy,less,
+amkg o=weak,//com energy,less,
 
-amfh o,o=strong,//com energy,more,
+amfh o=strong,//com energy,more,
 
-bmkg o-o=short,//com meter,less,
+bmkg o=short,//com meter,less,
 
-bmfh o-o=long,//com meter,more,
+bmfh o=long,//com meter,more,
 
-cmkg o-o=narrow,//com meter2,less,
+cmkg o=narrow,//com meter2,less,
 
-cmfh o-o=wide,//com meter2,more,
+cmfh o=wide,//com meter2,more,
 
-dmkg o-o=small,//com meter3,less,
+dmkg o=small,//com meter3,less,
 
-dmfh o-o=big,//com meter3,more,
+dmfh o=big,//com meter3,more,
 
 angf o=front of A.
 
@@ -1803,9 +1813,11 @@ s,m=thing that calculate A,//intend,know,
 
 o,o,n=thing that moved from A to B,
 
-mmna o,n=think that wonder about A,//com hope,know,
+mmnb o,n=think that wonder about A,//com hope,know,
 
-o,n=thing that want to sex with A,//com,
+mmgg o,n=thing that want to sex with A,//com hope,sex.
+
+p!c int=compounf word of A1 and A2.
 
 o:into,o,n=thing that change A to B.//com reason,become,
 
@@ -1971,29 +1983,31 @@ email(feedback etc): gwahagsinsa@gmail.com
 
 rule{
 
-This language is not complete and is constantly changing, so you must indicate the version when using it like 'nl60125'(6m1d25y) month->day->year.
-
-if you should use integer 0, but 0 is expressed as 'aa' then trash bit is appear. then 'ba' is 0.
+This language is not complete and is constantly changing, so you should indicate the version when using it like 'nl60125'(6m1d25y) month->day->year.
 
 license{
 
-version:61525
+nl version:62125
 
 license can be changed.
 
-this document and language have copyright.
+this document and norlang have copyright.
 
-legal residents of europe and usa and canada and austrailia and japan can use it as free.
+You can use norlang legally for free.
 
-Attribution to the original creator (artificial Language NL by JSM) is required in any use or publication.
+you cant edit norlang.(eg chaing grammar and word)
+
+but only large corporations must pay 100000dollar adjusted to 2025 value to use norlang per year.(paypal)
+
+but large corporations of germany and laos and rwanda and hoduras dont need to pay.
+
+The standards of large corporations are determined by the rules of their countries.
 
 Violation of these terms may result in legal action under applicable international copyright laws.
 
 This license is subject to change. Future versions may alter terms and apply to future releases of the language.
 
 Users must comply with the license version associated with the version of the language they received.
-
-}artificial language NL
 
 }license
 
@@ -2008,6 +2022,8 @@ it is eficency.
 10000000=+0.
 11000000=+1.
 01000000=-1.
+
+if you should use integer 0, but 0 is expressed as 'aa' then trash bit is appear. then 'ba' is 0.
 
 }number
 
@@ -2048,7 +2064,7 @@ word formation rule{
 
 word that need parameter{
 
-1:meaning of word whose parameter is all is what other word can express.
+1:meaning of word whose parameter is all or nothing is what other word can express.
 
 2:relative word.
 
@@ -2058,7 +2074,7 @@ test sentence{
 
 input word your wonder to @.
 
-Forgotten @ repeats itself.(ex history word dont need parameter. try input history of. is it owe?)
+Forgotten @ repeats itself.(eg history word dont need parameter. try input history of. is it owe?)
 
 people in @ love you.
 
@@ -2076,7 +2092,7 @@ word that should come first{
 
 priority-est is
 
-1.low number:can(0%)->cant,
+1.low number:low->many.
 
 2.original:desire()->desire(not).
 
@@ -2117,7 +2133,7 @@ small bit word is first in situation whose order doesn't matter.
 
 other{
 
-if NL have problem NL is changed never mind other.
+if norlang have problem norlang is changed never mind other.
 
 Creator Verification Code:'20@@0226@017128.
 pn:@@05139@@@8 in 2024/11/18. JSM. SE. GIGADESADE. GOHW. SEMI'.
@@ -2153,6 +2169,68 @@ using NL ipa.
 /•pa/ similar to /bbua/ than /pupua/.
 
 is it lowest herz?{
+
+voice recoder(app name is sound){
+
+m(2400hz,13db)
+
+g(3700hz,12)
+
+kk(3700hz,10)
+
+k(3700hz,18db), (2325hz, 18db)v
+
+b
+
+n(5500hz,17db)
+
+l(7400hz,12db)
+
+d(7400hz,10db)
+
+tt(3700hz,22db)v
+
+pp(3854hz,18db)v
+
+t(5500hz,11db)v
+
+p(3700hz,18db), (14000hz 18db)v
+
+s(14000,16db) (3639hz 14db)v, (28000hz 10db)v
+
+ss(3300hz,28db)v
+
+j(21000hz,10db)v
+
+jj(7400hz 22db)v
+
+ch(21253hz,13db)v
+
+oo,o,eo(3.7khz,3db),eu(7.4khz,5db),a,e,i,.
+
+}voice recoder(app name is soound)
+
+frequency generator{
+
+m(100hz)
+
+b(130hz)
+
+l(150hz)
+
+g(170hz)
+
+d(250hz)
+
+n(480hz)
+
+kk(1000hz)
+
+tt(1500hz)
+
+pp(2300hz)
+
+}frequency generator
 
 my think{
 
@@ -2215,29 +2293,43 @@ ae anga de de bf ih oa ad' is 'people also 0' and 'people also me' but we couldn
 
 word order{
 
-discuss(20250615){
+discuss(20250621){
 
-OVS can have error ex 'ka bg
+advatage{
 
 OVS{
 
 omitting parameter without ad.
 
-math expression efficient.
+math expression efficient?
 
-this is people is not efficient.
-
-int tpye isnt adapted.
+Reverse Polish Notation (RPN) offers advantages over Polish Notation (PN) primarily in processing and storage efficiency, particularly in calculator implementations and compiler design. RPN simplifies the evaluation process by using a stack-based approach, requiring less complex logic and potentially reducing memory usage compared to PN. Additionally, RPN can be more efficient for complex calculations and is less prone to errors when entering equations
 
 }OVS
 
 VOS{
 
-efficient what
+efficient for ea(what).
+
+it can express image as efficient.
+
+sentence 'this is people' is efficient.
+
+good for int type parameter.
+
+interpret with certainty.
 
 }VOS
 
-Reverse Polish Notation (RPN) offers advantages over Polish Notation (PN) primarily in processing and storage efficiency, particularly in calculator implementations and compiler design. RPN simplifies the evaluation process by using a stack-based approach, requiring less complex logic and potentially reducing memory usage compared to PN. Additionally, RPN can be more efficient for complex calculations and is less prone to errors when entering equations
+}advantage
+
+result{
+
+i decide to use VOS.
+
+}result
+
+}discuss
 
 }word order
 
@@ -2433,4 +2525,4 @@ decrease/gain<(1'2.,2,2,3,13>,
 
 }WL,
 
-}NL(Normal Language)
+}norlang
