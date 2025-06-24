@@ -87,9 +87,9 @@ norlang uses only lowercase letters.
 
 more efficient alphabet is here(only pdf user can see. bottom to top writting alphabet):
 
-* 8n-th bit determines length of word.
+8n-th bit determines length of word.
 
-8n-th bit 1 make the word consist of more bit.(eg sentence '{0000101(1)0110000(0)}{0111000(0)}' consist of two words.
+* 8n-th bit 1 make the word consist of more bit.(eg sentence '{0000101(1)0110000(0)}{0111000(0)}' consist of two words.
 
 between '(' and ')' is 8n-th bit.
 
@@ -101,7 +101,7 @@ the example converted to latin letter is 'anga oa'.
 
 so it deosnt need whitespace cuz the 8n-th bit 0 plays the same role as whitespace in English.
 
-but ill use whitespace to make you easily understand.
+but i will use whitespace to make you easily understand.
 
 pronunciation{
 
@@ -187,9 +187,11 @@ eg 'djca   aoad' mean 'ore is solid'.
 
 'jd bd   oa' mean 'i think you', 'thing that think you is me'.
 
+'jd' mean 'thing that think'.
+
 * 'jd' is function that must have parameter so 'jd bd' is one object.
 
-'bd' mean 'i' so 'jd bd' mean 'thing that think you'.
+'bd' mean 'you' so 'jd bd' mean 'thing that think you'.
 
 'oa' mean 'i'.
 
@@ -243,7 +245,7 @@ between '!' and '=' is parameter that this function must have.
 
 any object can be in object type parameter.
 
-capital letter in far right is input value of parameter of this function.
+'A' in right hand side is first input value of parameter of this function.
 
 eg 'jd oa' mean 'thing that think me'.
 
@@ -253,9 +255,9 @@ eg 'jd oa' mean 'thing that think me'.
 
 'si' is abbreviation for 'sign'.
 
-'si' type word dont interface all words.
+'si' type words don't interface with all words.
 
-eg sentence 'jd pc bd oa' mean 'jd bd oa' cuz word dont interface 'si' type word.
+eg sentence 'jd pc bd oa' means 'jd bd oa' because the word doesn't interface with 'si' type words.
 
 You can use 'pc' word to continue what you were saying before.
 
@@ -273,7 +275,7 @@ any word can be in object type parameter.
 
 ad si!=symbol that omit one parameter.
 
-paramrter of 'jd' is omitted by 'ad'.
+parameter of 'jd' is omitted by 'ad'.
 
 }
 
@@ -319,17 +321,17 @@ eg 'ha fojb' is reality type cuz fojb is reality type object.
 
 }
 
-'ka 2p!o-o-n=thing that become B using A.'{
+'ge 2p!o-o-n=thing that become B using A.'{
 
 '2p' mean '2rd parameter'.
 
 type of 2rd input value determines type of this word.
 
-eg type of 'ka oa kjgg' is reality type object cuz 'kjgg' is reality type object.
+eg type of 'ge oa kjgg' is reality type object cuz 'kjgg' is reality type object.
 
-The symbol '-' means that if the parameter is omitted by symbol that omit parameter, the next parameter is omitted too.
+The symbol '-' means that if the parameter is omitted by symbol that omit parameter then the next parameter is omitted too.
 
-you can omit all parameter of 'ka' with only one 'ad'.
+you can omit all parameter of 'ge' with only one 'ad'.
 
 }
 
@@ -539,9 +541,9 @@ second is for finish 'bf'.
 
 }<symbol that omit parameter>
 
-'ka  af oa bode  dmea bd'='i see you using my eye', 'thing that become thing that see you using eye of me'{
+'ge  af oa bode  dmea bd'='i see you using my eye', 'thing that become thing that see you using eye of me'{
 
-ka 2p!o-o-n=thing that become B using A.
+ge 2p!o-o-n=thing that become B using A.
 
 af 2p!o-o=B of A.//com also,element-of,.
 
@@ -705,7 +707,7 @@ then antonym of 'he' seems 'ih' but 'ag'~'ph' is for number.
 
 word like 'element' is called 'former word'.
 
-'gidd o-o-n=thing that should be A to be B,//need,also,self,.'{
+'gidd o-o-n=thing that should be A to be B,//com need,also,self,.'{
 
 gljb o-<o,n>=thing that need A to be B.
 
@@ -716,6 +718,32 @@ dd c=self.
 The floor of 16 divided by 3 is 5.
 
 But the length of element word in the compound word must be a power of 2.
+
+}
+
+'anae p!o=her A.//com of,she,.'{
+
+ajmd r!=she.//com the,women,.
+
+compound word of 'of' and 'she' seems 'anab'.
+
+but word 'anab' already exsit.
+
+element of compound word is split.
+
+'of' word have already splited cuz it is already compound word.
+
+af 2p!o-o=B of A.//com also,element-of,.
+
+take initial of 'ajea mlmb'.
+
+it is 'a m'.
+
+and Set the 8th bit to 0
+
+so result is 'ae'.
+
+'an'+'ae'='anae'.
 
 }
 
@@ -805,11 +833,11 @@ eg 'cb ad ih' mean 'quantity of 0'.
 
 <mathematical expression>{
 
-'mmfd cd ph'='i love you with 100percent intensity'{
+'mmfd bd ph'='i love you with 100percent intensity'{
 
 }
 
-'lh nh ph'='1+2=3'{
+'mg lh nh ph'='1+2=3'{
 
 }
 
@@ -868,7 +896,19 @@ if you wanna draw bigger NL QR, draw 1010000000000011 or 1010000000000000.......
 
 quiz{
 
+1.meang of sentence 'fc ea jd bd'.
+
+2.translate 'hello my name is gociba' to norlang.
+
+3.meaning of sentence 'coob ea jb bd'.
+
 answer{
+
+1.What are you thinking?
+
+2.fmeg. gociba coea oa.
+
+3.I don't know what you're thinking.
 
 }answer
 
@@ -878,13 +918,11 @@ answer{
 
 word dictionary{
 
-word{
-
 aa si!=finish-all,
 
 ba si!=whitespace.
 
-ca v!o=freeze function.
+ca
 
 da si!=enter.
 
@@ -900,7 +938,7 @@ ia
 
 ja s=whether A is true.//zero is true.cuz true is important.exist made false.one is exist.
 
-ka p!o-o-n=thing that become B using A.
+ka p!o,n=thing that tends to become A.
 
  n=symbol-that-change-language,//MTCL.
 ni:proton,ni:neutron,ni:electron=atom
@@ -945,7 +983,7 @@ gb p!s-n=reason of A,
 
 hb p!o,n=thing that can be A with B percent probability.//bisi becoming.
 
-ib
+ib v!o=freeze function.
 
 jb p!o=thing that was A.//cant com b when a,past,o,.
 
@@ -953,13 +991,13 @@ kb p!o=thing that express A,
 
 lb
 
-mb
+mb=1p!t-o=thing that be B when A.
 
  p!o=average of A.
 
-nb o=thing that know A.//com include,information,
+nb o=thing that know A.//com include,code,
 
-ob
+ob t!=now.
 
 pb
 
@@ -973,15 +1011,13 @@ cc si!=symbol that omit three parameter.
 
 dc si!=symbol that omit four parameter.
 
-ec r!<o-o>-n=how B become A.//what,should,
+ec r!<o-o>-n=how B become A.//what,need to,
 
  n,{n,n,n}...=molecule,
 
 fc r!o,o=thing that ask B about A,//com command,reply,
 
 gc p!o=thing that will be A.//anto A of past,.
-
- o,n=say,
 
 hc
 
@@ -993,13 +1029,15 @@ ic p!o-o=intersection of A and B,//com also,A include,A include,
 
 jc p!s-n=what happens if A2 is A1.//anto reason.
 
-kc p1!o-o=B which is called A.
+kc int-int...:1p=thing that says A.//com express,str,.
 
-lcp!o=but.//com inverse,that a2 is a1,.
+ p1!o-o=B which is called A.
+
+lc p!o=but.//com inverse,that a2 is a1,.
 
  !int-int-para...=too function.
 
-mc=1p!t-o=thing that be B when A.
+mc//mean com what,2,.
 
  !n,o=B that has id A,
 
@@ -1037,7 +1075,7 @@ hd p!=word.
 
 id r!=each other.//com what,interface,self,.
 
-jd r!thing that think A.
+jd r!o=thing that think A.
 
 kd
 
@@ -1046,8 +1084,6 @@ ld c int=norlang ipa.
 md p!o,n=thing that intend be A.
 
 nd
-
- t!=now.
 
  n,int...=phonetic.
 
@@ -1073,7 +1109,9 @@ fe r!o,o,t=thing that prohibit B from being A.//com command,not,
 
  o=text,
 
-ge p!n,o=thing that similar to A.
+ge p!o-o-n=thing that become B using A.
+
+ p!n,o=thing that similar to A.
 
 he by p!o=element of A,//include promise.
 
@@ -1103,8 +1141,6 @@ ne n or r!o=location of A.
 
 oe p!o=thing that become A.
 
-p!o=thing that tends to become A.
-
 pe o!int=word_as_situation_and_id.
 
 af 2p!o-o=B of A.//com also,element-of,.
@@ -1129,7 +1165,7 @@ if r!o=thing that have A.//anto element,.including promise
 
 jf r!s=thing that know A is true.//com know,sen,true,whether,.
 
-kf r!o,o=thing that reply to A by saying B..//anto ask,
+kf r!o,o=thing that reply to B by saying A..//anto ask,
 
 lf
 
@@ -1147,27 +1183,29 @@ ag
 
 bg n!int:-1 in minus=integers,
 
-cg n!int=value,
+cg v!int-int...=str.
 
-dg n!o-o=and A B.
+ n!int=value.
 
-eg n!int-n:int=real number,
+dg
 
-fg n!o-o=or A B.
+eg
 
-gg n!o-o=xor A B.
+ n!int-n:int=real number.
 
-hg n!o-o=nor A B.
+fg
 
-ig
+gg n!o=not A.
+
+hg n!o-o=and A B.
+
+ig n!o-o=xor A B.
 
 n!=other-math,
 
-jg
+jg n!o-o=nor A B.
 
 kg n!o=less than A,//A>
-
- int-int...=string,
 
 lg n!o=bellow than A,//A>=
 
@@ -1216,8 +1254,6 @@ nh n!=2,
 oh n!=-3,
 
 ph n!=3,
-
-etc{
 
 glea p!n=n-th word,
 
@@ -1287,15 +1323,15 @@ inba p!o=A dollar,
 
 !o=thing that never be A.//com not,all,A of past.
 
-jnca r!o=As.//com quantity,over,one,.
+cnca r!o=As.//com quantity,over,one,.
 
 onba r!=mistake,
 
-boca p!o=information of A,
+anbg p!o=information of A.//of,code,
 
 joba r!=cpu,
 
-hied t!=today.//com this,day,.
+elha t!=today.//com this,day,.
 
 akga r!=money,
 
@@ -1303,7 +1339,7 @@ noba r!=worker,
 
 bidd r!o,n=thing that enjoy be A.//com pleasure,also,self,.
 
-mlka r!o,n=thing that mind A.//com intend,use,.
+mlge r!o,n=thing that mind A.//com intend,use,.
 
 poba p!n or s=wages.
 
@@ -1313,7 +1349,7 @@ epba r!o=thing that vote A.
 
 p!o=thing that determine A.
 
-alba=time.
+alba t!=time.
 
 blba t!o=A second,
 
@@ -1353,7 +1389,7 @@ djca r!=solid,
 
 ijca r!=book,
 
-mjca r!o,o,n=thing that write A at B,
+dlkb r!o,o,n=thing that write A at B.//letter,express,.
 
 dmea r!o=thing that see A.//com sense,light,
 
@@ -1423,7 +1459,7 @@ hida
 
 gida p!o=limit of A,
 
-eonb s=evidence of A.//what,need,know,whether,.
+eonb v!s=evidence of A.//what,need,know,true,.
 
 jida r!o=thing that looking for A.
 
@@ -1667,7 +1703,7 @@ kklb=motionless.
 
 =delete,//com reason,not,real,
 
-ajab c o=c also,//com also,also,
+ajab c o=A1 also A2 also...//com also,also,
 
 akac c o=c-of,//com of,of,
 
@@ -1685,9 +1721,9 @@ gjfd o,n=thing that normalize A.//com reason,normal,.
 
 o,n=break,
 
-jidd o-o-n=thing should not be A to be B.//com not-need,also,self,
+jpme o-o-n=thing that dont need to be A to be B.//anto need to,.
 
-gidd o-o-n=thing that should be A to be B,//need,also,self,
+gidd o-o-n=thing that need to be A to be B.//com need,also,self,
 
 fmeg r!o=thing that greets A.//pron de ade,.
 
@@ -1701,7 +1737,7 @@ ajea o=the A.//com also,the,.
 
 =gay,//hope,breed,gender,self,.
 
-eokb =language,//com what,need,express,o2,
+eokb =language,//com what,use,express,o2,
 
 o=bye,//com command,around,not,i,
 
@@ -1749,9 +1785,9 @@ moke o,n=thing that angry at A.//com hope,reason,abnormal,
 
 kjif o-o=thing that give A to B.//com reason,have,
 
-gjne o-o=thing that teach A to B.//com reason,know,
+gjnb o-o=thing that teach A to B.//com reason,know,
 
-kjde o,o=thing that shows A to B.//com reason,sense,
+gjde o,o=thing that shows A to B.//com reason,sense,
 
 o,n=kind,
 
@@ -1759,7 +1795,7 @@ lica p!o=inverse of A.
 
 o=symbol that convert A into and type.
 
-dnfd o,n=thing that hate A,//com dread,normal,
+dnfd o,n=thing that hate A.//com dread,normal,
 
 mmfd o,n=thing that love A by B percent.//com hope,normal,
 
@@ -1769,17 +1805,17 @@ amkg o=weak,//com energy,less,
 
 amfh o=strong,//com energy,more,
 
-bmkg o=short,//com meter,less,
+bmkg o=thing that shorter than A.//com meter,less,
 
-bmfh o=long,//com meter,more,
+bmfh o=thing that longer than A.//com meter,more,
 
-cmkg o=narrow,//com meter2,less,
+cimkg o=thing that narrower than A,//com meter2,less,
 
-cmfh o=wide,//com meter2,more,
+cmfh o=thing that wider than A,//com meter2,more,
 
-dmkg o=small,//com meter3,less,
+dmkg o=thing that smaller than A.//com meter3,less,
 
-dmfh o=big,//com meter3,more,
+dmfh o=thing that beigger than A.//com meter3,more,
 
 angf o=front of A.
 
@@ -1803,7 +1839,7 @@ changed.//com become,not,A be,self,.
 
 o=human-race,
 
-kked r!o=thing that denies A.//com express,sen,not,true,.
+kkeb r!o=thing that denies A.//com express,sen,not,true,.
 
 nmmg s=thing that understand A.//com know,what,mean,.
 
@@ -1837,7 +1873,7 @@ enter,space=see-back,
 
 boba=we.//com and,i,you,o,
 
-o,n=yes,//com
+kjbb o,n=yes,//com express,know a is true,true,
 
 boda r!=body.//lesi body.
 
@@ -1845,7 +1881,7 @@ bode r!=eye.//com body,see,.
 
 gnhb
 
-r!=code.
+boca o!=code.
 
 o=gender,//com breed
 
@@ -1861,10 +1897,6 @@ role.
 o=earth-war,//com fight,earth,
 
 o=treaty-organization,
-
-}etc
-
-}word
 
 id{
 
@@ -1995,11 +2027,9 @@ this document and norlang have copyright.
 
 You can use norlang legally for free.
 
-you cant edit norlang.(eg chaing grammar and word)
+you cant edit norlang.(eg chaing grammar, but you cant make new word but that new word is not official)
 
-but only large corporations must pay 100000dollar adjusted to 2025 value to use norlang per year.(paypal)
-
-but large corporations of germany and laos and rwanda and hoduras dont need to pay.
+but only large corporations and country must pay 500000dollar adjusted to 2025 value to use norlang per year except it of germany and laos and rwanda and honduras dont need to pay.(pay in january 1day. in 2025, it is 500000dollar)
 
 The standards of large corporations are determined by the rules of their countries.
 
@@ -2124,6 +2154,14 @@ if length of bit of element of compound word is not power of two, element of com
 small bit word is first in situation whose order doesn't matter.
 
 }compound word
+
+word formation rule that should be used first{
+
+if length of element of compound word is over half of all then use compound word->antonym
+
+other:antonym->compound word
+
+}word formation rule that should be used first
 
 }word formation rule
 
@@ -2274,6 +2312,10 @@ mnvbdqlcjxzptk'p't'k'c'j
 mnlbqdcxjzptk'k't'p'j'c
 
 uyoraeiw'u'w'y'i'o'r'a'e
+
+tɕ:4000~8000hz
+
+s͈:3000~7000hz
 
 }others think
 
