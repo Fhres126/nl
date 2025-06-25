@@ -1,3 +1,5 @@
+This document includes research data, so it is quite large. It is sufficient to read about 50 percent of the document.
+
 I recommend that you view it as a pdf and dark mode(for font and image): https://github.com/Fhres126/nl/blob/main/nl.pdf
 
 if that link dont work: https://glki.netlify.app/nl.pdf
@@ -131,23 +133,23 @@ it is arranged with lower Hz sounds coming first.(eg m(100hz) < s(14000hz))
 
 so it is not biased toward any specific culture.
 
-a:'moo'. b:'bo'. c:'leo'. d:'geu'.
+a:'moo'. b:'bo'. c:'geo'. d:'leu'.
 
-e:'da'. f:'nae'. g:'kki'. h:'ttwo'.
+e:'da'. f:'nae'. g:'ppi'. h:'kkwo'.
 
-i:'ppoom'. j:'kom'. k:'teom'. l:'peum'.
+i:'ttoom'. j:'pom'. k:'keom'. l:'teum'.
 
-m:'sam'. n:'jaem'. o:'ssim'. p:'jjwae'.
+m:'jam'. n:'jjaem'. o:'chim'. p:'swae'.
 
 IPA version{
 
-a:'mu'. b:'bo'. c:'ɾʌ'. d:'gɯ'.
+a:'mu'. b:'bo'. c:'gʌ'. d:'ɾɯ'.
 
-e:'da'. f:'nɛ'. g:'k͈i'. h:'t͈wʌ'.
+e:'da'. f:'nɛ'. g:'p͈i'. h:'k͈wʌ'.
 
-i:'p͈um'. j:'kʰom'. k:'tʰʌm'. l:'pʰɯm'.
+i:'t͈um'. j:'pom'. k:'kʌm'. l:'tɯm'.
 
-m:'sam'. n:'tɕɛm'. o:'s͈im'. p:'t͈ɕwɛ'.
+m:'tɕam'. n:'t͈ɕɛm'. o:'t͡ʃim'. p:'swɛ'.
 
 }IPA version
 
@@ -441,7 +443,7 @@ dmea r!o=thing that see A.//com sense,photon,.
 
 'fc  ec  gjkb  ha anga  boba'='how do we save this person?', 'thing that ask you about how we become thing that save this people is me'{
 
-ec r!s-n=how A2 become A1.
+ec r!s-n=how A2 become A1.//com what,need to,.
 
 gjkb r!o,n=thing that save A.//com reason,alive,.
 
@@ -1077,7 +1079,7 @@ id r!=each other.//com what,interface,self,.
 
 jd r!o=thing that think A.
 
-kd
+kd r!o=thing that make A.//com reason,A include,real,.
 
 ld c int=norlang ipa.
 
@@ -1255,99 +1257,295 @@ oh n!=-3,
 
 ph n!=3,
 
-glea p!n=n-th word,
+by word formation rule{
 
-bmba r!=world.
+anto{
+
+dmdg r!=men.//anto women.
+
+fjdg o,n=thing that feel uncomfortable be A.//anto comfortable.
+
+nmbg=open.//anto closed.
+
+njdg p!n=thing that split into A.//anto combination.
+
+ojbg o,n=thing that feel pain by A.//anto pleasure,.
+
+kjgg n=alive,//anto die,
+
+epjg o,n=no,//anto yes,
+
+glbg o,n=thing that think that A is ugly,//anto ugly.
+
+jkdg o=thing that think A is friend.//anto enemy,
+
+jlje o:who-o:theme=lose,//anto win,.
+
+jpme o-o-n=thing that dont need to be A to be B.//anto need to,.
+
+enfg o=thing that launch A.//anto inhale,.
+
+njef o=thing that include A,//anto thing that A include,.
+
+dome o=thing that fight with A,//anto peace,
+
+jmgg o,o,n=thing that dont need A to B.//anto need.
+
+r!o=thing that discriminates against A.//anto justice
+
+fneg=shift,//anto motionless,
+
+}anto
+
+com{
+
+mlde r!o=thing that looking for A.//com intend,sense,
+
+r!=food,//com what,inhale,also,normal,animal,.
 
 cnad=situation.//com sen,o,.
 
-ekke r!=logic.//how,true,situation,.
-
-cjba r!=transistor,
-
-bjda r!=god,//pron ru bog
-
-ojda r!=crops,
+ekke r!=logic.//com how,true,situation,.
 
 bjia r!=true.//com return value,whether,zero,zero,.
 
-jjba r!=real.
-
-kjba=empire,
-
-ljba r!=shop,
-
-r!o=thing that famous in A,
-
-ba r!=app,
-
-r!=game,
-
-r!=ideology,
-
-r!=scholarship,
-
-gkba r!n=job,
-
-mkba r!=city,
-
-nkba
-
-elph r!o=thing that focus be A.//com intend,ph,.
-
-dlba r!o=map of A,
-
-elba r_int=digit,
-
-flba r_s:purpose-s,n=thing that efficient than B for be A,
-
-eida o!=the thing.
-
-bmba r!o=south of A.
-
-cmba r!o=west of A.
-
-dmba r!o=north of A.
-
-emba r!o=east of A.
-
-hmba r!=home.
-
-kmba r!o,o=think that thankful that A is B.
-
-lmba r!o=thing that revenge A.
-
-nmba r!o=entropy,
-
-inba p!o=A dollar,
-
-!o=thing that never be A.//com not,all,A of past.
+mlph r!o=thing that focus be A.//com intend,ph,.
 
 cnca r!o=As.//com quantity,over,one,.
 
-onba r!=mistake,
+gidd o-o-n=thing that need to be A to be B.//com need,also,self,
 
-anbg p!o=information of A.//of,code,
+gjfd o,n=thing that normalize A.//com reason,normal,.
 
-joba r!=cpu,
+gjfg o,n=thing that kill A.//com reason,die,.
 
-elha t!=today.//com this,day,.
+=phonetic-alphabet,//com express,sound,alphabet,
 
-akga r!=money,
+white-doarf,//com white,star,
 
-noba r!=worker,
+dmcg r!o=A taster.//com know, a include,.
+
+s=but.//com reverse,sen
+
+ejba=objective.//what,beilive,true,logic,.
+
+ongg o=thing that go in A.//com go,inside,.
+
+eonb v!s=evidence of A.//what,need,know,true,.
+
+mlgf r!o,n=thing that feel angry by A.//com intend,ruin,.
+
+mlgb r!s,n=thing that help A,//com intend,reason,
+
+kjkc r!=thing that laughs.//com,express,fun,
+
+clkb r!o,o,n=thing that write A at B.//letter,express,.
+
+dmea r!o=thing that see A.//com sense,light,
+
+o,n=thing that gives birth to A,//com launch,baby,.
 
 bidd r!o,n=thing that enjoy be A.//com pleasure,also,self,.
 
 mlge r!o,n=thing that mind A.//com intend,use,.
 
-poba p!n or s=wages.
+hied t!=today.//com this,day,.
 
-apga r!n=company.
+anbg p!o=information of A.//of,code,
 
-epba r!o=thing that vote A.
+amkg o=weak,//com energy,less,
 
-p!o=thing that determine A.
+amfh o=strong,//com energy,more,
+
+bmkg o=thing that shorter than A.//com meter,less,
+
+bmfh o=thing that longer than A.//com meter,more,
+
+cimkg o=thing that narrower than A,//com meter2,less,
+
+cmfh o=thing that wider than A,//com meter2,more,
+
+dmkg o=thing that smaller than A.//com meter3,less,
+
+dmfh o=thing that beigger than A.//com meter3,more,
+
+o-o=distance of between A and B,//meter,from-until,
+
+ajec o=pointed A,//com also,pointed,
+
+ajea o=the A.//com also,the,.
+
+o=type,//com diffrence,one,
+
+moke o,n=thing that angry at A.//com hope,reason,abnormal,
+
+gjif o-o=thing that give A to B.//com reason,have,
+
+gjnb o-o=thing that teach A to B.//com reason,know,
+
+gjde o,o=thing that shows A to B.//com reason,sense,
+
+dnfd o,n=thing that hate A.//com dread,normal,
+
+mmfd o,n=thing that love A by B percent.//com hope,normal,
+
+ajmd r!=she.//com the,women,.
+
+anae p!o=her A.//com of,she,.
+
+ajde r!=he.//com the,men,.
+
+ajad p!o=his A.//com,he,.
+
+gmkb r!o=thing that speak A.//com sound,express,,ori use,sound,express,.
+
+gmbg=music.//com sound,pleasure,
+
+=gay,//com hope,breed,gender,self,.
+
+eokb=language,//com what,use,express,o2,
+
+o=bye,//com command,around,not,i,
+
+fleg=norlang.//com normal,language,.
+
+p!c int=compounf word of A1 and A2.//com combination,word,
+
+boba=we.//com and,i,you,o,
+
+kjbb o,n=yes,//com express,know a is true,true,
+
+bode r!=eye.//com body,see,.
+
+o=gender,//com breed
+
+o=water-per,//com intersection,water,
+
+dmge o,n=thing that listen A.//com sense,sound,.
+
+o=thing that get A./com become,have,.
+
+o=thing that impact A,//com reason,shift,
+
+=thing that delete A.//com reason,not,real,
+
+ajab c o=A1 also A2 also...//com also,also,
+
+=justice.//com objectice,equality,.
+
+akac c o=c-of,//com of,of,
+
+c o=c-by,//com by,by,.
+
+ikic c o=c-intersecrion.//com intersection,intersection,.
+
+=pointed,//com what,indicate,omit-2-gramar,
+
+okne o,n=thing that study A.//com becoming,know.
+
+nicf s=thing that know situation A.//com know,sen,.
+
+gjkb r!o-n=thing that heal A,//com reason,alive,
+
+o=features of A,//com difference,average,self,
+
+o:into,o,n=thing that change A to B.//com reason,become,s,m
+
+njbb r!o=thing that calculate A,//com know,retuen value,.
+
+o,o,n=thing that moved from A to B,//com
+
+mmnb o,n=think that wonder about A,//com hope,know,
+
+mmgg o,n=thing that want to sex with A,//com hope,sex.
+
+jmbb r!o=thing that denies A.//com know a is true,not,true,.
+
+nmpg s=thing that understand A.//com know,what,mean,.
+
+o,n=thing that think that think A is cute,//com know a is true,baby,.
+
+}com
+
+order{
+
+dica p!o=thing that start be A.
+
+eica p!o,n=thing whose A is middle.
+
+fica p!o=thing that finish be A.
+
+aiba=elementary particle.
+
+biba=electron neutrino,
+
+ciba=muon neutrino,
+
+diba=tau neutrino,
+
+eiba=photon,
+
+fiba=gluon,
+
+giba=electron,
+
+hiba=up quark,
+
+iiba=down quark,
+
+jiba=strange quark,
+
+kiba=muon,
+
+liba=charm quark,
+
+miba=tau,
+
+niba=bottom quark,
+
+oiba=o boson,
+
+piba=z boson,
+
+ajba=higgs boson,
+
+bjba=top quark,
+
+angf o=front of A.
+
+bngf o=front left of A.
+
+cngf o=left-of,
+
+dngf o=behind-left-of,
+
+engf o=befind-of,
+
+fngf o=behind-right-of,
+
+gngf o=right-of,
+
+hngf o=front-right-of,
+
+bkba v!o=A meter.
+
+ckba v!o=A metet^2.
+
+dkba v!o=A meter^3.
+
+niea o=thing that eat A.
+
+oiea o=thing that cheo A.
+
+piea o=thing that gulp doon A,
+
+ajea o=thing that digest A,
+
+=excrete.bjca r!=gas,
+
+cjca r!=liquid,
+
+djca r!=solid.
 
 alba t!=time.
 
@@ -1365,43 +1563,167 @@ hlba t!o=A month,
 
 ilba t!o=A year,
 
-ppba =write is until here,
+bmba r!o=south of A.
 
-aica r!n=mosfet,
+cmba r!o=west of A.
 
-dica p!o=thing that start be A.
+dmba r!o=north of A.
 
-eica p!o,n=middle of A.
+emba r!o=east of A.
 
-fica p!o=thing that finish be A.
+}order
 
-o,n=thing that gives birth to A,//com launch,baby,.
+lesi{
 
-kica r!=baby.
+boda r!=body.//lesi body.
+
+clob=closed.//lesi closed.
+
+}lesi
+
+bisi{
+
+}bisi
+
+bsf{
+
+}bsf
+
+pron{
+
+letter//pron kr 글,
+
+fmeg r!o=thing that greets A.//pron de ade,.
+
+pofg thing that mean A.//pron fr signifier.
+
+figa r!o=newton,//pron en newton,,stength,
+
+gjda o=thing that for A,//pron en for
+
+dmga=country.//pron de country,
+
+anga=people//pron de mensch,
+
+kkod =heart,//pron en hearts,.
+
+kmga=thing that feel emotion.//pron jp kanjou.
+
+fnfg animal.//pron en animal.
+
+bjca r!=god,//pron ru bog
+
+}pron
+
+}by word formation rule
+
+Randomly generated words(no word formation rule){
+
+//rg
+
+mlmb r!=women.
+
+bmba r!=world.
+
+cjba r!=transistor.
+
+ojda r!=crops.
+
+djba r!=real.
+
+kjba=empire.
+
+ljba r!=shop.
+
+r!o=thing that famous in A.
+
+r!=app.
+
+komb o,n=something that feels comfortable be A.
+
+boca o!=code.
+
+o,n=kind of A.
+
+lica p!o=inverse of A.
+
+o=symbol that convert A into and type.
+
+kklb=motionless.
+
+coea o=name of A.
+
+gljb o-<o,n>=thing that need A to be B.
+
+jmob o,n=thing that feel beauty.
+
+gmnb o=thing whose enemy is A.
+
+mjdd o=peace.
+
+boob o,n=thing that feel pleasure by A.
+
+gmgd o:who-o:theme=thing that win A.
+
+gmda=sound.
+
+fojb =die.
+
+colc o=thing that A include.
+
+bnda r!o=thing that indicate A.
+
+p!o,n=detail of A.
+
+o,o=thing that record A at B.
+
+dlba r!o=map of A,
+
+elba r!int=digit,
+
+flba r!o-o-n=thing that efficient than B for be A,
+
+eida o!=the thing.
+
+glea p!n=n-th word,
+
+emga o,n=thing that rule A,
+
+alba o=law of A,
+
+kmea id, str...=UTF8,
+
+dnea o,n=thing that was given up on being A.
+
+=initial-consonant,
+
+gnea=oil,
+
+jnea o=thing that subscribe A.
+
+hifa=document,
+
+kifa o=thing that put on A,
+
+nifa o:standard,o,n=rank,
+
+pifa id:location-of-standrard-mark=prevent-error,
+
+njfa=mountain,
+
+glfa o=plan,
+
+p!o=property of A.kica r!=baby.
 
 ajca r!n=political party,
 
-bjca r!=gas,
-
-cjca r!=liquid,
-
-djca r!=solid,
-
 ijca r!=book,
-
-dlkb r!o,o,n=thing that write A at B.//letter,express,.
-
-dmea r!o=thing that see A.//com sense,light,
 
 n:'number of id'-id:'words'-str:'structure of parameter'=expressing-mean-of-word,
 
 dkca r!o=daily of A,
 
 ekca r!o=life of A,
-
-r!=food,//com what,inhale,also,normal,animal,.
-
-kjkc r!=thing that laughs.//com,express,fun,
 
 hkca r!o=structure of A,
 
@@ -1421,8 +1743,6 @@ klca n=let,//of js
 
 olca r!o=terrain of A.
 
-njob r!o=thing that dont know A,.//anto know,.
-
 fmca r!=video.
 
 gmca r!o=thing that select A.
@@ -1430,14 +1750,6 @@ gmca r!o=thing that select A.
 kmca p!o,o=imilarities.
 
 comb r!=combination.//lesi combination
-
-njdg p!n=thing that split into A.//anto combination.
-
-r!s,n=thing that help A,//com intend,reason,
-
-n=level of language.
-
-elgf r!o,n=thing that feel angry by A.//com intend,ruin,.
 
 knca o=attribute.
 
@@ -1458,10 +1770,6 @@ eoca ni=natural-phenomenon,
 hida
 
 gida p!o=limit of A,
-
-eonb v!s=evidence of A.//what,need,know,true,.
-
-jida r!o=thing that looking for A.
 
 aoad r!=ore.
 
@@ -1515,29 +1823,17 @@ moda n=pressed,
 
 poda o,o:standard=important,
 
-niea o=thing that eat A,
-
-oiea o=thing that cheo A,
-
-piea o=thing that gulp doon A,
-
-ajea o=thing that digest A,
-
-=excrete,//com launch,shit,.
-
 cjea =shit,
 
 gjea o,n=thing that repeat A.
 
 jjea o,o,n=thing that sorry.
 
-ongg o=thing that go in A.//com go,inside,.
-
 gmob o=inside of A.
 
 jlbg o=outside of A.
 
-fjda o,n=thing that have purpose of being A,
+fjda o,n=thing whose A is purpose.
 
 jkea o:is,o,t=difficulty,
 
@@ -1545,358 +1841,51 @@ mkob o,n=thing that ignore A,
 
 clea s=request,
 
-ejba=objective.//what,beilive,true,logic,.
-
 flea o=thing that trade with A,
 
 nlea ni=peninsula,
 
 amea id=QR code.
 
-fnfg animal.//pron en animal.
+hmba r!=home.
 
-emga o,n=thing that rule A,
+kmba r!o,o=think that thankful that A is B.
 
-alba o=law of A,
+lmba r!o=thing that revenge A.
 
-kmea id, str...=UTF8,
+nmba r!o=entropy,
 
-dnea o,n=thing that was given up on being A.
+inba p!o=A dollar,
 
-=initial-consonant,
+onba r!=mistake,
 
-gnea=oil,
+joba r!=cpu,
 
-jnea o=thing that subscribe A.
+akga r!=money,
 
-hifa=document,
+noba r!=worker,
 
-kifa o=thing that put on A,
+poba p!n or s=wages.
 
-nifa o:standard,o,n=rank,
+apga r!n=company.
 
-pifa id:location-of-standrard-mark=prevent-error,
+epba r!o=thing that vote A.
 
-njfa=mountain,
+p!o=thing that determine A.
 
-jkfa o=thing that looking for A,
+ppba =write is until here,
 
-glfa o=plan,
-
-p!o=property of A.
-
-akba v!o=akba.
-
-bkba v!o=A meter.
-
-ckba v!o=A metet^2.
-
-dkba v!o=A meter^3.
+aica r!n=mosfet,
 
 goic s,s,s,c s=for-loop,//'for(int i=0,i==3;i+=2)'='goicjhadocagphocaglhadocag'
 
-hmga=thing that feel emotion.//pron jp kanjou.
-
 n-o=max,
-
-s=but.//com reverse,sen
 
 id:<number of oord>-ni:<targeting parameter>-id<oord>-id<structure>=mean of function,
 
-o-o:of=distinguish,//
+mmkd o-o=difference between A and B.
 
-o=A as well,
-
-mmkd o-o=difference betoween A and B.
-
-=justice.//objectice,equality,.
-
-r!o=thing that discriminates against A.//anto justice
-
-mjdd o=peace.
-
-boob o,n=thing that feel pleasure by A.
-
-gmgd o:who-o:theme=thing that win A.
-
-gmda=sound.
-
-gmkb r!o=thing that speak A.//com express,sound,,ori use,sound,express,.
-
-gmbg=music,//com sound,pleasure,
-
-fneg=shift,//anto motionless,
-
-jmgg o,o,n=thing that dont need A to B.//anto need.
-
-gmnb o=thing that think that enemy is A,
-
-jmob o,n=thing that feel beauty.
-
-fojb =die.
-
-colc o=thing that A include,
-
-dmcg A taster.//com sense, a include,.
-
-bida r!o=newton,//pron neoton=stength,
-
-ijca o=thing that for A,//pron en for
-
-ajmd r!=she.//com the,women,.
-
-anae p!o=her A.//com of,she,.
-
-ajde r!=he.//com the,men,.
-
-ajad p!o=his A.//com,he,.
-
-p!o,n=detail of A.
-
-=country.//pron
-
-anba=people//pron de mensch,
-
-hkca =heart,//pron en hearts,
-
-letter//pron kr 글,
-
-enfg o=thing that launch A.//anto inhale,.
-
-njef o=thing that include A,//anto thing that A include,.
-
-dome o=thing that fight with A,//anto peace,
-
-nmbg=open.//anto closed.
-
-clob=closed.//lesi closed.
-
-ojbg o,n=thing that feel pain by A.//anto pleasure,.
-
-kjgg n=alive,//anto die,
-
-epjg o,n=no,//anto yes,
-
-glbg o,n=thing that think that A is ugly,//anto ugly.
-
-gljb o-<o,n>=thing that need A to be B.
-
-jkdg o=thing that think A is friend.//anto enemy,
-
-jlje o:who-o:theme=lose,//anto win,.
-
-gjfg o,n=thing that kill A.//com reason,die,.
-
-coea o=name of A.
-
-=phonetic-alphabet,//com express,sound,alphabet,
-
-pp=white-doarf,//com white,star,
-
-=refuce,//com
-
-o=thing that get A./com become,have,.
-
-o=thing that impact A,//com reason,shift,
-
-kklb=motionless.
-
-=delete,//com reason,not,real,
-
-ajab c o=A1 also A2 also...//com also,also,
-
-akac c o=c-of,//com of,of,
-
-c o=c-by,//com by,by,.16,
-
-mnmf c o=c-intersecrion,
-
-=pointed,//what,indicate,omit-2-gramar,
-
-okne o,n=thing that study A.//com becoming,know.
-
-nicf s=thing that know situation A.//com know,sen,.
-
-gjfd o,n=thing that normalize A.//com reason,normal,.
-
-o,n=break,
-
-jpme o-o-n=thing that dont need to be A to be B.//anto need to,.
-
-gidd o-o-n=thing that need to be A to be B.//com need,also,self,
-
-fmeg r!o=thing that greets A.//pron de ade,.
-
-o,o=distance,//meter,from-until,
-
-ajec o=pointed A,//com also,pointed,
-
-o,o=thing that record A at B.
-
-ajea o=the A.//com also,the,.
-
-=gay,//hope,breed,gender,self,.
-
-eokb =language,//com what,use,express,o2,
-
-o=bye,//com command,around,not,i,
-
-fleg=norlang.//com normal,language,.
-
-o=type,//diffrence,one,
-
-aiba=elementary particle.
-
-biba=electron neutrino,
-
-ciba=muon neutrino,
-
-diba=tau neutrino,
-
-eiba=photon,
-
-fiba=gluon,
-
-giba=electron,
-
-hiba=up quark,
-
-iiba=down quark,
-
-jiba=strange quark,
-
-kiba=muon,
-
-liba=charm quark,
-
-miba=tau,
-
-niba=bottom quark,
-
-oiba=o boson,
-
-piba=z boson,
-
-ajba=higgs boson,
-
-bjba=top quark,
-
-moke o,n=thing that angry at A.//com hope,reason,abnormal,
-
-kjif o-o=thing that give A to B.//com reason,have,
-
-gjnb o-o=thing that teach A to B.//com reason,know,
-
-gjde o,o=thing that shows A to B.//com reason,sense,
-
-o,n=kind,
-
-lica p!o=inverse of A.
-
-o=symbol that convert A into and type.
-
-dnfd o,n=thing that hate A.//com dread,normal,
-
-mmfd o,n=thing that love A by B percent.//com hope,normal,
-
-=side,
-
-amkg o=weak,//com energy,less,
-
-amfh o=strong,//com energy,more,
-
-bmkg o=thing that shorter than A.//com meter,less,
-
-bmfh o=thing that longer than A.//com meter,more,
-
-cimkg o=thing that narrower than A,//com meter2,less,
-
-cmfh o=thing that wider than A,//com meter2,more,
-
-dmkg o=thing that smaller than A.//com meter3,less,
-
-dmfh o=thing that beigger than A.//com meter3,more,
-
-angf o=front of A.
-
-bngf o=front left of A.
-
-cngf o=left-of,
-
-dngf o=behind-left-of,
-
-engf o=befind-of,
-
-fngf o=behind-right-of,
-
-gngf o=right-of,
-
-hngf o=front-right-of,
-
-mofg thing that mean A.//pron fr signifier.
-
-changed.//com become,not,A be,self,.
-
-o=human-race,
-
-kkeb r!o=thing that denies A.//com express,sen,not,true,.
-
-nmmg s=thing that understand A.//com know,what,mean,.
-
-o,n=thing that think that think A is cute,//com know a is true,baby,.
-
-s,m=thing that calculate A,//intend,know,
-
-o,o,n=thing that moved from A to B,
-
-mmnb o,n=think that wonder about A,//com hope,know,
-
-mmgg o,n=thing that want to sex with A,//com hope,sex.
-
-p!c int=compounf word of A1 and A2.
-
-o:into,o,n=thing that change A to B.//com reason,become,
-
-komb o,n=something that feels comfortable be A.
-
-fjdg o,n=thing that feel uncomfortable be A.//anto comfortable.
-
-gjkb r!o-n=thing that heal A,//com reason,alive,
-
-o=features of A,//com difference,average,self,
-
-mlmb r!=women.//bsf pussy.
-
-dmdg r!=men.//anto women.
-
-enter,space=see-back,
-
-boba=we.//com and,i,you,o,
-
-kjbb o,n=yes,//com express,know a is true,true,
-
-boda r!=body.//lesi body.
-
-bode r!=eye.//com body,see,.
-
-gnhb
-
-boca o!=code.
-
-o=gender,//com breed
-
-omit,whole,
-o=middle,
-
-o=water-per,//com intersection,water,
-
-dmge o,n=thing that listen A.//com sense,sound,
-
-role.
-
-o=earth-war,//com fight,earth,
-
-o=treaty-organization,
+}Randomly generated words(no word formation rule)
 
 id{
 
@@ -2019,7 +2008,9 @@ This language is not complete and is constantly changing, so you should indicate
 
 license{
 
-nl version:62125
+//vc
+
+nl version:62525
 
 license can be changed.
 
@@ -2157,9 +2148,15 @@ small bit word is first in situation whose order doesn't matter.
 
 word formation rule that should be used first{
 
-if length of element of compound word is over half of all then use compound word->antonym
+If a word can be expressed as an antonym and also as a compound word.
 
-other:antonym->compound word
+if word created by the antonym mechanism has the same meaning as the original word(eg mmfd=dlke) then use compound word mechanism.(eg no com expres,this,o -> com sense, this, o)
+
+If the bits of a word expressed as a compound word differ by less than 1/4 from its antonym, use the antonym mechanism..
+
+and If a compound word consists of two words, use the compound word mechanism first using their antonym.(eg mmfd->dnfd)
+
+If not, use the antonym mechanism first.
 
 }word formation rule that should be used first
 
@@ -2170,6 +2167,8 @@ other:antonym->compound word
 }rule
 
 other{
+
+This is not complete. It is almost complete, but I am having particular difficulty completing the pronunciation chart.
 
 if norlang have problem norlang is changed never mind other.
 
@@ -2254,19 +2253,19 @@ m(100hz)
 
 b(130hz)
 
-l(150hz)
+g(150)
 
-g(170hz)
+l(160hz)
 
-d(250hz)
+d(185)
 
-n(480hz)
+n(327hz)
 
-kk(1000hz)
+pp(1000hz)
 
-tt(1500hz)
+kk(1800hz)
 
-pp(2300hz)
+tt(3000hz)
 
 }frequency generator
 
@@ -2318,6 +2317,12 @@ tɕ:4000~8000hz
 s͈:3000~7000hz
 
 }others think
+
+features{
+
+Phonetically, fricatives (especially alveolar/palatal ones) show greater energy in the high-frequency range than affricates.(s>j)
+
+}features
 
 }is it lowest herz?
 
