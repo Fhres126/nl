@@ -8,7 +8,7 @@ youtube: https://youtube.com/@normallanguage?si=4E6OEKgSuZa9OJAj
 
 our chat room: https://discord.gg/VhHBjXbpkz
 
-if you dont like this document then give me feedback. that issue can be fixed.
+if you dont like this document then give me feedback or see after 1month. that issue can be fixed.
 
 all feedback is welcome!
 
@@ -30,9 +30,11 @@ one sentence has only one meaning.
 
 eg 'A and B of C' can be interpreted as '(A and B) of C' and 'A and (B of C)' in english.
 
-but in norlang, 'af C bf A B' mean only '(A and B) of C'.
+but in norlang, 'af C be A B' mean only '(A and B) of C'.
 
-'bf A af C B' mean only 'A and (B of C)'.
+'be A af C B' mean only 'A and (B of C)'.
+
+Norlang is logical, so it eliminates the limit of language.
 
 'i know you' in norlang is 'nbbd'.(This is pronounced differently from English. it is easy to pronounce)
 
@@ -44,11 +46,11 @@ norlang is five times more efficient than English.
 
 so norlang reduces environmental pollution.
 
+norlang is phonetic script.
+
 norlang helps easy communication.
 
 norlang brings peace and helps technology grow.
-
-norlang is phonetic script.
 
 norlang versions of barcodes and QR codes is called NL QR.
 
@@ -175,7 +177,9 @@ basic{
 
 * object is parameter.
 
-* norlang use VOS word order.
+* norlang lacks concept of verb.
+
+* word order of norlang similar to VOS.
 
 * norlang sentence 'A B' mean 'B is A'.
 
@@ -189,7 +193,7 @@ eg 'djca   aoad' mean 'ore is solid'.
 
 * some word must have parameter like function.
 
-'jd bd   oa' mean 'i think you', 'thing that think you is me'.
+'jd bd   oa' mean 'i think you', '(thing that think you) is me'.
 
 'jd' mean 'thing that think'.
 
@@ -205,7 +209,7 @@ eg 'djca   aoad' mean 'ore is solid'.
 
 this grammar can express every meaning.
 
-eg 'The happy boy gives her a small book in the morning and smiles.' is expressed as 'ab gb if ab dmkg pf bida ajmd kjkc ac hied ajea ab dmdg boob'.
+eg 'The happy boy gives her a small book in the morning and smiles.' is expressed as 'ab gb if ab dmkg mf bida ajmd kjkc ac hied ajea ab dmdg boob'.
 
 you need to know how to interpret a dictionary to learn in detail.
 
@@ -279,19 +283,11 @@ any word can be in object type parameter.
 
 'jd jd oa' is one object and mean 'thing that think thing that think me'.
 
-'jd ad oa'='i think', 'thing that think something is me'{
+'jd ad oa'='i think', '(thing that think something) is me'{
 
 ad si!=symbol that omit one parameter.
 
 parameter of 'jd' is omitted by 'ad'.
-
-}
-
-'fmeg'='hello', 'thing that greets is me'{
-
-fmeg r!o=thing that greets A.//pron de ade,.
-
-subject is omitted so subject is 'i'.
 
 }
 
@@ -391,23 +387,23 @@ so 'A1' is first 'o'.
 
 }
 
-'bf p!c o=A1 and A2 and....'{
+'be p!c o=A1 and A2 and....'{
 
 'c o' mean 'this word have object type parameter until it met symbol that omit parameter'.
 
-eg 'bf oa oa oa ad' mean 'me and me and me'.
+eg 'be oa oa oa ad' mean 'me and me and me'.
 
 }
 
 }<How to interpret a word dictionary>
 
-'dmba cf gjif mmff bd ajmd oa' = 'I see her giving you food', 'thing that see that thing that give food to you is she is me'{
+'dmba cf gjic mmff bd ajmd oa' = 'I see her giving you food', '(thing that see that thing that give food to you is she) is me'{
 
 dmba r!o=thing that see A.//com sense,photon,.
 
 cf r!s=that A2 is A1.
 
-gjif o-o=thing that give A to B.//com reason,have,
+gjic o-o=thing that give A to B.//com reason,have,
 
 mmff r!=food,//com what,inhale,also,normal,animal,.
 
@@ -415,13 +411,13 @@ ajmd r!=she.//com the,women,.
 
 }
 
-'jc dmge gmbg oa cf boob ad oa' = 'if i listen music, i am happy'{
+'jc dmkd klbg oa cf boob ad oa' = 'if i listen music, i am happy'{
 
 jc r!s,n=what happens if A2 is A1.
 
-dmge r!=thing that listen A.//com sense,sound,.
+dmkd r!=thing that listen A.//com sense,sound,.
 
-gmbg r!=music.//com sound,pleasure,.
+klbg r!=music.//com sound,pleasure,.
 
 cf r!s=that A2 is A2.
 
@@ -429,7 +425,7 @@ boob r!o,n=thing that feel pleasure in A.
 
 }
 
-'mb ee dmge gmbg oa boob ad oa' = 'I am happy when I listen to music'{
+'mb ee dmge ljbg oa boob ad oa' = 'I am happy when I listen to music'{
 
 mb 2p!t,o=thing that be B when A.
 
@@ -453,13 +449,13 @@ de r!o=thing that sense you.
 
 <how to ask>{
 
-'fc anga bd'='what is people? i ask you', 'thing that ask you about people is me'.{
+'fc anga bd'='what is people? i ask you', '(thing that ask you about people) is me'.{
 
 fc r!o,o=thing that ask B about A.
 
 }
 
-'fc  ne bd'='where are you?,i ask you', 'thing that ask you about location of you is me'{
+'fc  ne bd'='where are you?,i ask you', '(thing that ask you about location of you) is me'{
 
 ne v!o=location of A.
 
@@ -467,7 +463,7 @@ if second parameter of 'fc' is omitted, the second parameter mean 'you'.
 
 }
 
-'fc  gb  dnfd oa  bd'='why do you hate me?', 'thing that ask you about reason why thing that hate me is you is me'{
+'fc  gb  dnfd oa  bd'='why do you hate me?', '(thing that ask you about reason why thing that hate me is you) is me'{
 
 gb p!s,n=reason why A2 is A1.
 
@@ -479,7 +475,7 @@ if second parmeter of 'fc' is omitted, it is 'you' or 'i'(alone think).
 
 }
 
-'fc  jc  dnea noba  bd'='what if you give up being worker?', 'thing that ask you about what happens if thing that give up being worker is you is me'{
+'fc  jc  dnea noba  bd'='what if you give up being worker?', '(thing that ask you about what happens if thing that give up being worker is you) is me'{
 
 jc p!s,n=what happens if A2 is A1.
 
@@ -489,7 +485,7 @@ noba r!=worker.
 
 }
 
-'fc  ja  dmba oa  bd'='are you looking at me?', 'thing that ask you about whether thing that see me is you is me', {
+'fc  ja  dmba oa  bd'='are you looking at me?', '(thing that ask you about whether thing that see me is you) is me', {
 
 ja r!s=whether A2 is A1.
 
@@ -497,7 +493,7 @@ dmba r!o=thing that see A.//com sense,photon,.
 
 }
 
-'fc  ec  gjkb  ha anga  boba'='how do we save this person?', 'thing that ask you about how we become thing that save this people is me'{
+'fc  ec  gjkb  ha anga  boba'='how do we save this person?', '(thing that ask you about how we become thing that save this people) is me'{
 
 ec r!s-n=how A2 become A1.//com what,need to,.
 
@@ -509,7 +505,7 @@ boba r!=we.//com and,i,you,o,.
 
 }
 
-'fc  ee  de id  boba'='when we sense each other?', 'thing that ask you about time when thing that sense each other is we is me'{
+'fc  ee  de id  boba'='when we sense each other?', '(thing that ask you about time when thing that sense each other is we) is me'{
 
 ee t!s=time when A2 is A1.//com what,thing that be B when A,
 
@@ -519,17 +515,9 @@ id r!=each other.//com what,interface,self,.
 
 }<how to ask>
 
-how to command{
-
-'be alive!'='fa kjgg'{
-
-fa r!o,o=thing that orders B to become A.
-
-kjgg r!=alive.//anto die
+'jf anga ha' = 'it seems people'{
 
 }
-
-}how to command
 
 time{
 
@@ -538,8 +526,6 @@ time{
 jb p!o=thing that was A.
 
 gjfg ow,n=thing that kill A.//com reason,die,.
-
-eida o!=it.
 
 gb p!s,n=reason why  A2 is A1.
 
@@ -553,6 +539,8 @@ fojb r!=die.
 
 gc p!o=thing that will be A.//anto was A.
 
+eida o!=it.
+
 }
 
 'eb jb fojb oa'='i have never died', 'thing other than thing that was  dead thing is me'{
@@ -565,9 +553,21 @@ jb p!o=thing that was A.
 
 }time
 
+how to command{
+
+'fa kjgg bd' = 'hey you, be alive!'{
+
+fa r!o,o=thing that orders B to become A.
+
+kjgg r!=alive.//anto die
+
+}
+
+}how to command
+
 <symbol that omit parameter>{
 
-'fc ad bd'='thing that ask you about something is me', 'i ask you'{
+'fc ad bd'='i ask you', 'thing that ask you about something is me'{
 
 ad si!=symbol that omit one parameter. 
 
@@ -581,19 +581,19 @@ omitted parameter become mean 'something'.
 
 }
 
-'dnfd bf bd dnfd bd bc oa'='i hate you and thing that hate you'{
+'dnfd be bd dnfd bd bc oa'='i hate you and thing that hate you'{
 
 dnfd r!o,n=thing that hate A.
 
-bf p!c o=A1 and A2 and....
+be p!c o=A1 and A2 and....
 
 in this siruation
 
 it should omit two parameter so 'bc' is used instead of 'ad'.
 
-the first omitted parameter is 2th parameter of 'dnfd'.
+the first omitted parameter is 2nd parameter of 'dnfd'.
 
-second is for finish 'bf'.
+second omitted parameter is parameter of 'be'.
 
 }
 
@@ -611,9 +611,9 @@ dmba r!o=thing that see A.//com sense,photon,
 
 }
 
-'kjge fleg'='i speak fleg'{
+'klkb fleg'='i speak fleg'{
 
-gmkb r!o=thing that speak A.//com sound,express.
+klkb r!o=thing that speak A.//com sound,express.
 
 fleg=norlang,//com normal,language,.
 
@@ -657,19 +657,37 @@ upper intermediate{
 
 'ea' is similar to 'what' of english.
 
+but word 'ea' target n-th paramter.
+
+list of parameter:
+
+first parameter: 'o' of 'mmfd'.(what it loves)
+
+second parameter: 'n' of 'mmfd'.(how much it loves)
+
+if word 'ea' target second parameter, it mean 'how much i love you'(ea kh mmfd bd oa).
+
 }
 
 'fc ad bd oa', 'bd ea kh fc ad oa'='i ask you'{
 
 ea v!c n,s=what.//ea remove targeted parameter by A.
 
+'bd ea fc ad oa' mean 'you are who i ask to'.
+
 To know the meaning, you need to list the parameters of all function in parameter sentence of the 'ea'.
 
 function in parameter sentence of 'ea' is 'fc'.
 
-The parameters of 'fc' are 'what it asks about' and 'what it asks'.
+list of parameter:
+
+first parameter is 'what it asks about'.
+
+second parameter is 'what is asks'.
 
 'kh' is 2 in situation that dont need minus.
+
+'ea kh' mean '2nd parameater of this sentence'.
 
 so 'ea' target second parameter of 'fc'.
 
@@ -939,6 +957,10 @@ ph n!=3.
 
 }advanced
 
+example sentence{
+
+}example sentenece
+
 for who wanna make new word{
 
 }for who wanna make new word
@@ -1004,7 +1026,7 @@ answer{
 
 1.What are you thinking?
 
-2.fmeg. gociba coea oa.
+2.gociba coea oa.
 
 3.I don't know what you're thinking.
 
@@ -1189,7 +1211,7 @@ pd si!=cancel-express,
 
 ae p!o-<c n,s>=A that C2 C1(verb)//com also,what,,C1 is verb.
 
-be p!<c o>-n=or{.
+be p!c o=and{,//com or,most,
 
 ce p!o=other A.//com also,not,wtdoc,.
 
@@ -1239,7 +1261,7 @@ pe o!int=word_as_situation_and_id.
 
 af 2p!o-o=B of A.//com also,element-of,.
 
-bf p!c o=and{,//com or,most
+bf p!<c o>-n=or{.
 
 si!c int,n=duplicate word.
 
@@ -1355,7 +1377,7 @@ dmdg r!=men.//anto women.
 
 fjdg o,n=thing that feel uncomfortable be A.//anto comfortable.
 
-nmbg=open.//anto closed.
+nmbg=opened.//anto closed.
 
 njdg p!n=thing that split into A.//anto combination.
 
@@ -1385,7 +1407,7 @@ fneg=shift.//anto motionless,
 
 jlbg o=outside of A.//anto inside,.
 
-fodg o!=most.//anto minus most.
+mocg o!=most.//anto minus most.
 
 mjhc r!o,o=thing that sell A to B.//anto buy,.
 
@@ -1415,7 +1437,7 @@ gjfd o,n=thing that normalize A.//com reason,normal,.
 
 gjfg o,n=thing that kill A.//com reason,die,.
 
-kocd r!=phonetic-alphabet,//com express,sound,alphabet,
+kkcd r!=phonetic-alphabet,//com express,sound,alphabet,
 
 white-doarf,//com white,star,
 
@@ -1475,7 +1497,7 @@ o=type,//com diffrence,one,
 
 moke o,n=thing that angry at A.//com hope,reason,abnormal,
 
-gjif o-o=thing that give A to B.//com reason,have,
+gjic o-o=thing that give A to B.//com reason,have,
 
 gjnb o-o=thing that teach A to B.//com reason,know,
 
@@ -1495,9 +1517,9 @@ ajad p!o=his A.//com,he,.
 
 inih r!=wave.//com hz,over,zero,.
 
-gmkb r!o=thing that speak A.//com sound,express,,ori use,sound,express,.
+klkb r!o=thing that speak A.//com sound,express,,ori use,sound,express,.
 
-gmbg=music.//com sound,pleasure,
+klbg=music.//com sound,pleasure,
 
 =gay,//com hope,breed,gender,self,.
 
@@ -1519,7 +1541,7 @@ r!=gender.//com
 
 o=water-per,//com intersection,water,
 
-dmge o,n=thing that listen A.//com sense,sound,.
+dmkd o,n=thing that listen A.//com sense,sound,.
 
 o=thing that get A./com become,have,.
 
@@ -1563,13 +1585,13 @@ nmag s=thing that understand A.//com know,what,mean,.
 
 o,n=thing that think that think A is cute,//com know a is true,baby,.
 
-ankb n-o=minimum of A.//com of, minus most,
+andb n-o=minimum of A.//com of, minus most,
 
-anfg n-o=maximum of A.//com of,most,
+anmg n-o=maximum of A.//com of,most,
 
 bida n!=binary.//com too and,zero,one,o,.
 
-dnih=money.//com dollar,over,zero,
+enih=money.//com dollar,over,zero,
 
 doif r!o,o=thing that buys A from B.//com promise,have,.
 
@@ -1580,6 +1602,20 @@ bibd r!o,n=thing that thinks A is delicious.//enjoy,eat,.
 oibd r!o,n=thing that think A is tasteless.//com suffers,eat,.
 
 jidd o-o-n=thing that dont need to be A to be B.//com dont need to,also,self,.
+
+klkd r!o=thing that sing A.//com speak,music,
+
+oidc r!o,n=thing that feel that A is noisy.//com suffer,listen,.
+
+omfh r!=increasing.//com become,more,.
+
+omkg r!=decreasing.//com become,less,.
+
+onge r!o=thing that enters into A.//com go,inside,.
+
+onjd r!o=thing that leaves A.//com go,out,.
+
+oknb r!o=thing that learn A.//com becoming,know,.
 
 //ecom
 
@@ -1631,11 +1667,11 @@ dlme o=thing that gulp doon A.
 
 elme o=thing that digest A.
 
-=excrete.bjca r!=gas,
+bjga r!=gas,
 
-cjca r!=liquid,
+cjga r!=liquid,
 
-djca r!=solid.
+djga r!=solid.
 
 alba t!=time.
 
@@ -1687,35 +1723,39 @@ lesi{
 
 boda r!=body.//lesi en body.
 
-clob=closed.//lesi en closed.
+clob r!=closed.//lesi en closed.
 
 }lesi
 
 pron{
 
-//epron
-
 clda r!=letter//pron kr 글,
 
-fmeg r!o=thing that greets A.//pron de ade,.
-
-aofa thing that mean A.//pron en mean.
+aoga p!o=thing that mean A.//pron en mean.
 
 figa r!o=newton,//pron en newton,,stength,
 
-gjda o=thing that for A,//pron en for
+gjda r!o=thing that for A,//pron en for
 
-dmga=country.//pron de country,
+dmga r!=country.//pron de country,
 
-anga=people.//pron de mensch,
+anga r!=people.//pron de mensch,
 
-kkod=heart,//pron en hearts,.
+kkod r!=heart,//pron en hearts,.
 
-kmga=thing that feel emotion.//pron jp kanjou.
+kmga r!=thing that feel emotion.//pron jp kanjou.
 
-fnfg animal.//pron en animal.
+fnfg r!animal.//pron en animal.
 
 bjca r!=god,//pron ru bog
+
+emdc p!o=A dollar.//pron en dollar.
+
+gmge r!=father.//pron baby papa.
+
+amae r!rmother.//pron baby mama.
+
+//epron
 
 }pron
 
@@ -1733,7 +1773,7 @@ Randomly generated words(no word formation rule){
 
 mlmb r!=women.
 
-giga r!=world.
+mida r!=world.
 
 cjba r!=transistor.
 
@@ -1959,15 +1999,13 @@ int=QR code.
 
 hmba r!=home.
 
-kjmb o!=minus most.
+djnb o!=minus most.
 
 kmba r!o,o=think that thankful that A is B.
 
 lmba r!o=thing that revenge A.
 
 nmba r!o=entropy.
-
-doda p!o=A dollar.
 
 onba r!=mistake,
 
@@ -1993,19 +2031,19 @@ id:<number of oord>-ni:<targeting parameter>-id<oord>-id<structure>=mean of func
 
 mmkd o-o=difference between A and B.
 
+kiga v!o=Akg.
+
 //era
 
 }Randomly generated words(no word formation rule)
 
 word that will be created{
 
-gmge r!o=thing that sing A.//com speak,music,
-
 p!o=standard of A.
 
-kiga v!o=Akg.
+r!=mass.
 
-knih r!=mass.//kg,over,zero,.
+anaf r!=titan.//people,big,.
 
 //efw
 
@@ -2129,6 +2167,12 @@ email(feedback etc): gwahagsinsa@gmail.com
 rule{
 
 This language is not complete and it can be changed so you should indicate the version when using it like 'nl60125'(6m1d25y) month->day->year.
+
+root word{
+
+in word that consist of more 16bit, 8n+7bit 1 mean that this word dont have parameter.
+
+}root word
 
 number{
 
@@ -2272,7 +2316,7 @@ license{
 
 //vc
 
-nl version:62925
+nl version:70225
 
 license can be changed.
 
@@ -2302,7 +2346,7 @@ It is almost complete, but I am having particular difficulty completing the pron
 
 if norlang have problem norlang is changed never mind other.
 
-Creator Verification Code:'20@@0226@017128.
+Creator Verification Code:'20@@0226@0@@@28.
 pn:@@05139@@@8 in 2024/11/18. JSM. SE. GIGADESADE. GOHW. SEMI'.
 
 prohibits anything similar to this.
@@ -2398,6 +2442,8 @@ pp(1000hz)
 kk(1800hz)
 
 tt(3000hz)
+
+t(5400hz)
 
 }frequency generator
 
@@ -2548,7 +2594,7 @@ ihbgca.
 
 console.log('hello')
 
-clkbcgcafmeg
+clkbcgcanc
 
 }exam
 
