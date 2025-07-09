@@ -687,7 +687,7 @@ FYR: (dnfd (be bd (dnfd bd)) bc) oa.
 
 ge o-o-n!2p=thing that become B using A.
 
-af o-o!2p=B of A.//com also,element-of,.
+af o-o!2p=A of B.//com also,element-of,.
 
 fjdb !r=eye.//com organism,see,.
 
@@ -899,7 +899,7 @@ element of compound word is split.
 
 'of' word have already splited cuz it is already compound word.
 
-af o-o!2p=B of A.//com also,element-of,.
+af o-o!2p=A of B.//com also,element-of,.
 
 take initial of 'ajea mlmb'.
 
@@ -1192,7 +1192,7 @@ ob o-o!2p=thing that be B with A.
 
 pb n!o=what function.//1st bit 1 mean int type
 
-ac o-o!p=B that A include.//com also,thing that A include,.
+ac o-o!p=A that B include.//com also,thing that A include,.
 
 bc !si=symbol that omit too parameter.
 
@@ -1290,7 +1290,7 @@ n,o!oe =Ath B.//minus is from last.
 
 pe o!p=average of A.
 
-af o-o!2p=B of A.//com also,element-of,.
+af o-o!2p=A of B.//com also,element-of,.
 
 bf <c o>-n!p=A1 or A2 or....
 
@@ -2072,71 +2072,71 @@ eokb !r=language.
 
 word that will be created{
 
-p!o=standard of A.
+o!p=standard of A.
 
-r!=mass.
+!r=mass.
 
-anfh r!=titan.//people,over,.
+anfh !r=titan.//people,over,.
 
-r!=intellect.//com use,logic,.
+!r=intellect.//com use,logic,.
 
-r!o=thing whose A is role.
+o!r=thing whose A is role.
 
-dnng r!=lazy.//com dread,work,.
+dnng !r=lazy.//com dread,work,.
 
 o=example of A.
 
-r!o=map of A.//com converted,image,
+o!r=map of A.//com converted,image,
 
-r!=baby.//com age,below,two,.
+!r=baby.//com age,below,two,.
 
-r!=video.//com image,image,.
+!r=video.//com image,image,.
 
-ilgg p!c o=diffrence between A1 and A2.//anto similarity
+ilgg c o!v=diffrence between A1 and A2.//anto similarity
 
-hmjb p!c o=similarity between A1 and A2.
+hmjb c o!v=similarity between A1 and A2.
 
-eacd p2!o-o=process of B becoming A.//com what,use self,
+eacd o-o!2p=process of B becoming A.//com what,use self,
 
-ajlb r!=here.//com also cast,this,.
+ajlb !r=here.//com also cast,this,.
 
-r!o=thing that discriminates against A.//eg discriminates gender it=Discriminate against it based on gender.
+o!r=thing that discriminates against A.//eg discriminates gender it=Discriminate against it based on gender.
 
-gmfe t!=morning.//com hour,between,five-int,twelve-int,
+gmfe !t=morning.//com hour,between,five-int,twelve-int,
 
-dlhd t!=yesterday.//com minus,today,day,one,
+dlhd !t=yesterday.//com minus,today,day,one,
 
 dec!n=decimal number.
 
-jkgd v!o-<c s,n>=if(A){B}C.
+jkgd o-<c s,n>!v=if(A){B}C.
 
-midd t!=always.//com all,time,.
+midd !t=always.//com all,time,.
 
-lkjb p!o=thing that keep being A.
+lkjb o!p=thing that keep being A.
 
-engg p!o=thing that stop being.//anto keep being,
+engg o!p=thing that stop being.//anto keep being,
 
-lknb r!o=thing that remember A.//com keep being,know,.
+lknb o!r=thing that remember A.//com keep being,know,.
 
-ennb r!o=thing that forgot A.//com stop,know,.
+ennb o!r=thing that forgot A.//com stop,know,.
 
-r!o,n=thing that decide to be A.
+o,n!r=thing that decide to be A.
 
-r!o=thing that toward A.
+o!r=thing that toward A.
 
-boge r!n=introvert.//com pleasure,inside,
+boge n!r=introvert.//com pleasure,inside,
 
-bojd r!n=extrovert.//com pleasure,outside,
+bojd n!r=extrovert.//com pleasure,outside,
 
-hofa p!o=A too.
+hofa o!p=A too.
 
-gjbd r!o-o-n=thing that put B into A.//com reason,inhale,
+gjbd <o,o>-n!r=thing that put B into A.//com reason,inhale,
 
-gjoe r!o-o-n=thing that take B out of A.//com reason,emit,
+gjoe <o,o>-n!r=thing that take B out of A.//com reason,emit,
 
 =alone.
 
-!o=thing that walk on A.
+o!r=thing that walk on A.
 
 thing that return A.
 
@@ -2454,7 +2454,7 @@ license{
 
 //vc
 
-nl version:70425
+nl version:70925
 
 license can be changed.
 
