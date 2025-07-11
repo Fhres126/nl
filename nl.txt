@@ -26,17 +26,25 @@ grammar is simplest and similar to math.
 
 norlang dont have exception.
 
-norlang will can become the international language.
+norlang versions of barcodes and QR codes is called NL QR.
+
+Since norlang is a binary language, it can easily be converted into NL QR and and norlang version morse code.
+
+norlang can express all meanings using only binary.
+
+NL QR1 is over 1.5 times more efficient than a barcode.(both image mean same)
+
+NL QR2 uses over 5 times less space than a QR code.(the both image mean 'i am people')
 
 one sentence has only one meaning.
 
-eg 'A and B of C' can be interpreted as '(A and B) of C' and 'A and (B of C)' in english.
+eg 'A of B and C' can be interpreted as '(A of B) and C' and 'A of (B and C)' in english.
 
-but in norlang, 'af C be A B' mean only '(A and B) of C'.
+but in norlang, 'be af A B C' mean only '(A of B) and C'.
 
-'be A af C B' mean only 'A and (B of C)'.
+'af A be B C' mean only 'A of (B and C)'.
 
-Norlang is logical, so it prove Sapir-Whorf hypothesis.
+Norlang is logical, so it can prove Sapir-Whorf hypothesis.
 
 'i know you' in norlang is 'nbbd'.(This is pronounced differently from English. it is easy to pronounce)
 
@@ -50,44 +58,25 @@ so norlang reduces environmental pollution.
 
 norlang is phonetic script.
 
-norlang helps easy communication.
+norlang can be used in programming since norlang is very logical.(eg 'for(var i=0;i<4;i++){
+console.log(i);
+}' is expreesed as
+'goic ih gh ja fh gh jh mg gh lh
+kb gh ad
+bc')
 
-norlang brings peace and helps technology grow.
-
-norlang versions of barcodes and QR codes is called NL QR.
-
-Since norlang is a binary language, it can easily be converted into NL QR and and norlang version morse code.
-
-norlang can express all meanings using only binary.
-
-NL QR1 is over 1.5 times more efficient than a barcode.(both image mean same)
-
-NL QR2 uses over 5 times less space than a QR code.(the both image mean 'i am people')
+it is called ECL.
 
 NL QR means the same from any angle like QR code.
 
 
 NL QR can be expressed in one, two, or three and more dimensions(pdf user can see image).
 
-you can use norlang fluently in just one month
+maybe you can use norlang fluently in just two month
+
+norlang brings easy communication peace and helps technology grow.
 
 It is the simplest, most efficient, easiest and most logical future international language.
-
-norlang can be used in programming.(eg
-
-for(var i=0;i<4;i++){
-
-console.log(i)
-
-}
-
-goic ih gh ja fh gh jh mg gh lh
-
-kb gh ad
-
-bc)
-
-it is called ECL.
 
 }advertisement
 
@@ -431,9 +420,9 @@ ee s!t=time when A2 is A1.{
 
 }<How to interpret a word dictionary>
 
-'dmba cf gjif glid bd ajmd oa' = 'I see her giving you food', '(thing that see that thing that give food to you is she) is me'{
+'dmca cf gjif glid bd ajmd oa' = 'I see her giving you food', '(thing that see that thing that give food to you is she) is me'{
 
-dmba o!r=thing that see A.//com sense,photon,.
+dmca o!r=thing that see A.//com sense,photon,.
 
 cf s!r=that A2 is A1.
 
@@ -443,23 +432,23 @@ glid !r=food.
 
 ajmd !r=she.//com the,women,.
 
-FYR: (dmba (cf (gjif glid bd) ajmd)) oa.
+FYR: (dmca (cf (gjif glid bd) ajmd)) oa.
 
 }
 
-'jc dmkd klbg oa cf boob ad oa' = 'if i listen music, i am happy', '(what happens if thing that listen music is me) is (that thing that feel pleasure in something is me)'{
+'jc dmfd flbg oa cf boob ad oa' = 'if i listen music, i am happy', '(what happens if thing that listen music is me) is (that thing that feel pleasure in something is me)'{
 
 jc s,n!r=what happens if A2 is A1.
 
-dmkd !r=thing that listen A.//com sense,sound,.
+dmfd !r=thing that listen A.//com sense,sound,.
 
-klbg !r=music.//com sound,pleasure,.
+flbg !r=music.//com sound,pleasure,.
 
 cf s!r=that A2 is A2.
 
 boob o,n!r=thing that feel pleasure in A.
 
-FYR: (jc (dmkd klbg) oa) (cf (boob ad) oa).
+FYR: (jc (dmfd flbg) oa) (cf (boob ad) oa).
 
 }
 
@@ -475,7 +464,7 @@ FYR: (mb (ee (dmkd klbg) oa) (boob ad)) oa.
 
 'ef cf dmkd klbg oa boob ad oa' = 'i am happy cuz i listen music'{
 
-ef o-o!p2=B by A.//com also,result,fact,.
+ef o-<o,n>!2p=B that is by A.//also,result,fact,.
 
 cf s!r=that A2 is A1.
 
@@ -551,13 +540,13 @@ FYR: fc (jc (dnea noba) bd).
 
 }
 
-'fc  ja  dmba oa  bd'='are you looking at me?', '(thing that ask you about whether thing that see me is you) is me', {
+'fc  ja  dmca oa  bd'='are you looking at me?', '(thing that ask you about whether thing that see me is you) is me', {
 
 ja s!r=whether A2 is A1.
 
-dmba o!r=thing that see A.//com sense,photon,.
+dmca o!r=thing that see A.//com sense,photon,.
 
-FYR: fc (ja (dmba oa) bd).
+FYR: fc (ja (dmca oa) bd).
 
 }
 
@@ -587,11 +576,11 @@ FYR: fc (ee (de id) boba)
 
 }<how to ask>
 
-'jf anga ha' = 'this seems people'{
+'jf anga lb' = 'this seems people'{
 
 jf r!s=thing that knows it is true that A2 is A1.//com know,sen,true,whether,.
 
-FYR: (jf anga ha).
+FYR: (jf anga lb).
 
 }
 
@@ -643,6 +632,8 @@ fa o,o!r=thing that orders B to become A.
 
 kjgg !r=alive.//anto die,.
 
+FYR: (fa kjgg bd).
+
 }
 
 }how to command
@@ -660,6 +651,8 @@ cc !si=symbol that omit three parameter.
 dc !si=symbol that omit four parameter.
 
 omitted parameter become mean 'something'.
+
+FYR: (fc ad bd)
 
 }
 
@@ -683,25 +676,27 @@ FYR: (dnfd (be bd (dnfd bd)) bc) oa.
 
 }<symbol that omit parameter>
 
-'ge  af oa fjdb  dmba bd '='i see you using my eye', 'thing that become thing that see you using eye of me is me'{
+'ge af dkfb oa dmca bd '='i see you using my eye', 'thing that become thing that see you using eye of me is me'{
 
 ge o-o-n!2p=thing that become B using A.
 
-af o-o!2p=A of B.//com also,element-of,.
+af o-o!2p=A of B.//com also,element of,.
 
-fjdb !r=eye.//com organism,see,.
+dkfb !r=eye.//com see,organism,
 
-dmba o!r=thing that see A.//com sense,photon,
+dmca o!r=thing that see A.//com sense,photon,
 
-FYR: (ge (af oa fjdb) (dmba bd)).
+FYR: (ge (af dkfb oa) (dmca bd)).
 
 }
 
-'klkb fleg'='i speak fleg'{
+'flkb fleg'='i speak fleg'{
 
-klkb r!o=thing that speak A.//com sound,express.
+flkb r!o=thing that speak A.//com sound,express.
 
 fleg=norlang,//com normal,language,.
+
+FYR: (fllb fleg).
 
 }
 
@@ -718,6 +713,8 @@ me s,n!r=thing that hope that A2 is A1 by B percent.
 fd !r=normal,
 
 'me fd bd' mean 'thing that hope that you are normal'.
+
+FYR: (me fd bd) oa.
 
 }
 
@@ -793,6 +790,8 @@ The 'pa' is in parameter of 'nb'.
 
 parameter of 'nb' is 'what it know'.
 
+FYR: (nb bd) oa.
+
 }
 
 'ea mmfd bd'='ea nh mmfd bd'='ea mmfd pa bd'{
@@ -806,6 +805,8 @@ ae o-<c n,s>!p=A that C2 C1.//C2 is subject,,C1 is verb,,com also,what,
 'ae anga mmfd oa' mean 'ab anga ea mmfd oa'.
 
 ab o-o!p=A also B.
+
+FYR: (ab anga (ea mmfd oa)).
 
 }
 
@@ -1007,10 +1008,6 @@ ajmd !r=she.//com the,women,.
 
 <mathematical expression>{
 
-'mmfd bd ph'='i love you with 100percent intensity'{
-
-}
-
 'mg lh nh ph'='1+2=3'{
 
 mg o-o!n=A plus B.
@@ -1021,7 +1018,33 @@ nh !n=2.
 
 ph !n=3.
 
+FYR: (mg lh nh) ph.
+
 }
+
+'if gh hh' = 'a ∈ A'//a=gh. A=hh.
+
+'eb if gh hh' = 'a ∉ A'
+
+'gaad' = '∅'
+
+'if gh hh' = 'A ⊆ B'//A=gh. B=hh.
+
+'ab eb gh if gh hh'='A ⊂ B'
+
+'gh hh' = 'A = B'
+
+'mg gh hh' = 'A ∪ B'
+
+'ic gh hh' = 'A ∩ B'
+
+'dh gh hh'= 'A - B'
+
+'jlbg gh' = 'Aᶜ'
+
+'ka gh hh ad ' = '(a, b)'//gh=a. hh=b.
+
+'ae goba og pa nh kg jh gh' = 'B = x ∈ Z | x² < 4'//gh=B
 
 }<mathematical expression>
 
@@ -1041,19 +1064,29 @@ but if A is hb type, A is not it.
 
 }logic
 
-'kc ca anga na'{
+'kc nh anga na'{
+
+}
+
+'nd blib biab'='wow'{
 
 }
 
 }advanced
 
-example sentence{
+bonus sentence{
 
 'fc ab ab bked mocg lllb of cmeh'='What is the fastest route to get to the sea'{
 
 }
 
-}example sentenece
+'hc anga fojb ie amea ajde' = 'he is people whose mother is die'{
+
+FYR: (hc anga fojb amea ajde).
+
+}
+
+}bonus sentenece
 
 for who wanna make new word{
 
@@ -1062,6 +1095,8 @@ for who wanna make new word{
 //i review document up to this point using 20250612version norlang.
 
 NL QR{
+
+FYR: https://youtu.be/rPGDHublCDI?si=LGGqzc4bVFdQmC9D
 
 convert alphabet to binary.
 
@@ -1154,7 +1189,7 @@ la o!si=symbol that change parameter to word type.
 
 ma o!p=all A.
 
-na !r=fact,//com too and,A include,real,true,o,.
+na !r=fact.//com too and,A include,real,true,o,.
 
 oa !r=i.//com express,this,omit word,
 
@@ -1190,7 +1225,7 @@ nb o=thing that know A.//com include,code,
 
 ob o-o!2p=thing that be B with A.
 
-pb n!o=what function.//1st bit 1 mean int type
+pb n-int...!o=what function.//1st bit 1 mean int type
 
 ac o-o!p=A that B include.//com also,thing that A include,.
 
@@ -1212,7 +1247,7 @@ ic o-o!p=intersection of A and B,//com also,A include,A include,
 
 jc s-n!p=what happens if A2 is A1.//anto reason.
 
-kc int-int...:1p=thing that says A.//com express,str,.
+kc n-int...:1p=thing that says A.//com express,str,.
 
 lc s-o!p=but.//com inverse,that a2 is a1,.
 
@@ -1232,11 +1267,11 @@ cd <o-o>-n!p=thing that become A using oneself also B.//use,also,self,.
 
 dd c=self.//no cw but intend com word-as-id,+2id.
 
-ed o-o!p=between A and B.//com exceed,below,.
+ed o!p=around of A.
 
 fd !r=normal.
 
-gd int=A th function.
+gd int!v=A th function.
 
 hd o!p=other A.//cant com also,not,wtdoc,.
 
@@ -1262,17 +1297,17 @@ be c o!p=and{,//com or,most,
 
 ce n-int-p!p2=parameter to object.
 
-o!de r=thing that sense A.
+de o!r=thing that sense A.
 
 ee s!t=time when A2 is A1.//com what,thing that be B when A,
 
 fe o,o!r=thing that forbids B from becoming A.//com command,not,
 
-ge o-o,n!p=thing that become B using A.
+ge <o-o>-n!p=thing that become B using A.
 
 he o!p=element of A.//include promise.
 
-ie o-o=B according to A.
+ie o-o=A according to B.
 
 o!p=essence of A.
 
@@ -1280,13 +1315,13 @@ je s!t=past of A.
 
 ke n!r=abnormal.//anto normal,
 
-le o=around of A. 
+le c o!p=between A1 and A2 and.
 
 me s,n!r=thing that desire A is true with B percent intensity.
 
 ne n or o!r=location of A.
 
-n,o!oe =Ath B.//minus is from last.
+oe n,o!p=thing that similar to A.
 
 pe o!p=average of A.
 
@@ -1300,7 +1335,7 @@ df s,n!r=thing that dread A with B percent intensity,//anto desire,
 
 ef o-<o,n>!2p=B that is by A.//also,result,fact,.
 
-ff n,o!p=thing that similar to A.
+ff !si=continue say.
 
 gf s!t=future of A.//anto past of A.
 
@@ -1312,15 +1347,15 @@ jf s!r=thing that knows it is true that A2 is A1.//com know,sen,true,whether,.
 
 kf o,o!r=thing that reply to B by saying A..//anto ask,
 
-lf o=minus of A.
+lf o!p=minus of A.
 
-mf !o=word that depends on context.
+mf n,o!2p=Ath B.//minus is from last.
 
-nf o-o!=nearest A to B.
+nf o-o!1p=nearest B to A.
 
 of o!r=thing that go A.//com become,
 
-pf !si=continue-say,
+pf !o=word that depends on context.
 
 {
 
@@ -1338,11 +1373,11 @@ ag
 
 bg int:-1 in minus!n=integers,
 
-cg int-int...!v=str.
+cg n-int...!v=str.
 
 dg
 
-int!eg n=value.
+eg n=value.
 
  int-n:int!n=real number.
 
@@ -1352,11 +1387,11 @@ gg o!n=not A.
 
 hg o-o!n=and A B.
 
-ig o-o!n=xor A B.
+ig o-o!n=or A B.
 
 !n=other-math.
 
-jg o-o!n=or A B.
+jg o-o!n=xor A B.
 
 kg o!n=less than A.//A>
 
@@ -1472,7 +1507,7 @@ gjfd o,n=thing that normalize A.//com reason,normal,.
 
 gjfg o,n=thing that kill A.//com reason,die,.
 
-kkcd !r=phonetic alphabet.//com express,sound,letter,
+kncd !r=phonetic alphabet.//com express,sound,letter,
 
 o!r=A taster.//com know, a include,.
 
@@ -1490,9 +1525,9 @@ n!r=thing that laughs.//com fun,express,,ori com use,fun,o,express,.
 
 clkb o,o,n!r=thing that write A at B.//letter,express,.
 
-dmbg o!r=thing that read A.//com sense,code,.
+dmcd o!r=thing that read A.//com sense,letter,.
 
-dmba o!r=thing that see A.//com sense,photon,
+dmca o!r=thing that see A.//com sense,photon,
 
 o,n=thing that gives birth to A,//com emit,baby,.
 
@@ -1520,7 +1555,7 @@ dmkg o=thing that smaller than A.//com meter3,less,
 
 dmfh o=thing that bigger than A.//com meter3,more,
 
-bmed o-o=distance of between A and B,//meter,between,
+bmle o-o=distance of between A and B,//meter,between,
 
 ajed o=pointed A,//com also,pointed,
 
@@ -1546,13 +1581,13 @@ anae o!p=her A.//com of,she,.
 
 ajde !r=he.//com the A,men,.
 
-ajad o!p=his A.//com,he,.
+ajad o!p=his A.//com of,he,.
 
 inih !r=wave.//com hz,over,zero,.
 
-klkb o!r=thing that speak A.//com sound,express,,ori use,sound,express,.
+flkb o!r=thing that speak A.//com sound,express,,ori use,sound,express,.
 
-klbg=music.//com sound,pleasure,
+flbg=music.//com sound,pleasure,
 
 =gay,//com hope,breed,gender,self,.
 
@@ -1566,15 +1601,15 @@ boba=we.//com and,i,you,o,
 
 kjbb o,n=yes.//com express,know a is true,true,
 
-fjdb !r=eye.//com organism,see,.
+djfb !r=eye.//com see,organism,
 
 !r=gender.//com
 
 o=water-per,//com intersection,water,
 
-dmkd o,n=thing that listen A.//com sense,sound,.
+dmfd o,n=thing that listen A.//com sense,sound,.
 
-olif o=thing that get A./com become,have,.
+olif o=thing that get A.//com become,have,.
 
 gjff o,n!r=thing that impact A,//com reason,shift,
 
@@ -1596,11 +1631,9 @@ gjkb o-n!r=thing that heal A.//com reason,alive,
 
 ilpe o!p=features of A.//com difference,average,
 
-gjod o,o,n!r=thing that change A to B.//com reason,become,
+gjod o-n!r=thing that change A.//com reason,become,
 
 njgd o!r=thing that calculate A,//com know,number,.
-
-o,o,n=thing that moved from A to B.//com
 
 mmnb o,n!r=think that wonder about A.//com hope,know,
 
@@ -1648,6 +1681,10 @@ omfb !r=birth thing.//com become,organism,.
 
 bked n!r=Ameter per second.//com meter,second,
 
+anab o-s!1p=A whose B2 is B1.//com also,include,also,
+
+kjcf s!r=thing that assert that A2 is A1.//com express,that A2 is A1,
+
 //ecom
 
 }com
@@ -1664,7 +1701,9 @@ many is first.
 
 aiba !r=elementary particle.
 
-biba !r=photon.
+aiba !r=none.
+
+ciba !r=photon.
 
 ~bjba
 
@@ -1830,6 +1869,10 @@ mix{
 
 }mix
 
+ro{
+
+}ro
+
 }by word formation rule
 
 Randomly generated words(no word formation rule){
@@ -1880,7 +1923,7 @@ boob o,n=thing that feel pleasure about A.
 
 gmgd o-o:=thing that win A in competition of being B.
 
-klif =sound.
+flif =sound.
 
 fojb =die.
 
@@ -1945,10 +1988,6 @@ kkca o,n!r=thing that think A is fun.
 bllb o!r=thing that inhale A.
 
 o!//r=thing that aim A.
-
-//oood o!o=variable A declared with var.//like var A=1;
-
-//lood o!o=variable A declared with let.//like let A=1;
 
 olca o!r=terrain of A.
 
@@ -2056,15 +2095,15 @@ o!p=thing that determine A.
 
 n!r=mosfet.
 
-goic s,o,o,c s=for(A2=A1;B;C;){D}.
-
 int:<number of oord>-ni:<targeting parameter>-int<word>-int<structure>=mean of function.
 
 kiga n!v=Akg.
 
-glba !n=number.
+goba !n=number.
 
 eokb !r=language.
+
+ojkb o-o!r=thing that move from A to B.
 
 //era
 
@@ -2102,13 +2141,11 @@ ajlb !r=here.//com also cast,this,.
 
 o!r=thing that discriminates against A.//eg discriminates gender it=Discriminate against it based on gender.
 
-gmfe !t=morning.//com hour,between,five-int,twelve-int,
+glfe !t=morning.//com hour,between,five-int,twelve-int,
 
 dlhd !t=yesterday.//com minus,today,day,one,
 
 dec!n=decimal number.
-
-jkgd o-<c s,n>!v=if(A){B}C.
 
 midd !t=always.//com all,time,.
 
@@ -2126,7 +2163,7 @@ o!r=thing that toward A.
 
 boge n!r=introvert.//com pleasure,inside,
 
-bojd n!r=extrovert.//com pleasure,outside,
+ojge n!r=extrovert.//com pain,inside,
 
 hofa o!p=A too.
 
@@ -2140,11 +2177,17 @@ o!r=thing that walk on A.
 
 thing that return A.
 
+jjga o!p=new A.
+
+=integer.//com number,
+
 //efw
 
 }word that will be created
 
-int{
+}word dictionary
+
+id dictionary{
 
 cast{
 
@@ -2182,10 +2225,12 @@ i=factorization,
 
 nl ipa{
 
-2int is one syllable.
+//AAAACCC@ BBBCAAA@
+
+/*2int is one syllable.
 %AAAAAA@BBBCCCC@
 8bit is initial consonant(A)
-remaining 8bit is final consonant(B) or vowel(C).
+remaining 8bit is final consonant(B) or vowel(C).*/
 
 }nl ipa
 
@@ -2195,7 +2240,7 @@ b=space,
 
 }english
 
-}word dictionary
+}id dictionary
 
 }EML(Efficient Memory Language)
 
@@ -2203,39 +2248,76 @@ ECL{
 
 sentence 'A B' mean 'hey B, be A!'
 
+word dictionary{
+
+goic s,o,o,c s=for(A2=A1;B;C;){D}.
+
+jkgd o-<c s,n>!v=if(A){B}C.
+
+//oood o!o=variable A declared with var.//like var A=1;
+
+//lood o!o=variable A declared with let.//like let A=1;
+
+}word dictionary
+
 exam{
 
-//js to ecl
+ARM instructions to ECL{
 
-var a=0.
-ooodlhgh
+ADD R0, #1
+mg dd lh gh
+
+ADD R0, R1, #1
+mg hh lh gh
+
+AND R1, R2,
+hg gh hh
+
+ORR R1, R2, R3
+og hh bpph gh
+
+MOV R1, R2
+ojkb hh gh ad
+
+LDR R0, [R1]
+ne hh gh ad
+
+B BPPH
+of bpph ad
+
+if, for is expressed like javascript
+
+}ARM instructions to ECL
+
+javascript instructions to ECL{
+
+var a=0;
+oood lh gh.
 
 for(var i=0;i<4;i++){
-
-console.log(i)
-
+console.log(i);
 }
 goic ih gh ja fh gh jh mg gh lh da<-(da is enter, it for easy to read)
 kb gh ad da
 bc da
-kccanc
+kc lhnc
 
-'nc'.replace('fojb')
-gjodcgcafojbcgbanc
+'nc'.replace('fojb');
+gjod cgnhfojb cglhnc
 
-'fojb'.includes('jb')
-janjefcgbajbcgcafojb
+'fojb'.includes('jb');
+ja njef cglhjb cgnhfojb
 
 if(x>1){
-console.log(1)
+console.log(1);
 }else if(){}else{}
-jkgdjafhlhghkblhbcnhadlhad
+jkgd ja fh lh gh kb lh bc nh ad lh ad
 
 function A(var a){
 console.log(a);
 return a;
 }
-cncfkbghadkfghbcgdda
+cncf kb gh ad kf gh bc gdda
 
 A||B
 janahbghhhad
@@ -2268,7 +2350,11 @@ loodlhbeghhhad
 
 do{}while()
 
+import
+
 }exam
+
+}javascript instructions to ECL
 
 }ECL,
 
@@ -2409,11 +2495,11 @@ compound word{
 
 form of compound word must similar to original expression!(eg abangafhad(titan)->anfh(no fnaf!))
 
-if new compound word overlap with other compound word,first element word of new compound word become small.(eg '00,10' become '0,1'. then if length of area of element is 1, use XOR).
+if new compound word overlap with other compound word,first element word of new compound word become small.(eg '00,10' become '0,1'. but if length of area of element is 1, use XOR).
 
 length of bit of element of compound word must power of two.
 
-if length of bit of element of compound word is not power of two, element of compound word such as symbol that omit grammar, ea, of, and, or, also is omitted to be power of two.
+if quantity of element word is less than 4, and element of compound word such as symbol that omit parameter, ea, of, and, or, also is in start or end, it is omitted.
 
 small bit word is first in situation whose order doesn't matter.
 
@@ -2454,7 +2540,7 @@ license{
 
 //vc
 
-nl version:70925
+nl version:71125
 
 license can be changed.
 
@@ -2646,7 +2732,7 @@ logic{
 
 ab A bb B C ad bb ab A B ab A C ad.
 
-mb ee mb ee de bf cjea bd ad oa ab anga ea de oa bb ab anga cjea ab anga bd ad mofg ga ab anga ea de oa ab na ab anga ea de oa
+mb ee mb ee de be cjea bd ad oa ab anga ea de oa bb ab anga cjea ab anga bd ad mofg ga ab anga ea de oa ab na ab anga ea de oa
 
 i dont know you=i know that you are only...
 
