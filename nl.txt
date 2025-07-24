@@ -1,6 +1,6 @@
 This document includes research data, It is sufficient to read about 50 percent of the document.
 
-My PDF doesn't repeat what's already said, so you need to read it in detail to understand.
+this PDF doesn't repeat what's already said, so you need to read it in detail to understand.
 
 our chat room: https://discord.gg/VhHBjXbpkz
 
@@ -21,6 +21,8 @@ this artificial language is called norlang(Normal Language) in english.
 advertisement{
 
 lot of words is compound word and abbreviation and antonym and arranged in an orderly way.
+
+most word have short spelling.
 
 so you can remember words easily.
 
@@ -58,7 +60,7 @@ norlang can be used in programming since norlang is very logical.(eg
 'var a=1==2;
 console.log(a);'
 is expressed as 
-'ja lh nh ib gh
+'ib ja lh nh gh
 kbgh')
 
 norlang can express every meanings using only binary.
@@ -393,6 +395,8 @@ result is 'oa'(01,11,0000).
 
 'pron de mensch' means that the pronunciation of this word is derived from the German word 'mensch'.
 
+this is pronounced as meng(/mɛŋ/).
+
 'de' mean german in ISO code alpha2.
 
 }
@@ -435,7 +439,7 @@ FYR: (mmfd bd) oa.
 
 }
 
-'dmca cf gkif glid bd ajmd oa' = 'I see her giving you food', 'i see her that give you to you', '(thing that see that thing that give food to you is she) is me'{
+'dmca cf gkif glda bd ajmd oa' = 'I see her giving you food', 'i see her that give you to you', '(thing that see that thing that give food to you is she) is me'{
 
 dmca o!r=thing that see A.//com sense,photon,.
 
@@ -443,11 +447,11 @@ cf s!r=that A2 is A1.
 
 gkif o-o!r=thing that give A to B.//com cause,have,
 
-glid !r=food.
+glda !r=food.
 
 ajmd !r=she.//com the,women,.
 
-FYR: (dmca (cf (gkif glid bd) ajmd)) oa.
+FYR: (dmca (cf (gkif glda bd) ajmd)) oa.
 
 }
 
@@ -533,7 +537,7 @@ FYR: fc (ne bd).
 
 gb s,n!p=reason why A2 is A1.
 
-dlke o,n=thing that hate A.//antl love,
+dlke o,n=thing that hate A.//anto love,
 
 if second parmeter of 'fc' is omitted, it mean 'you' or 'i'(alone think).
 
@@ -543,15 +547,15 @@ FYR: fc (gb (dlke oa) bd).
 
 }
 
-'fc  jc  enmd noda  bd'='what if you give up being worker?', '(thing that ask you about what happens if thing that give up being worker is you) is me'{
+'fc  jc  enmd noag  bd'='what if you give up being worker?', '(thing that ask you about what happens if thing that give up being worker is you) is me'{
 
 jc s,n!p=what happens if A2 is A1.//anto reason,
 
 enmd o!r=thing that gave up being A.//com stop,intend,
 
-noda !r=worker.
+noag !r=worker.//anto rest,
 
-FYR: fc (jc (enmd noba) bd).
+FYR: fc (jc (enmd noag) bd).
 
 }
 
@@ -647,13 +651,13 @@ FYR: (mb midd (mmfd bd)) ajmd.
 
 }time
 
-'ob ajde noba oa '='i work with he'{
+'ob ajde noag oa '='i work with he'{
 
 ob o-o-n!p=thing that be B with A.
 
-noba !r=worker.
+noag !r=worker.
 
-FYR: (ob ajde noba) oa.
+FYR: (ob ajde noag) oa.
 
 }
 
@@ -1129,7 +1133,7 @@ You wouldn't understand. learn words first.
 
 'mb midd mmnb gb eida ajmd' = 'I always wondered why he did that'.
 
-'ae anga mmfd bd' = 'people that you love', 'lovely people'.
+'ae anga mmfd oa' = 'people that i love', 'lovely people'.
 
 'ab anga mmfd bd' = 'people that love you'.
 
@@ -1143,7 +1147,7 @@ You wouldn't understand. learn words first.
 
 'fc ea bida ajde'='what he say?'
 
-'fc ie mlfb mocg be oa bd' = 'Who's bigger, you or me?'.
+'fc ie lkba mocg be oa bd' = 'Who's bigger, you or me?'.
 
 'hc hf anga oa '= 'probability that i am people'
 
@@ -1160,6 +1164,12 @@ You wouldn't understand. learn words first.
 'fc ea jf oa bd' = 'What do you think of me?'
 
 'iokg dmcd lb' = 'this is easy to read'.
+
+'fc pc kiga bd' = 'what is your weight?'.
+
+'kf kiga jh'= '4kg!(reply)'.
+
+'mmnb ea cd oknb lb eoda pa bd' = 'Im curious about what you are trying to do by learning this language'
 
 /ere
 
@@ -1380,7 +1390,7 @@ ge <o-o>-n!p=thing that become B using A.
 
 he o!p=element of A.//include promise.
 
-ie o-o=B that is related to A.
+ie o-o=A that is related to B.
 
 je s!t=past of A.
 
@@ -1452,7 +1462,7 @@ cg n,int...!v=string.
 
 dg int:-1 in minus!n=integers.
 
-eg
+eg o!p=minus of A.
 
 fg n=value.
 
@@ -1480,7 +1490,7 @@ og o-o!n=A square B.
 
 pg o!n=A converted into number.//com converted,number,.
 
-ah o!p=minus of A.
+ah dec!n=decimal number.
 
 bh o-o!n=A root B.
 
@@ -1652,9 +1662,7 @@ onge o!r=thing that enter into A.//com go,inside,.
 
 oknb o!r=thing that learn A.//com becoming,know,.
 
-omeg !r=birth thing.//com become,organism,.
-
-bjed n!r=Ameter per second.//com divided by,meter,second,
+omeg !r=born.//com become,organism,.
 
 enmd o,n=thing that give up being A.//com stop,intend,
 
@@ -1692,7 +1700,25 @@ cokg o!r=thing that is younger than A.//com A old, less,
 
 hllg o,o!r=thing that apologize to B for A.//com please,forgive,
 
-iokg o-o!2p=thing that easily become A than B.//difficulty level,less,
+iokg o-o!2p=thing that easily become A than being B.//difficulty level,less,
+
+oina o!r=thing that admit A.//com assert,fact,
+
+kona !r=physics.//com document,essense,
+
+cjkg o!r=thing that is fewer than A.//com quantity,less,
+
+dodd o!r=thing that decide to be A.//com promise,self,
+
+lljb !r=road.//com line,land,
+
+elkg o-o-o!r=thing that efficiently become A than B.//com efficiency,less,
+
+djld !r=stick.//com solid,line,
+
+npdb !r=chopstick.//com two,stick,
+
+johe !r=bread.//com fermentation,bread,
 
 //ecom
 
@@ -1780,6 +1806,16 @@ loag o,n!r=thing that forgive A.//anto revenge,
 
 hjfb o-o!2p=thing that is more difficult to become A than B.//anto easy,
 
+bpch o!r=thing that denies A.//anto admit,
+
+nofb o!r=thing that is manier than A.//anto fewer,
+
+gobg !r=sky.//anto land,
+
+lmfb o-o!r=thing that unefficiently become A than B.//anto efficient,
+
+aopb !r=damage.//anto profit,
+
 //eanto
 
 }anto
@@ -1827,6 +1863,8 @@ jkba n!r=A meter.
 kkba n!r=A metet^2.
 
 lkba n!r=A meter^3.
+
+algb o,n!r=thing thag bite A.
 
 blgd o!r=thing that eat A.//com inhale,food,,
 
@@ -1878,35 +1916,47 @@ dipa !r=red.
 
 mipa !r=green.
 
-pipa !r=yellow.
-
 alpa !r=blue.
 
+pipa !r=yellow.
+
 plpa !r=white.
+
+lkpa !r=pig pink.
+
+lipa !r=orange.
+
+kkpa !r=gray.
+
+bkpa !r=purple.
 
 }color
 
 shape{
 
-jlnb !r=shape.
+jlna !r=shape.
 
-klnb !r=point.
+klna !r=point.
 
-llnb !r=line.
+llna !r=line.
 
-mlnb !r=triangle.
+mlna !r=triangle.
 
-nlnb !r=square.
+nlna !r=square.
 
-olnb !r=pentagon.
+olna !r=pentagon.
 
-plnb !r=hexagon.
+plna !r=hexagon.
 
-aonb int!r=n gon.
+aona int!r=n gon.
 
-=cube.
+!r=cube.
 
-}spape
+!r=circle.
+
+!r=sphere.
+
+}shape
 
 //eorder
 
@@ -1919,6 +1969,8 @@ bode !r=body.//lesi en body.
 clob !r=closed.//lesi en closed.
 
 comb !r=combination.//lesi en combination
+
+dood !r=door.//lesi
 
 //ele
 
@@ -1963,8 +2015,6 @@ gmge !r=father.//pron baby papa.
 amae r!=mother.//pron baby mama.
 
 pmda o!r=thing that greet A.//pron ro salut,
-
-ijfe !r=building.//pron vietnam toa nha
 
 //pron amharic
 
@@ -2068,7 +2118,7 @@ aoad !r=ore.
 
 pnpd o!r=thing that sex with A.//pron fr sexe
 
-domb o-o=thing that promise B to be A.
+doba o-o!r=thing that promise B to be A.
 
 imga o!v=Ahz.
 
@@ -2076,7 +2126,7 @@ pibd o,n=thing whose A is purpose.
 
 djnb !o=minus most.
 
-noda !r=worker.
+noag !r=worker.//anto rest,
 
 kiga n!v=Akg.
 
@@ -2094,7 +2144,7 @@ hmjb c o!v=similarity between A1 and A2.
 
 kjob !r=alive.
 
-glid !r=food.
+glda !r=food.
 
 llib !v=created.
 
@@ -2107,6 +2157,16 @@ oida s!r=thing that assert that A2 is A1.
 ejpb o!r=thing that revenge A.
 
 ioda o-n!2p=thing that is become A with Bdifficulty level.
+
+ijda !r=building.
+
+jjob !r=land.
+
+eljg n-o=thing that become B with A efficiency.//n is damage/gain,,
+
+pjag !r=profit.
+
+lmea o,n!1p=thing that repeat A.
 
 //era
 
@@ -2142,8 +2202,6 @@ gjfe !t=morning.//com hour,between,five-int,twelve-int,
 
 dec!n=decimal number.
 
-o,n!r=thing that decide to be A.
-
 o!r=thing that toward A.
 
 hofa o!p=A too.
@@ -2152,7 +2210,7 @@ hofa o!p=A too.
 
 o!p=thing that return A.
 
-jjga o!p=new A.
+ajca o!p=new A.//lesi com also,young,
 
 =integer.//com number,.
 
@@ -2186,7 +2244,7 @@ o!r=thing that connecte A.//anto disconnected,
 
 o!r=thing that touch A.
 
-!r=thing that rest.
+cjpb !r=thing that rest.
 
 !r=cloth.
 
@@ -2200,7 +2258,7 @@ o!r=thing that conversation with A.
 
 !r=hole.
 
-!r=land.
+!r=pig.
 
 =parent.//com make,
 
@@ -2224,7 +2282,7 @@ o!r=thing that live in A.//pron
 
 s!r=thing that agree A.//com promise,not,cause,not,
 
-o-o!p=A per B.
+o-o!p=B per A.
 
 s!r=thing that dont interveing A.
 
@@ -2266,11 +2324,13 @@ o!r=thing that control A.
 
 =thing that is simpler than A.//com complexity,less,
 
-=thing that is more complex than A.
+=thing that is more complex than A.//anto simple,
 
 o!p=detail than A.
 
 o!r=thing that wear A.
+
+thing that take off A.//anto wear,
 
 =advantage.
 
@@ -2314,13 +2374,13 @@ nifa o:standard,o,n=rank.
 
 !r=mountain.
 
-!r=school.//com learn,buliding,
+ijjf !r=school.//com buliding,student,
 
 s!2p=plan of A.
 
 o!p=property of A.
 
-ajca n!r=political party,
+n!r=political party,
 
 !r=book.//com united,document,
 
@@ -2372,17 +2432,17 @@ o!p=limit of A.
 
 //hnda o=direction of A.
 
-//n!r=angular-momentum.//com
+n!r=thing whose A is angular momemtum.
+
+kijc n!r=thing whose A is momemtum.//com kg,speed,
+
+jked n!r=thing that move A meter per second.//com meter,second,
 
 //mnda !r=plant.
 
 // !r=religion.
 
 !r=civilzation.//com
-
-//poda o,o:standard=important.
-
-gjea o,n!1p=thing that repeat A.
 
 s!=request of A.
 
@@ -2418,12 +2478,6 @@ type that A.
 
 o!p=yet A.
 
-fnjg n-o=thing that become B with A efficiency.//pron de effizienz,,n is damage/gain,,eg 
-
-fnkg o-o-o!r=thing that efficiently become B than A.//com efficiency,less,
-
-kkfb o-o!r=thing that unefficiently become B than A.//anto efficient,
-
 hfph o!p=inevitably A.//com can, ph,
 
 c o!r=thing that distinguish A1 and A2 and.
@@ -2436,8 +2490,6 @@ o!v=order of A.
 
 glcg o!r=thing thtat name A.//com create,name of,
 
-=benefit.
-
 mlph o!r=thing that focus be A.//com intend,ph,.
 
 ejcf !r=logic.//com how,true,situation,.
@@ -2445,10 +2497,6 @@ ejcf !r=logic.//com how,true,situation,.
 !r=objective.//what,beilive,true,logic,.
 
 o!r=A taster.//com know, a include,.
-
-o!r=thing that admit A.//com assert,fact,
-
-o!r=thing that denies A.//anto admit,
 
 =justice.//com objectice,equality,.
 
@@ -2492,9 +2540,11 @@ o!t=thing that communicate with A.
 
 o!r=splited A.
 
-o!r=united A.//anto split,
+c o!r=united A.//anto split,
 
-=rational.
+=unit.
+
+klda !r=rational.
 
 o-n!r=thing that delete A.//anto create,
 
@@ -2510,7 +2560,7 @@ o!r=thing that play A.
 
 ancf o-s!1p=A whose B2 is B1.//com also,include,that A2 is A1,
 
-!r=physics.//com document,essense,object,
+niba !r=essense.
 
 =border.
 
@@ -2533,6 +2583,132 @@ o-n!1p=thing that is related to A.
 ojda !r=crops.
 
 !r=machine.
+
+=river.
+
+=mistake.//anto well,
+
+=moon.
+
+=handle.
+
+=jump.
+
+!r=bird.//com fly,animal,
+
+!r=breathe.//com inhale,air,
+
+=bounce.
+
+blge o!r=thing that suck A.//com inhale,inside,
+
+=boom.
+
+=brave.
+
+=bump.
+
+=bed.
+
+=bag.
+
+=block.
+
+=busy.//anto boring,
+
+=ball.
+
+=bend.
+
+=act like A.
+
+=spraied.
+
+=shaked.
+
+=basic.
+
+=advanced.
+
+=blank.
+
+=bright.
+
+=button.
+
+=stay A.
+
+=defend.
+
+=flag.
+
+=fair.
+
+joda !r=fermentation.
+
+=word.
+
+kogg !r=math.//com document,number,
+
+!r=disability.
+
+!r=illness.
+
+o!p=most A.
+
+o!p=almost A.
+
+hmkd !r=wheat.//pron arab qamh
+
+kikg o!r=thing that is lighter than A.//com Akg,less,
+
+fpfb o!r=thing that is heavier than A.//anto lighter,
+
+o!r=hail A.
+
+!r=weapon.
+
+!r=army.
+
+!r=straight.
+
+!r=curved.//anto straight,
+
+n!r=superiority.
+
+o!r=thing superior to A.//anto inferior,
+
+o!r=thing inferior to A.//com superiorty,less,
+
+!r=symmetry.
+
+!p=each A.
+
+o!r=thing that know word A.//com know,word,
+
+scientificformula!r=scientific formula.
+
+o-o!p=from A to B.
+
+o!p=thing that has right to be A.
+
+!r=freedom.
+
+o!r=pull A.
+
+o!r=push A.//anto pull,
+
+=mouth.//com bite,organism,
+
+!r=international.
+
+!r=reflect.
+
+!r=absorb.
+
+!r=miror.
+
+!r=glass.
 
 //efw
 
@@ -2602,15 +2778,15 @@ sentence 'A B' mean 'hey B, be A!'
 
 word dictionary{
 
-goic s,o,o,c s=for(A2=A1;B;C;){D}.
+goic s,s,o,c s=for(A2=A1;B;C;){D}.
 
-jkgd o-<c s,n>!v=if(A){B}C.
+enja s-<c s>!v=cmp A2, A1.//in asm,,com by,whether,
 
 bb o!o=variable A declared with let.//like let A=1;
 
 ib o!o=variable A declared with var.//like var A=1;
 
-c s!v=label.
+n-c s!v=label.
 
 c s!v=starting ecl.
 
@@ -2625,6 +2801,9 @@ mg dd lh gh
 
 ADD R1, R2, #1
 mg hh lh gh
+
+SUB R1, R2, R3,
+dh hh fgba gh
 
 AND R1, R2,
 hg gh hh
@@ -2641,9 +2820,33 @@ bb hh gh ad
 B BPPH
 of bpph ad
 
+BPPH:
+
+svc 0
+
+CMP R1,R2,
+
+{
+cmp r1, 3,
+beq BPPH
+
+cmp r1, 2
+bne CPPH
+
+CPPH:
+
+add r1, r2, #1
+svc 1
+
+BPPH:
+}
+enjaebghph
+ofkdfinichad
+enja
+
 other command is expressed using javascript.
 
-}ARM instructions to ECL
+}ARM. instructions to ECL
 
 javascript instructions to ECL{
 
@@ -2728,25 +2931,17 @@ rule{
 
 This language is not complete and it can be changed so you should indicate the version when using it like 'nl60125'(6m1d25y) month->day->year.
 
-root word{
-
-in word that consist of more 16bit, 8n+7bit 1 mean that this word dont have parameter.
-
-}root word
-
 number{
 
 'x1000010'
 if x is 0,minus.
-if x ia 1,plus.
+if x is 1,plus.
 before bit is small.
 it is eficency.
 
 10000000=+0.
 11000000=+1.
 01000000=-1.
-
-if you should use integer 0, but 0 is expressed as 'aa' then trash bit is appear. then 'ba' is 0.
 
 }number
 
@@ -2762,18 +2957,6 @@ rows should not 8,
 
 }reading way in NL QR
 
-sound{
-
-'flfa'='wow'
-
-this is pronounced as 'neumnoo' but 'n' can be silent consonant.
-
-'eum' can be 'wa'.
-
-eg 'am' can be 'ya'.
-
-}sound
-
 for developer{
 
 The efficiency of inaccurate expressions and accurate expressions should be similar to same.
@@ -2786,18 +2969,19 @@ one sentence must mean only one mean.
 
 purpose of language is only communication and efficient.
 
-0 cannot be used for counting order.
+0 dont be used for counting order.
 
 exception should none.
 
 relative things must have standard.
 
 sentence 'people i' means 'i have over 70% of features of people'.it is called 'ratio word'.
-10.arrangement order of word is 'number->most common->'.
+
+arrangement order of word is 'number->most common->'.
 
 logic of sentence{
 
-if A is B also C, 'A is B' is true.
+if A is B also C, then 'A is B' is true.
 
 left of nl sentence have smaller concept.
 
@@ -2817,17 +3001,7 @@ word that need standard
 
 transitive verb.
 
-test sentence{
-
-input word your wonder to @.
-
-Forgotten @ repeats itself.(eg history word dont need parameter. try input history of. is it owe?)
-
-people in @ love you.
-
-There should be no discrimination based on @(that is features of discrimination word. so 'element of all' word legal)
-
-}test sentence
+very unefficient.
 
 }word that need parameter
 
@@ -2837,21 +3011,19 @@ bit of antonym is inverse of original word so 0 become 1, 1 become 0.
 
 word that should come first{
 
-priority-est is
-
-low number(below->more).
+low number(eg below is before more).
 
 order(eg seller exist to make buyer,, women is made before men exist)
 
-original:'df' mean 'meeb' so 'me' is first.
+original(eg 'df' mean 'meeb' so 'me' is first).
 
-many quantity:photon is mannier than neutrino.
+many quantity(eg photon is mannier than neutrino).
 
 }word that should come first
 
 if spectific word have lot of antonym, created by antonym mechnism is 'root(no slave,no king)->number(0% can=cant)->purpose(weapon,treatment tool,,intend,evolution)->diffrence set(dont know,know)'.
 
-antonym of compound word dont following rule 'word that should come first' so many quantity word can have big bit.
+antonym of specific compound word dont following rule 'word that should come first' so many quantity word can have big bit.
 
 antonym form should not same as antonym converted into compound word(eg word 'forgot' that made by antonym mechnism)
 
@@ -2918,7 +3090,7 @@ You can use norlang legally for free.
 
 you cant edit norlang.(eg chaing grammar, but you can make new word but that new word is not official)
 
-but only large corporations and country must pay 500000dollar adjusted to 2025 value to use norlang per year except it of germany and laos and rwanda and honduras dont need to pay.(pay in january 1day. in 2025, it is 500000dollar)
+Large corporations are required to sign license agreement to use it.
 
 The standards of large corporations are determined by the rules of their countries.
 
@@ -3093,7 +3265,7 @@ sentence 'men is people' express people.
 
 'i love you' mean 'i love you now'.
 
-'gb fd eida oa' mean 'gb fd eida ac oa ld'.
+'gc fd eida oa' mean 'gc fd eida ac oa ld'.
 
 }logic
 
@@ -3141,7 +3313,7 @@ i decide to use VOS.
 
 }research data
 
-element of language{
+element of this conlang{
 
 WL is world language.
 
@@ -3151,132 +3323,6 @@ CL is Cpu Language.
 
 ML is Memory Language.
 
-}element of language
-
-useless from here
-
-useless from here
-
-useless from here
-
-useless from here
-
-WL{
-
-it is incomplete.plz ignore WL,go to BWTL,
-sound of WL{
-
-xxyyyyyy{
-
-xx is frequency type,
-
-yy is frequency,
-
-}
-
-(2bit:s or t or q or a.6bit:32n+32= of 8bit,
-
-pronunciation expressed using NL ipa.
-
-sin
-
-32n{
-
-aa:du. ea: bu. ia:'tu. ma:ju.
-
-ab:lu.eb:'t'i.ib:dud.mb:dul.
-
-ac:bws.ec:mus.ic:dup.mc:cub.
-
-ad:y.ed:do.id:bul.md:qul.
-
-ae:rm.ee:ym.ie:'trm.me:'twm.
-
-}32n
-
-maybe 128n{
-
-aeim
-
-ae:'vu.ee:mo.ie:'cu.me:dum,
-
-af:'vo.ef:mom.if:'tum.mf:'co,
-
-ag:om.eg:'pon.ig:'tus.mg:'nom,
-
-ah:'pos.eh:'cus.ih:'trm.mh:'kuk,
-
-ai:'tym.ei:'tu.ii:'pun.mi:'po,
-
-aj:'jo.ej:'tos.ij:'k.mj:'pum,
-
-ak:'tom.ek:'mo.ik:mu.mk:mr,
-
-al:m'r.el:'t'r.il:'tw.ml:'tr,
-
-| . .'tun |. . .'tom | .. .'ty |... .'ku ,
-
-| . .'p'r |. . .'toq | . . .'tob |.. . .'prm ,
-
-| .. .'kos |. .. .'kr | ... .'j |.... .'jum ,
-
-| ..'kw |. ..'tul | . ..'cin |.. ..'tin ,
-
-| . ..'pis |. . .'tis | .. ..'cun |... ..'ti ,
-
-| ...'pin |. ...'p'is | . ...'tim |.. ...'t'i ,
-
-| ....'k'is |. ....'t'is | .....'p'ipp'p'in ,
-
-}maybe 128n
-
-}sound of WL,
-
-WCL{
-
-}WCL
-
-WML{
-
-<Number of expression objects,Number of cases,frame,Minimum force,what compare>
--><dimension,bit,strength,frame,case>
-
-sign{
-
-rank of priority{
-
-sev is several,
-r is relative,
-infi is infinity,
-}rank of priority
-}sign
-a=finish-sentence-and-standard,
-ad=finish-sentence,
-world<0,0,0,0>,
-none<0,0,0,0>,
-time<0,0,0,2>,
-elementary-particle<1,1,sev,1,19>,
-exist<1,1,r,1,infi>,
-
-atom<1,100~300,1,1.67×10^−27kg>,
-molecule<1,300~,1,2×1.67×10^−27kg>,
-appear/disappear<1,2,2,1>,
-none change/change(s,r,p=<1,2,2,1>
-light/heavy,(become light/become heavy=<1,2,2,2>,
-(become low/become many=<1,2,2,mc^2>,
-square<1,1,1,srpr>,
-number<1,2,1,srpr>(1,
-inner/out<1,2,1,1,7>,
-this i/this u<1,2,1,2,1>,
-under/down/left/up/right/on<1,6,1,1,7>,
-line<2,1,1,2,6>,
-move to (under/down/left/up/right/on=<1,6,2,2,14>,
-stay/move<1,2,1,2,14>,
-split/combine<(1'2.,2,2,2×mason,13>,
-decrease/gain<(1'2.,2,2,3,13>,
-
-}WML,
-
-}WL,
+}element of this conlang
 
 }norlang
