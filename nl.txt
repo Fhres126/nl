@@ -1,84 +1,83 @@
-This document includes research data, It is sufficient to read about 50 percent of the document.
+This document includes research data. It is sufficient to read about 50 percent of the document.
 
-this PDF doesn't repeat what's already said, so you need to read it in detail to understand.
+This PDF doesn't repeat what's already said, so you need to read it in detail to understand.
 
-our chat room: https://discord.gg/VhHBjXbpkz
+Our chat room: https://discord.gg/VhHBjXbpkz
 
-I recommend that you view it as a pdf and dark mode(for font and image. android app: moon+ reader): https://github.com/Fhres126/nl/blob/main/nl.pdf
+I recommend that you view it as a PDF: https://github.com/Fhres126/nl/blob/main/nl.pdf
 
-if that link dont work: https://glki.netlify.app/nl.pdf
+If that link doesn't work: https://glki.netlify.app/nl.pdf
 
-youtube: https://youtube.com/@normallanguage?si=4E6OEKgSuZa9OJAj
+YouTube: https://youtube.com/@normallanguage?si=4E6OEKgSuZa9OJAj
 
-if you dont like this document then give me feedback or see after 1month. that issue can be fixed.
+If you don't like this document, then give me feedback or revisit it after one month. That issue can be fixed.
 
-all feedback is welcome!
-
+All feedback is welcome!
 norlang{
 
-this artificial language is called norlang(Normal Language) in english.
+This artificial language is called Norlang (Normal Language) in English.
 
-advertisement{
+Advertisement:
 
-lot of words is compound word and abbreviation and antonym and arranged in an orderly way.
+Lots of words are compound words, abbreviations, and antonyms, and are arranged in an orderly way.
 
-most word have short spelling.
+Most words have short spellings.
 
-so you can remember words easily.
+So you can remember words easily.
 
-grammar is simplest and similar to math.
+Grammar is simplest and similar to math.
 
-norlang dont have exception.
+Norlang doesn't have exceptions.
 
-norlang versions of barcodes and QR codes is called NL QR.
+Norlang versions of barcodes and QR codes are called NL QR.
 
-Since norlang is a binary language, it can easily be converted into NL QR and and norlang version morse code.
+Since Norlang is a binary language, it can easily be converted into NL QR and a Norlang version of Morse code.
 
-norlang is not ambiguous.
+Norlang is not ambiguous.
 
-eg 'A of B and C' can be interpreted as '(A of B) and C' and 'A of (B and C)' in english.
+eg, "A of B and C" can be interpreted as "(A of B) and C" and "A of (B and C)" in English.
 
-but in norlang, 'be af A B C' mean only '(A of B) and C'.
+But in Norlang, "be af A B C" means only "(A of B) and C".
+'af A be B C' means only 'A of (B and C)'.
 
-'af A be B C' mean only 'A of (B and C)'.
+Norlang is maybe most efficient.
 
-norlang is maybe most efficient.
+'i know you' in Norlang is 'nbbd'. (This is pronounced differently from English; it is easy to pronounce.)
 
-'i know you' in norlang is 'nbbd'.(This is pronounced differently from English. it is easy to pronounce)
+English is 80 bits (in ASCII code).
 
-english is 80bit(in ascii code).
+Norlang is 16 bits (one letter is 4 bits).
 
-norlang is 16 bit(one letter is 4bit).
+Norlang is five times more efficient than English.
 
-norlang is five times more efficient than English.
+So Norlang reduces environmental pollution.
 
-so norlang reduces environmental pollution.
+Norlang is a phonetic script.
 
-norlang is phonetic script.
-
-norlang can be used in programming since norlang is very logical.(eg
+Norlang can be used in programming since Norlang is very logical.(eg
 'var a=1==2;
 console.log(a);'
 is expressed as 
 'ib ja lh nh gh
 kbgh')
 
-norlang can express every meanings using only binary.
-
-NL QR1 is over 1.5 times more efficient than a barcode.(both image mean same)
-
-NL QR2 uses over 5 times less space than a QR code.(the both image mean 'i am people')
-
-NL QR means the same from any angle like QR code.
+Norlang can express every meaning using only binary.
 
 
-NL QR can be expressed in one, two, or three and more dimensions(pdf user can see image).
+NL QR1 is over 1.5 times more efficient than a barcode (both images mean the same).
 
-maybe you can use norlang fluently in just two month
+NL QR2 uses over 5 times less space than a QR code. (The both images mean "I am people.")
 
-norlang brings easy communication peace and helps technology grow.
+NL QR means the same from any angle, like a QR code.
 
-norlang is the simplest, most efficient, easiest and most logical language.
+
+NL QR can be expressed in one, two, or three and more dimensions (PDF users can see the image).
+
+Maybe you can use Norlang fluently in just two months.
+
+Norlang brings easy communication and peace and helps technology grow.
+
+Norlang is the simplest, most efficient, easiest, and most logical language.
 
 }advertisement
 
@@ -727,7 +726,7 @@ FYR: (ge (af dkeg oa) (dmca bd)).
 
 'pmda ma bd' = 'hello everyone'{
 
-pmda o!r=thing that greet A.//pron ro salut,
+pmda o!r=thing that greet A.//pron esperanto saluton,
 
 ma o!p=all A.
 
@@ -1540,7 +1539,7 @@ kncd !r=phonetic alphabet.//com express,sound,letter,
 
 kkbb s!v=evidence that A2 is A1.//express,that A2 is A1,true,whether,.
 
-gmmd o,n!r=thing that help A,//com cause,what,intend,self,
+gkpb o,n!r=thing that help A,//com cause,profit,
 
 clba o,o,n!r=thing that write A at B.//letter,mention,.
 
@@ -1556,7 +1555,7 @@ mljd o,n!r=thing that mind A.//com intend,think,
 
 ljhd !t=today.//com this,day,.
 
-anbg o!p=information of A.//of,code,
+bogd !r=information.//code,need,
 
 fikg o!r=thing weaker than A.//com newton,less,
 
@@ -1714,11 +1713,17 @@ lljb !r=road.//com line,land,
 
 elkg o-o-o!r=thing that efficiently become A than B.//com efficiency,less,
 
-djld !r=stick.//com solid,line,
+lldb !r=stick.//com line,solid,
 
 npdb !r=chopstick.//com two,stick,
 
 johe !r=bread.//com fermentation,bread,
+
+boeg !r=mouth.//com eat,organism,
+
+gmag o,n!r=thing that defend A.//com cause,not,damage,
+
+bipb s!r=thing that recommends that A2 should A1.//com assert, profit,
 
 //ecom
 
@@ -1804,7 +1809,7 @@ jnmd <o-o>-n!r=thing that hide A from B.//anto show,
 
 loag o,n!r=thing that forgive A.//anto revenge,
 
-hjfb o-o!2p=thing that is more difficult to become A than B.//anto easy,
+hjfb o-o!2p=thing that is more difficult to become A than being B.//anto easy,
 
 bpch o!r=thing that denies A.//anto admit,
 
@@ -1814,7 +1819,13 @@ gobg !r=sky.//anto land,
 
 lmfb o-o!r=thing that unefficiently become A than B.//anto efficient,
 
-aopb !r=damage.//anto profit,
+aohg !r=damage.//anto profit,
+
+alhg o!p=thing that be A.//anto about,
+
+bmhc o!r=thing that lost A.//anto get,
+
+jnag o,n!r=thing that harmful A.//anto help,
 
 //eanto
 
@@ -1930,25 +1941,29 @@ kkpa !r=gray.
 
 bkpa !r=purple.
 
+nlpa !r=mint.
+
+gipa !r=brown.
+
 }color
 
 shape{
 
-jlna !r=shape.
+jlda !r=shape.
 
-klna !r=point.
+klda !r=point.
 
-llna !r=line.
+llda !r=line.
 
-mlna !r=triangle.
+mlda !r=triangle.
 
-nlna !r=square.
+nlda !r=square.
 
-olna !r=pentagon.
+olda !r=pentagon.
 
-plna !r=hexagon.
+plda !r=hexagon.
 
-aona int!r=n gon.
+aoda int!r=n gon.
 
 !r=cube.
 
@@ -1984,6 +1999,8 @@ eoga !r=organism.//sim com was,become,alive,
 
 imba o!p=same A.//sim anto other,
 
+ajca o!p=new A.//sim com also,young,
+
 /esi
 
 }sim
@@ -2014,7 +2031,7 @@ gmge !r=father.//pron baby papa.
 
 amae r!=mother.//pron baby mama.
 
-pmda o!r=thing that greet A.//pron ro salut,
+pmda o!r=thing that greet A.//pron esperanto saluton,
 
 //pron amharic
 
@@ -2104,13 +2121,11 @@ gmgd o-o!r=thing that win A in competition of being B.
 
 flif !r=sound.
 
-colc o=thing that A include.
+colc o!v=thing that A include.
 
 eida !o=it.
 
 glea n!p=A-th word.
-
-//id, str...=UTF8.
 
 bllb o!r=thing that inhale A.
 
@@ -2122,7 +2137,7 @@ doba o-o!r=thing that promise B to be A.
 
 imga o!v=Ahz.
 
-pibd o,n=thing whose A is purpose.
+pibd o,n!p=thing whose A is purpose.
 
 djnb !o=minus most.
 
@@ -2164,9 +2179,11 @@ jjob !r=land.
 
 eljg n-o=thing that become B with A efficiency.//n is damage/gain,,
 
-pjag !r=profit.
+pjib !r=profit.
 
 lmea o,n!1p=thing that repeat A.
+
+pmib o!p=thint that is about A.
 
 //era
 
@@ -2178,7 +2195,7 @@ o!p=standard of A.
 
 !r=mass.//com converted,kg,
 
-anfh !r=titan.//people,over,.
+anenfb !r=titan.//people,big,.
 
 !r=intellect.//com use,logic,.
 
@@ -2209,8 +2226,6 @@ hofa o!p=A too.
 =alone.
 
 o!p=thing that return A.
-
-ajca o!p=new A.//lesi com also,young,
 
 =integer.//com number,.
 
@@ -2287,8 +2302,6 @@ o-o!p=B per A.
 s!r=thing that dont interveing A.
 
 s!r=thing that intervening in A.//anto dont interveing,
-
-s!r=thing that recomend.
 
 coda t!r=A old.
 
@@ -2416,7 +2429,7 @@ onca o!r=standard of A.
 
 o!p=limit of A.
 
-//=novel.
+koog !r=novel.//com document,false,
 
 //=legend.
 
@@ -2428,7 +2441,7 @@ o!p=limit of A.
 
 //hkda int,int,int!r=rgb.
 
-//cnda n-id...=IPA.
+//=IPA.
 
 //hnda o=direction of A.
 
@@ -2440,7 +2453,7 @@ jked n!r=thing that move A meter per second.//com meter,second,
 
 //mnda !r=plant.
 
-// !r=religion.
+ !r=religion.
 
 !r=civilzation.//com
 
@@ -2544,7 +2557,7 @@ c o!r=united A.//anto split,
 
 =unit.
 
-klda !r=rational.
+klba !r=rational.
 
 o-n!r=thing that delete A.//anto create,
 
@@ -2566,7 +2579,7 @@ niba !r=essense.
 
 =prove.
 
-=effort.
+=effort.//anto give up,
 
 kmpe !r=insect.//pron arab hashara
 
@@ -2638,8 +2651,6 @@ blge o!r=thing that suck A.//com inhale,inside,
 
 =stay A.
 
-=defend.
-
 =flag.
 
 =fair.
@@ -2698,8 +2709,6 @@ o!r=pull A.
 
 o!r=push A.//anto pull,
 
-=mouth.//com bite,organism,
-
 !r=international.
 
 !r=reflect.
@@ -2709,6 +2718,50 @@ o!r=push A.//anto pull,
 !r=miror.
 
 !r=glass.
+
+iipb n!r=slefish.//com tend, profit,
+
+=star.
+
+o-o!r=thing that compete to being B with A.//A is like enemy
+
+o!n=thing that is proportional to A.
+
+focldf !r=england.//pron en england
+
+dofocd !r=english.//com language,england,
+
+o!r=thing that hang from A.
+
+o!r=thing that detatch to A.//anto hang,
+
+!r=mammals.
+
+!r=reptiles.
+
+!r=amphibians.
+
+!r=fish.
+
+!r=arthropods.
+
+!r=mollusks.
+
+!r=algae.
+
+!r=fungi.
+
+!r=protists.
+
+!r=prokaryotes.
+
+!r=A quality.
+
+o,o!r=plan for B to become A.
+
+!r=rule.
+
+jnle s!r=thing that expect A2 to be A1.//thing that knows it is true that A2 is A1, will,
 
 //efw
 
@@ -2786,7 +2839,7 @@ bb o!o=variable A declared with let.//like let A=1;
 
 ib o!o=variable A declared with var.//like var A=1;
 
-n-c s!v=label.
+ambh n!v=label.
 
 c s!v=starting ecl.
 
@@ -2826,23 +2879,36 @@ svc 0
 
 CMP R1,R2,
 
+JMP
+
+svc
+
 {
+lh:
 cmp r1, 3,
-beq BPPH
+beq nh
 
-cmp r1, 2
-bne CPPH
-
-CPPH:
-
+ph:
 add r1, r2, #1
-svc 1
 
-BPPH:
+cmp r1, #2
+bne ph
+
+nh:
 }
-enjaebghph
-ofkdfinichad
-enja
+{
+ambh lh ad
+enja gh ph
+of nh dc
+
+ambh ph ad
+mg hh lh gh bc
+
+enja eb gh nh
+of nh dc
+
+ambh nh ad
+}
 
 other command is expressed using javascript.
 
@@ -3080,7 +3146,7 @@ license{
 
 //vc
 
-nl version:72225
+nl version:7m26d25y
 
 license can be changed.
 
