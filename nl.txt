@@ -23,6 +23,8 @@ Lots of words are compound words, abbreviations, and antonyms, and are arranged 
 
 Most words have short spellings.(2~4letters)
 
+Words with similar meanings consist of similar letters.
+
 So you can remember words easily.
 
 Grammar is simplest and similar to math.
@@ -106,7 +108,7 @@ one word consist of 8n bit.
 
 eg '11111110' is one word.
 
-it means that word whose 2n-th letter is between 'a'(0000) and 'h'(1110) is smaller.
+it means that word whose letter between 'a'(0000) and 'h'(1110) is in 2n-th letter is smaller.
 
 the example converted to latin letter is 'ph'.
 
@@ -202,11 +204,11 @@ basic{
 
 * object mean noun or function.
 
-eg 'djca   aoad' mean 'ore is solid'.
+eg 'djca   hoad' mean 'ore is solid'.
 
 'djca' mean 'solid'.
 
-'aoad' mean 'ore'.
+'hoad' mean 'ore'.
 
 * some word must have parameter like function.
 
@@ -226,7 +228,7 @@ eg 'djca   aoad' mean 'ore is solid'.
 
 this grammar can express every meaning.
 
-eg 'The happy boy gives her a small book in the today and smiles.' is expressed as 'ab gc if ab mlka pf bica eimd kjkc ac ljhd ajea ab dmdg boob'.
+eg 'The happy boy gives her a small book in the today and smiles.' is expressed as 'ab gc if ab mlka pf bica eimd kjkc ac ljhd ajea ab dmdg mmcd'.
 
 you need to know how to interpret a dictionary to learn in detail.
 
@@ -456,13 +458,13 @@ Love related to sexual desire is 'mmpf'.
 
 }
 
-'higina  af moga oa'='my name is higina', 'higina is name of me'{
+'higina  af eoda oa'='my name is higina', 'higina is name of me'{
 
 af o-o!1p=A of B.//com A that is B, element,
 
-moga !v=name.
+eoda !v=name.
 
-FYR: higina (af moga oa).
+FYR: higina (af eoda oa).
 
 }
 
@@ -482,65 +484,65 @@ FYR: (dmca (cf (gkif glda bd) eimd)) oa.
 
 }
 
-'jc dmff fnbg oa cf boob ad oa' = 'if i listen music, i am happy', '(what happens if thing that listen music is me) is (situation that thing that feel pleasure in something is me)'{
+'jc dmff fnme oa cf mmcd ad oa' = 'if i listen music, i am happy', '(what happens if thing that listen music is me) is (situation that thing that feel pleasure in something is me)'{
 
 jc s,n!r=what happens if A2 is A1.
 
 dmff !r=thing that listen A.//com sense,sound,.
 
-fnbg !r=music.//com sound,pleasure,.
+fnme !r=music.//com sound,pleasure,.
 
 cf s!r=situation that A2 is A2.
 
-boob o,n!r=thing that feel pleasure in A.
+mmcd o,n!r=thing that feel pleasure in A.
 
-FYR: (jc (dmff fnbg) oa) (cf (boob ad) oa).
+FYR: (jc (dmff fnme) oa) (cf (mmcd ad) oa).
 
 }
 
-'mb ee dmff flbg oa boob ad oa' = 'I am happy when I listen to music'{
+'mb ee dmff fnme oa mmcd ad oa' = 'I am happy when I listen to music'{
 
 mb t-o!2p=thing that be B when A.
 
 ee s!t=time when A2 is A1.//com what,thing that be B when A,
 
-FYR: (mb (ee (dmff flbg) oa) (boob ad)) oa.
+FYR: (mb (ee (dmff fnme) oa) (mmcd ad)) oa.
 
 }
 
-'ef cf dmff flbg oa boob ad oa' = 'i am happy cuz i listen music'{
+'ef cf dmff fnme oa mmcd ad oa' = 'i am happy cuz i listen music'{
 
 ef o-<o,n>!2p=B that is by A.//B that A include,result,fact,.
 
 cf s!r=situation that A2 is A1.
 
-FYR: (ef (cf (dmff flbg) oa) (boob ad)) oa.
+FYR: (ef (cf (dmff fnme) oa) (mmcd ad)) oa.
 
 }
 
-'lc dmff flbg oa boob ad oa' = 'i listen music but im happy'{
+'lc dmff fnme oa mmcd ad oa' = 'i listen music but im happy'{
 
 lc s,o!p=thing that is B despite A2 being A1.//com inverse,situation that a2 is a1,.
 
-FYR: (lc (dmff flbg) oa (boob ad)) oa.
+FYR: (lc (dmff fnme) oa (mmcd ad)) oa.
 
 }
 
-'mb dh ld flga ph dmca bd' = 'I saw you 3 minutes ago'{
+'mb dh ld foea ph dmca bd' = 'I saw you 3 minutes ago'{
 
 dh n or o-o!t=A minus B.//anto plus,
 
 ld !t=now.//com this,time,
 
-flga o!t=A minute.
+foea o!t=A minute.
 
 ph !n=3.
 
 dmca o!r=thing that see A.//com sense,photon,
 
-FYR: (mb (dh ld (flga ph)) (dmca bd)).
+FYR: (mb (dh ld (foea ph)) (dmca bd)).
 
-'dh ld flga ph' mean 'three minutes ago'.
+'dh ld foea ph' mean 'three minutes ago'.
 
 }
 
@@ -554,13 +556,13 @@ anga !r=people.
 
 }
 
-'fc  ne bd'='where are you?,i ask you', '(thing that ask you about location of you) is me'{
+'fc  nb bd'='where are you?,i ask you', '(thing that ask you about location of you) is me'{
 
 ne o!v=location of A.
 
 if second parameter of 'fc' is omitted, the second parameter mean 'you'.
 
-FYR: fc (ne bd).
+FYR: fc (nb bd).
 
 }
 
@@ -646,11 +648,13 @@ FYR: (ed (gkkb anga)) oa, (ed (gc kjob agba)) oa
 
 }
 
-'le dmca bd oa'='i will see you', 'thing that will be thing that kill it is me'{
+'le fnfg dd oa'='i will suicide', 'thing that will be thing that kill myself is me'{
 
 le o!p=thing that will be A.//anto was,
 
 jnfg o-n!r=thing that kill A.//anto save,
+
+dd !r=myself.
 
 FYR: (gc (jnfg eida)) oa.
 
@@ -664,13 +668,13 @@ FYR: (eb (ed fobg)) oa.
 
 }
 
-'mb midd mmfd bd eide' = 'he always loves you'{
+'mb midg mmfd bd eide' = 'he always loves you'{
 
-midd !t=always.//com all,time,
+midg !t=always.//com all,time,
 
 eide !r=he.//com the,men,
 
-FYR: (mb midd (mmfd bd)) eide.
+FYR: (mb midg (mmfd bd)) eide.
 
 }
 
@@ -736,17 +740,17 @@ FYR: (dlke (be bd (dlke bd)) bc) oa.
 
 }<symbol that omit parameter>
 
-'ge af dkeg oa dmca bd '='i see you using my eye', 'thing that become thing that see you using eye of me is me'{
+'ge af dkee oa dmca bd '='i see you using my eye', 'thing that become thing that see you using eye of me is me'{
 
 ge <o-o>-n!p=thing that use A to become B.
 
 af o-o!2p=A of B.//com A that is B,element,.
 
-dkeg !r=eye.//com see,organism,
+dkee !r=eye.//com see,organism,
 
 dmca o!r=thing that see A.//com sense,photon,
 
-FYR: (ge (af dkeg oa) (dmca bd)).
+FYR: (ge (af dkee oa) (dmca bd)).
 
 }
 
@@ -759,16 +763,6 @@ ma o!p=all A.
 bd !r=you.//anto i,
 
 FYR: (pmda (ma bd)).
-
-}
-
-'fnba eleg'='i speak eleg'{
-
-fnba r!o=thing that speak A.//com sound,mention,.
-
-eleg !r=norlang.//com normal,language,.
-
-FYR: (fnba eleg).
 
 }
 
@@ -832,9 +826,9 @@ so 'ea' target second parameter of 'fc'.
 
 }
 
-'nb bd oa', 'bd ea nb pa oa'='i know you'{
+'ne bd oa', 'bd ea nb pa oa'='i know you'{
 
-FYR: (nb bd) oa, bd (ea nb pa oa).
+FYR: (ne bd) oa, bd (ea nb pa oa).
 
 first sentence mean 'i know you'.
 
@@ -1026,9 +1020,9 @@ so result is 'ee'.
 
 }
 
-'comb !r=combnation.//lesi en combination'{
+'comb !r=combnation.//s en combination'{
 
-'//lesi A B' mean 'spelling of this word is similar to B of A language '.
+'//s A B' mean 'letter of this word is similar to A of language B'.
 
 }
 
@@ -1393,7 +1387,7 @@ fa o,o!r=thing that command B to become A.
 
 ga o!p=only A.
 
-ha !ns=something.
+ha o!ns=some A.
 
 ia o,n!p=thing that tends to become A.
 
@@ -1437,7 +1431,7 @@ lb o!p=this A.
 
 mb t-o!2p=thing that be B when A.
 
-nb o!r=thing that know A.//com include,code,
+nb n or o!r=location of A.
 
 ob o-o-n!2p=thing that be B with A.
 
@@ -1457,7 +1451,7 @@ fc o,o!r=thing that ask B about A,//com command,reply,
 
 gc <o-o>-n!r=thing that cause A to become B.
 
-hc//li ae,two,.
+hc//g ae,two,.
 
 ic o-o!p=intersection of A and B,//com A that is B,part,part,
 
@@ -1471,7 +1465,7 @@ mc o-t-n!p=thing that becoming A.
 
 nc o-o!1p=thing that is nearest A to B.
 
-oc//li what,two,.
+oc//g what,two,.
 
 pc o-o!1p=B converted into A.
 
@@ -1523,7 +1517,7 @@ ge <o-o>-n!p=thing that use A to become B.
 
 he o!p=element of A.//include promise.
 
-ie o-o=A that is related to B.
+ie o-o=A that is relate to B.
 
 je s!t=past of A.
 
@@ -1533,7 +1527,7 @@ le o!p=thing that will be A.//anto was,
 
 me s,n!r=thing that desire A is true with B percent intensity.
 
-ne n or o!r=location of A.
+ne o!r=thing that know A.//com include,code,
 
 oe n,o!p=thing that similar to A.
 
@@ -1669,9 +1663,9 @@ gkfd o-n!r=thing that beneficial A.//com cause,profit,,also help,
 
 ckff !r=phonetic alphabet.//com letter,express,sound,
 
-kkbb s!v=evidence that A2 is A1.//express,that A2 is A1,true,whether,.
+kkbb s!v=evidence that A2 is A1.//c express,that A2 is A1,true,whether,.
 
-clba o,o,n!r=thing that write A at B.//letter,mention,.
+clba o,o,n!r=thing that write A at B.//c letter,mention,.
 
 dmcd o!r=thing that read A.//com sense,letter,.
 
@@ -1679,7 +1673,7 @@ dmca o!r=thing that see A.//com sense,photon,
 
 o,n=thing that gives birth to A,//com emit,baby,.
 
-bidd o,n!r=thing that enjoy be A.//com pleasure,A that is B,self,.
+midd o,n!r=thing that enjoy be A.//com pleasure,A that is B,self,.
 
 oljd o,n!r=thing that mind A.//com intend,think,
 
@@ -1721,9 +1715,7 @@ inih !r=wave.//com hz,over,zero,.
 
 fnba o!r=thing that speak A.//com sound,mention,,ori use,sound,mention,.
 
-fnbg !r=music.//com sound,pleasure,
-
-eleg !r=norlang.//com normal,language,.
+fnme !r=music.//com sound,pleasure,
 
 c int!p=compound word of A1 and A2.//com combination,word,
 
@@ -1765,13 +1757,13 @@ andb o!p=minimum of A.//com of, minus most,
 
 anmg o!p=maximum of A.//com of,most,
 
-bila !n=binary.//com too and,zero,one,o,.
+hila !n=binary.//com too and,zero,one,o,.
 
 cnih !r=money.//com dollar,over,zero,
 
 doif o,o!r=thing that buys A from B.//com promise,have,.
 
-bibd o,n!r=thing that thinks A is delicious.//com enjoy,eat,.
+mibd o,n!r=thing that thinks A is delicious.//com enjoy,eat,.
 
 fnff o!r=thing that sing A.//com speak,music,
 
@@ -1789,13 +1781,13 @@ dmlg o!r=thing that give up being A.//com decide,not,will,intend,
 
 goch !n=rational number.//com number, divided by,.
 
-boge n!r=introvert.//com pleasure,inside,
+mmge n!r=introvert.//com pleasure,inside,
 
 gkbd <o,o>-n!r=thing that put B into A.//com cause,inhale,
 
-midd !t=always.//com all,time,.
+midg !t=always.//com all,time,.
 
-eicd o-o!2p=process of B becoming A.//com what,use self,
+eicd c o!2p=process of A1 becoming A2....//com what,use self,
 
 ajlb !r=here.//com also cast,this,.
 
@@ -1811,7 +1803,7 @@ eoejfg !r=german language.//com language,germany,
 
 njog s!r=thing that misunderstand A2 as A1.//com know,false,
 
-nmag o!r=thing that understand A.//com know,what,mean,
+nmie o!r=thing that understand A.//com know,what,mean,
 
 olnb o!r=thing that forgot A.//com stop,know,
 
@@ -1849,7 +1841,7 @@ kojd !r=geometry.//com document,shape,
 
 kjkg o!r=thing that is colder than A.//degree celsius,less,
 
-mlda !r=created.//com become,exist,
+mljb !r=created.//com become,exist,
 
 ijhg !r=home.//com building,live,
 
@@ -1859,7 +1851,7 @@ dmjd !r=foreign.//com country,outside,
 
 fifd o!r=thing that hail A.//com command,profit,
 
-jjeg !r=baby.//com new,organism,
+mleg !r=baby.//com new,organism,
 
 blge o!r=thing that suck A.//com inhale,inside,
 
@@ -1891,7 +1883,7 @@ njeg !r=brain.//com know,organism,
 
 jkoa !r=we.//com friend,i,
 
-kolb !r=science.//com document,reality,
+kojb !r=science.//com document,reality,
 
 mmbd n!r=thing that is hungry.//com hope,eat,
 
@@ -1901,13 +1893,17 @@ nnld !t=recent.//com arount,now,
 
 godb o-n!r=thing that pull A.//com cause,go,Ath subject,
 
-fmkg o!r=thing that is cheaper than A.//com dollar,less,
+cmkg o!r=thing that is cheaper than A.//com dollar,less,
 
 mlge o!r=thing that swim in A.//com walk,inside,
 
 dokg o!r=thing that is faster than A.//com speed,less,
 
-dlda !r=thing that reflect A.
+njmg int!r=thing that know word A.//c know,word A,
+
+gkpb o-n!r=thing that fit A into B.//c cause,wear,
+
+gkjb o,n!r=thing that create A.//c cause,exist,
 
 //ecom
 
@@ -1917,25 +1913,29 @@ anto{
 
 dmdg !r=men.//anto women.
 
-fjdg o,n=thing that feel uncomfortable be A.//anto comfortable.
-
 nmbg !r=opened.//anto closed.
 
-ojbg o,n!r=thing that feel pain about A.//anto pleasure,.
+dlne o,n!r=thing that feel pain about A.//anto pleasure,.
 
-glbg o,n!r=thing that think that A is ugly.//anto beauty.
+dlhe o,n!r=thing that dislike A.//anto like,
 
-jkdg o!r=thing whose A is friend.//anto enemy,
+dlge o,n!r=thing that feel uncomfortable be A.//anto comfortable,
+
+dlfd o,n!r=thing that think that A is ugly.//anto beauty.
+
+dlde o,n!r=thing whose A is dangerous.//anto safe,
+
+mmgd o!r=thing whose A is friend.//anto enemy,,s love,
 
 jlje o-o!r=thing that lose to A in competition of being B.,//anto win,.
 
 oneg o!r=thing that emit A.//anto inhale,.
 
-njef o!r=thing that include A,//anto part,.
+nlaf o!r=thing that include A,//anto part,.
 
 dome o!r=thing that fight with A.//anto peace,
 
-fneg !r=shift.//anto fixed,
+fneg !r=shift.//com 
 
 mocg !o=most.//anto minus most,.
 
@@ -1955,7 +1955,7 @@ enfb o!r=thing that bigger than A.//anto smaller,
 
 mled o,n!r=thing that effort to become.//anto give up,
 
-coob o!r=thing that dont know A.//anto know,
+cmob o!r=thing that dont know A.//anto know,
 
 dmgg o!r=thing that fly on A.//anto walk,
 
@@ -1977,13 +1977,11 @@ dmge o,n!r=thing that ignore A.//anto mind,
 
 bkjd o!r=thing that leave A.//anto enter,
 
-ojjd n!r=extrovert.//com anto introvert,
+dljd n!r=extrovert.//com anto introvert,
 
 njfb o!r=thing that is older than A.//anto young,
 
-bmmh !r=deleted.//anto created,
-
-ojcg o,n!r=thing that dislike A.//anto like,
+bmgg !r=deleted.//anto created,
 
 jnmd <o-o>-n!r=thing that hide A from B.//anto show,
 
@@ -2007,7 +2005,7 @@ dmhc o!r=thing that lost A.//anto get,
 
 fofb o!r=thing that is hotter than A.//anto cold,
 
-golb !r=adult.//anto baby,
+dmlb !r=adult.//anto baby,
 
 hmfb o!r=thing that is heavier than A.//anto lighter,
 
@@ -2021,15 +2019,15 @@ dloe n!r=thing that is full.//anto hungry,
 
 omfb o!r=thing that is more infelxible than A.//anto flexible,
 
-jfbe o-n!r=thing that delete A.//anto create,
+jngg o-n!r=thing that delete A.//anto create,
 
-opme o,n!r=thing that suffers from being A.//anto enjoy,
+dlme o,n!r=thing that suffers from being A.//anto enjoy,
 
 jpme o-o-n=thing that dont need to be A to be B.//anto need to,
 
 jjmg o-n!r=thing that push A.//anto pull,
 
-kkfb o!r=thing that is more expensive than A.//anto cheap,
+nkfb o!r=thing that is more expensive than A.//anto cheap,
 
 kpbc o,o!r=thing that ban A from B.//anto invite,
 
@@ -2043,11 +2041,17 @@ bmcg o!r=thing that remember A.//anto forgot,
 
 mjfb o!r=thing that ie slower than A.//anto fast,
 
-kjgg !r=on.//anto off,
+kjgg !r=on.//anto off,,l alive,
 
 jnhc o-o!r=thing that recive A from B.//anto give,
 
-opoe o,n!r=thing that think A is tasteless.//anto delicious,
+dpoe o,n!r=thing that think A is tasteless.//anto delicious,
+
+djoe !r=full.//anto blank,
+
+bodg o!r=thing that disconnecte A.//s alone,
+
+glbg !r=after.//anto before,
 
 //eanto
 
@@ -2109,27 +2113,27 @@ elgd o,n!r=thing that digest A.
 
 flgd !r=shit.
 
-bjga !r=gas.
+foba !r=gas.
 
-cjga !r=liquid.
+goba !r=liquid.
 
-djga !r=solid.
+hoba !r=solid.//s hard,
 
-dlga !t=time.
+doea !t=time.
 
-elga o!t=A second.
+eoea n!t=A second.
 
-flga o!t=A minute.
+foea n!t=A minute.
 
-glga o!t=A hour.
+goea n!t=A hour.
 
-hlga o!t=A day.
+hoea n!t=A day.
 
-ilga o!t=A week.
+ioea n!t=A week.
 
-jlga o!t=A month.
+joea n!t=A month.
 
-klga o!t=A year.
+koea n!t=A year.
 
 bmba o!r=south.
 
@@ -2211,33 +2215,25 @@ jjfg !t=evening.
 
 kjfg !t=night.
 
-}
+}day
 
 //eorder
 
 }order
 
-lesi{
+l{
 
-'//lesi A B' mean 'this word is dervied from A'.
+'//s A B' mean 'form of this word is similar to word B of A'.
 
 q->p
 
 s->c
 
-hoda o!r=thing that stay in A.//lesi live,
+bode !r=body.//s en body.
 
-bode !r=body.//lesi en body.
+//el
 
-clob !r=closed.//lesi en closed.
-
-dood !r=door.//lesi en door,
-
-comb !r=combination.//lesi en combination,
-
-//ele
-
-}lesi
+}l
 
 sim{
 
@@ -2248,8 +2244,6 @@ cnda o!r=As.//sim com quantity,over,one,.
 emga !r=organism.//sim com was,become,alive,
 
 imba o!p=same A.//sim anto other,
-
-ajca o!p=new A.//sim com A that is B,young,
 
 /esi
 
@@ -2264,6 +2258,8 @@ cmfc o!p=A dollar.//pron en dollar.
 gmge !r=father.//pron baby papa.
 
 amae r!=mother.//pron baby mama.
+
+pmag !r=norlang.
 
 //pron amharic
 
@@ -2315,99 +2311,127 @@ Randomly generated words(no word formation rule){
 
 mlmb !r=women.
 
-mida !r=world.
+jjda !r=world.
 
-ljba !r=reality.
+jjca !r=reality.//s world,
 
-diga !r=exist.
+jjba !r=exist.//s world,
 
-komb o,n=something that feels comfortable be A.
+jjea !r=universe.//s world,
 
-boda !o=code.
+eoba !o=code.
 
-lica o!p=inverse of A.
+eoca !r=document.//a code,
 
-kklb !r=fixed.
+eoib !r=post.//s code,
 
-gljb o-<o,n>!r=thing that need A to be B.
+eoga !r=language.
 
-jmob o,n!r=thing that feel A is beauty.
+eoha !r=word.
 
-gmnb o!r=thing whose A is enemy.
+eoea int!r=word A.//s code,
 
-lnda o!r=thing that point to A.
+eoda !r=name.//s code,
 
-boob o,n=thing that feel pleasure about A.
+eoea o!p=thing that mean A.//s A that is relate to B,
 
-gmgd o-o!r=thing that win A in competition of being B.
+mmcd o,n!r=thing that feel pleasure about A.//s love
 
-colc o!v=part of A.
+mmid o,n!r=thing that like A.//s love,
 
-glea n!p=A-th word.
+mmjd o,n!r=thing that feels comfortable be A.//s love,
+
+mmkd o,n!r=thing that feel A is beauty.//s love,
+
+mmmd o,n!r=thing whose A is safe.//s love,
+
+hoca o!r=thing that stay in A.
+
+hoga o!r=thing that live in A.//s stay,
+
+mobd !r=blank./s hungry,
+
+bo !r=alone.//a individual,
+
+!r=discontinuity.
+
+ojba !r=group.//s with,
+
+ojmb !r=combination.//s with,
+
+ojga !r=country.//s with,
+
+ojca o!r=thing that connecte A.//anto disconnected,,s with,
+
+ojda !r=continuity.//anto discontinuity,
+
+ojea !r=together.//anto alone,
 
 bllb o!r=thing that inhale A.
 
-aoad !r=ore.
+bolb o!r=thing that wear A.//s inhale,
 
-pnpd o!r=thing that sex with A.//pron fr sexe
+hoda !r=building.//s hard,
 
-doba o,o-o!r=thing that promise that if myself become A then B becomes C.
+hoad !r=ore.//s hard,
+
+foda !r=air.//s gas,
+
+hida !r=object.//s some,
+
+mlba o!p=new A.//s become,
+
+fojb !r=off.//s die,
+
+omda o!r=thing that reflect A.//s emit,
+
+goga !r=water.//s liquid,
+
+cmda !r=essense.//s part,
+
+jmob !r=before.//s past,
+
+hina !r=button.//s binary,
+
+hioa !r=door.//s binary,
+
+o!r=thing that walk on A.//s around,
+
+o!r=thing that touch A.//s around,
+
+ej o!r=thing that attack A.//s win,
+
+ejpb o!r=thing that revenge A.//s win,
+
+glga o-o!r=thing that compete to being B with A.A is like enemy
+
+gljb o-<o,n>!r=thing that need A to be B.//s compete,
+
+imca o-n!1p=thing that is relate to A.//s A that is relate to B,
+
+hnda o!p=thing that has right to be A.//s can,
+
+dlje o!r=thing whose A is enemy.//s hate,
+
+elob n!r=normal.//s profit,
+
+mida o!1p=every A.//s all,
+
+lnda o!r=thing that point to A.
+
+o!r=thing that toward A./s point,
+
+cmpc o!v=part of A.//s element,
+
+unit{
 
 imga o!v=Ahz.
 
-djnb !o=minus most.
-
 ilda n!r=Akg.
 
-goba !n,ns=number.
+biga n!r=Anewton.
 
-eoda !r=language.
-
-ojkb o-o!r=thing that move from A to B.
-
-mljb o!r=thing that walk on A.
-
-hmjb c o!v=similarity between A1 and A2.
-
-kjob !r=alive.
-
-glda !r=food.
-
-bonb o-n!r=thing that like A.
-
-bida o!r=thing that mention A.
-
-ejpb o!r=thing that revenge A.
-
-ioda o-n!2p=thing that is become A with Bdifficulty level.
-
-ijda !r=building.
-
-jjob !r=land.
-
-eljg n-o=thing that become B with A efficiency.//n is damage/gain,,
-
-elob n!r=normal.
-
-lmea n,o!1p=thing that repeat B at A times.
-
-pmib o!p=thint that is about A.
-
-moda !r=word.
-
-kjda n!r=A°c.
-
-hoga o!r=thing that live in A.
-
-oiga o-o!r=thing that compete to being B with A.//A is like enemy
-
-hlda o,o!r=thing that requests that B become A.//mean please,
-
-moga !r=name.
-
-hofa o!p=A too.
-
-cjpb !r=thing that rest.
+blda n!r=A flexibility.
 
 ijba n!r=hardness.
 
@@ -2415,15 +2439,57 @@ glba n!r=A complexity.
 
 fmda n!r=Adecibel.
 
+kjda n!r=A°c.
+
+ioda o-n!2p=thing that is become A with Bdifficulty level.
+
+eljg n-o=thing that become B with A efficiency.//n is damage/gain,,
+
+}unit
+
+gmgd o-o!r=thing that win A in competition of being B.
+
+glea n!p=A-th word.
+
+pnpd o!r=thing that sex with A.
+
+doba o,o-o!r=thing that promise that if myself become A then B becomes C.
+
+djnb !o=minus most.
+
+goba !n,ns=number.
+
+ojkb o-o!r=thing that move from A to B.
+
+hmjb c o!v=similarity between A1 and A2.//s be,
+
+kjob !r=alive.
+
+glda !r=food.
+
+lica o!p=inverse of A.
+
+kklb !r=fixed.
+
+gljb o-<o,n>!r=thing that need A to be B.
+
+bida o!r=thing that mention A.
+
+jjob !r=land.
+
+lmea n,o!1p=thing that repeat B at A times.
+
+pmib o!p=thint that is about A.
+
+hlda o,o!r=thing that requests that B become A.//mean please,
+
+hofa o!p=A too.
+
+cjpb !r=thing that rest.
+
 joda !r=fermentation.
 
 klba !r=rational.
-
-blda n!r=A flexibility.
-
-lkga o!p=thing that has right to be A.
-
-pkda !r=air.
 
 amba o!p=specific A.
 
@@ -2431,21 +2497,11 @@ ckba o!p=any A.
 
 cmpd s!r=thing that consider A2 is A1.
 
-=object.
-
 hmkd !r=wheat.
-
-koba !r=document.
 
 kmpe !r=insect.
 
-aoba o!p=thing that mean A.
-
-biba n!r=Anewton.
-
 gkca o!r=thing that for being A.
-
-cmga !r=country.
 
 anga !r=people.
 
@@ -2457,19 +2513,13 @@ bjda !r=god.
 
 elle !r=life.
 
-dida s!r=thing that assert that A2 is A1.
-
-pjib o!r=thing that wear A.
+dida o,o!r=thing that assert that B is A.
 
 hkba o!p=each A.
-
-pkba o!1p=every A.
 
 mkba o!1p=certain A.
 
 pkfa utf!r=utf8 code whose A is code.
-
-fojb !r=off.
 
 //era
 
@@ -2485,7 +2535,9 @@ anenfb !r=titan.//people,big,.
 
 !r=intellect.//com use,logic,.
 
-o!r=thing whose A is role.
+o!1p=thing whose A is role.
+
+o!1p=thing that act A.//s role,
 
 !ns=example.
 
@@ -2497,41 +2549,27 @@ o,o!r=thing that discriminates against A.//eg discriminates gender it=Discrimina
 
 dec!n=decimal number.
 
-o!r=thing that toward A.
-
-!r=alone.//a individual,
-
 o!p=thing that return A.
 
-=integer.//com number,.
+!n,ns=integer.//com number,.
 
 o!r=thing that try be A.
 
-!r=universe.
+!r=trade.
 
-=trade.
+!r=thing.
 
-=thing.
+!r=bad.
 
-=bad.
+!r=tool.
 
-=tool.
-
-=disgusting.
-
-o!r=thing that disconnecte A.
-
-o!r=thing that connecte A.//anto disconnected,
+o,n!r=thing that feel A is disgusting.
 
 !r=powder.
 
 !r=nugget.//anto powder,
 
 =color.//com photon,wave,
-
-!r=group of A.
-
-o!r=thing that touch A.
 
 !r=cloth.
 
@@ -2574,10 +2612,6 @@ coda t!r=A old.
 o-o!v=define B as A.
 
 !r=satisfied.
-
-!r=discontinuity.
-
-!r=continuity.//anto discontinuity
 
 !r=main.
 
@@ -2789,13 +2823,7 @@ s!r=cost.
 
 !r=ambiguous.//anto specific,
 
-!r=before.
-
-!r=after.//anto before,
-
 !r=thing that says A.
-
-!r=part of.
 
 !r=whole.//anto part,
 
@@ -2817,8 +2845,6 @@ o!r=thing that play A.
 
 ancf o-s!1p=A whose B2 is B1.//com A that is B,include,that A2 is A1,
 
-niba !r=essense.
-
 !r=border.
 
 !r=prove.
@@ -2829,15 +2855,11 @@ o!r=thing that associates with A.
 
 !r=omit.
 
-o-n!1p=thing that is related to A.
-
 ojda !r=crops.
 
 !r=machine.
 
 !r=river.//com water,line,
-
-!r=water.
 
 !r=mistake.//anto well,
 
@@ -2859,7 +2881,7 @@ o!r=thing that jump from A.//anto sit,
 
 !r=brave.
 
-!r=bump.
+!r=bump.//anto attack,
 
 !r=bed.
 
@@ -2887,17 +2909,11 @@ o!r=thing that act like A.
 
 !r=advanced.//anto basic,
 
-!r=blank.
-
-!r=full.//anto blank,
-
 n!r=hentai.
 
 !r=bright.
 
-!r=button.
-
-!r=flag.
+!r=flag.//c art,symbol,
 
 !r=fair.
 
@@ -2925,23 +2941,23 @@ o!r=thing inferior to A.//com superiorty,less,
 
 !r=symmetry.
 
-o!r=thing that know word A.//com know,word,
-
 scientificformula!r=scientific formula.
 
 o-o!p=thing that is from A to B.
 
 n!r=free thing.
 
-!r=international.//com all,
+micg !r=international.//com all,country,
 
 !r=absorb.//anto reflect,
 
 !r=miror.//com glass,reflect,
 
-!r=glass.
+n!r=transparent.
 
-!r=star.
+!r=glass.//s transparent,
+
+!r=star.//s light,
 
 o!n=thing that is proportional to A.
 
@@ -2955,7 +2971,7 @@ o!r=thing that detatch to A.//anto hang,
 
 !r=amphibians.
 
-!r=fish.
+!r=fish.//s water,
 
 !r=arthropods.
 
@@ -2975,10 +2991,6 @@ o,o!r=plan for B to become A.
 
 !r=rule.
 
-o,n!r=thing whose A is safe.
-
-o,n!r=thing whose A is dangerous.//anto safe,
-
 !r=resume document.
 
 o!r=thing that is more perfect than A.
@@ -2989,17 +3001,15 @@ n-o!2p=Apercent of one B.
 
 n-o!2p=Apercent of Bs.
 
-!r=post.
-
 !r=gene.
 
 !r=guest.
 
 o!r=thing that pracitice A.
 
-o,n!r=thing whose A is annoying.
+o,n!r=thing whose A is annoying./s hate,
 
-!r=tit.
+!r=boob.
 
 !r=fire.
 
@@ -3041,11 +3051,15 @@ o!r=thing that act as a lawyer for A.
 
 !r=job.
 
+o!r=thing that hold A.
+
 o!r=kick A.//com foot,attack,
 
-o!r=raise A.
+o!r=thing that raise A.
 
-o!r=run.//com walk,fast,
+!r=thing that is grow up.
+
+o!r=thing that run on A.//com walk,fast,
 
 o!r=thing that translate A.
 
@@ -3054,6 +3068,12 @@ o!r=thing that translate A.
 //ajed o!p=that A.//com A that is B,pointed,
 
 o,n!r=thing that surprise at A.
+
+o!1p=thing that be only A.
+
+!r=hand.//c hold,organism,
+
+!r=history.//s was,
 
 //efw
 
@@ -3137,7 +3157,7 @@ ib o!o=variable A declared with var.//like var A=1;
 
 ambh !v=label.
 
-c s!v=starting ecl.
+fifa c s!r=starting ecl./c command,comand,
 
 }word dictionary
 
@@ -3226,8 +3246,17 @@ bblhbeghhhad
 
 do{}while()
 
+document.createElement().
+
+document.body.style.backgroundColor = 'yellow';
+
+canvas.style='#FF0000';
+canvas.fillRect(0,0,1,1);
+
 var A =[B, C]
 if ka B C ad A.
+
+A.pop();
 
 A[0]
 mf lh he A
@@ -3235,6 +3264,8 @@ mf lh he A
 import
 
 }exam
+
+canvas is work as window
 
 }javascript instructions to ECL
 
@@ -3250,6 +3281,10 @@ making layer.
 
 making window.
 
+set size of window.
+
+show window.
+
 drawing.
 
 connected device.
@@ -3261,6 +3296,12 @@ finding device by id.
 @5hello.//only expressing foreign language.
 
 }english to ecl
+
+principle{
+
+screen work like html.
+
+}principle
 
 }ECL
 
@@ -3326,7 +3367,7 @@ arrangement order of word is 'number->most common->'.
 
 logic of sentence{
 
-if A is B also C, then 'A is B' is true.
+if A is B that is C, then 'A is B' is true.
 
 left of nl sentence have smaller concept.
 
@@ -3348,7 +3389,15 @@ transitive verb.
 
 very unefficient.
 
+word whose numeral is not useful.
+
 }word that need parameter
+
+random word{
+
+initial should siimilar to initial of word that have similar meaning.(eg word like and pleasure have similar initial)
+
+}random word
 
 antonym{
 
@@ -3431,7 +3480,7 @@ license{
 
 //vc
 
-nl version:7m30d25y
+nl version:8m13d25y
 
 license can be changed.
 
@@ -3697,29 +3746,3 @@ ML is Memory Language.
 }element of this conlang
 
 }norlang
-
-10010000
-
-10111110
-
-1010000110000000
-
-1001 = 4
-
-0011 = -1
-
-10101
-
-작은 자리 빼기:1101 (1을 빼면 정답)
-
-큰 자리 빼기 1010(1을 더하면 정답)
-
-101011 = 26
-
-011101 = -8
-
-1100011 = 49
-
-100011 = 24
-
-110001 = 17
