@@ -13,6 +13,7 @@ YouTube: https://youtube.com/@normallanguage?si=4E6OEKgSuZa9OJAj
 If you don't like this document, then give me feedback or revisit it after one month. That issue can be fixed.
 
 All feedback is welcome!
+
 norlang{
 
 This artificial language is called Norlang (Normal Language) in English.
@@ -44,11 +45,11 @@ But in Norlang, "be af A B C" means only "(A of B) and C".
 
 Norlang is maybe most efficient.
 
-'i know you' in Norlang is 'nbbd'. (This is pronounced differently from English; it is easy to pronounce.)
+'i know you' in Norlang is 'nebd'. (This is pronounced differently from English; it is easy to pronounce.)
 
 English is 80 bits (in ASCII code).
 
-Norlang is 16 bits (one letter is 4 bits).
+Norlang is 16 bits (one letter is 4 bits, 'n' is '1011', letter is used for expressing binary).
 
 Norlang is five times more efficient than English.
 
@@ -82,6 +83,8 @@ Norlang brings easy communication and peace and helps technology grow.
 Norlang is the simplest, most efficient, easiest, and most logical language.
 
 }advertisement
+
+it is beta version.
 
 alphabet{
 
@@ -132,7 +135,7 @@ pronunciation{
 
 eg 'bb fh anba' is pronounced as 'bo rwo memboo'.
 
-'b' is 'no' in pronunciation chart.
+'b' is 'bo' in pronunciation chart.
 
 if 'b' is in (2n-1)-th letter then it pronounced as 'b'.
 
@@ -216,9 +219,13 @@ eg 'djca   hoad' mean 'ore is solid'.
 
 'jd' mean 'thing that think'.
 
-'bd' mean 'you'
+'jd A' mean 'thing that think A'.
 
-* 'jd' is function that must have parameter so 'jd bd' is one object.
+* 'jd' is function that must have parameter.
+
+function is object so 'jd bd' is one object.
+
+'bd' mean 'you'
 
 'jd bd' mean 'thing that think you'.
 
@@ -276,9 +283,11 @@ between norlang word and '!' is parameter that this function must have.
 
 any object can be in object type parameter.
 
-'A' in right hand side is first input object of parameter of this function.
+'A' in right of '=' is first input object of this function.
 
 eg 'jd oa' mean 'thing that think me'.
+
+change A into inputed value.
 
 }
 
@@ -468,7 +477,7 @@ FYR: higina (af eoda oa).
 
 }
 
-'dmca cf gkif glda bd eimd oa' = 'I see her giving you food', 'i see her that give you to you', '(thing that see that thing that give food to you is she) is me'{
+'dmca cf gkif gljb bd eimd oa' = 'I see her giving you food', 'i see her that give you to you', '(thing that see that thing that give food to you is she) is me'{
 
 dmca o!r=thing that see A.//com sense,photon,.
 
@@ -476,17 +485,17 @@ cf s!r=situation that A2 is A1.
 
 gkif o-o-n!r=thing that give A to B.//com cause,have,
 
-glda !r=food.
+gljb !r=food.
 
 eimd !r=she.//com the,women,.
 
-FYR: (dmca (cf (gkif glda bd) eimd)) oa.
+FYR: (dmca (cf (gkif gljb bd) eimd)) oa.
 
 }
 
 'jc dmff fnme oa cf mmcd ad oa' = 'if i listen music, i am happy', '(what happens if thing that listen music is me) is (situation that thing that feel pleasure in something is me)'{
 
-jc s,n!r=what happens if A2 is A1.
+jc s,n!r=result of A2 is A1.
 
 dmff !r=thing that listen A.//com sense,sound,.
 
@@ -558,7 +567,7 @@ anga !r=people.
 
 'fc  nb bd'='where are you?,i ask you', '(thing that ask you about location of you) is me'{
 
-ne o!v=location of A.
+nb o!v=location of A.
 
 if second parameter of 'fc' is omitted, the second parameter mean 'you'.
 
@@ -582,7 +591,7 @@ FYR: fc (gb (dlke oa) bd).
 
 'fc  jc  dmlg noag  bd'='what if you give up being worker?', '(thing that ask you about what happens if thing that give up being worker is you) is me'{
 
-jc s,n!p=what happens if A2 is A1.//anto reason,
+jc s,n!p=result of that A2 is A1.//anto reason,
 
 dmlg o!r=thing that give up being A.//com decide,not,will,intend,
 
@@ -1026,13 +1035,39 @@ so result is 'ee'.
 
 }
 
+'fnme !r=music.//com sound,pleasure,'{
+
+'sound i feel pleasure from' is expressed as 'ae fnih mmcd oa'.
+
+important word in it is 'fnih'(sound), 'mmcd'(pleasure).
+
+it is made by the two words.
+
+it is abbreviation.
+
+}
+
+'af o-o!1p=A of B.//com A that is B, element,'{
+
+this word is abbreviation.
+
+ab o-o!1p=A that is B.
+
+he o!1p=element of A.
+
+'ab A he B' mean 'A that is element of B'.
+
+}
+
 '//pron A B'{
 
 'pron' is an abbreviation for 'pronunciation'.
 
 'pron A B' means that the pronunciation of this word is derived from the B of language A.
 
-language name of ISO code alpha2 is in A.
+language name of ISO code alpha2 is in B.
+
+if it is omitted, it is norlang.
 
 }
 
@@ -1238,9 +1273,9 @@ expression for reference{
 
 You wouldn't understand. learn words first.
 
-'hc anga fobg ie amae eide' = 'he is people whose mother is die'.
+'oc anga fobg ie amae eide' = 'he is people whose mother is die'.
 
-'jf mmnb eida fh ea jd oa eimd' = 'She seems more wonder in it than I thought.'.
+'jf mmnb pf fh ea jd oa eimd' = 'She seems more wonder in it than I thought.'.
 
 'mb midd mmnb gb eida eimd' = 'I always wondered why he did that'.
 
@@ -1387,7 +1422,7 @@ fa o,o!r=thing that command B to become A.
 
 ga o!p=only A.
 
-ha o!ns=some A.
+ha o!ns=certain A.
 
 ia o,n!p=thing that tends to become A.
 
@@ -1449,13 +1484,13 @@ ec <o-o>-n!r=how B become A.//what,need to,
 
 fc o,o!r=thing that ask B about A,//com command,reply,
 
-gc <o-o>-n!r=thing that cause A to become B.
+gc <o-o>-n!r=thing that cause A to become B.//s reason,
 
-hc//g ae,two,.
+hc//g what,two,.
 
 ic o-o!p=intersection of A and B,//com A that is B,part,part,
 
-jc s-n!p=what happens if A2 is A1.//anto reason.
+jc s-n!p=result of that A2 is A1.//anto reason.
 
 kc n-int...:1p=thing that says A.
 
@@ -1465,7 +1500,7 @@ mc o-t-n!p=thing that becoming A.
 
 nc o-o!1p=thing that is nearest A to B.
 
-oc//g what,two,.
+oc//g ae,two,.
 
 pc o-o!1p=B converted into A.
 
@@ -1541,7 +1576,7 @@ cf s!r=situation that A2 is A1.
 
 df s,n!r=thing that dread A with B percent intensity,//anto hope,
 
-ef o-<o,n>!2p=B that is by A.//B that A include,result,fact,.
+ef o-<o,n>!2p=B that is by A.//B that A include,result,fact,,ac B jc na A,
 
 ff !si=continue say.
 
@@ -1647,273 +1682,215 @@ ph !n=three.
 
  int!n=unknown,
 
-by word formation rule{
+a{
 
-com{
+a.a{
 
-olde o!r=thing that looking for A.//a purpose,,com intend,sense,
+alhg o!p=thing that be A.//anto about,
 
-cnad !r=situation.//com that A2 is A1,o,.
+}a.a
 
-bjld !r=true.//com return value,whether,one,one,.
+a.b{
 
-gidd o-o-n!r=thing that need to be A to be B.//com need,A that is B,self,
+algd o,n!r=thing thag bite A.//b eat,
 
-gkfd o-n!r=thing that beneficial A.//com cause,profit,,also help,
+}a.b
 
-ckff !r=phonetic alphabet.//com letter,express,sound,
-
-kkbb s!v=evidence that A2 is A1.//c express,that A2 is A1,true,whether,.
-
-clba o,o,n!r=thing that write A at B.//c letter,mention,.
-
-dmcd o!r=thing that read A.//com sense,letter,.
-
-dmca o!r=thing that see A.//com sense,photon,
-
-o,n=thing that gives birth to A,//com emit,baby,.
-
-midd o,n!r=thing that enjoy be A.//com pleasure,A that is B,self,.
-
-oljd o,n!r=thing that mind A.//com intend,think,
-
-ljhd !t=today.//com this,day,.
-
-bogd !r=information.//com code,need,
-
-bikg o!r=thing that is weaker than A.//com newton,less,
-
-jkkg o!r=thing that is shorter than A.//com meter,less,
-
-kkkg o!r=thing that is narrower than A.//com meter2,less,
-
-lkkg o!r=thing that is smaller than A.//com meter3,less,
-
-bmjb c o!n=distance of between A1 and B2.//meter,between,
-
-eida o!p=the A.
-
-moke o,n!r=thing that angry at A.//com hope,cause,victim,
-
-gkif o-o!r=thing that give A to B.//com cause,have,
-
-gknb o-o!r=thing that teach A to B.//com cause,know,
-
-gkde o,o!r=thing that shows A to B.//com cause,sense,
-
-mmfd o,n!r=thing that love A by B percent.//com hope,profit,
-
-eimd !r=she.//com the,women,.
+a.c{
 
 anee o!p=her A.//com of,she,.
 
-eide !r=he.//com the A,men,.
-
 aned o!p=his A.//com of,he,.
-
-inih !r=wave.//com hz,over,zero,.
-
-fnba o!r=thing that speak A.//com sound,mention,,ori use,sound,mention,.
-
-fnme !r=music.//com sound,pleasure,
-
-c int!p=compound word of A1 and A2.//com combination,word,
-
-boba !r=we.//com and,i,you,o,
-
-dkeg !r=eye.//com see,organism,
-
-!r=gender.//com
-
-dmff o=thing that listen A.//com sense,sound,.
-
-mlif o!r=thing that get A.//com become,have,.
-
-gkff o,n!r=thing that impact A,//com cause,shift,
 
 ajab c o!p=A1 that is A2 and//com A that is B,A that is B,
 
 anaf c o!p=c of.//com of,of,
 
-enef c o!p=c by.//com by,by,.
-
-ikic c o!p=c intersecrion.//com intersection,intersection,.
-
-elad !r=pointed.//com what,point to,o,
-
-gkkb o-n!r=thing that save A.//com cause,alive,
-
-ilpe o!p=features of A.//com difference,average,
-
-njgg o!r=thing that calculate A.//com know,number,.
-
-mmnb o,n!r=think that wonder about A.//com hope,know,
-
-mmpf o,n!r=thing that want to sex with A.//com hope,sex.
-
-o,n=thing that think that think A is cute.//com know a is true,baby,.
-
 andb o!p=minimum of A.//com of, minus most,
 
 anmg o!p=maximum of A.//com of,most,
 
-hila !n=binary.//com too and,zero,one,o,.
+ajlb !r=here.//com also cast,this,
 
-cnih !r=money.//com dollar,over,zero,
+ancjeg !r=german poeple.//com people,germany,
 
-doif o,o!r=thing that buys A from B.//com promise,have,.
+}a.c
 
-mibd o,n!r=thing that thinks A is delicious.//com enjoy,eat,.
+a.n{
 
-fnff o!r=thing that sing A.//com speak,music,
+aoda n!r=n gon.//n hexagon,
 
-oidf o,n!r=thing that feel that A is noisy.//com suffer,listen,.
+}a.n
 
-mlkg !r=decreasing.//com become,less,.
+a.p{
 
-onge o!r=thing that enter into A.//com go,inside,.
+amae r!=mother.//pron baby mama.
 
-mknb o!r=thing that learn A.//com becoming,know,.
+}a.p
 
-mleg !r=born.//com become,organism,.
+a.r{
 
-dmlg o!r=thing that give up being A.//com decide,not,will,intend,
+anga !r=people.
 
-goch !n=rational number.//com number, divided by,.
+}a.r
 
-mmge n!r=introvert.//com pleasure,inside,
+a.s{
 
-gkbd <o,o>-n!r=thing that put B into A.//com cause,inhale,
+alhd c o!v=similarity between A1 and A2.//s be,
 
-midg !t=always.//com all,time,.
+}a.s
 
-eicd c o!2p=process of A1 becoming A2....//com what,use self,
+}a
 
-ajlb !r=here.//com also cast,this,.
+b{
 
-dlhd !t=yesterday.//com minus,today,day,one,
+b.s{
 
-eaga o!p=sole A.//com what,only,
+bllb o!r=thing that inhale A.
 
-bocf !r=sentence.//com code,situation,
+blb o!r=thing that wear A.//s inhale,
 
-anejfg !r=german poeple.//com people,germany,
+blob o!r=thing that hold A.//s inhale,
 
-eoejfg !r=german language.//com language,germany,
+bida o!r=thing that mention A.
 
-njog s!r=thing that misunderstand A2 as A1.//com know,false,
+biga o!r=thing that mark A.//s mention,
 
-nmie o!r=thing that understand A.//com know,what,mean,
+bodg o!r=thing that disconnecte A.//s alone,
 
-olnb o!r=thing that forgot A.//com stop,know,
+bida o!r=thing that mention A.
 
-cokg o!r=thing that is younger than A.//com A old, less,
+biga o!r=thing that mark A.//s mention,
 
-hllg o,o!r=thing that apologize to B about A.//com please,forgive,
+bode !r=body.//s en body.
 
-iokg o-o!2p=thing that easily become A than being B.//difficulty level,less,
+}b.s
 
-dina o!r=thing that admit A.//com assert,fact,
+b.a{
 
-kona !r=physics.//com document,essense,
+bkjd o!r=thing that leave A.//anto enter,
 
-cjkg o!r=thing that is fewer than A.//com quantity,less,
+bmgg !r=deleted.//anto created,
 
-dodd o!r=thing that decide to be A.//com promise,self,
+bmcg o!r=thing that remember A.//anto forgot,
 
-lljb !r=road.//com line,land,
+}b.a
 
-elkg o-o!r=thing that efficiently become A than B.//com efficiency,less,
+b.b{
 
-lloe !r=stick.//com line,inflexible,
+bmba o!r=south.//b west,
 
-npld !r=chopstick.//com two,stick,
+}b.b
 
-johe !r=bread.//com fermentation,wheat,
+b.c{
 
-bleg !r=mouth.//com inhale,organism,
+bogd !r=information.//com code,need,
 
-gmag o,n!r=thing that defend A.//com cause,not,damage,
+bikg o!r=thing that is weaker than A.//com newton,less,
 
-difd s!r=thing that recommends that A2 should A1.//com assert, profit,
-
-kojd !r=geometry.//com document,shape,
-
-kjkg o!r=thing that is colder than A.//degree celsius,less,
-
-mljb !r=created.//com become,exist,
-
-ijhg !r=home.//com building,live,
-
-gked o-n!r=thing that fix A.//com cause,normal,
-
-dmjd !r=foreign.//com country,outside,
-
-fifd o!r=thing that hail A.//com command,profit,
-
-mleg !r=baby.//com new,organism,
+bmjb c o!n=distance of between A1 and B2.//meter,between,
 
 blge o!r=thing that suck A.//com inhale,inside,
 
-doeodd !r=english.//com language,england,dofocd !r=english.//com language,england,
-
-iifd n!r=slefish.//com tend, profit,
-
-ilkg o!r=thing that is lighter than A.//com Akg,less,
-
-kogg !r=math.//com document,number,
-
-koog !r=novel.//com document,false,
-
-fnih !r=sound.//com decibel,over,zero,
-
-iicb n!r=lazy.//com tend,rest,.
-
-ijkg o!r=thing that is softer than A.//com hardness,less,
-
-llbd !r=loaf.//com line,flexible,
-
-glkg o!r=thing that is simpler than A.//com complexity,less,
-
-ondb !r=thing that come.//com go,Ath subject,
-
-mleg !r=foot.//com walk,organism,
-
-njeg !r=brain.//com know,organism,
-
-jkoa !r=we.//com friend,i,
-
-kojb !r=science.//com document,reality,
-
-mmbd n!r=thing that is hungry.//com hope,eat,
-
 blkg o!r=thing that is more flexible than A.//com flexibility,less,
 
-nnld !t=recent.//com arount,now,
+bjld !r=true.//com return value,whether,one,one,.
 
-godb o-n!r=thing that pull A.//com cause,go,Ath subject,
+boba !r=we.//com and,i,you,o,
+
+bocf !r=sentence.//com code,situation,
+
+bleg !r=mouth.//com inhale,organism,
+
+}b.c
+
+b.n{
+
+blgd o!r=thing that put A into mouth of myself.//com inhale,food,,n bite,,eat mean putting food in mouth in norlang,
+
+}b.n
+
+b.r{
+
+biga n!r=Anewton.
+
+blda n!r=A flexibility.
+
+bjda !r=god.
+
+}b.r
+
+}b
+
+c{
+
+c.s{
+
+cmpc o!v=part of A.//s element,
+
+cnda o!r=As.//s com quantity,over,one,.
+
+cmda !r=essense.//s part,
+
+cjda !r=inside.//s part,
+
+}c.s
+
+c.a{
+
+cmob o!r=thing that dont know A.//anto know,
+
+}c.a
+
+c.c{
+
+cnad !r=situation.//com situation that A2 is A1,o,.
+
+cmjd !r=foreign.//com country,outside,
 
 cmkg o!r=thing that is cheaper than A.//com dollar,less,
 
-mlge o!r=thing that swim in A.//com walk,inside,
+ckff !r=phonetic alphabet.//com letter,express,sound,
 
-dokg o!r=thing that is faster than A.//com speed,less,
+cokg o!r=thing that is younger than A.//com A old, less,
 
-njmg int!r=thing that know word A.//c know,word A,
+cjkg o!r=thing that is fewer than A.//com quantity,less,
 
-gkpb o-n!r=thing that fit A into B.//c cause,wear,
+cnih !r=money.//com dollar,over,zero,
 
-gkjb o,n!r=thing that create A.//c cause,exist,
+}c.c
 
-//ecom
+c.n{
 
-}com
+clgd o,n!r=thing that chew A.//n inahle food,
 
-anto{
+}c.n
 
-dmdg !r=men.//anto women.
+c.p{
 
-nmbg !r=opened.//anto closed.
+cmfc o!p=A dollar.//pron en dollar.
+
+cjeoog !r=germany.//pron de deutschland,
+
+}c.p
+
+c.r{
+
+cjea n,o!1p=thing that repeat B at A times.
+
+}c.r
+
+}c
+
+d{
+
+d.s{
+
+dlje o!r=thing whose A is enemy.//s hate,
+
+}d.s
+
+d.a{
 
 dlne o,n!r=thing that feel pain about A.//anto pleasure,.
 
@@ -1925,151 +1902,905 @@ dlfd o,n!r=thing that think that A is ugly.//anto beauty.
 
 dlde o,n!r=thing whose A is dangerous.//anto safe,
 
-mmgd o!r=thing whose A is friend.//anto enemy,,s love,
+dlme o,n!r=thing that is scare of A.//anto cute,
 
-jlje o-o!r=thing that lose to A in competition of being B.,//anto win,.
-
-oneg o!r=thing that emit A.//anto inhale,.
-
-nlaf o!r=thing that include A,//anto part,.
+dlke o,n!r=thing that hate A.//anto love,,a angry,
 
 dome o!r=thing that fight with A.//anto peace,
 
-fneg !r=shift.//com 
+dmgg o!r=thing that fly on A.//anto walk,
 
-mocg !o=most.//anto minus most,.
+dmfb !r=increasing.//anto decreasing,
 
-mjhc o,o!r=thing that sell A to B.//anto buy,.
+dmge o!r=thing that ignore A.//anto mind,
 
-ooee !r=false.//anto true,.
+dlng n!r=extrovert.//anto introvert,
 
-jncg !r=student.//anto teach,
+dmhc o!r=thing that lost A.//anto get,
 
-opfb o!r=thing that stronger than A.//anto weaker,
+dmld !r=adult.//anto baby,
 
-gnfb o!r=thing that longer than A.//anto shorter,
+dloe n!r=full.//anto hungry,
 
-fnfb o!r=thing that wider than A.//anto narrower,
+dpme o,n!r=thing that suffers from being A.//anto enjoy,
+
+dmlg o!p=thing that keep being A.//anto stop,
+
+dpoe o,n!r=thing that think A is tasteless.//anto delicious,
+
+dmdg !r=men.//anto women.
+
+}d.a
+
+d.b{
+
+doea !t=time.//b second,
+
+}d.b
+
+d.c{
+
+dkeg !r=eye.//com see,organism,
+
+dmlg o!r=thing that give up being A.//com decide,not,will,intend,
+
+dlhd !t=yesterday.//com minus,today,day,one,
+
+}d.c
+
+d.n{
+
+dlgd o,n!r=thing that swallows A.//n chew,
+
+djda !r=shell.//n inside,
+
+}d.n
+
+d.r{
+
+dida o,o!r=thing that assert that B is A.
+
+doba o,o-o!r=thing that promise that if myself become A then B becomes C.
+
+djnb !o=minus most.
+
+}d.r
+
+}d
+
+e{
+
+e.s{
+
+eoda !o=code.
+
+eoca !r=document.//s code,
+
+eoib !r=post.//s code,
+
+eooa !r=language.//s code,
+
+eoha !r=word.//s code,
+
+eoea int!r=word A.//s code,
+
+eoga !r=name.//s code,
+
+eofa o!p=thing that mean A.//s code,
+
+!p=symbol.//s code,
+
+!r=unit.//s code,
+
+ej o!r=thing that attack A.//s win,
+
+ejpb o!r=thing that revenge A.//s win,
+
+emga !r=organism.//s com was,become,alive,
+
+ejda !r=outside.//n shell,
+
+}e.s
+
+e.a{
 
 enfb o!r=thing that bigger than A.//anto smaller,
 
-mled o,n!r=thing that effort to become.//anto give up,
+}e.a
 
-cmob o!r=thing that dont know A.//anto know,
+e.c{
 
-dmgg o!r=thing that fly on A.//anto walk,
+eoba o,o,n!r=thing that write A at B.//c letter,mention,.
 
-ilgg c o!v=diffrence between A1 and A2.//anto similarity
+eide !r=he.//com the A,men,.
+
+enef c o!p=c by.//com by,by,.
+
+elad !r=pointed.//com what,point to,o,
+
+eaga o!p=sole A.//com what,only,
+
+eocjeg !r=german language.//com language,germany,
+
+elkg o-o!r=thing that efficiently become A than B.//com efficiency,less,
+
+egeodd !r=english.//com language,england,dofocd !r=english.//com language,england,
+
+eimd !r=she.//com the,women,.
+
+eicd c o!2p=process of A1 becoming A2....//com what,be A to B,
+
+eogg !r=math.//com document,number,
+
+eojd !r=geometry.//com document,shape,
+
+eoog !r=novel.//com document,false,
+
+eojb !r=science.//com document,reality,
+
+eona !r=physics.//com document,essense,
+
+}e.c
+
+e.n{
+
+ejfg !t=midnight.
+
+elgd o,n!r=thing that digest A.//n swallows,
+
+eoea n!t=A second.//n time,
+
+}e.n
+
+e.p{
+
+eodlff !r=england.//pron en england,
+
+}e.p
+
+e.r{
+
+eida o!p=the A.
+
+elle !r=life.
+
+eljg n-o=thing that become B with A efficiency.//n is damage/gain,,
+
+}e.r
+
+}e
+
+f{
+
+f.s{
+
+foda !r=air.//s gas,
+
+fida o,o!r=thing that requests that B become A.//mean please,,s command,
+
+fjob n!r=normal.//s profit,
+
+fojb !r=off.//s die,
+
+fljb !r=closed.//s off,
+
+}f.s
+
+f.a{
+
+fnfb o!r=thing that wider than A.//anto narrower,
+
+fobg !r=dead.//anto alive,
+
+fofb o!r=thing that is hotter than A.//anto cold,
+
+fneg !r=shift.//com 
+
+}f.a
+
+f.c{
+
+fnme !r=music.//com sound,pleasure,
+
+fnff o!r=thing that sing A.//com speak,music,
+
+fifd o!r=thing that hail A.//com command,profit,
+
+fnih !r=sound.//com decibel,over,zero,
+
+filg o,o!r=thing that apologize to B about A.//com please,forgive,
+
+fnba o!r=thing that speak A.//com sound,mention,,ori use,sound,mention,.
+
+}f.c
+
+f.n{
+
+fjfg !t=dawn.//n midnight,
+
+flgd !r=shit.//n digest,
+
+foea n!t=A minute.//n second,
+
+}f.n
+
+f.r{
+
+foba !r=gas.
+
+fmda n!r=Adecibel.
+
+}f.r
+
+}f
+
+g{
+
+g.s{
+
+goga !r=water.//s liquid,
+
+}g.s
+
+g.a{
+
+gnfb o!r=thing that longer than A.//anto shorter,
+
+gobg !r=sky.//anto land,
+
+glbg !r=after.//anto before,
+
+}g.a
+
+g.c{
+
+gidd o-o-n!r=thing that need to be A to be B.//com need,A that is B,self,
+
+gkfd o-n!r=thing that beneficial A.//com cause,profit,,also help,
+
+gkif o-o!r=thing that give A to B.//com cause,have,
+
+gknb o-o!r=thing that teach A to B.//com cause,know,
+
+gkde o,o!r=thing that shows A to B.//com cause,sense,
+
+gkff o,n!r=thing that impact A,//com cause,shift,
+
+gkkb o-n!r=thing that save A.//com cause,alive,
+
+gkfb o-n!r=thing that fix A.//com cause,normal,
+
+godb o-n!r=thing that pull A.//com cause,go,Ath subject,
+
+gkpb o-n!r=thing that fit A into B.//c cause,wear,
+
+gkjb o,n!r=thing that create A.//c cause,exist,
+
+gkeg o,o!r=thing that define A as B.//c cause,mean,
+
+gkfg o!r=thing that turn off A.//c cause,off,
+
+goch !n=rational number.//com number, divided by,.
+
+gkbd <o,o>-n!r=thing that put B into A.//com cause,inhale,
+
+glkg o!r=thing that is simpler than A.//com complexity,less,
+
+gmag o,n!r=thing that defend A.//com cause,not,damage,
+
+}g.c
+
+g.p{
+
+gmge !r=father.//pron baby papa.
+
+}g.p
+
+g.n{
+
+goba !r=liquid.//n gas,
+
+gjfg !t=morning.//n dawn,
+
+goea n!t=A hour.//n minute,
+
+}g.n
+
+g.r{
+
+gljb o-<o,n>!r=thing that need A to be B.
+
+gmgd o-o!r=thing that win A in competition of being B.
+
+goba !n,ns=number.
+
+gljb !r=food.
+
+gljb o-<o,n>!r=thing that need A to be B.
+
+glba n!r=A complexity.
+
+gkca o!r=thing that for being A.
+
+}g.r
+
+}g
+
+h{
+
+h.s{
+
+hida !r=object.//s certain,
+
+hica o!p=each A.
+
+h o!p=specific A.
+
+hiba o!p=any A.
+
+hoda !r=building.//s hard,
+
+hoad !r=ore.//s hard,
+
+hoca o!r=thing that stay in A.
+
+hoga o!r=thing that live in A.//s stay,
+
+!r=switch.
+
+hina !r=button.//s switch,
+
+hioa !r=door.//s switch,
+
+hnda o!p=thing that has right to be A.//s can,
+
+}h.s
+
+h.a{
+
+hjfb o-o!2p=thing that is more difficult to become A than being B.//anto easy,
+
+hmfb o!r=thing that is heavier than A.//anto lighter,
+
+hofb o!r=thing that is harder than A.//anto soft,
+
+}h.a
+
+h.c{
+
+hila !n=binary.//com too and,zero,one,o,.
+
+hidg !r=certain time.//c certain,time,
+
+}h.c
+
+h.n{
+
+hoba !r=solid.//s hard,,n liquid,
+
+hjfg !t=noon.//n moring,
+
+hoea n!t=A day.//n hour,
+
+}h.n
+
+hmkd !r=wheat.
+
+hofa o!p=A too.
+
+}h
+
+i{
+
+i.s{
+
+imca o-n!1p=thing that is relate to A.//s A that is relate to B,
+
+imba o!p=same A.//s anto other,
+
+}i.s
+
+i.a{
+
+}i.a
+
+i.c{
+
+inih !r=wave.//com hz,over,zero,.
+
+ikic c o!p=c intersecrion.//com intersection,intersection,.
+
+ilpe o!p=features of A.//com difference,average,
+
+ijhg !r=home.//com building,live,
+
+iifd n!r=slefish.//com tend, profit,
+
+ilkg o!r=thing that is lighter than A.//com Akg,less,
+
+iicb n!r=lazy.//com tend,rest,.
+
+ijkg o!r=thing that is softer than A.//com hardness,less,
+
+iokg o-o!2p=thing that easily become A than being B.//difficulty level,less,
+
+}i.c
+
+i.n{
+
+ijfg !r=afternoon.//n noon,
+
+ioea n!t=A week.//n day,
+
+}i.n
+
+i.r{
+
+inda !r=front.
+
+ikba n!r=thing whose A is size.
+
+ioda o-n!2p=thing that is become A with Bdifficulty level.
+
+ijba n!r=hardness.
+
+imga o!v=Ahz.
+
+ilda n!r=Akg.
+
+}i.r
+
+}i
+
+j{
+
+j.s{
+
+jjda !r=world.
+
+jjca !r=reality.//s world,
+
+jjba !r=exist.//s world,
+
+jjea !r=universe.//s world,
+
+jmob !r=before.//s past,
+
+jmdg o-o!r=thing that compete to being B with A.//A is like enemy,,s dont need,
+
+}j.s
+
+j.r{
+
+}j.r
+
+j.a{
+
+jlje o-o!r=thing that lose to A in competition of being B.,//anto win,.
+
+jncg !r=student.//anto teach,
 
 jnoe <o-o>-n!r=thing that take B out of A.//anto put,
 
 jnke o,n!r=thing that harmful A.//anto help,
 
-dlke o,n!r=thing that hate A.//anto love,,a angry,
-
-fobg !r=dead.//anto alive,
-
-dmfb !r=increasing.//anto decreasing,
-
 jnfg o-n!r=thing that kill A.//anto save,
 
-dmge o,n!r=thing that ignore A.//anto mind,
-
-bkjd o!r=thing that leave A.//anto enter,
-
-dljd n!r=extrovert.//com anto introvert,
-
-njfb o!r=thing that is older than A.//anto young,
-
-bmgg !r=deleted.//anto created,
-
-jnmd <o-o>-n!r=thing that hide A from B.//anto show,
-
-loag o,n!r=thing that forgive A.//anto revenge,
-
-hjfb o-o!2p=thing that is more difficult to become A than being B.//anto easy,
-
-moch o!r=thing that denies A.//anto admit,
-
-nofb o!r=thing that is manier than A.//anto fewer,
-
-gobg !r=sky.//anto land,
-
-lmfb o-o!r=thing that unefficiently become A than B.//anto efficient,
-
-lmbg n!r=abnormal.//anto normal,
-
-alhg o!p=thing that be A.//anto about,
-
-dmhc o!r=thing that lost A.//anto get,
-
-fofb o!r=thing that is hotter than A.//anto cold,
-
-dmlb !r=adult.//anto baby,
-
-hmfb o!r=thing that is heavier than A.//anto lighter,
-
-noag !r=worker.//anto rest,
-
-hofb o!r=thing that is harder than A.//anto soft,
+jnmd <o-o>-n!r=thing that hide A from B.//anto show,.
 
 jmfb o!r=thing that is more complex than A.//anto simple,
 
-dloe n!r=thing that is full.//anto hungry,
-
-omfb o!r=thing that is more infelxible than A.//anto flexible,
-
 jngg o-n!r=thing that delete A.//anto create,
-
-dlme o,n!r=thing that suffers from being A.//anto enjoy,
 
 jpme o-o-n=thing that dont need to be A to be B.//anto need to,
 
 jjmg o-n!r=thing that push A.//anto pull,
 
-nkfb o!r=thing that is more expensive than A.//anto cheap,
+jnhc o-o!r=thing that recive A from B.//anto give,
+
+jmgg !r=poison.//a food,
+
+}j.a
+
+j.c{
+
+jkkg o!r=thing that is shorter than A.//com meter,less,
+
+johe !r=bread.//com fermentation,wheat,
+
+jkoa !r=we.//com friend,i,
+
+}j.c
+
+j.n{
+
+jlda !r=shape.
+
+jjfg !t=evening.//m afternoon,
+
+jnda !r=left.//n front,
+
+joea n!t=A month.//n week,
+
+}j.n
+
+j.r{
+
+jkba n!r=A meter.
+
+jjob !r=land.
+
+joda !r=fermentation.
+
+}j.r
+
+}j
+
+k{
+
+k.a{
+
+kobg n!r=abnormal.//anto normal,
 
 kpbc o,o!r=thing that ban A from B.//anto invite,
 
-aohg o!r=thing that take off A.//anto wear,
-
-mleb o!p=thing that stop being A.//com become,not,
-
-dmlg o!p=thing that keep being A.//anto stop,
-
-bmcg o!r=thing that remember A.//anto forgot,
-
-mjfb o!r=thing that ie slower than A.//anto fast,
-
 kjgg !r=on.//anto off,,l alive,
 
-jnhc o-o!r=thing that recive A from B.//anto give,
+kmgg !r=opened.//anto closed,,s on,
 
-dpoe o,n!r=thing that think A is tasteless.//anto delicious,
+}k.a
 
-djoe !r=full.//anto blank,
+k.c{
 
-bodg o!r=thing that disconnecte A.//s alone,
+kkbb s!v=evidence that A2 is A1.//c express,that A2 is A1,true,whether,.
 
-glbg !r=after.//anto before,
+kkkg o!r=thing that is narrower than A.//com meter2,less,
 
-//eanto
+kjkg o!r=thing that is colder than A.//degree celsius,less,
 
-}anto
+}k.c
 
-order{
+k.n{
 
-gmda !r=inside.
+klda !r=point.//n shape,
 
-hmda !r=shell.
+kjfg !t=night.//n evening,
 
-imda !r=outside.
+knda !r=befind.//n left,
+
+kkba n!r=A metet^2.//n meter,
+
+koea n!t=A year.//n month,
+
+}k.n
+
+k.r{
+
+kkod !r=heart.
+
+kmpe !r=insect.
+
+klba !r=rational.
+
+kklb !r=fixed.
+
+kjob !r=alive.
+
+kjda n!r=A°c.
+
+}k.r
+
+kmba n!r=thing that feel emotion.
+
+}k
+
+l{
+
+l.a{
+
+loag o,n!r=thing that forgive A.//anto revenge,
+
+lmfb o-o!r=thing that unefficiently become A than B.//anto efficient,
+
+}l.a
+
+l.c{
+
+lkkg o!r=thing that is smaller than A.//com meter3,less,
+
+ljhd !t=today.//com this,day,.
+
+lljb !r=road.//com line,land,
+
+lloe !r=stick.//com line,inflexible,
+
+llbd !r=loaf.//com line,flexible,
+
+}l.c
+
+l.n{
+
+llda !r=line.//n point,
+
+lnda !r=right.//n behind,
+
+lkba n!r=A meter^3.//n meter^2,
+
+}l.n
+
+l.p{
+
+lmle o,n!r=thing that feel A is fun.//pron people haha,
+
+}l.p
+
+l.r{
+
+lnda o!r=thing that point to A.
+
+lica o!p=inverse of A.
 
 ljga !p=start.
 
-mjga n!p=middle.
+}l.r
 
-njga !p=end.
+l.s{
+
+}l.s
+
+}l
+
+m{
+
+m.s{
+
+mmcd o,n!r=thing that feel pleasure about A.//s love
+
+mmid o,n!r=thing that like A.//s love,
+
+mmjd o,n!r=thing that feels comfortable be A.//s love,
+
+mmkd o,n!r=thing that feel A is beauty.//s love,
+
+mmmd o,n!r=thing whose A is safe.//s love,
+
+mmdd o,n!r=thing that think that think A is cute.//s love,
+
+mlba o!p=new A.//s become,
+
+mobd !r=blank.//s hungry,
+
+mida o!1p=every A.//s all,
+
+}m.s
+
+m.c{
+
+midd o,n!r=thing that enjoy be A.//com pleasure,A that is B,self,.
+
+moke o,n!r=thing that angry at A.//com hope,cause,victim,
+
+mmfd o,n!r=thing that love A by B percent.//com hope,profit,
+
+mlif o!r=thing that get A.//com become,have,.
+
+mmnb o,n!r=think that wonder about A.//com hope,know,
+
+mmpf o,n!r=thing that want to sex with A.//com hope,sex.
+
+mibd o,n!r=thing that thinks A is delicious.//com enjoy,eat,.
+
+mlkg !r=decreasing.//com become,less,.
+
+mknb o!r=thing that learn A.//com becoming,know,.
+
+mleg !r=born.//com become,organism,.
+
+mmcb n!r=introvert.//com pleasure,inside,
+
+mlee !r=baby.//com new,organism,
+
+mleg !r=foot.//com walk,organism,
+
+mmbd n!r=thing that is hungry.//com hope,eat,
+
+mlge o!r=thing that swim in A.//com walk,inside,
+
+mlnb o!r=thing that forgot A.//com stop,know,
+
+midg !t=always.//com all,time,.
+
+mljb !r=created.//com become,exist,
+
+}m.c
+
+m.a{
+
+mmgd o!r=thing whose A is friend.//anto enemy,,s love,
+
+mocg !o=most.//anto minus most,.
+
+mjhc o,o!r=thing that sell A to B.//anto buy,.
+
+mled o,n!r=thing that effort to become.//anto give up,
+
+mleb o!p=thing that stop being A.//com become,not,
+
+mjfb o!r=thing that ie slower than A.//anto fast,
+
+moch o!r=thing that denies A.//anto admit,
+
+}m.a
+
+m.r{
+
+mlmb !r=women.
+
+}m.r
+
+m.n{
+
+mlda !r=triangle.//n line,
+
+mjga n!p=middle.//n start,
+
+mnda !r=top.//n right,
+
+}m.n
+
+}m
+
+n{
+
+n.a{
+
+nlaf o!r=thing that include A,//anto part,.
+
+njfb o!r=thing that is older than A.//anto young,
+
+nofb o!r=thing that is manier than A.//anto fewer,
+
+noag !r=worker.//anto rest,
+
+nkfb o!r=thing that is more expensive than A.//anto cheap,
+
+}n.a
+
+n.c{
+
+njgg o!r=thing that calculate A.//com know,number,.
+
+nmog o,o!r=thing that misunderstand B as A.//com know,false,
+
+nmeg o!r=thing that understand A.//com know,what,mean,
+
+nnld !t=recent.//com arount,now,
+
+njmg int!r=thing that know word A.//c know,word A,
+
+npld !r=chopstick.//com two,stick,
+
+nmeg !r=brain.//com know,organism,
+
+}n.c
+
+n.n{
+
+nlda !r=square.//n triangle,
+
+njga !p=end.//n middle,
+
+nnda !r=botttom.//n top,
+
+}n.n
+
+}n
+
+o{
+
+o.a{
+
+omeg o!r=thing that emit A.//anto inhale,.
+
+ooee !r=false.//anto true,.
+
+opfb o!r=thing that stronger than A.//anto weaker,
+
+omfb o!r=thing that is more infelxible than A.//anto flexible,
+
+ojeg o!r=thing that take off A.//anto wear,
+
+}o.a
+
+o.c{
+
+olde o!r=thing that looking for A.//com intend,sense,
+
+oljd o,n!r=thing that mind A.//com intend,think,
+
+ondb !r=thing that come.//com go,Ath subject,
+
+oidf o,n!r=thing that feel that A is noisy.//com suffer,listen,.
+
+onge o!r=thing that enter into A.//com go,inside,.
+
+}o.c
+
+o.n{
+
+olda !r=pentagon.//n square,
+
+}o.n
+
+o.s{
+
+ojba !r=group.//s with,
+
+ojmb !r=combination.//s with,
+
+ojga !r=country.//s with,
+
+ojca o!r=thing that connecte A.//anto disconnected,,s with,
+
+ojda !r=continuity.//anto discontinuity,
+
+ojea !r=together.//anto alone,
+
+omda o!r=thing that reflect A.//s emit,
+
+}o.s
+
+}o
+
+p{
+
+p.a{
+
+pmie c o!v=diffrence between A1 and A2.//anto similarity,
+
+}p.a
+
+p.b{
+
+pkgd o!r=thing that kiss A.//b bite,
+
+}p.b
+
+p.c{
+
+}p.c
+
+p.c{
+
+}p.c
+
+p.n{
+
+plda !r=hexagon.//n pentagon,
+
+}p.n
+
+p.p{
+
+pmag !r=norlang.
+
+}p.p
+
+p.r{
+
+pkfa utf!r=utf8 code whose A is code.
+
+pmib o!p=thint that is about A.
+
+}p.r
+
+p.s{
+
+}p.s
+
+}p
+
+order{
 
 many is first.
 
@@ -2080,68 +2811,6 @@ aiba !r=none.
 ciba !r=photon.
 
 ~bjba
-
-inda !r=front.
-
-jnda !r=left.
-
-knda !r=befind.
-
-lnda !r=right.
-
-mnda !r=top.
-
-nnda !r=botttom.
-
-ikba n!r=thing whose A is size .
-
-jkba n!r=A meter.
-
-kkba n!r=A metet^2.
-
-lkba n!r=A meter^3.
-
-algb o,n!r=thing thag bite A.
-
-blgd o!r=thing that eat A.//com inhale,food,,
-
-clgd o,n!r=thing that chew A.
-
-dlgd o,n!r=thing that swallows A.
-
-elgd o,n!r=thing that digest A.
-
-flgd !r=shit.
-
-foba !r=gas.
-
-goba !r=liquid.
-
-hoba !r=solid.//s hard,
-
-doea !t=time.
-
-eoea n!t=A second.
-
-foea n!t=A minute.
-
-goea n!t=A hour.
-
-hoea n!t=A day.
-
-ioea n!t=A week.
-
-joea n!t=A month.
-
-koea n!t=A year.
-
-bmba o!r=south.
-
-cmba o!r=west.
-
-dmba o!r=north.
-
-emba o!r=east.
 
 color{
 
@@ -2173,108 +2842,6 @@ gipa !r=brown.
 
 }color
 
-shape{
-
-jlda !r=shape.
-
-klda !r=point.
-
-llda !r=line.
-
-mlda !r=triangle.
-
-nlda !r=square.
-
-olda !r=pentagon.
-
-plda !r=hexagon.
-
-aoda n!r=n gon.
-
-!r=cube.
-
-!r=circle.
-
-!r=sphere.
-
-}shape
-
-day{
-
-ejfg !t=midnight.
-
-fjfg !t=dawn.
-
-gjfg !t=morning.
-
-hjfg !t=noon.
-
-ijfg !r=afternoon.
-
-jjfg !t=evening.
-
-kjfg !t=night.
-
-}day
-
-//eorder
-
-}order
-
-l{
-
-'//s A B' mean 'form of this word is similar to word B of A'.
-
-q->p
-
-s->c
-
-bode !r=body.//s en body.
-
-//el
-
-}l
-
-sim{
-
-'//sim com A, B' mean 'this word is similar to compound word of A amd B'.
-
-cnda o!r=As.//sim com quantity,over,one,.
-
-emga !r=organism.//sim com was,become,alive,
-
-imba o!p=same A.//sim anto other,
-
-/esi
-
-}sim
-
-pron{
-
-dont make basic word this way.
-
-cmfc o!p=A dollar.//pron en dollar.
-
-gmge !r=father.//pron baby papa.
-
-amae r!=mother.//pron baby mama.
-
-pmag !r=norlang.
-
-//pron amharic
-
-/pron hindi
-
-lmle o,n!r=thing that feel A is fun.//pron people haha
-
-cjeoog !r=germany.//pron de deutschland,
-
-eodlff !r=england.//pron en england
-
-//epron
-
-}pron
-
 mid{
 
 mid = anto - ori.
@@ -2305,225 +2872,35 @@ ro{
 
 }ro
 
-}by word formation rule
-
-Randomly generated words(no word formation rule){
-
-mlmb !r=women.
-
-jjda !r=world.
-
-jjca !r=reality.//s world,
-
-jjba !r=exist.//s world,
-
-jjea !r=universe.//s world,
-
-eoba !o=code.
-
-eoca !r=document.//a code,
-
-eoib !r=post.//s code,
-
-eoga !r=language.
-
-eoha !r=word.
-
-eoea int!r=word A.//s code,
-
-eoda !r=name.//s code,
-
-eoea o!p=thing that mean A.//s A that is relate to B,
-
-mmcd o,n!r=thing that feel pleasure about A.//s love
-
-mmid o,n!r=thing that like A.//s love,
-
-mmjd o,n!r=thing that feels comfortable be A.//s love,
-
-mmkd o,n!r=thing that feel A is beauty.//s love,
-
-mmmd o,n!r=thing whose A is safe.//s love,
-
-hoca o!r=thing that stay in A.
-
-hoga o!r=thing that live in A.//s stay,
-
-mobd !r=blank./s hungry,
+!r=thing that rest.//s stay,
 
 bo !r=alone.//a individual,
 
 !r=discontinuity.
 
-ojba !r=group.//s with,
-
-ojmb !r=combination.//s with,
-
-ojga !r=country.//s with,
-
-ojca o!r=thing that connecte A.//anto disconnected,,s with,
-
-ojda !r=continuity.//anto discontinuity,
-
-ojea !r=together.//anto alone,
-
-bllb o!r=thing that inhale A.
-
-bolb o!r=thing that wear A.//s inhale,
-
-hoda !r=building.//s hard,
-
-hoad !r=ore.//s hard,
-
-foda !r=air.//s gas,
-
-hida !r=object.//s some,
-
-mlba o!p=new A.//s become,
-
-fojb !r=off.//s die,
-
-omda o!r=thing that reflect A.//s emit,
-
-goga !r=water.//s liquid,
-
-cmda !r=essense.//s part,
-
-jmob !r=before.//s past,
-
-hina !r=button.//s binary,
-
-hioa !r=door.//s binary,
-
 o!r=thing that walk on A.//s around,
 
 o!r=thing that touch A.//s around,
 
-ej o!r=thing that attack A.//s win,
+o!r=thing that sex with A.
 
-ejpb o!r=thing that revenge A.//s win,
+o!r=thing that breed with A.
 
-glga o-o!r=thing that compete to being B with A.A is like enemy
+o,o!r=thing that mix A and B.
 
-gljb o-<o,n>!r=thing that need A to be B.//s compete,
+o-o!r=thing that move from A to B.//s go,
 
-imca o-n!1p=thing that is relate to A.//s A that is relate to B,
+o!r=thing that toward A.//s point,
 
-hnda o!p=thing that has right to be A.//s can,
-
-dlje o!r=thing whose A is enemy.//s hate,
-
-elob n!r=normal.//s profit,
-
-mida o!1p=every A.//s all,
-
-lnda o!r=thing that point to A.
-
-o!r=thing that toward A./s point,
-
-cmpc o!v=part of A.//s element,
+s!r=thing that consider A2 is A1.//s assert,
 
 unit{
 
-imga o!v=Ahz.
+n!r=superiority.
 
-ilda n!r=Akg.
-
-biga n!r=Anewton.
-
-blda n!r=A flexibility.
-
-ijba n!r=hardness.
-
-glba n!r=A complexity.
-
-fmda n!r=Adecibel.
-
-kjda n!r=A°c.
-
-ioda o-n!2p=thing that is become A with Bdifficulty level.
-
-eljg n-o=thing that become B with A efficiency.//n is damage/gain,,
+!r=A quality.
 
 }unit
-
-gmgd o-o!r=thing that win A in competition of being B.
-
-glea n!p=A-th word.
-
-pnpd o!r=thing that sex with A.
-
-doba o,o-o!r=thing that promise that if myself become A then B becomes C.
-
-djnb !o=minus most.
-
-goba !n,ns=number.
-
-ojkb o-o!r=thing that move from A to B.
-
-hmjb c o!v=similarity between A1 and A2.//s be,
-
-kjob !r=alive.
-
-glda !r=food.
-
-lica o!p=inverse of A.
-
-kklb !r=fixed.
-
-gljb o-<o,n>!r=thing that need A to be B.
-
-bida o!r=thing that mention A.
-
-jjob !r=land.
-
-lmea n,o!1p=thing that repeat B at A times.
-
-pmib o!p=thint that is about A.
-
-hlda o,o!r=thing that requests that B become A.//mean please,
-
-hofa o!p=A too.
-
-cjpb !r=thing that rest.
-
-joda !r=fermentation.
-
-klba !r=rational.
-
-amba o!p=specific A.
-
-ckba o!p=any A.
-
-cmpd s!r=thing that consider A2 is A1.
-
-hmkd !r=wheat.
-
-kmpe !r=insect.
-
-gkca o!r=thing that for being A.
-
-anga !r=people.
-
-kkod !r=heart.
-
-kmba n!r=thing that feel emotion.
-
-bjda !r=god.
-
-elle !r=life.
-
-dida o,o!r=thing that assert that B is A.
-
-hkba o!p=each A.
-
-mkba o!1p=certain A.
-
-pkfa utf!r=utf8 code whose A is code.
-
-//era
-
-}Randomly generated words(no word formation rule)
 
 word that will be created(it is for only developer){
 
@@ -2639,8 +3016,6 @@ o!p=thing that is detail than A.
 
 =disadvanges.//anto advantages,
 
-!p=symbol.
-
 !r=transistor.
 
 !r=empire.
@@ -2691,7 +3066,7 @@ o!r=daily of A.
 
 hkga o!r=structure of A.
 
-s!r=principle of A.//com essense,process,
+s!r=principle of A.//com essense,process,,s struecture,
 
 !//r=gun.
 
@@ -2831,10 +3206,6 @@ s!r=cost.
 
 c o!r=union of A1 and A2.//anto split,
 
-!r=unit.
-
-o!r=thing that mark A.
-
 s,n!r=thing that regret A2 is A1.
 
 o-o!r=thing that lack A to be B.
@@ -2847,7 +3218,7 @@ ancf o-s!1p=A whose B2 is B1.//com A that is B,include,that A2 is A1,
 
 !r=border.
 
-!r=prove.
+o,o!r=thing that prove B is A.
 
 !r=animal.
 
@@ -2867,6 +3238,10 @@ ojda !r=crops.
 
 !r=handle.
 
+o!r=thing that lie down on A.//a sit,
+
+o!r=thing that get up from A.//anto lie down,
+
 o!r=thing that sit on A.
 
 o!r=thing that jump from A.//anto sit,
@@ -2885,7 +3260,7 @@ o!r=thing that jump from A.//anto sit,
 
 !r=bed.
 
-!r=bag.
+!r=bag.//s include,
 
 !r=block.
 
@@ -2933,8 +3308,6 @@ o!p=almost A.//com similar,over,
 
 !r=curved.//anto straight,
 
-n!r=superiority.
-
 o!r=thing superior to A.//anto inferior,
 
 o!r=thing inferior to A.//com superiorty,less,
@@ -2961,7 +3334,7 @@ n!r=transparent.
 
 o!n=thing that is proportional to A.
 
-o!r=thing that hang from A.
+o!r=thing that hang from A.//s enter,
 
 o!r=thing that detatch to A.//anto hang,
 
@@ -2985,13 +3358,13 @@ o!r=thing that detatch to A.//anto hang,
 
 !r=prokaryotes.
 
-!r=A quality.
-
 o,o!r=plan for B to become A.
 
 !r=rule.
 
 !r=resume document.
+
+n!r=A perfection pevel.
 
 o!r=thing that is more perfect than A.
 
@@ -3015,9 +3388,9 @@ o,n!r=thing whose A is annoying./s hate,
 
 !r=nipple.
 
-!r=milk.
+!r=milk.//s liquid,
 
-!r=joke.//com intend,fun,
+!r=joke.//com intend,cause,fun,
 
 !r=mute.
 
@@ -3027,9 +3400,9 @@ o!r=skip.
 
 o!p=thing that derived from A.
 
-o!r=thing that judge A.
+o!r=thing that judge A.//s think,
 
-o!r=thing that invent A.
+o!r=thing that invent A.//s create,
 
 !r=nature.
 
@@ -3051,11 +3424,9 @@ o!r=thing that act as a lawyer for A.
 
 !r=job.
 
-o!r=thing that hold A.
-
 o!r=kick A.//com foot,attack,
 
-o!r=thing that raise A.
+o!r=thing that raise A.//c cause,grow,
 
 !r=thing that is grow up.
 
@@ -3074,6 +3445,12 @@ o!1p=thing that be only A.
 !r=hand.//c hold,organism,
 
 !r=history.//s was,
+
+!r=broken.
+
+!r=whole.//anto broken,
+
+ioph !si=!.
 
 //efw
 
@@ -3480,7 +3857,7 @@ license{
 
 //vc
 
-nl version:8m13d25y
+nl version:8m20d25y
 
 license can be changed.
 
@@ -3735,14 +4112,16 @@ i decide to use VOS.
 
 element of this conlang{
 
-WL is world language.
+WL is abbreviation for world language.
 
-EL is for efficient.
+EL is abbrevition for efficient.
 
-CL is Cpu Language.
+CL is abbreviation for Cpu Language.
 
-ML is Memory Language.
+ML is abbreviation for Memory Language.
 
 }element of this conlang
 
 }norlang
+
+bite
