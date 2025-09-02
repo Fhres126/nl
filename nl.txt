@@ -195,7 +195,7 @@ basic{
 
 * transitive verb is function.
 
-* object is parameter.
+* object in grammar is parameter.
 
 * norlang lacks concept of verb.
 
@@ -215,7 +215,9 @@ eg 'djca   hoad' mean 'ore is solid'.
 
 * some word must have parameter like function.
 
-'jd bd   oa' mean 'i think you', '(thing that think you) is me'.
+'jd bd   oa' mean 'i think you'.
+
+translation whose only words are translated: '(thing that think you) is me'.
 
 'jd' mean 'thing that think'.
 
@@ -311,7 +313,11 @@ any word can be in object type parameter.
 
 'jd jd oa' is one object and mean 'thing that think (thing that think me)'.
 
-'jd ad oa'='i think', '(thing that think something) is me'{
+'jd ad oa'{
+
+free translation: 'i think'.
+
+translation whose only words are translated: '(thing that think something) is me'.
 
 ad !si=symbol that omit one parameter.
 
@@ -361,9 +367,9 @@ but "c A, B" can mean 'this word is abbreviation for A B'.
 
 'kb' mean 'thing that express'.
 
-the 'express'  mean word 'kb'.
+the 'express' in '//c express' mean word 'kb'.
 
-Only the key words come.
+only key word is in it.
 
 'kb lb ad' mean 'thing that express this'.
 
@@ -441,39 +447,55 @@ elga n!t=Asecond.{
 
 }<How to interpret a word dictionary>
 
-'mmfd bd oa', 'me fd bd oa' = 'i love you', 'thing that love you is me'{
+'mmfd bd oa'{
+
+free translation: 'i love you'.
+
+translation whose only words are translated: '(thing that love you) is me'.
+
+FYR: (mmfd bd) oa.
 
 mmfd o,n!r=thing that love A at B percent.//c hope,profit,
 
 bd !r=you.//a i,
 
+second parameter 'n' of 'mmfd' is automatically omitted cuz other type is in it.
+
 me s,n!r=thing that hope that A2 is A1 by B percent.
 
 fd n!r=thing that gains profit.
 
-FYR: (mmfd bd) oa, (me fd bd) oa.
+reason why 'love' is '//c hope, profit' is 'me fd A' mean 'thing that hope that A is thing that gains profit'.
 
-second parameter 'n' of 'mmfd' is automatically omitted cuz other type is in it.
-
-'me fd bd' mean 'thing that hope that you are thing that gains profit'.
+FYR: (me fd A).
 
 This word refers to the love between a parent and child.
 
-Love related to sexual desire is 'mmpf'.
+word love that related to sexual desire is 'mmpf'.
 
 }
 
-'higina  af eoda oa'='my name is higina', 'higina is name of me'{
+'higina  af elda oa'{
+
+free translation: 'my name is higina'.
+
+translation whose only words are translated: 'higina is name of me'.
+
+FYR: higina (af elda oa).
 
 af o-o!1p=A of B.//c A that is B, element,
 
-eoda !v=name.
-
-FYR: higina (af eoda oa).
+elda !v=name.
 
 }
 
-'dmca cf gkif gljb bd eimd oa' = 'I see her giving you food', 'i see her that give you to you', '(thing that see that thing that give food to you is she) is me'{
+'dmca cf gkif gljb bd eimd oa'{
+
+free translation: 'I see her giving you food'.
+
+translation whose only words are translated: '(thing that see (situation that thing that give food to you is she)) is me'.
+
+FYR: (dmca (cf (gkif gljb bd) eimd)) oa.
 
 dmca o!r=thing that see A.//c sense,photon,.
 
@@ -485,11 +507,15 @@ gljb !r=food.
 
 eimd !r=she.//c the,women,.
 
-FYR: (dmca (cf (gkif gljb bd) eimd)) oa.
-
 }
 
-'jc dmff fnme oa cf mmcd ad oa' = 'if i listen music, i am happy', '(result if thing that listen music is me) is (situation that thing that feel pleasure in something is me)'{
+'jc dmff fnme oa cf mmcd ad oa'{
+
+free translation: 'if i listen music, i am happy'.
+
+FYR: (jc (dmff fnme) oa) (cf (mmcd ad) oa).
+
+translation whose only words are translated: '(result if thing that listen music is me) is (situation that thing that feel pleasure in something is me)'.
 
 jc s,n!r=result if A2 is A1.
 
@@ -501,39 +527,51 @@ cf s!r=situation that A2 is A2.
 
 mmcd o,n!r=thing that feel pleasure in A.
 
-FYR: (jc (dmff fnme) oa) (cf (mmcd ad) oa).
-
 }
 
-'mb ee dmff fnme oa mmcd ad oa' = 'I am happy when I listen to music'{
+'mb ee dmff fnme oa mmcd ad oa'{
 
-mb t-o!2p=thing that be B when A.
-
-ee s!t=time when A2 is A1.//c what,thing that be B when A,
+free translation: 'I am happy when I listen to music'.
 
 FYR: (mb (ee (dmff fnme) oa) (mmcd ad)) oa.
 
+translation whose only words are translated: '(thing that feel pleasure in something when thing that listen music is me) is me'.
+
+mb t-o!2p=thing that is B when A.
+
+ee s!t=time when A2 is A1.//c what,thing that be B when A,
+
 }
 
-'ef cf dmff fnme oa mmcd ad oa' = 'i am happy cuz i listen music'{
+'ef cf dmff fnme oa mmcd ad oa'{
+
+free translation: 'i am happy cuz i listen music'.
+
+FYR: (ef (cf (dmff fnme) oa) (mmcd ad)) oa.
+
+translation whose only words are translated: ((thing that feel pleasure in something) that is by situation that thing that listen music is me) is me.
 
 ef o-<o,n>!2p=B that is by A.//c B that A include,result,fact,.
 
 cf s!r=situation that A2 is A1.
 
-FYR: (ef (cf (dmff fnme) oa) (mmcd ad)) oa.
-
 }
 
-'lc dmff fnme oa mmcd ad oa' = 'i listen music but im happy'{
+'lc dmff fnme oa mmcd ad oa'{
 
-lc s,o!p=thing that is B despite A2 being A1.//c inverse,situation that a2 is a1,.
+free translation: 'i listen music but im happy'.
 
 FYR: (lc (dmff fnme) oa (mmcd ad)) oa.
 
+lc s,o!p=thing that is B despite A2 being A1.//c inverse,situation that a2 is a1,.
+
 }
 
-'mb dh ld foea ph dmca bd' = 'I saw you 3 minutes ago'{
+'mb dh ld foea ph dmca bd'{
+
+free translation: 'I saw you 3 minutes ago'.
+
+FYR: (mb (dh ld (foea ph)) (dmca bd)).
 
 dh n or o-o!t=A minus B.//a plus,
 
@@ -545,15 +583,17 @@ ph !n=3.
 
 dmca o!r=thing that see A.//c sense,photon,
 
-FYR: (mb (dh ld (foea ph)) (dmca bd)).
-
 'dh ld foea ph' mean 'three minutes ago'.
 
 }
 
 <how to ask>{
 
-'fc anga bd'='what is people? i ask you', '(thing that ask you about people) is me'.{
+'fc anga bd'{
+
+free translation:'what is people? i ask you'
+
+translation whose only words are translated: '(thing that ask you about people) is me'
 
 fc o,o!r=thing that ask B about A.//c command, reply,
 
@@ -561,23 +601,31 @@ anga !r=people.
 
 }
 
-'fc  nb bd'='where are you?,i ask you', '(thing that ask you about location of you) is me'{
+'fc  nb bd'{
 
-nb o!v=location of A.
+free translation: 'where are you?,i ask you'.
+
+translation whose only words are translated: '(thing that ask you about location of you) is me'.
 
 FYR: fc (nb bd).
+
+nb o!v=location of A.
 
 if second parameter of 'fc' is omitted, the second parameter mean 'you'.
 
 }
 
-'fc  gb  dlke oa  bd'='why do you hate me?', '(thing that ask you about reason why thing that hate me is you) is me'{
+'fc  gb  dlke oa  bd'{
+
+free translation:'why do you hate me?'.
+
+translation whose only words are translated: '(thing that ask you about reason why thing that hate me is you) is me'.
+
+FYR: fc (gb (dlke oa) bd).
 
 gb s,n!p=reason why A2 is A1.
 
 dlke o,n=thing that hate A.//a love,
-
-FYR: fc (gb (dlke oa) bd).
 
 if second parmeter of 'fc' is omitted, it mean 'you' or 'i'(alone think).
 
@@ -585,7 +633,13 @@ if second parmeter of 'fc' is omitted, it mean 'you' or 'i'(alone think).
 
 }
 
-'fc  jc  dmlg noag  bd'='what if you give up being worker?', '(thing that ask you about result if thing that give up being worker is you) is me'{
+'fc  jc  dmlg noag  bd'{
+
+free translation:'what if you give up being worker?'.
+
+translation whose only words are translated: '(thing that ask you about result if thing that give up being worker is you) is me'.
+
+FYR: fc (jc (dmlg noag) bd).
 
 jc s,n!p=result if that A2 is A1.//a reason,
 
@@ -593,11 +647,13 @@ dmlg o!r=thing that give up being A.//c decide,not,will,intend,
 
 noag !r=worker.//a rest,
 
-FYR: fc (jc (dmlg noag) bd).
-
 }
 
-'fc  ja  dmca oa  bd'='are you looking at me?', '(thing that ask you about whether thing that see me is you) is me', {
+'fc  ja  dmca oa  bd'{
+
+free translation: 'are you looking at me?'.
+
+translation whose only words are translated: '(thing that ask you about whether thing that see me is you) is me'.
 
 ja s!r=whether A2 is A1.
 
@@ -607,7 +663,11 @@ FYR: fc (ja (dmca oa) bd).
 
 }
 
-'fc  ec  gkkb  lb anga  boba'='how do we save this person?', '(thing that ask you about how we become thing that save this people) is me'{
+'fc  ec  gkkb  lb anga  boba'{
+
+free translation: 'how do we save this person?'.
+
+translation whose only words are translated: '(thing that ask you about how thing that save this people become we) is me'.
 
 ec s-n!r=how A2 become A1.//c what,need to,.
 
@@ -621,7 +681,11 @@ FYR: fc (ec (gkkb (lb anga)) boba).
 
 }
 
-'fc  ee  de id  boba'='when we sense each other?', '(thing that ask you about time when thing that sense each other is we) is me'{
+'fc  ee  de id  boba'{
+
+free translation: 'when we sense each other?'.
+
+translation whose only words are translated: (thing that ask you about time when thing that sense each other is we) is me'.
 
 ee s!t=time when A2 is A1.//c what,thing that be B when A,
 
@@ -633,7 +697,11 @@ FYR: fc (ee (de id) boba)
 
 }<how to ask>
 
-'jf anga lb' = 'this seems people'{
+'jf anga lb'{
+
+free translation: 'this seems people'.
+
+translation whose only words are translated: thing that knows it is true that people is this is me.
 
 jf r!s=thing that knows it is true that A2 is A1.//c know,that A2 is A1,true,whether,.
 
@@ -643,7 +711,11 @@ FYR: (jf anga lb).
 
 time{
 
-'ed  gkkb anga   oa' = 'i saved people', 'thing that was thing that save people is me'{
+'ed  gkkb anga   oa'{
+
+free translation: 'i saved people'.
+
+translation whose only words are translated: 'thing that was thing that save people is me'.
 
 ed o!p=thing that was A.
 
@@ -653,7 +725,11 @@ FYR: (ed (gkkb anga)) oa, (ed (gc kjob agba)) oa
 
 }
 
-'le jnfg dd oa'='i will suicide', 'thing that will be thing that kill myself is me'{
+'le jnfg dd oa', {
+
+free translation: 'i will suicide'.
+
+translation whose only words are translated: 'thing that will be thing that kill myself is me'.
 
 le o!p=thing that will be A.//a was,
 
@@ -665,7 +741,11 @@ FYR: (gc (jnfg eida)) oa.
 
 }
 
-'eb ed fobg oa'='i have never died', 'thing that is not thing that was  dead thing is me'{
+'eb ed fobg oa'{
+
+free translation: 'i have never died'.
+
+translation whose only words are translated: 'thing that is not thing that was  dead thing is me'.
 
 eb o!v=thing that is not A.
 
@@ -673,7 +753,9 @@ FYR: (eb (ed fobg)) oa.
 
 }
 
-'mb midg mmfd bd eide' = 'he always loves you'{
+'mb midg mmfd bd eide'{
+
+free translation: 'he always loves you'.
 
 midg !t=always.//c all,time,
 
@@ -685,9 +767,13 @@ FYR: (mb midg (mmfd bd)) eide.
 
 }time
 
-'ob eide noag oa '='i work with he'{
+'ob eide noag oa'{
 
-ob o-o-n!p=thing that be B with A.
+free translation: 'i work with he'.
+
+translation whose only words are translated: thing that is worker with he is me.
+
+ob o-o-n!p=B that is with A.
 
 noag !r=worker.//a rest,
 
@@ -697,7 +783,11 @@ FYR: (ob eide noag) oa.
 
 how to command{
 
-'fa kjob bd' = 'hey you, be alive!'{
+'fa kjob bd'{
+
+free translation: 'hey you, be alive!'.
+
+translation whose only words are translated: 'thing that commands you to become alive is me.
 
 fa o,o!r=thing that commands B to become A.
 
@@ -711,7 +801,11 @@ FYR: (fa kjob bd).
 
 <symbol that omit parameter>{
 
-'fc ad bd'='i ask you', 'thing that ask you about something is me'{
+'fc ad bd'{
+
+free translation:'i ask you'.
+
+translation whose only words are translated: 'thing that ask you about something is me'.
 
 ad !si=symbol that omit one parameter. 
 
@@ -727,7 +821,9 @@ omitted parameter become mean 'something'.
 
 }
 
-'dlke be bd dlke bd bc oa'='i hate you and thing that hate you'{
+'dlke be bd dlke bd bc oa'{
+
+free translation: 'i hate you and thing that hate you'.
 
 be c o!p=A1 and A2 and....
 
@@ -743,7 +839,11 @@ second omitted parameter is parameter of 'be'.
 
 }<symbol that omit parameter>
 
-'ge af dkee oa dmca bd '='i see you using my eye', 'thing that become thing that see you using eye of me is me'{
+'ge af dkee oa dmca bd'{
+
+free translation: 'i see you using my eye'.
+
+translation whose only words are translated: 'thing that use eye of me to become thing that see you is me'.
 
 ge <o-o>-n!p=thing that use A to become B.
 
@@ -757,7 +857,11 @@ FYR: (ge (af dkee oa) (dmca bd)).
 
 }
 
-'pmda ma bd' = 'hello everyone'{
+'pmda ma bd' {
+
+free translation: 'hello everyone'.
+
+translation whose only words are translated: 'thing that greet all you is me'.
 
 pmda o!r=thing that greet A.
 
@@ -787,9 +891,9 @@ this word is like word 'it'.
 
 how to use word 'ea'{
 
-'mmfd bd oa', 'bd ea mmfd oa'='i love you'{
+'mmfd bd oa', 'bd ea mmfd oa'{
 
-'bd ea mmfd oa' mean 'what i love is you'.
+free translation: 'i love you', 'what i love is you'.
 
 FYR: (mmfd bd) oa, bd (ea mmfd oa).
 
@@ -807,11 +911,13 @@ if word 'ea' target second parameter like 'ea mh mmfd bd oa', it mean 'how much 
 
 }
 
-'fc ad bd oa', 'bd ea mh fc ad oa'='i ask you'{
+'fc ad bd oa', 'bd ea mh fc ad oa'{
 
-ea c n,s!v=what.//this word remove targeted parameter by A.
+free translation: 'i ask you'.
 
 FYR: bd (ea mh fc ad oa).
+
+ea c n,s!v=what.//this word remove targeted parameter by A.
 
 'bd ea fc ad oa' mean 'you are who i ask to'.
 
@@ -833,7 +939,9 @@ so 'ea' target second parameter of 'fc'.
 
 }
 
-'ne bd oa', 'bd ea ne pa oa'='i know you'{
+'ne bd oa', 'bd ea ne pa oa'{
+
+free translation: 'i know you', 'you are what i know'.
 
 FYR: (ne bd) oa, bd (ea ne pa oa).
 
@@ -851,7 +959,11 @@ parameter of 'nb' is 'what it know'.
 
 }
 
-'ae anga mmfd oa', 'ab angb ea mmfd bd'='people that i love', 'lovely people'{
+'ae anga mmfd oa', 'ab anga ea mmfd bd'= {
+
+free translation: 'people that i love', 'lovely people'.
+
+translation whose only words are translated: 'people that is what i love'.
 
 ae o-<c n,s>!p=A that C2 C1.//C2 is subject,,C1 is verb,,c A that is B,what,
 
@@ -1085,6 +1197,14 @@ if it is omitted, it is norlang.
 
 }
 
+'m A'{
+
+'m' is abbreviation for 'mean'.
+
+'m A' mean that this word can mean also 'A'.
+
+}
+
 }<How to interpret a word dictionary>
 
 <number>{
@@ -1137,7 +1257,11 @@ eg 'cb anga' mean 'quantity of people'.
 
 }
 
-'i love you by 100percent'='mmfd bd ph oa'{
+'mmfd bd ph oa'{
+
+free translation: 'i love you by 100percent'.
+
+translation whose only words are translated:
 
 ph !n=four.
 
@@ -1151,7 +1275,11 @@ FYR: (mmfd bd ph) oa.
 
 }
 
-'I love you as much as I love him'='mmfd bd pg eide oa'{
+'mmfd bd pg eide oa'{
+
+free translation: 'I love you as much as I love him'.
+
+translation whose only words are translated:
 
 pg o!n=A converted into number.//c B converted into A,number,
 
@@ -1165,7 +1293,11 @@ FYR: (mmfd bd (pg eide)) oa.
 
 }
 
-'i love you more than she'= 'mmfd bd fh eimd'{
+'mmfd bd fh eimd'{
+
+free translation: 'i love you more than she'.
+
+translation whose only words are translated:
 
 fh o!n=thing that is more than A.//a less,
 
@@ -1241,9 +1373,9 @@ word 'db' and 'dd'{
 
 db n!v=Ath subject.
 
-'nb cf mmfd db lh oa bd' mean 'you know that i love me' cuz 'oa' is in first subject and 'db lb' mean first subject.
+'ne cf mmfd db lh oa bd' mean 'you know that i love me' cuz 'oa' is in first subject and 'db lb' mean first subject.
 
-'nb cf mmfd db nh oa bd' mean 'you know that i love you' cuz 'bd' is in second subject.
+'ne cf mmfd db nh oa bd' mean 'you know that i love you' cuz 'bd' is in second subject.
 
 if parameter of db is omitted, it automatically target second subject'.
 
@@ -1269,7 +1401,7 @@ hb c o!1p=too and.
 
 ancjeg !r=german people.//c people, germany,
 
-cjeoog !r=germany.//pron de deutschland
+cjeoog !r=germany.//p deutschland de,
 
 FYR: (ancjeg oa) (mmfd cjeoog) oa.
 
@@ -1420,6 +1552,12 @@ answer{
 
 word dictionary{
 
+for who interpret dictionary{
+
+'o' of right side of '//' mean 'symbol that omit parameter'.
+
+}for who interpret dictionary
+
 //ewo
 
 aa !si=finish all.
@@ -1482,11 +1620,11 @@ mb t-o!2p=thing that be B when A.
 
 nb n or o!r=location of A.
 
-ob o-o-n!2p=thing that be B with A.
+ob o-o-n!2p=B that is with A.
 
 pb n-int...!o=what function.//1st bit 1 mean int type
 
-ac o-o!p=A that B include.//c A that is B,part,.
+ac o-o!p=A that is part of B.//c A that is B,part,.
 
 bc !si=symbol that omit two parameter.
 
@@ -1514,9 +1652,9 @@ mc o-t-n!p=thing that becoming A.
 
 nc o-o!1p=thing that is nearest A to B.
 
-oc//g ae,two,.
+oc//g ae,two,,but it target only r, o parameter,.
 
-pc o-o!1p=B converted into A.
+pc o-o!1p=B that is converted into A.
 
 ad !si=symbol that omit one parameter.
 
@@ -1590,7 +1728,7 @@ cf s!r=situation that A2 is A1.
 
 df s,n!r=thing that dread A with B percent intensity,//a hope,
 
-ef o-<o,n>!2p=B that is by A.//B that A include,result,fact,,ac B jc na A,
+ef o-<o,n>!2p=thing that became B by A.//B that A include,result,fact,,ac B jc na A,
 
 ff !si=continue say.
 
@@ -1608,7 +1746,7 @@ lf s!p2=whose A2 is A1.
 
 mf n,o!2p=Ath B.//minus is from last.
 
-nf o!p=around of A.
+nf o!p=part of around of A.
 
 of o!r=thing that go A.
 
@@ -1627,6 +1765,8 @@ pf !o=word whose meaning is determined by context.
  int-int-para...!p3=two function
 
 B as A.
+
+Aly B.
 
 }
 
@@ -1726,6 +1866,8 @@ ajlb !r=here.//c also cast,this,
 
 ancjeg !r=german poeple.//c people,germany,
 
+akcb o!r=thing that is in A.//c ac,inside,
+
 }a.c
 
 a.n{
@@ -1736,7 +1878,7 @@ aoda n!r=n gon.//n hexagon,
 
 a.p{
 
-amae r!=mother.//pron baby mama.
+amae r!=mother.//p mama baby.
 
 }a.p
 
@@ -1772,7 +1914,7 @@ bmba o!r=south.//b west,
 
 b.c{
 
-eogd !r=information.//c code,need,
+elgd !r=information.//c code,need,
 
 bikg o!r=thing that is weaker than A.//c newton,less,
 
@@ -1784,7 +1926,7 @@ bjld !r=true.//c return value,whether,one,one,.
 
 boba !r=we.//c and,i,you,o,
 
-bocf !r=sentence.//c code,situation,
+elcf !r=sentence.//c code,situation,
 
 }b.c
 
@@ -1824,7 +1966,7 @@ c{
 
 c.a{
 
-cllb o!r=thing that dont know A.//a know,
+clle o!r=thing that dont know A.//a know,
 
 }c.a
 
@@ -1860,15 +2002,15 @@ c.n{
 
 c.p{
 
-cmfc o!p=A dollar.//pron en dollar.
+cmfc o!p=A dollar.//p dollar en.
 
-cjeoog !r=germany.//pron de deutschland,
+cjeoog !r=germany.//p deutschland de,
 
 }c.p
 
 c.r{
 
-cjda !r=inside.
+cjda !r=part of inside.
 
 }c.r
 
@@ -2035,13 +2177,13 @@ ejfg !t=midnight.
 
 eoea n!t=A second.//n time,
 
-ejda !r=outside.//n shell,
+ejda !r=part of outside.//n shell,
 
 }e.n
 
 e.p{
 
-eodlff !r=england.//pron en england,
+eodlff !r=england.//p england en,
 
 }e.p
 
@@ -2057,21 +2199,21 @@ eljg n-o=thing that become B with A efficiency.//n is damage/gain,,
 
 e.s{
 
-eoda !o=code.
+elda !o=code.
 
-eoca !r=document.//s code,
+elca !r=document.//s code,
 
-eoib !r=post.//s code,
+elib !r=post.//s code,
 
-eooa !r=language.//s code,
+eloa !r=language.//s code,
 
-eoha !r=word.//s code,
+elha !r=word.//s code,
 
-eoea int!r=word A.//s code,
+elea int!r=word A.//s code,
 
-eoga !r=name.//s code,
+elga !r=name.//s code,
 
-eofa o!p=thing that mean A.//s code,
+elfa o!p=thing that mean A.//s code,
 
 !p=symbol.//s code,
 
@@ -2153,7 +2295,7 @@ fida o,o!r=thing that requests that B become A.//mean please,,s command,
 
 fjob n!r=normal.//s profit,
 
-fojb !r=off.//s die,
+fmob !r=off.//s die,
 
 fljb !r=closed.//s off,
 
@@ -2205,7 +2347,7 @@ gkjb o,n!r=thing that create A.//c cause,exist,
 
 gkeg o,o!r=thing that define A as B.//c cause,mean,
 
-gkfg o!r=thing that turn off A.//c cause,off,
+gkkd o!r=thing that turn on A.//c cause,on,
 
 goch !n=rational number.//c number, divided by,.
 
@@ -2229,21 +2371,17 @@ goea n!t=A hour.//n minute,
 
 g.p{
 
-gmge !r=father.//pron baby papa.
+gmge !r=father.//p papa baby.
 
 }g.p
 
 g.r{
-
-gljb o-<o,n>!r=thing that need A to be B.
 
 gmgd o-o!r=thing that win A in competition of being B.
 
 goba !n,ns=number.
 
 gljb !r=food.
-
-gljb o-<o,n>!r=thing that need A to be B.
 
 glba n!r=A complexity.
 
@@ -2282,6 +2420,8 @@ h.c{
 hila !n=binary.//c too and,zero,one,o,.
 
 hidg !r=certain time.//c certain,time,
+
+hnge o-<o,n>!r=thing that need A to be B.//c can,use,
 
 }h.c
 
@@ -2427,6 +2567,8 @@ jjmg o-n!r=thing that push A.//a pull,
 
 jnhc o-o!r=thing that recive A from B.//a give,
 
+jnfe o!r=thing that turn off A.//a turn on,
+
 jmgg !r=poison.//a food,
 
 }j.a
@@ -2471,7 +2613,7 @@ j.s{
 
 jjda !r=world.
 
-jjca !r=reality.//s world,
+jjca !r=part of reality.//s world,
 
 jjba !r=exist.//s world,
 
@@ -2497,7 +2639,7 @@ kobg n!r=abnormal.//a normal,
 
 kpbc o,o!r=thing that ban A from B.//a invite,
 
-kjgg !r=on.//a off,,a alive,
+klbg !r=on.//a off,,s alive,
 
 kmgg !r=opened.//a closed,,s on,
 
@@ -2544,8 +2686,6 @@ k.r{
 kkod !r=heart.
 
 kmpe !r=insect.
-
-klba !r=rational.
 
 kklb !r=fixed.
 
@@ -2607,7 +2747,7 @@ ligd o,n!r=thing that chew A.//n inhale food,
 
 l.p{
 
-lmle o,n!r=thing that feel A is fun.//pron people haha,
+lmle o,n!r=thing that feel A is fun.//p haha people,
 
 }l.p
 
@@ -2677,7 +2817,7 @@ mkne o!r=thing that learn A.//c becoming,know,.
 
 mleg !r=born.//c become,organism,.
 
-mmcb n!r=introvert.//c pleasure,inside,
+mmcb n!r=introvert.//c normal,brain,
 
 mlee !r=baby.//c new,organism,
 
@@ -2769,7 +2909,7 @@ njgg o!r=thing that calculate A.//c know,number,.
 
 nmog o,o!r=thing that misunderstand B as A.//c know,false,
 
-nmeg o!r=thing that understand A.//c know,what,mean,
+nmed o!r=thing that understand A.//c know,what,mean,
 
 nnld !t=recent.//c arount,now,
 
@@ -2835,7 +2975,9 @@ oidf o,n!r=thing that feel that A is noisy.//c suffer,listen,.
 
 oncb o!r=thing that enter into A.//c go,inside,
 
-olgc o-n!r=thing that is for A.//c for being, beficial,.
+olgc o-n!r=thing that is for A.//c for being, benefical,.
+
+olfd !r=rational.//c tend,profit,
 
 }o.c
 
@@ -2863,7 +3005,7 @@ ojea !r=together.//a alone,
 
 olga o!r=thing that for being A.//s intend,
 
-oncd o!r=thing that wear A.//s enter,
+cb o!r=thing that wear A.//c stuck,inside,,m stuck,
 
 oncg o!r=thing that hang from A.//s enter,
 
@@ -3043,7 +3185,11 @@ o,n!r=thing that feel A is disgusting.
 
 o!r=thing that conversation with A.
 
-=flat.//pron jp taira
+=flat.//p taira jp,
+
+=equality.//a flat,
+
+=conscience.
 
 !r=hole.
 
@@ -3559,11 +3705,25 @@ o,n!r=thing that feel that A is amaze.
 
 o!r=inherit A.//s give,
 
+o!r=thing that stuck A.//s stuck,
+
+!o=thing that waste A.
+
+o,o!r=thing that force B to A.
+
+iikobg !r=obsessive compulsive disorder.//c tend,abnormal,
+
 //efw
 
 }word that will be created(it is for only developer)
 
 }word dictionary
+
+root word dictionary{
+
+-pa=cast.
+
+}root word dictionary
 
 id dictionary{
 
@@ -3617,15 +3777,41 @@ dec{
 
 simpleipa{
 
-//IIIIIVVVFFFPPPPP
+//IIIIVVVW FFFIVPPW
 
 'I' mean 'initial consonant'.
 
 'V' mean 'vowel'.
 
+first 'W' mean wheather that final consonant is exist.
+
 'F' mean 'final consonant'.
 
 'P' mean 'punctuation' like '?', '!', '~'.
+
+second 'W' mean whther to end function.(0 finish).
+
+chart for 'I'{
+
+}chart for 'I'
+
+chart for 'F'{
+
+ is none consonant.
+
+}chart for 'F'
+
+chart for 'P'{
+
+100 is '~'.
+
+010 is '!'.
+
+110 mean none.
+
+001 is '?'.
+
+}chart for 'P'
 
 }simpleipa
 
@@ -3647,7 +3833,7 @@ bb o!o=variable A declared with let.//like let A=1;
 
 ib o!o=variable A declared with var.//like var A=1;
 
-eopa !v=label.//s code,
+elpa !v=label.//s code,
 
 fifa c s!r=starting ecl./c command,comand,
 
@@ -3986,7 +4172,7 @@ license{
 
 //vc
 
-nl version:8m27d25y
+nl version:9m2d25y
 
 license can be changed.
 
@@ -4020,6 +4206,8 @@ Creator Verification Code:'@@0226@0@@@2@.
 pn:@@05139@@@8 in 2024/11/18. JSM, SE, GIGADESADE, GOHW, SEMI, 1@@15@@7@@@@'.
 
 prohibits anything similar to this.
+
+dont make NL lite that have only few word cuz we making it.
 
 }other
 
@@ -4172,6 +4360,8 @@ https://corpus.eduhk.hk/english_pronunciation/index.php/3-2-acoustic-aspects-of-
 }lowest herz
 
 logic{
+
+'rio see poeple' mean 'rio see side of people'. 
 
 ab A bb B C ad bb ab A B ab A C ad.
 
