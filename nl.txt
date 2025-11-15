@@ -26,6 +26,10 @@ eg word 'hnmc' mean music.(norlang use phonetic script but norlang is pronounced
 
 word 'hnmc' is compound word of sound and pleasure.
 
+word 'bomc' mean sports.
+
+it is compound word of compete and pleasure.
+
 lot of words is abbreviations.
 
 eg word 'od' is abbreviation for Oa(this) and Doea(time).
@@ -40,7 +44,9 @@ the bit is reversed.(8n-th bit didnt reversed since it is  whitespace)
 
 lot of words are arranged in an orderly way.
 
-eg 'eoea' mean second, 'foea' mean minute, 'goea' mean hour....
+eg bihd mean hydrogen(Atomic number 1). cihd mean helium(Atomic number 2). dihd mean lithium(Atomic number 3). eihd mean beryllium(Atomic number 4).
+
+so it help technology grow cuz it make science easy.
 
 Word that have similar meanings consist of similar letters.
 
@@ -66,7 +72,9 @@ but in norlang, "be af A B C" means only "(A of B) and C".
 
 'af A be B C' means only 'A of (B and C)'.(it is like profix notation)
 
-unambigous is very good for language cuz it make efficient cuz it doesn't need any additional explanation or images when explaining exactly.
+word think have three meaning it is imagine and beilive and ponder so word for think is not exist in this language.
+
+unambigous is very good for language cuz it make efficient cuz it doesn't need any additional explanation or images to explain exactly.
 
 Norlang doesn't have exceptions.
 
@@ -74,7 +82,9 @@ norlang version of barcodes is exist and it is called NL QR1.
 
 NL QR1 is most efficient 1D code.
 
-it is usually two times more efficient a barcode.
+it is usually four times more efficient a barcode.
+
+barcode use 145cell to mention 'i am person' but NL QR1 use 28cell.
 
 norlang version of QR code is exist and it is called NL QR2.
 
@@ -82,18 +92,21 @@ NL QR2 is most efficient 2D code.
 
 NL QR2 is usually over 4 times more efficient than a QR code.
 
+eg QR code use 441cell to mention 'i am person' but NL QR2 use 32cell.
 
 NL QR mean NL QR1, NL QR2, NL QR3.
 
-NL QR is interpreted as same in any direction, like a QR code.
+meaning of NL QR is Not affected by direction, like a QR code.
 
 NL QR3 is most efficient code.
+
+NL QR can help cheating in exam because it is human-readble. it takes up little space and most people won't think of it as a language, so it won't get caught.
 
 norlang version of morse code is exist and it is called NL morse.
 
 NL Morse is usually two times more efficient than Morse code.
 
-morse code cant explain mathmatical expression but norlang can express it.
+morse code cant explain mathmatical expression but NL morse can express all meaning.
 
 norlang version of braille is exist and it is called NL braille.
 
@@ -101,7 +114,9 @@ NL braille is usually 1.5 times more efficient than braille.
 
 original Braille is ambigious cuz meaning of original braille depending on direction but NL braille can have same meaning in any direction.
 
-norlang is a binary language so it can easily be converted into NL QR and NL morse and NL braille and sign language and minecraft language and etc so you can do many things by learning this language.
+Sign language is difficult or inefficient for expressing new words or slang but this language is not.
+
+norlang is a binary language so it can easily be converted into NL QR and NL morse and NL braille and sign language and minecraft language and etc and you can learn it easily so you can do many things by learning this language so person who learn this language can easily communicate with the blind and the deaf.
 
 norlang is usually three times more efficient than English.
 
@@ -137,9 +152,9 @@ norlang brings easy communication and peace and helps technology grow.
 
 as a developer, i belive that this language is perfect so dont dislike this language before you are fluent in it.
 
-}advertisement
+}advertisement◀
 
-this language is beta version.
+this language is beta version. making this language is started in 2023year 2month.
 
 ▶alphabet{
 
@@ -185,7 +200,7 @@ norlang dont need whitespace but i will use whitespace to make you easily unders
 
 you can learn pronunciation in intermediate section and i recommend that you read this document in order.
 
-}alphabet
+}alphabet◀
 
 ▶EML(Efficient Memory Language){
 
@@ -245,7 +260,7 @@ explaing logical language using unlogical language is difficult so sometime i wi
 
 ▶How to interpret a word dictionary{
 
-'fojb !r=alive thing.'{
+▶'fojb !r=alive thing.'{
 
 word is expressed as it in word dictionary.
 
@@ -259,9 +274,9 @@ word is expressed as it in word dictionary.
 
 it is type of only word that is not number or etc.
 
-}
+}◀
 
-'kjgg !r=dead thing.//a alive'{
+▶'kjgg !r=dead thing.//a alive'{
 
 '//' is for an additional explanation.
 
@@ -279,9 +294,9 @@ eg antonym of
 
 8n-th bit dont be changed since it is for explaining length of word.
 
-}
+}◀
 
-'jd o!r=thing that Imagine A.'{
+▶'jd o!r=thing that Imagine A.'{
 
 between norlang word and '!' is parameter type that this function must have.
 
@@ -305,9 +320,9 @@ A: 'elea jd', word in parameter of 'elea' deosnt have parameter. this parameter 
 
 I can only answer your question after you know some concept.
 
-}
+}◀
 
-'da !si=line break'{
+▶'da !si=line break'{
 
 'si' is abbreviation for 'sign'.
 
@@ -317,11 +332,11 @@ this word is used to express only line break(aka new line).
 
 eg sentence 'jd da bd oe' means 'jd bd oe' because the word doesn't interface with 'si' type words.
 
-}
+}◀
 
-}How to interpret a word dictionary
+}How to interpret a word dictionary◀
 
-'jd ad oe'{
+▶'jd ad oe'{
 
 free translation: 'i imagine'.
 
@@ -345,15 +360,15 @@ Q: what is 'r' in right of '//' mean?
 
 A: ignore what you didnt learn. we will learn it.
 
-}
+}◀
 
-}basic
+}basic◀
 
 ▶intermediate{
 
 ▶How to interpret a word dictionary{
 
-'fc o,o!r=thing that ask B about A.//c command,reply,'{
+▶'fc o,o!r=thing that ask B about A.//c command,reply,'{
 
 '!A,B' mean this function need 'A' and 'B' as parameter.
 
@@ -365,17 +380,17 @@ eg 'fc A B' mean 'thing that ask B about A'.
 
 parameter type that this function must have is object and object.
 
-}
+}◀
 
-'ih !n=zero'{
+▶'ih !n=zero'{
 
 'n' is abbreviation for 'number'.
 
 'ag' ~ 'ph' is number word.
 
-}
+}◀
 
-'od !t=now.//c this, time,'{
+▶'od !t=now.//c this, time,'{
 
 'c' is an abbreviation for 'compound word'.
 
@@ -395,9 +410,9 @@ in this case, 'c' used to mean 'abbreviation'.
 
 4bit is from 'doea'(1100,011100100000).
 
-}
+}◀
 
-mkfd o,n!r=thing that love A with B percent power.//c hope,profit,,e The love between a family and a child,,{
+▶ 'mkfd o,n!r=thing that love A with B percent power.//c hope,profit,,e The love between a family and a child,,'{
 
 ',,' finished 'c'.
 
@@ -409,9 +424,9 @@ some english word have lot of meaning so some word have explanation of meaning i
 
 '//e A' mean that explaination of this word is A.
 
-}
+}◀
 
-'oa o!1p=this A'{
+▶'oa o!1p=this A'{
 
 'p' is abbreviation for 'parameter'.
 
@@ -421,9 +436,9 @@ parameter value determines type of this word.
 
 eg 'oa fojb' is reality type cuz fojb is reality type object.
 
-}
+}◀
 
-'gc s-n!p=reason why A2 is A1'{
+▶'gc s,n!p=reason why A2 is A1'{
 
 's' is an abbreviation for 'sentence'.
 
@@ -433,43 +448,43 @@ so 'A1' mean first 'o'.
 
 'A2' mean second 'o'.
 
-}
+}◀
 
-'be c o!p=A1 and A2 and....'{
+▶'be c o!p=A1 and A2 and....'{
 
 'c A' mean 'this word have A type parameter until it met symbol that omit parameter'.
 
 eg 'be bd bd bd ad' mean 'you and you and you'.
 
-}
+}◀
 
-eoea n!t=Asecond.{
+▶eoea n!t=Asecond.{
 
 't' is abbreviation for 'time'.
 
-}
+}◀
 
-'mkid o,n!r=thing that like A.//s love B'{
+▶'mkid o,n!r=thing that like A.//s love B'{
 
 's A B' mean 'letter of this word is similar to word A of language B'.
 
 if B is omitted, B is norlang.
 
-}
+}◀
 
-'ma o!1p=all A.//m every'{
+▶'ma o!1p=all A.//m every'{
 
 'm A' mean that this word can mean A too.
 
-}
+}◀
 
-}How to interpret a word dictionary
+}How to interpret a word dictionary◀
 
-'mkfd bd oe'{
+▶'mkfd bd oe'{
 
 free translation: 'i love you'.
 
-FYR: (mkfd bd) oe.
+sturcture: (mkfd bd) oe.
 
 translation whose only words are translated: '(something that love you) is me'.
 
@@ -511,9 +526,9 @@ FYR: (mc fd A).
 
 parent tend to hope child gain profit since most organism is selfish.
 
-}
+}◀
 
-'higina  af elda oe'{
+▶'higina  af elda oe'{
 
 free translation: 'my name is higina'.
 
@@ -545,11 +560,11 @@ only number word must be in 'ag' and 'ph'.(eg 'ag', 'bg', 'cg'....'ph')
 
 You might feel that some words is weird until reading this document since you dont know word-formation rule but the word-formation rules will be explained in the advanced section in detail so please wait.
 
-}
+}◀
 
 ▶how to ask{
 
-'fc anga bd oe'{
+▶'fc anga bd oe'{
 
 free translation: 'what is people? i ask you'.
 
@@ -571,9 +586,9 @@ if second parameter of 'fc' is omitted, the second parameter mean 'you'.
 
 just saying 'fc anga' is enough.
 
-}
+}◀
 
-'fc  nb bd bd oe'{
+▶'fc  nb bd bd oe'{
 
 free translation: 'where are you?,i ask you'.
 
@@ -587,9 +602,9 @@ nb o!v=location of A.
 
 just saying 'fc  nb bd' is enough.
 
-}
+}◀
 
-'fc  gc  dnfd oe  bd bd oe'{
+▶'fc  gc  dnfd oe  bd bd oe'{
 
 free translation:'why do you hate me?'.
 
@@ -609,9 +624,9 @@ if second parmeter of 'fc' is omitted, it mean 'you' or 'i'(alone imagine).
 
 just saying 'fc  gc  dnfd oe  bd' is enough.
 
-}
+}◀
 
-'fc  jf  mjme fojb  bd bd oe'{
+▶'fc  jf  mjme fojb  bd bd oe'{
 
 free translation:'what if you give up being worker?'.
 
@@ -629,9 +644,9 @@ fojb !r=alive.
 
 just saying ''fc  jf  mjme fojb  bd'' is enough.
 
-}
+}◀
 
-'fc  ja  dmca oe  bd bd oe'{
+▶'fc  ja  dmca oe  bd bd oe'{
 
 free translation: 'are you looking at me?'.
 
@@ -649,7 +664,7 @@ just saying 'fc  ja  dmca oe  bd' is enough.
 
 }
 
-'fc  ec  gjfg  oa anga  boba'{
+▶'fc  ec  gjfg  oa anga  boba'{
 
 free translation: 'how do we save this person?'.
 
@@ -667,9 +682,9 @@ oa o!p=this A.
 
 boba !r=we.//c and,i,you,o,.
 
-}
+}◀
 
-'fc ekfb kjgg'{
+▶'fc ekfb kjgg'{
 
 free translation: 'how to dead?'.
 
@@ -683,9 +698,9 @@ ekfb o-n!1p=how to become A.//c how,normal,
 
 'how to open this' is considered as 'how normal thing open this' in norlang.
 
-}
+}◀
 
-'fc  ee  de id  boba'{
+▶'fc  ee  de id  boba'{
 
 free translation: 'when we sense each other?'.
 
@@ -699,11 +714,11 @@ ee s!t=time when A2 is A1.//c what,thing that be B when A,
 
 id !r=each other.//c what,interface,self,.
 
-}
+}◀
 
-}how to ask
+}how to ask◀
 
-'dmca cf gjif olib bd fjmd oe'{
+▶'dmca cf gjif olib bd fjmd oe'{
 
 free translation: 'I see her giving you food'.
 
@@ -731,9 +746,9 @@ if o!r=thing that have A.//a element,
 
 'gb if A B' mean 'thing that cause B to become thing that have A'.
 
-}
+}◀
 
-'lf anga oa ad oe'{
+▶'lf anga oa ad oe'{
 
 free translation: 'this seems people'.
 
@@ -747,11 +762,11 @@ lf s!r=thing that believe that A2 is A1.//c know,as,true,whether,.
 
 just saying 'lf anga oa' is enough.
 
-}
+}◀
 
 ▶how to command{
 
-'fa fojb bd oe'{
+▶'fa fojb bd oe'{
 
 free translation: 'hey you, be alive!'.
 
@@ -767,13 +782,13 @@ fojb !r=alive.
 
 just saying 'fa fojb' is enough.
 
-}
+}◀
 
-}how to command
+}how to command◀
 
 ▶conjunction{
 
-'jf dmhf hnmc oe cf mkcd ad oe'{
+▶'jf dmhf hnmc oe cf mkcd ad oe'{
 
 free translation: 'if i listen music, i am happy'.
 
@@ -793,9 +808,9 @@ cf s!r=situation that A2 is A2.
 
 mkcd o,n!r=thing that feel pleasure in A.
 
-}
+}◀
 
-'mb ee dmhf hnmc oe mkcd ad oe'{
+▶'mb ee dmhf hnmc oe mkcd ad oe'{
 
 free translation: 'I am happy when I listen to music'.
 
@@ -809,9 +824,9 @@ mb t,o!2p=thing that is B when A.
 
 ee s!t=time when A2 is A1.//c what,thing that be B when A,
 
-}
+}◀
 
-'ef cf dmhf hnmc oe mkcd ad oe'{
+▶'ef cf dmhf hnmc oe mkcd ad oe'{
 
 free translation: 'i am happy cuz i listen to music'.
 
@@ -825,9 +840,9 @@ ef o-<o,n>!2p=thing that become B by A.
 
 cf s!r=situation that A2 is A1.
 
-}
+}◀
 
-'oc dmhf hnmc oe mkcd ad oe'{
+▶'oc dmhf hnmc oe mkcd ad oe'{
 
 free translation: 'i listen music but im happy'.
 
@@ -837,19 +852,19 @@ literal translation: i am thing that feel pleasure in something despite i am thi
 
 oc s,o!p=thing that is B despite A2 being A1.//c inverse,situation that a2 is a1,.
 
-}
+}◀
 
-}conjunction
+}conjunction◀
 
 ▶time{
 
-'anga oe'{
+▶'anga oe'{
 
 free translation: i am people now.
 
-}
+}◀
 
-'ed  gjfg anga   oe'{
+▶'ed  gjfg anga   oe'{
 
 free translation: 'i saved people'.
 
@@ -863,9 +878,9 @@ ed o!p=thing that was A.
 
 gjfg o,n!r=thing that save A.//c cause,alive,.
 
-}
+}◀
 
-'le jokb dd oe'{
+▶'le jokb dd oe'{
 
 free translation: 'i will suicide'.
 
@@ -881,9 +896,9 @@ jokb o,n!r=thing that kill A.//a save,
 
 dd !r=myself.
 
-}
+}◀
 
-'eb ed kjgg oe'{
+▶'eb ed kjgg oe'{
 
 free translation: 'i have never died'.
 
@@ -895,9 +910,9 @@ literal translation: i am thing that is not thing that was dead.
 
 eb o!v=thing that is not A.
 
-}
+}◀
 
-'mb midg mkfd bd fjde''{
+▶'mb midg mkfd bd fjde''{
 
 free translation: 'he always loves you'.
 
@@ -907,9 +922,9 @@ midg !t=always.//c all,time,
 
 fjde !r=he.//c the,men,
 
-}
+}◀
 
-'mb dh od foea ph dmca bd oe'{
+▶'mb dh od foea ph dmca bd oe'{
 
 free translation: 'I saw you 3 minutes ago'.
 
@@ -929,9 +944,9 @@ dmca o!r=thing that see A.//c sense,photon,
 
 'dh od foea ph' mean 'three minutes ago'.
 
-}
+}◀
 
-}time
+}time◀
 
 ▶symbol that omit parameter{
 
@@ -945,9 +960,9 @@ dc !si=symbol that omit four parameter.
 
 omitted parameter become mean 'something'.
 
-}
+}◀
 
-'dnfd be bd dnfd bd bc oe'{
+▶'dnfd be bd dnfd bd bc oe'{
 
 free translation: 'i hate you and thing that hate you'.
 
@@ -965,11 +980,11 @@ the first omitted parameter is 2nd parameter of 'dnfd'.
 
 second omitted parameter is parameter of 'be'.
 
-}
+}◀
 
-}symbol that omit parameter
+}symbol that omit parameter◀
 
-'nnga ma bd oe' {
+▶'nnga ma bd oe' {
 
 free translation: 'hello everyone'.
 
@@ -985,7 +1000,7 @@ ma o!p=all A.//m all,
 
 bd !r=you.//a i,
 
-}
+}◀
 
 ▶pronunciation{
 
@@ -1031,7 +1046,7 @@ n in no. l in ling. p in
 
 eu in bro.(silent vowel)
 
-IPA version{
+▶IPA version{
 
 a:'mu'. b:'bo'. c:'dʌ'. d:'gɯ'.
 
@@ -1041,11 +1056,17 @@ i:'k͈um'. j:'pom'. k:'tʌm'. l:'kɯm'.
 
 m:'tɕam'. n:'t͈ɕɛm'. o:'t͡ʃim'. p:'swɛ'.
 
-}IPA version
+}IPA version◀
 
-}pronunciation chart
+}pronunciation chart◀
 
-initial consonant that is easy to distinguish is  20.
+initial consonant that is easy to distinguish is 18.
+
+silent sound and h aren't used cuz if there's a pronunciation like gad-ha, people pronounce it as gata because that's easier.
+
+I think adding silent sounds and h would make the language inconsistent.
+
+i allow that user freely pronunce so It doesn't matter whether you pronounce the 'r' in a Spanish, German, or British accent/pronunciation.
 
 if word is long then there are final consonant 'm'.
 
@@ -1053,23 +1074,23 @@ This mechanism makes long word difficult to say so user dont wanna made long wor
 
 There is another way to express all pronunciations in norlang.
 
-}pronunciation
+}pronunciation◀
 
-}intermediate
+}intermediate◀
 
 ▶upper intermediate{
 
 ▶article{
 
-'fjda anga'{
+▶'fjda anga'{
 
 free translation: the person.
 
 fjda o!1p=the A.
 
-}
+}◀
 
-'cb n,o!v=A B.'{
+▶'cb n,o!v=A B.'{
 
 example of 'number' + 'word' in english is 'one apple'.
 
@@ -1085,13 +1106,13 @@ eg 'cb anga' mean 'one person' or 'a person'.
 
 'a' is not necessary.
 
-}
+}◀
 
-}article
+}article◀
 
 ▶preposition{
 
-'ac dmca bd inef oe'{
+▶'ac dmca bd inef oe'{
 
 free tanslation: i see you in country.
 
@@ -1107,9 +1128,9 @@ dmca o!r=thing that see A.//c sense,photon,
 
 inef !r=country.//c group,big,
 
-}
+}◀
 
-'ob fjde fnjb oe'{
+▶'ob fjde fnjb oe'{
 
 free translation: 'i work with he'.
 
@@ -1123,9 +1144,9 @@ ob o,o,n!p=thing that is B with A.
 
 fnjb !r=work.
 
-}
+}◀
 
-'ef eoof of bd oe'{
+▶'ef eoof of bd oe'{
 
 free translation: i go to you by car
 
@@ -1135,11 +1156,11 @@ literal translation: i am thing that go to you by car.
 
 ef o,o,n!2p=thing that is B by A.
 
-eoof !r=vehicle.//c machine,go,
+eoof !r=vehicle.//c machine,move,
 
-}
+}◀
 
-'kb ca anga oe fjde'{
+▶'kb ca anga oe fjde'{
 
 free translation: he express me as person.
 
@@ -1151,9 +1172,9 @@ kb o!r=thing that express A.
 
 ca o,o!1p=B as A.
 
-}
+}◀
 
-'mkfd bd lh oe'{
+▶'mkfd bd lh oe'{
 
 free translation: 'i love you by 100percent'.
 
@@ -1167,9 +1188,9 @@ second parameter of 'mkfd' is 'intensity of love'.
 
 0.5 is 50percent.
 
-}
+}◀
 
-}preposition
+}preposition◀
 
 ▶adjective{
 
@@ -1191,7 +1212,7 @@ if you think that it is efficient, then you can make compound word.
 
 the result is 'mipifoad', 
 
-}
+}◀
 
 'eye doctor' dont mean 'eye that is doctor'.
 
@@ -1217,7 +1238,7 @@ and compound word of 'eye' and 'doctor' is prohibited cuz in compound word funct
 
 'hlca' is not function but in defenition, it is in parameter of function.
 
-}adjective
+}adjective◀
 
 ▶adverb{
 
@@ -1235,57 +1256,7 @@ this english sentence consist of 20letter.(english need whitespace so including 
 
 'gmkg jokb anga bd oe' mean 'i quikly kill person tham you'.
 
-}adverb
-
-▶suffix{
-
-▶how to express -ing{
-
-Language exists to express reality, so we should convert what "-ing" means in reality into reality.
-
-The English suffix “-ing” is an inconsistent expression.
-
-In the sentence “I am going home,” “-ing” represents a change.
-
-this sentence mean 'i moving to coordinate 1, then to 2, and then to 3'.
-
-it can be expressed as “thing that becoming thing that went home”.
-
-However, 'i am standing' is not change.
-
- “I am wearing clothes,” “-ing” is not change.
-
-"i am wearing clothes" dont mean “I am thing that becoming thing that wear clothes.”
-
-'i wear clothes' mean 'i become thing is weaing clothes'.
-
-if you thought language that is converted into reality, then you will agree.
-
-mp- is ing eg mpjokb is killing.
-
-}how to express -ing
-
-▶how to express noun that dont have actor{
-
-kb o!r=thing that express.
-
-thing that express is actor.
-
-word expression dont have actor.
-
-use input 'jp-' into first.
-
-'jpkb' mean expression.
-
-how to express 'killed'?: ea jokb ha.
-
-}how to express noun that dont have actor
-
-▶ -est{
-
-}-est
-
-}suffix
+}adverb◀
 
 explanation of interjection is in advanced section.
 
@@ -1293,13 +1264,13 @@ this language can express interjection 'wow'
 
 ▶How to interpret a word dictionary{
 
-'pf !o=it{
+▶'pf !o=it{
 
 'o' type word can be in any parameter type.(eg r,n,t)
 
-}
+}◀
 
-}how to interpret a word dictionary
+}how to interpret a word dictionary◀
 
 ▶how to use word 'ea'{
 
@@ -1357,11 +1328,11 @@ this expression seems inefficient so we can use word 'ne'.
 
 word 'ne' mean 'ae nh' so ''ne anga ed mkfd oe' mean 'ae nh anga ed mkfd oe'.
 
-}how to use word 'ea'.
+}how to use word 'ea'.◀
 
-comparative{
+▶comparative{
 
-'mkfd bd pg fjde oe'{
+▶'mkfd bd pg fjde oe'{
 
 free translation: 'I love you as much as I love him'.
 
@@ -1379,9 +1350,9 @@ it tend to target number.
 
 FYR: (mkfd bd (pg fjde)) oe.
 
-}
+}◀
 
-'mkfd bd fh fjmd oe'{
+▶'mkfd bd fh fjmd oe'{
 
 free translation: 'i love you more than she'.
 
@@ -1393,11 +1364,11 @@ fjmd !r=she.//c the,women,.
 
 FYR: (mkfd bd (fh fjmd)) oe.
 
-}
+}◀
 
-}comparative
+}comparative◀
 
-'ed ld cd mmlb pf fd oe'{
+▶'ed ld cd mmlb pf fd oe'{
 
 free translation: 'i learned it to gain profit'.
 
@@ -1411,15 +1382,15 @@ mmlb o!r=thing that learn A.//c becoming,know,
 
 pf !o=it.
 
-}
+}◀
 
-}upper intermediate
+}upper intermediate◀
 
 ▶advanced{
 
 ▶How to interpret a word dictionary{
 
-'fg dec!n=decimal number'{
+▶'fg dec!n=decimal number'{
 
 'dec' is abbreviation for 'decimal number'.
 
@@ -1459,9 +1430,9 @@ this word is for expressing decimal number.
 
 so it seems 123 but this language use little andian so it is reversed.
 
-}
+}◀
 
-ah dec,dec!n=decimal rational number.{
+▶ah dec,dec!n=decimal rational number.{
 
 first 'dec' ia fractional part.
 
@@ -1469,9 +1440,9 @@ norlang emphasizes efficiency.
 
 expressing fractional part firstly is efficient when expressing 0.5 because it does not need to express integers. 
 
-}
+}◀
 
-'bg int!n=integer'{
+▶'bg int!n=integer'{
 
 'int' is an abbreviation for 'integer'.
 
@@ -1505,17 +1476,19 @@ integer 'he' is '111000010'.
 
 so it is 35.
 
-}
+if u wanna express negative then reverse all bit.
 
-'//b A'{
+}◀
+
+▶'//b A'{
 
 'b' is abbreviarion for 'before'.
 
 'b A' mean that this word is before word of A.
 
-}
+}◀
 
-'foea n!t=A minute.//n second,'{
+▶'foea n!t=A minute.//n second,'{
 
 'n' is abbreviation for 'next'
 
@@ -1525,9 +1498,9 @@ word 'eoea' mean second.
 
 next letter of 'e' is 'f' so next word of 'eoea'(second) is 'foea'(minute) so 'foea' mean 'minute'.
 
-}
+}◀
 
-'//p A B'{
+▶'//p A B'{
 
 'p' is an abbreviation for 'pronunciation'.
 
@@ -1537,21 +1510,41 @@ language name of ISO code alpha2 is in B.
 
 if it is omitted, it is norlang.
 
-}
+}◀
 
-'//r'{
+▶'//r'{
 
 'r' is abbreviation for 'reason'.
 
 'r' is used to explain why this word is made this way.
 
-}
+}◀
 
-}how to interpret a word dictionary
+▶'//d'{
+
+it mean when was this word created.
+
+If it was created a long time ago, it's highly likely that it won't change in the future.
+
+'//pd' mean predicted made date.
+
+}◀
+
+▶'//u'{
+
+it mean when was this word updated.
+
+If it was updated a long time ago, it's highly likely that it won't change in the future.
+
+'//pu' mean predicted update date.
+
+}◀
+
+}how to interpret a word dictionary◀
 
 ▶word formation rule{
 
-'gjfg o,n!r=thing that save A.//c cause, alive'{
+▶'gjfg o,n!r=thing that save A.//c cause, alive'{
 
 antonym of save is kill.
 
@@ -1565,9 +1558,9 @@ compound word that have antonym is made by small bit word.
 
 word 'kill' can be 'c cause,dead' but alive have smaller bit than dead so word 'kill' is made as antonym.
 
-}
+}◀
 
-'jf s,n!r=result of A2 being A1.//a reason,'{
+▶'jf s,n!r=result of A2 being A1.//a reason,'{
 
 gc s,n!r=reason why A2 is A2.
 
@@ -1581,9 +1574,9 @@ The reason happens before the result, so the word "reason" was created earlier t
 
 * antonym should have bigger bit than original word that is randomly made.
 
-}
+}◀
 
-'oidd o,o,n=thing that need to be A to be B,//c need,A that is B,self,.'{
+▶'oidd o,o,n=thing that need to be A to be B,//c need,A that is B,self,.'{
 
 oilb o,o,n!r=thing that need A to be B.
 
@@ -1607,9 +1600,9 @@ as i mentioned, 'c' can mean abbreviation.
 
 'i dislike being people' can be translated into 'dnfd ab dd anga oe'.
 
-}
+}◀
 
-'hnmc !r=music.//c sound,pleasure,'{
+▶'hnmc !r=music.//c sound,pleasure,'{
 
 'sound that i feel pleasure from' is expressed as 'ae hnih mkcd oe'.
 
@@ -1623,9 +1616,69 @@ it is abbreviation.
 
 new word should make element of new word remain order of original expression so this compound word must compund word of 'sound' + 'pleasure' instead of 'pleasure' + 'sound'.
 
-}
+}◀
 
-}word formation rule
+▶'dnfd o,n!r=thing that hate A.//c dread, profit,'{
+
+why word is not antonym of love.
+
+if it is made by antonym then it is dnke so form and sound of it is similar to dfke and meaning of dfke similar to love cuz it mean thing that dread that something become victim.
+
+}◀
+
+▶suffix{
+
+▶how to express -ing{
+
+You should think about how what you are trying to express is represented in reality or as a picture
+
+Language exists to express reality, so we should convert what "-ing" means in reality into reality.
+
+The English suffix “-ing” is an inconsistent expression.
+
+In the sentence “I am going home,” “-ing” represents a change.
+
+this sentence mean 'i moving to coordinate 1, then to 2, and then to 3'.
+
+it can be expressed as “thing that becoming thing that went home”.
+
+However, 'i am standing' is not change.
+
+ “I am wearing clothes,” “-ing” is not change.
+
+"i am wearing clothes" dont mean “I am thing that becoming thing that wear clothes.”
+
+'i wear clothes' mean 'i become thing is weaing clothes'.
+
+if you thought language that is converted into reality, then you will agree.
+
+mp- is ing eg mpjokb is killing.
+
+}how to express -ing◀
+
+▶how to express noun that dont have actor{
+
+kb o!r=thing that express.
+
+thing that express is actor.
+
+word expression dont have actor.
+
+use input 'jp-' into first.
+
+'jpkb' mean expression.
+
+how to express 'killed'?: ea jokb ha.
+
+}how to express noun that dont have actor◀
+
+▶ -est{
+
+}-est◀
+
+}suffix◀
+
+}word formation rule◀
 
 ▶number{
 
@@ -1669,9 +1722,13 @@ i didnt say 'jh'.}it seems zero but zero is already exist so it is four.
 
 and i effort to make only latin letter is in definition so i didnt use number symbol.
 
-}efficient number
+}efficient number◀
 
-'ag da', 'lh'='1'{
+▶'bg ha'{
+
+}◀
+
+▶'ag da', 'lh'='1'{
 
 see between '(' and ')' in next.
 
@@ -1681,9 +1738,9 @@ see between '(' and ')' in next.
 
 'ih'~'ph' is 'eni'(efficient number integer).
 
-}
+}◀
 
-'ag fa lh'='1.25'{
+▶'ag fa lh'='1.25'{
 
 ag int-n!n=rational number.
 
@@ -1693,9 +1750,9 @@ lh !n=one.
 
 'fa' is in small number area.
 
-}
+}◀
 
-}number
+}number◀
 
 ▶word 'bb' and 'ib'{
 
@@ -1715,7 +1772,7 @@ but 'bb ja lh lh' mean only 'true' so 'eb lb ja lh lh oe' mean 'i dont know true
 
 'ib ja lh lh' mean only whether.
 
-}word 'bb' and 'ib'
+}word 'bb' and 'ib'◀
 
 ▶word 'db' and 'dd'{
 
@@ -1735,9 +1792,11 @@ dd !r=self.//c Ath subject,+1eni,
 
 norlang use this word as 'myself' or 'themselves' etc.
 
-}word 'db' and 'dd'
+}word 'db' and 'dd'◀
 
 ▶word hb{
+
+how sentence 'A is B' become true.
 
 hb c o!1p=too and.
 
@@ -1749,9 +1808,9 @@ A can mean C.
 
 A can mean B and C.
 
-}word hb
+}word hb◀
 
-'ancjeg oe mkfd cjeoog oe'='im german people, i love germany'{
+▶'ancjeg oe mkfd cjeoog oe'='im german people, i love germany'{
 
 ancjeg !r=german people.//c people, germany,
 
@@ -1759,11 +1818,11 @@ cjeoog !r=germany.//p deutschland de,
 
 FYR: (ancjeg oe) (mkfd cjeoog) oe.
 
-}
+}◀
 
 ▶complex sentences{
 
-}complex sentences
+}complex sentences◀
 
 ▶NL QR{
 
@@ -1793,9 +1852,9 @@ last must be not finished by '010' cuz it can be readed any direction so wrongly
 
 }NL QR
 
-}advanced
+}advanced◀
 
-}lecture
+}lecture◀
 
 ▶word dictionary{
 
@@ -1803,7 +1862,7 @@ last must be not finished by '010' cuz it can be readed any direction so wrongly
 
 'o' of right side of '//' mean 'symbol that omit parameter'.
 
-}for who interpret dictionary
+}for who interpret dictionary◀
 
 site for searching word: https://fhres126.github.io/worddictionary/worddictionary.html
 
@@ -1815,7 +1874,237 @@ symbol '-' is old version's symbol so convert it into ','.
 
 ignore symbol '<', '>'.
 
+word is listed using two diffrent rule.
+
+left rule is listing using '//n' cuz if it is listed by the rule then hard to find.
+
+the rule is listing by initial letter and word formation rule
+
 //ewo
+
+▶orther{
+
+many is first.
+
+aiba !r=elementary particle.
+
+aiba !r=none.
+
+ciba !r=photon.
+
+~bjba
+
+▶color{
+
+rrggbb.
+
+aipa !r=black.
+
+dipa !r=red.
+
+mipa !r=green.
+
+alpa !r=blue.
+
+pipa !r=yellow.
+
+plpa !r=white.
+
+lkpa !r=pig pink.
+
+lipa !r=orange.
+
+kkpa !r=gray.
+
+bkpa !r=purple.
+
+nlpa !r=mint.
+
+gipa !r=brown.
+
+}color◀
+
+▶atom{
+
+aihd !r=atom.//d 2025.11.9.
+
+bihd !r=hydrogen.//d 2025.11.9.
+
+cihd !r=helium.//d 2025.11.9.
+
+dihd !r=lithium.//d 2025.11.9.
+
+eihd !r=beryllium.//d 2025.11.9.
+
+fihd !r=carbon.//d 2025.11.9.
+
+gihd !r=nitrogen.//d 2025.11.9.
+
+hihd !r=oxygen.//d 2025.11.9.wow h similar to h in word for gas!
+
+iihd !r=fluorine.//d 2025.11.9.
+
+neon.
+
+}atom◀
+
+▶part of object{
+
+bjda !r=nucleus.//s middle,
+
+cjda !r=part of inside.//n nucleus,
+
+djda !r=shell.//n inside,
+
+ejda !r=part of outside.//n shell,
+
+}part of object◀
+
+▶step{
+
+ajga !r=start.
+
+bjga n!p=middle.//n start,
+
+cjga !p=end.//n middle,
+
+}step◀
+
+▶symbol that omit parameter{
+
+ad !si=symbol that omit one parameter.
+
+bc !si=symbol that omit two parameter.
+
+cc !si=symbol that omit three parameter.//n symbol that omit one parameter.
+
+dc !si=symbol that omit four parameter.//n symbol that omit three parameter,
+
+}symbol that omit parameter◀
+
+▶time{
+
+doea !t=time.//b second,
+
+eoea n!t=A second.//n time,
+
+foea n!t=A minute.//n second,
+
+goea n!t=A hour.//n minute,
+
+hoea n!t=A day.//n hour,
+
+ioea n!t=A week.//n day,
+
+joea n!t=A month.//n week,
+
+koea n!t=A year.//n month,
+
+}time◀
+
+▶shape{
+
+jlda !r=shape.
+
+klda !r=point.//n shape,
+
+llda !r=line.//n point,
+
+mlda !r=triangle.//n line,
+
+nlda !r=square.//n triangle,
+
+olda !r=pentagon.//n square,
+
+plda !r=hexagon.//n pentagon,
+
+}shape◀
+
+▶state of matter{
+
+foba !r=solid.
+
+goba !r=liquid.//n gas,
+
+hoba !r=gas.//n liquid,
+
+ioba !r=plasma.//n gas,
+
+}state of matter◀
+
+▶part of day{
+
+fjhg !t=dawn.//n midnight,
+
+gjhg !t=morning.//n dawn,
+
+hjhg !t=noon.//n morning,
+
+ijhg !r=afternoon.//n noon,
+
+jjhg !t=evening.//n afternoon,
+
+kjhg !t=night.//n evening,
+
+}part of day◀
+
+▶direction{
+
+inda !r=front.
+
+jnda !r=left.//n front,
+
+knda !r=befind.//n left,
+
+lnda !r=right.//n behind,
+
+mnda !r=top.//n right,
+
+}direction◀
+
+▶direction in earth{
+
+indd !r=north.//s front,
+
+jndd !r=west.//s left,
+
+kndd !r=south.//s behind,
+
+lndd !r=east.//s right,
+
+}direction in earth◀
+
+▶size{
+
+jkba n!r=A meter.//n size,
+
+kkba n!r=A metet^2.//n meter,
+
+lkba n!r=A meter^3.//n meter^2,
+
+}size◀
+
+▶eat{
+
+iiod o!r=thing that kiss A.//b bite,
+
+jiod o,n!r=thing that bite A.//b inhale food,
+
+kiod o!r=thing that put A into mouth of myself.//c inhale,food,,n bite,
+
+liod o,n!r=thing that chew A.//n inhale food,
+
+miod o,n!r=thing that swallows A.//n chew,
+
+niod o,n!r=thing that glup down A.//n swallow,
+
+oiod o,n!r=thing that digest A.//n swallows,
+
+piod !r=shit.//n digest,
+
+}eat◀
+
+}other◀
 
 ▶a{
 
@@ -1823,11 +2112,11 @@ ignore symbol '<', '>'.
 
 alhg o!p=thing that is A.//a about,
 
-}a.a
+}a.a◀
 
 ▶a.b{
 
-}a.b
+}a.b◀
 
 ▶a.c{
 
@@ -1861,8 +2150,6 @@ aocb o!r=thing that swim in A.//c walk,inside,
 
 ▶a.n{
 
-aoda n!r=A gon.//n hexagon,
-
 }a.n
 
 ▶a.p{
@@ -1879,8 +2166,6 @@ ab o-o!r=A that is B.////no c but intend c be,and,.
 
 ac o-o!p=A that is in B.
 
-ad !si=symbol that omit one parameter.
-
 ag int-n!n=rational number.
 
 ah dec-dec!n=decimal rational number.
@@ -1892,8 +2177,6 @@ alha o!p=any A.
 alnd o!r=thing that touch A.
 
 akcg !r=ass.
-
-ajga !p=start.
 
 }a.r
 
@@ -1913,7 +2196,7 @@ bd !r=you.//a i,
 
 bh o-o!n=A root B.//a squared,
 
-bkng o!r=thing that leave A.//a enter,
+bkng o,o!r=thing that leave A.//a enter,
 
 bpeg o,o,n!r=thing that dont need A to be B.//a need,,g OIDD, EB,,
 
@@ -1947,7 +2230,7 @@ kigoba o!r=thing that drink A.//c inhale,liquid,
 
 bnih !r=wave.//c hz,over,zero,.
 
-boma !r=sports.//c compete,enjoy,,r enjoyed compete.
+bomc !r=sports.//c compete,pleasure,,r enjoyed compete.
 
 bohkjf !r=soccer.//c sports,kick,,r soccer include sports for kick.
 
@@ -1963,11 +2246,11 @@ bilb !r=omitted.//c none, interpret,,r Interpretable non-existence.
 
 bogg !r=world war.//c war, earth,
 
+bmpf o!p=A too.//c and,it,,u 2025.11.11.8
+
 }b.c
 
 ▶b.n{
-
-bjga n!p=middle.//n start,
 
 }b.n
 
@@ -1976,8 +2259,6 @@ bjga n!p=middle.//n start,
 ba !si=whitespace.
 
 bb o!v=return value of A.
-
-bc !si=symbol that omit two parameter.
 
 bf <c o>-n!p=A1 or A2 or.
 
@@ -1997,17 +2278,15 @@ bmhg !r=poison.//a food,
 
 ▶b.s{
 
-biga o!r=thing that mark A.//s mention,
-
 bode !r=body.//s body en.
-
-bipd !r=color.//s photon,
 
 boeg o,o!r=thing that compete to being B with A.//A is like enemy,,s dont need,
 
 bojf o!r=thing that fight with A.//s compete.
 
-bjda !r=nucleus.//s middle,
+bjlb !r=logic.//s true,/d 2025.11.7.9.25.
+
+bmpe o!1p=even A.//s too,
 
 }b.s
 
@@ -2015,7 +2294,7 @@ bjda !r=nucleus.//s middle,
 
 ▶c{
 
-c.a{
+▶c.a{
 
 ch o-o!n=A divided by B.//a times,
 
@@ -2025,11 +2304,11 @@ ckpe o!r=thing that avoid A.//a met,
 
 }c.a
 
-c.b{
+▶c.b{
 
 }c.b
 
-c.c{
+▶c.c{
 
 cb n,o!p=A B.//eg two apple.
 
@@ -2081,17 +2360,11 @@ coif !r=box.//c tool,have,,r box is tool thing to have someting.
 
 }c.c
 
-c.n{
-
-cc !si=symbol that omit three parameter.//n symbol that omit one parameter.
-
-cjda !r=part of inside.//n nucleus,
-
-cjga !p=end.//n middle,
+▶c.n{
 
 }c.n
 
-c.p{
+▶c.p{
 
 cmfc o!p=A dollar.//p dollar en.
 
@@ -2099,7 +2372,7 @@ cjeoog !r=germany.//p deutschland de,
 
 }c.p
 
-c.r{
+▶c.r{
 
 ca o,o!1p=B as A.
 
@@ -2119,7 +2392,7 @@ coob !r=machine.//s tool,
 
 }c.r
 
-c.s{
+▶c.s{
 
 cmda o!r=As.//s c quantity,more,two,.
 
@@ -2127,13 +2400,15 @@ clpg !r=politics.//s control,
 
 coda c o!r=ratio of A1 to A2 to.//s divided by,
 
+cibg !r=color.//s photon,,u 2025.11.6.19.53.
+
 }c.s
 
 }c
 
-d{
+▶d{
 
-d.a{
+▶d.a{
 
 df s,n!r=thing that dread A with B percent intensity,//a hope,
 
@@ -2147,9 +2422,9 @@ dnge o,n!r=thing that feels uneasy being A.//a comfortable,,m uncomfortable,
 
 dnje o,n!r=thing that feel that A is ugly.//a beauty.
 
-dnde o,n!r=thing that is dangerous for A.//a safe,
+dnle o,n!r=what A dangerous for.//a safe,,u 2025.11.6.14.32.
 
-dnme o,n!r=thing that is scare of A.//a cute,
+dnde o,n!r=thing that is scare of A.//a cute,,u 2025.11.6.14.31.
 
 dnce o,n!r=thing that feel that A is annoying.//a intersting,
 
@@ -2159,9 +2434,7 @@ djhc o!r=thing that lost A.//a get,
 
 dmld !r=adult.//a baby,
 
-dpme o,n!r=thing that suffers from being A.//a enjoy,
-
-dnbe o,n!r=thing that feel that A is tasteless.//a delicious,
+dnme o,n!r=thing that suffers from being A.//a enjoy,,u 2025.11.5.
 
 dmdg !r=men.//a women,
 
@@ -2177,13 +2450,11 @@ dnjb s!r=thing that reject that A2 is A1.//s dread,
 
 }d.a
 
-d.b{
-
-doea !t=time.//b second,
+▶d.b{
 
 }d.b
 
-d.c{
+▶d.c{
 
 dd !r=self.//c Ath subject,+1eni.
 
@@ -2199,7 +2470,7 @@ dned o,n!r=thing that regret A.//c dread,was,
 
 dmed o!r=thing that read A.//c sense, code,
 
-dohc o!r=thing that dwells in A.//c promise,is in,
+dohc o!r=thing that dwells in A.//c decide,is in,
 
 djhc c o!r=thing that stay in A.//c remain,is in,
 
@@ -2241,17 +2512,21 @@ djkg o!r=thing that is younger than A.//c A old, less,
 
 dncb n!r=extrovert.//c dislike,inside,
 
+dnod o,n!r=thing that feel that A is tasteless.//c pain,food,, u 2025.11.5.
+
+dnkg !r=eugenics.//c hate, abnormal,,u 2025.11.11.6.48
+
+dnke o,n!r=thing that pity A.//c dread, victim,,d 2025.11.11.22.53.
+
+doed !r=antonym.//c minus, word,,d 2025.11.13.2.14.
+
 }d.c
 
-d.n{
+▶d.n{
 
-dc !si=symbol that omit four parameter.//n symbol that omit three parameter.
+}d.n◀
 
-djda !r=shell.//n inside,
-
-}d.n
-
-d.r{
+▶d.r{
 
 da !si=line break.
 
@@ -2273,7 +2548,7 @@ diba !r=electron.
 
 }d.r
 
-d.s{
+▶d.s{
 
 domb !o=minus most.//s minus,,c minus,most,
 
@@ -2283,13 +2558,17 @@ doda !r=essense.//s minus most,
 
 doca o!1p=un A.//s minus,
 
+djdc o!1p=already A.//s remain,,2025.11.10.8
+
+djjc o!1p=yet A.//s remain,,2025.11.10.9.1,,m still,
+
 }d.s
 
 }d
 
-e{
+▶e{
 
-e.a{
+▶e.a{
 
 eh o!n=thing that is exceed than A.//a bellow,,A<=
 
@@ -2309,17 +2588,17 @@ ekhg s!r=thing that doubt A2 is A1.//a sure,
 
 }e.a
 
-e.b{
+▶e.b{
 
 }e.b
 
-e.c{
+▶e.c{
 
 ec <o-o>-n!r=how B become A.//what,need to,
 
 ee s!t=time when A2 is A1.//c what,thing that be B when A,
 
-eoba o,o,n!r=thing that write A at B.//c letter,mention,.
+elga o,o,n!r=thing that write A at B.//c letter,mention,.
 
 enef c o!p=c by.//c by,by,.
 
@@ -2346,7 +2625,7 @@ emfa !r=organism.//s-c was,become,alive,,r thing that became alive.
 
 eled !r=document.//c write,code,,r document is thing where the code is written,,m file,
 
-elgf !r=conlang.//c language,make,,r conlang is language that is made.
+elld !r=conlang.//c language,artificial,,u 2025.11.7.18.10.. r conlang is language that is made.
 
 elfd s!r=thing that recommend A2 to become A1.//c assert,profit,
 
@@ -2378,23 +2657,21 @@ encb o!n=quantity of A.//c EA,NA,CB,
 
 ellb !r=knowledge.//c code,know,
 
-enng o,o!r=log A B.//c what, two, times,
+eldd o!r=thing that succeed to be A.//c what,intend,self,, d 2025.11.6.20.31.
+
+elmkcd !r=bibble.//c document,pleasure,,d 2025.11.6.22.40.u 2025.11.8.10.55.
+
+endb o!r=thing that obey A.//c EA,FA,DB,,d 2025.11.6.22.49.
 
 }e.c
 
-e.n{
-
-ejhg !t=midnight.
-
-eoea n!t=A second.//n time,
-
-ejda !r=part of outside.//n shell,
+▶e.n{
 
 ejna !r=molecule.//n atom,
 
 }e.n
 
-e.p{
+▶e.p{
 
 eodlff !r=england.//p england en,
 
@@ -2402,7 +2679,7 @@ eikc n!r=Anewton.//p newton en.
 
 }e.p
 
-e.r{
+▶e.r{
 
 ea c n,s!v=what.//ea remove targeted parameter by A,,target,certainty,pronoun,
 
@@ -2422,17 +2699,17 @@ eoga o!p=same A.
 
 }e.r
 
-e.s{
+▶e.s{
 
 elca s!r=thing that assert that A2 is A1.//s mean,
 
-elda !o=code.
+elba !o=code.
 
 elea int!r=word A.//s code,
 
 elfa o!p=thing that mean A.//s code,
 
-elga !r=name.//s code,
+elda !r=name.//s code,
 
 elha !r=word.//s code,
 
@@ -2454,9 +2731,9 @@ enga o!r=thing that react to A.//s by,
 
 }e
 
-f{
+▶f{
 
-f.a{
+▶f.a{
 
 fh o!n=thing that is more than A.//a less,,A<
 
@@ -2472,13 +2749,13 @@ fmgg !r=opened.//a closed,,s on,
 
 }f.a
 
-f.b{
+▶f.b{
 
 fjif o,o!r=thing that send A to B.//b give,
 
 }f.b
 
-f.c{
+▶f.c{
 
 fc o,o!r=thing that ask B about A,//c command,reply,
 
@@ -2491,8 +2768,6 @@ hnmc !r=music.//c sound,pleasure,
 fifd o!r=thing that hail A.//c command,profit,
 
 filg o,o!r=thing that apologize to A about B.//c please,forgive,
-
-fnba o!r=thing that speak A.//c sound,mention,,ori use,sound,mention,.
 
 fjmd !r=she.//c the,women,.
 
@@ -2526,21 +2801,23 @@ fogc !r=wall.//c solid,protect,,r wall is solid that protect.
 
 foee !r=bone.//c solid,organism,,r solid that is in organism.
 
+fkad o,o!r=thing that ask B about who is A.//c ask,is,,d 2025.11.5.15.13.8
+
+fooa !r=building.//c solid, need,,u 2025.11.6.16.15.
+
+fjkg o!r=thing that is inferior than A.//c normal, less,,d 2025.11.9.11.
+
 }f.c
 
-f.n{
-
-fjhg !t=dawn.//n midnight,
-
-foea n!t=A minute.//n second,
+▶f.n{
 
 }f.n
 
-f.p{
+▶f.p{
 
 }f.p
 
-f.r{
+▶f.r{
 
 fa o,o!r=thing that command B to become A.
 
@@ -2552,27 +2829,19 @@ ff !si=continue say.
 
 fg deci!n=decimal number.
 
-foba !r=solid.
-
 flda n!r=A°c.
 
 fojb !r=alive.
 
 fjda o!p=the A.
 
-fomg !r=dirt.
-
-fnga o!r=thing that play A.
-
 }f.r
 
-f.s{
+▶f.s{
 
 fida o,o!r=thing that requests that B become A.//mean please,,s command,
 
-fjob n!r=normal.//s profit,,e this word dont mean average,,e meaning of this word similar to healthy and not inferior.
-
-foda !r=building.//s hard,
+fjob n!r=normal.//s profit,,
 
 fpig o!r=thing that reflect A.//s emit,
 
@@ -2588,9 +2857,9 @@ fodd !r=ore.//s hard,
 
 }f
 
-g{
+▶g{
 
-g.a{
+▶g.a{
 
 gnfb o!r=thing that longer than A.//a shorter,
 
@@ -2600,11 +2869,11 @@ gmfb o!r=smarter than A.//a stupid,
 
 }g.a
 
-g.b{
+▶g.b{
 
 }g.b
 
-g.c{
+▶g.c{
 
 gf o!r=thing that make A.//c cause,exist,
 
@@ -2634,7 +2903,7 @@ gjff o,n!r=thing that repair A.//c cause,again,work,
 
 gich !n=rational number.//c number, divided by,.
 
-gocb <o,o>-n!r=thing that put B into A.//c cause,go,inside,
+gocb <o,o>-n!r=thing that put B into A.//c cause,move,inside,
 
 glkg o!r=thing that is simpler than A.//c complexity,less,
 
@@ -2654,7 +2923,7 @@ gmda o,o!r=thing that be B using time A.//s-c use,time,,A is time.
 
 goae !r=milk.//c liquid,mom,
 
-goma !r=tea.//c liquid,delicious,
+gomc !r=tea.//c liquid,delicious,
 
 gmeg o!r=thing that arming A.//c use,weapon,
 
@@ -2668,7 +2937,7 @@ gooa !r=saliva.//c liquid,digest,,r liquid that help digest.
 
 gjjg o,o,o!r=thing that exchange C for B and received A.//c give,receive,
 
-godb o,o,n!r=thing that pull A into B.//c cause,go,Ath subject,
+godb o,o,o,n!r=thing that pull A into B from C.//c cause,go,Ath subject,
 
 gnmd o!r=thing that breed with A.//c make,baby,
 
@@ -2698,25 +2967,23 @@ gjha o!r=thing that create.//c cause,thing,
 
 goca !r=star.//c celestial body, photon,
 
+gifg !r=dirt.//c brown, land,, u 2025.11.6.17.47
+
+godd !r=auto.//c use,only,self,,d 2025.11.11.7
+
 }g.c
 
-g.n{
-
-goba !r=liquid.//n gas,
-
-gjhg !t=morning.//n dawn,
-
-goea n!t=A hour.//n minute,
+▶g.n{
 
 }g.n
 
-g.p{
+▶g.p{
 
 gmge !r=father.//p papa baby.
 
 }g.p
 
-g.r{
+▶g.r{
 
 ga o!p=only A.
 
@@ -2730,15 +2997,17 @@ gg o!n=not A.//logic gate.
 
 gh !n=x.
 
-gmgd o-o!r=thing that win A in competition of being B.
+gmgd o,o!r=thing that win A in competition of being B.
 
-goda !n,ns=number.
+gida !n,ns=number.//u 2025.11.14.10.30
 
 glba n!r=A complexity.
 
+giga o!r=thing that mark A.//s mention,
+
 }g.r
 
-g.s{
+▶g.s{
 
 gb <o-o>-n!r=thing that cause A to become B.//s reason,
 
@@ -2756,9 +3025,9 @@ gmkd o!r=thing that suddenly be A.//s quik,
 
 }g
 
-h{
+▶h{
 
-h.a{
+▶h.a{
 
 hjfb o-o!2p=thing that is more difficult to become A than being B.//a easy,
 
@@ -2766,15 +3035,15 @@ hmfb o!r=thing that is heavier than A.//a lighter,
 
 fofb o!r=thing that is harder than A.//a soft,
 
-hoag !r=shift.//a fixed,,m action,
+hoag n!r=shift.//a fixed,,m action,
 
 }h.a
 
-h.b{
+▶h.b{
 
 }h.b
 
-h.c{
+▶h.c{
 
 hb c o!p=too and.//c too,and,
 
@@ -2814,19 +3083,21 @@ hngg !r=cry.//c eye,emit,liquid,,r cry thing include eye that emit liquid.
 
 hmef !r=life.//c HE, MB, when, exist,
 
+hnga o!r=thing that speak A.//c sound,mention,,ori use,sound,mention,.
+
+hokg o!r=thing that is quieter than A.//c decibel,less,,d 2025.11.8.11.46.
+
+hodg !r=silent.//c quite, minus most,,d 2025.11.8.11.47.
+
+hmog o,o!r=log A B.//c HE,OG,, u 2025.11.15.7.51.
+
 }h.c
 
-h.n{
-
-hoba !r=gas.//n liquid,
-
-hjhg !t=noon.//n morning,
-
-hoea n!t=A day.//n hour,
+▶h.n{
 
 }h.n
 
-h.r{
+▶h.r{
 
 ha !r=thing.
 
@@ -2844,15 +3115,15 @@ hh !n=y.
 
 hmkd !r=wheat.
 
-hofa o!p=A too.
-
 hoda n!r=Adecibel.
 
 hnib !r=sound.
 
+hoga o!r=thing that play A.
+
 }h.r
 
-h.s{
+▶h.s{
 
 hida !r=object.//s certain,
 
@@ -2880,23 +3151,25 @@ hlda o!1p=left.//s other,
 
 }h
 
-i{
+▶i{
 
-i.a{
+▶i.a{
 
 if o!r=thing that have A.//a element,.including promise
 
-inea o!r=whole A.//s-a part,.
+inmg o!r=thing that include A.//a part,,s have,
+
+inea o!r=whole A.//s-a part,,
+
+ijfb o!r=thing that is noisier than A.//a quite,,d 2025.11.8.11.48
 
 }i.a
 
-i.b{
-
-iigd o!r=thing that kiss A.//b bite,
+▶i.b{
 
 }i.b
 
-i.c{
+▶i.c{
 
 id !r=each other.//c what,interface,self,.
 
@@ -2910,9 +3183,9 @@ kjkg o!r=thing that is softer than A.//c hardness,less,
 
 iokg o-o!2p=thing that easily become A than being B.//c difficulty level,less,
 
-iima o,n!r=thing whose A is hobby.//c tend,enjoy,
+iimc o,n!r=thing whose A is hobby.//c tend,enjoy,
 
-iihd !r=empire.//c country,rule,other,,r empire is country that rule other country.
+iiha !r=empire.//c country,rule,other,country,,r empire is country that rule other country.,,u 2025.11.11.9.
 
 ijjf !r=school.//c buliding,student,
 
@@ -2932,17 +3205,11 @@ inld !r=civilization.//c group, artificial,
 
 }i.c
 
-i.n{
-
-ijhg !r=afternoon.//n noon,
-
-ioea n!t=A week.//n day,
-
-ioba !r=plasma.//n gas,
+▶i.n{
 
 }i.n
 
-i.r{
+▶i.r{
 
 ia o,n!p=thing that tends to become A.
 
@@ -2950,13 +3217,11 @@ ib o!v=freeze word.
 
 ic n,o!2p=Ath B.
 
-ie o-o=A that is relate to B.
+ie o,o=A that is according to B.
 
 ig o-o!n=or A B.
 
 ih !n=zero.
-
-inda !r=front.
 
 ikba n!r=thing whose A is size.
 
@@ -2974,13 +3239,9 @@ ijpb !r=fixed.//e stay still.
 
 }i.r
 
-i.s{
+▶i.s{
 
-inca o-n!1p=thing that is relate to A.//s A that is relate to B,
-
-indd !r=north.//s front,
-
-inmg o!r=thing that include A.//s have,
+imca o,n!1p=thing that is relate to A.//s accoding,
 
 inca !r=group.//s-a element,
 
@@ -2996,9 +3257,9 @@ inib o!r=thing that rule A.//s have,
 
 }i
 
-j{
+▶j{
 
-j.a{
+▶j.a{
 
 jf s,n!p=result of A2 being A1.//a reason.
 
@@ -3030,17 +3291,15 @@ jmgg !r=after.//a before,
 
 johc o,o!r=thing that receive A from B.//a give,
 
-jjmg o,o,n!r=thing that push A into B.//a pull,
+jjmg o,o,o,n!r=thing that push A into B from C.//a pull,
 
 }j.a
 
-j.b{
-
-jiod o,n!r=thing that bite A.//b inhale food,
+▶j.b{
 
 }j.b
 
-j.c{
+▶j.c{
 
 jkkg o!r=thing that is shorter than A.//c meter,less,
 
@@ -3052,8 +3311,6 @@ jomlciba !r=blindfold.//c hide,photon,
 
 jllb !r=geometry.//c shape,know,,r knowledge about shape.
 
-jokg !r=eugenics.//c kill, abnormal,
-
 jomkod !r=cake.//c bread,delicuous,
 
 joed o!r=thing that censor A.//c delete,code,,
@@ -3064,21 +3321,13 @@ joee !r=disease.//c harmful,organism,
 
 }j.c
 
-j.n{
-
-jlda !r=shape.
-
-jjhg !t=evening.//n afternoon,
-
-jnda !r=left.//n front,
-
-joea n!t=A month.//n week,
+▶j.n{
 
 jnkedd !r=self harm.//c attack,self,
 
 }j.n
 
-j.r{
+▶j.r{
 
 ja s=whether A is true.//zero is true.cuz true is important.exist made false.one is exist.
 
@@ -3094,17 +3343,13 @@ jg o-o!n=xor A B.
 
 jh !n=four.
 
-jkba n!r=A meter.//n size,
-
 joda !r=fermented thing.
 
 jkib o!r=thing that stick to A.
 
 }j.r
 
-j.s{
-
-jndd !r=west.//s left,
+▶j.s{
 
 jnke o!r=thing that attack A.//s harmful,
 
@@ -3114,15 +3359,15 @@ jnhc o,o!r=thing that steal A from B.//s recive,
 
 }j
 
-k{
+▶k{
 
-k.a{
+▶k.a{
 
 ke n!r=victim.//a profit,
 
 kf o,o!r=thing that reply to B by saying A..//a ask,
 
-kobg n!r=abnormal.//a normal,
+kobg n!r=inferior.//a superior,
 
 kpbc o,o!r=thing that ban A from B.//a invite,
 
@@ -3138,13 +3383,15 @@ kpke o!r=thing that curse A.//a hail,
 
 kkdg o!r=thing that take off A.//a wear,
 
+kofb o!r=thing that is superior than A.//a inferior,,d 2025.11.9.11.
+
 }k.a
 
-k.b{
+▶k.b{
 
 }k.b
 
-k.c{
+▶k.c{
 
 kkbb s!v=evidence that A2 is A1.//c express,that A2 is A1,true,whether,.
 
@@ -3153,8 +3400,6 @@ kkkg o!r=thing that is narrower than A.//c meter2,less,
 kidb o,o!r=thing that inhale A into B.//c cause,go,ac,inside,Ath subject,
 
 kicb o!r=thing that suck A.//c inhale,inside,
-
-kiod o!r=thing that put A into mouth of myself.//c inhale,food,,n bite,
 
 koog o!r=thing that is dumber than A.//c iq, less,,m stupid,
 
@@ -3180,23 +3425,11 @@ klad !r=function.//c KD,AD,
 
 }k.c
 
-k.n{
-
-klda !r=point.//n shape,
-
-kjhg !t=night.//n evening,
-
-knda !r=befind.//n left,
-
-kkba n!r=A metet^2.//n meter,
-
-koea n!t=A year.//n month,
-
-kkba !r=A meter2.//n meter,
+▶k.n{
 
 }k.n
 
-k.r{
+▶k.r{
 
 ka c o!p=[A1, A2,].
 
@@ -3204,7 +3437,7 @@ kb o!r=thing that express A.
 
 kc n-int...,o:1p=thing that tell C to B.
 
-kd c o!n=f(A1, A2, A3,).
+kd <c o>, c s!n=f(A1, A2, A3,){B}.//e for make function.
 
 kg o!n=thing that is less than A.//A>
 
@@ -3216,9 +3449,7 @@ kojb n!r=iq A.
 
 }k.r
 
-k.s{
-
-kndd !r=south.//s behind,
+▶k.s{
 
 knjb !r=off.//s die,
 
@@ -3232,9 +3463,9 @@ knjb o!r=thing that is connect to A.//s communicate,
 
 }k
 
-l{
+▶l{
 
-l.a{
+▶l.a{
 
 le o!p=thing that will be A.//a was,
 
@@ -3244,13 +3475,15 @@ lmfb o-o!r=thing that unefficiently become A than B.//a efficient,
 
 lohc n!r=full.//a empty,
 
+lkmg o!r=thing that violate A.//a obey,,d 2025.11.6.22.51.35.
+
 }l.a
 
-l.b{
+▶l.b{
 
 }l.b
 
-l.c{
+▶l.c{
 
 lf s!r=thing that believe that A2 is A1.//c know,as,true,whether,, believe is thing that know whether as true.
 
@@ -3286,7 +3519,7 @@ llbb o!r=thing that research A.//c intend,know,true,
 
 lnod o!r=thing that ability to be A.
 
-llemjc !r=biomimicry.//c imitate, nature,
+llee !r=biomimicry.//c imitate, nature,
 
 lmld !r=free.//c right to,what,intend,,m liberty,,e free as in freedom.
 
@@ -3294,27 +3527,21 @@ lmng n!r=dignity.//c right to,what,repect,
 
 llec o!r=thing that count A.//c research,quantity,
 
+lkma !r=god.//c can,all,,u 2025.11.6.9.29.16.
+
 }l.c
 
-l.n{
-
-llda !r=line.//n point,
-
-lnda !r=right.//n behind,
-
-lkba n!r=A meter^3.//n meter^2,
-
-liod o,n!r=thing that chew A.//n inhale food,
+▶l.n{
 
 }l.n
 
-l.p{
+▶l.p{
 
 lmle o,n!r=thing that feel A is fun.//p haha people,
 
 }l.p
 
-l.r{
+▶l.r{
 
 la efficientmath!n=effiently explain math expression.
 
@@ -3330,9 +3557,7 @@ lh !n=one.
 
 }l.r
 
-l.s{
-
-lndd !r=east.//s right,
+▶l.s{
 
 lkda o!p=thing that has right to be A.//s can,
 
@@ -3350,9 +3575,9 @@ lnib s!r=thing that sure that A2 is A1.//s belive,
 
 }l
 
-m{
+▶m{
 
-m.a{
+▶m.a{
 
 mkfg o!r=thing whose A is friend.//a enemy,,s love,
 
@@ -3370,17 +3595,17 @@ mkgg s!r=thing that allow that A2 is A1.//a reject,
 
 }m.a
 
-m.b{
+▶m.b{
 
 }m.b
 
-m.c{
+▶m.c{
 
 md o!p=thing that become A.//c becoming,ph,
 
 mf o-o!p=intersection of A and B,//c A that is B,part,part,
 
-midd o,n!r=thing that enjoy be A.//c pleasure,A that is B,self,.
+mkdd o,n!r=thing that enjoy be A.//c pleasure,self,,u 2025.11.5
 
 mnmf c o!p=c intersecrion.//c intersection,intersection,.
 
@@ -3394,7 +3619,7 @@ mkne o,n!r=thing that wonder about A.//c hope,know,
 
 mkpf o,n!r=thing that want to sex with A.//c hope,sex.
 
-mkod o,n!r=thing that feel A is delicious.//c pleasure,food.
+mkod o,n!r=thing that feel A is delicious.//c pleasure,food. u 2025.11.5.
 
 mlkg !r=decreasing.//c become,less,.
 
@@ -3409,8 +3634,6 @@ mkoa !r=we.//c friend,i,
 mkka n!r=thing that is hungry.//c hope,eat,
 
 midg !t=always.//c all,time,.
-
-mlna !r=created.//c become,exist,
 
 mkgb o,n!r=thing that is proud of A.//c hope,teach,
 
@@ -3444,23 +3667,19 @@ mlmkid !r=lady.//c girl,like,
 
 mofb o!r=thing that is older than A.//a young,
 
-mkcb n!r=introvert.//c like,inside,
+mkcb n!r=introvert.//c like,inside,,.u 2025.11.4. 
 
-mijb o,o,o!r=∫ B -> C A.//c all,between,,e Integral symbol.
+mijb o,o,o!r=∫ B -> C A.//c all,between,,.d 2025e Integral symbol.
+
+mlna !r=occur.//c become, exist,,d 2025.11.5.
 
 }m.c
 
-m.n{
-
-mlda !r=triangle.//n line,
-
-mnda !r=top.//n right,
-
-mlgd o,n!r=thing that swallows A.//n chew,
+▶m.n{
 
 }m.n
 
-m.r{
+▶m.r{
 
 ma o!p=all A.//m every,mb t-o!2p=thing that be B when A.
 
@@ -3482,7 +3701,7 @@ mnga n!r=sharpness.
 
 }m.r
 
-m.s{
+▶m.s{
 
 mkcd o,n!r=thing that feel pleasure about A.//s love
 
@@ -3492,9 +3711,9 @@ mkjd o,n!r=thing that feels comfortable be A.//s love,
 
 mkgd o,n!r=thing that feel A is beauty.//s love,
 
-mkmd o,n!r=thing whose A is safe.//s love,
+mked o,n!r=what A safe for.//s love,
 
-mkdd o,n!r=thing that think that feel that A is cute.//s love,
+mkmd o,n!r=thing that think that feel that A is cute.//s love,,u 2025.11.6.14.30
 
 mkod o,n!r=thing that resfect A.//s love,
 
@@ -3518,9 +3737,9 @@ mjdd !r=head.//s nucleus,
 
 }m
 
-n{
+▶n{
 
-n.a{
+▶n.a{
 
 nofb o!r=thing that is manier than A.//a fewer,
 
@@ -3538,11 +3757,11 @@ njcg !r=trash.//a tool,
 
 }n.a
 
-n.b{
+▶n.b{
 
 }n.b
 
-n.c{
+▶n.c{
 
 nd o!r=thing that call A.//c command,sense,Ath subject,.
 
@@ -3560,19 +3779,15 @@ nngg !r=planet.//c revolve, star,,d 23.10.2025. r planet revolves star.
 
 nnmc !r=earth.//c planet, good,,d 3.11.2025.
 
+nnid !r=gather.//c around,each other,
+
 }n.c
 
-n.n{
-
-nlda !r=square.//n triangle,
-
-nnda !r=bottom.//n top,
-
-niod o,n!r=thing that glup down A.//n swallow,
+▶n.n{
 
 }n.n
 
-n.r{
+▶n.r{
 
 na !r=exist or fact.
 
@@ -3600,7 +3815,7 @@ nnca o!r=thing that toward A.//s point,
 
 }n.r
 
-n.s{
+▶n.s{
 
 nida !r=world.//s exist,
 
@@ -3608,15 +3823,13 @@ nica !r=part of reality.//s exist,
 
 niea !r=universe.//s exist,
 
-nidd !r=god.//s world,
-
 }n.s
 
 }n
 
-o{
+▶o{
 
-o.a{
+▶o.a{
 
 ooee !r=false.//a true,.
 
@@ -3624,15 +3837,15 @@ lpfb o!r=thing that stronger than A.//a weaker,
 
 omfb o!r=thing that is more flexible than A.//a inflexible,
 
-ojgc !r=peace.//a fight,
+ojgc !r=thing that is in a peaceful relationship with A.//a fight,
 
 }o.a
 
-o.b{
+▶o.b{
 
 }o.b
 
-o.c{
+▶o.c{
 
 oc s,o!p=thing that is B despite A2 being A1.//c inverse,situation that a2 is a1,, m but, even,.
 
@@ -3644,11 +3857,11 @@ oihg !t=time part of today.//c this,day,.
 
 oljd o,n!r=thing that mind A.//c intend,imagine,
 
-ondb !r=thing that come.//c go,Ath subject,
+ondb !r=thing that come.//c move,Ath subject,
 
 oidf o,n!r=thing that feel that A is noisy.//c suffer,listen,.
 
-oncb o!r=thing that enter into A.//c go,inside,, this word mean to go inside,,
+oncb o,o!r=thing that enter into A from B.//c move,inside,, this word mean to go inside,,
 
 olgc o-n!r=thing that is for A.//c for being, benefical,.
 
@@ -3668,21 +3881,17 @@ olod !r=meat.//c food,animal,,r food that is part of animal.
 
 }o.c
 
-o.n{
-
-olda !r=pentagon.//n square,
-
-oiod o,n!r=thing that digest A.//n swallows,
+▶o.n{
 
 }o.n
 
-o.r{
+▶o.r{
 
 oa o!p=this A.
 
 ob <o,o>-n!2p=B that is with A.
 
-of o!r=thing that go A.
+of o!r=thing that move from B to A.
 
 og o-o!n=A square B.
 
@@ -3700,7 +3909,7 @@ okkb !r=insect.
 
 }o.r
 
-o.s{
+▶o.s{
 
 olga o!r=thing that for being A.//s intend,
 
@@ -3712,9 +3921,9 @@ oiob o,o,n!p=thing whose A is important for being B.//s need,
 
 }o
 
-p{
+▶p{
 
-p.a{
+▶p.a{
 
 pljd !r=child.//a parent,,word child can be used as young people but this word mean only organism that parent made.
 
@@ -3722,21 +3931,17 @@ pjce o!r=thing that fly on A.//a walk,
 
 }p.a
 
-p.b{
+▶p.b{
 
 }p.b
 
-p.c{
+▶p.c{
 
 pkdd !r=fruit.//c child,tree,,r what tree make.
 
 }p.c
 
-p.n{
-
-plda !r=hexagon.//n pentagon,
-
-piod !r=shit.//n digest,
+▶p.n{
 
 }p.n
 
@@ -3783,50 +3988,6 @@ pmfa o!p=most A.//s average,
 }p
 
 //eewo
-
-▶orther{
-
-many is first.
-
-aiba !r=elementary particle.
-
-aiba !r=none.
-
-ciba !r=photon.
-
-~bjba
-
-▶color{
-
-rrggbb.
-
-aipa !r=black.
-
-dipa !r=red.
-
-mipa !r=green.
-
-alpa !r=blue.
-
-pipa !r=yellow.
-
-plpa !r=white.
-
-lkpa !r=pig pink.
-
-lipa !r=orange.
-
-kkpa !r=gray.
-
-bkpa !r=purple.
-
-nlpa !r=mint.
-
-gipa !r=brown.
-
-}color
-
-}orther
 
 }word dictionary
 
@@ -3892,13 +4053,23 @@ gp- =As.
 
 ▶id dictionary{
 
-cast{
+▶cast{
 
 ▶english{
 
 b=space,
 
 }english
+
+▶Sheet music{
+
+d 2025.11.5.9.4.
+
+}Sheet music
+
+▶efficientexplainmath{
+
+}efficientexplainmath
 
 }id dictionary
 
