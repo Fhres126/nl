@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Converter</title>
+    <style>
+        body {
+            background-color: #000000;
+            justify-content: center;
+            align-items: center;
+            width:100vw;
+            height: 1000vh;
+            margin: 0;
+            position: absolute;
+        }
+        *{
+            color: #84c5d1;
+        }
+        
+    </style>
+</head>
+<body>
+    <script>
+      
+      let width=window.innerWidth;
+      
+      let height=window.innerHeight;
+      
+      let outwidth=window.outerWidth;
+      
+      let outheight=window.outerHeight;
+      
+      
+      
+      let title=document.createElement('div');
+      
+      let textarea=document.createElement('textarea');
+      
+      let convertbutton=document.createElement('button');
+      
+      let inversecolor=document.createElement('button');
+      
+      let fillbackground=document.createElement('button');
+      
+      let txtforadjustsizeofquietzone=document.createElement('div');
+      
+      let txtquietzone=document.createElement('div');
+      
+      let adjustsizeofquietzone=document.createElement("input");
+      
+      let txtimagequality=document.createElement('div');
+      
+      let adjustimagequality=document.createElement('input');
+      
+      let nlqr1button=document.createElement('button');
+      
+      let nlqr1canvas=document.createElement('canvas');
+      
+      let nlqr2button=document.createElement('button');
+      
+      let nlqr2canvas=document.createElement('canvas');
+      
+      let nlqr3button=document.createElement('button');
+      
+      let nlqr3canvas=document.createElement('canvas');
+      
+      let nlmorsebutton=document.createElement('button');
+      
+      let nlmorsefield=document.createElement('textarea');
+      
+      let nlbraillebutton=document.createElement('button');
+      
+      let nlbraillecanvas=document.createElement('canvas');
+      
+      let cellsize=10;
+      
+      let biggerline, smallerline;
+      
+      let whetherinversecolor=false;
+      
+      let whetherfillbackground=false;
+      
+      let whetherconverted=false;
+      
+      let printedwidthcellsize;
+      
+      let printedheightsize;
+      
+      let shellratio=0.1;
+      
+      let ratiowidthshell=0.1;
+      
+      let ratioheightshell;
+      
+      let nlqr2length=8;
+      
+      let whethercomfortablyreadnlqr2=false;
+      
+      let lineratio=60;
+      
+      let nlqr1txt=``;
+      
+      let nlqr2txt=``;
+      
+      let ratioprinted=1-2*shellratio;
+      
+      
+      if(width>height){
+        biggerline=width;
+        smallerline=height;
+      }else{
+        biggerline=height;
+        smallerline=width;
+        
+      }
+      
+      
+      
+      
+      
+      
+      title.textContent='tool that convert pmag into NL QR1, NL QR2, NL QR3, NL morse, NL braille, NL sign.';
+      
+      
+      
+      
+      
+      
+      textarea.placeholder='type in here';
+      
+      
+      
+      
+      convertbutton.textContent='convert';
+      
+      convertbutton.onclick=convert;
+      
+      
+      
+      
+      
+      inversecolor.textContent=`inverse color`;
+      
+      inversecolor.onclick=()=>{
+        if(whetherfillbackground){
+          if(whetherinversecolor){
+            whetherinversecolor=false;
+            inversecolor.textContent=`inverse color`;
+          }else{
+            whetherinversecolor=true;
+            inversecolor.textContent=`original color`;
+          }
+        }else{
+          alert(`plz Make the background non-transparent by click button below`)
+        }
+        
+        
+      }
+      
+      
+      
+      
+      
+      fillbackground.textContent=`Make the background non-transparent`;
+      
+      fillbackground.onclick=()=>{
+        if(whetherfillbackground){
+          whetherfillbackground=false;
+          fillbackground.textContent=`Make the background non-transparent`;
+        }else{
+          whetherfillbackground=true;
+          fillbackground.textContent=`Make the background transparent`;
+          
+        }
+      }
+      
+      
+      
+      
+      txtimagequality.textContent=`quailty of image is ${cellsize}. 10 is recommended`;
+      
+      adjustimagequality.type=`range`;
+      
+      adjustimagequality.min=1;
+      
+      adjustimagequality.max=31;
+      
+      adjustimagequality.value=10;
+      
+      
+      
+      
+      
+      
+      adjustsizeofquietzone.type = "range";
+      
+      adjustsizeofquietzone.min = 0;
+      
+      adjustsizeofquietzone.max = 0.5;
+      
+      adjustsizeofquietzone.value = 0.1;
+      
+      adjustsizeofquietzone.step=0.05;
+      
+      txtquietzone.textContent=`⬇ ratio of quiet zone is ${shellratio}.(0.2 is recommended)`;
+      
+      
+      
+      
+      
+      nlqr1button.textContent=`⬇ download NL QR1`;
+      
+      nlqr1button.onclick=()=>{download('nlqr1')};
+      
+      
+      
+      nlqr2button.textContent=`⬇ download NL QR2`;
+      
+      
+      
+      
+      setsize();
+      
+      
+      
+      window.addEventListener('resize', function(){
+        //setsize();
+      });
+      
+      adjustsizeofquietzone.addEventListener('input', function(){
+        
+        shellratio=parseFloat(adjustsizeofquietzone.value);
+        
+        txtquietzone.textContent=`⬇ size of quiet zone is ${shellratio}.(0.2 is recommended)`;
+        
+      })
+      
+      
+      adjustimagequality.addEventListener('input', function(){
+        
+        cellsize=parseInt(adjustimagequality.value);
+        
+        
+        txtimagequality.textContent=`quailty of image is ${cellsize}. 10 is recommended`;
+        
+      })
+      
+      
+      
+      
+      
+      
+      function setsize(){
+        
+        
+        
+        title.style=`top:0px;left:0vw;font-size:${height/20}px;position:absolute;`;
+        
+        document.body.appendChild(title);
+
+          textarea.style=`width:100vw; height:${smallerline/5}px;top:${title.offsetTop +title.offsetHeight}px;left:0vw; background-color: #333333;box-sizing: border-box;position: absolute;font-size:${smallerline/20}px;`;
+          
+          document.body.appendChild(textarea);
+      
+          convertbutton.style=`left:0px; top:${textarea.offsetTop + textarea.offsetHeight}px; background-color: #242f5d;border: ${smallerline/500}px solid red;padding: 3px 3px;border-radius: 4px;cursor: pointer;font-size:${smallerline/7}px;position: absolute;`;
+          
+          document.body.appendChild(convertbutton);
+        
+          inversecolor.style=`left:0px; top:${convertbutton.offsetTop+convertbutton.offsetHeight}px; background-color: #242f5d;border: ${smallerline/500}px solid red;padding: 3px 3px;border-radius: 4px;cursor: pointer;font-size:${smallerline/15}px;position: absolute;`;
+          
+          document.body.appendChild(inversecolor);
+        
+          fillbackground.style=` top:${inversecolor.offsetTop+inversecolor.offsetHeight}px; background-color: #242f5d;border: ${smallerline/500}px solid red;padding: 3px 3px;border-radius: 4px;cursor: pointer;font-size: ${smallerline/15}px;position: absolute;`;
+          
+          document.body.appendChild(fillbackground);
+          
+          txtimagequality.style=`top:${fillbackground.offsetTop+fillbackground.offsetHeight}px; border: ${smallerline/500}px solid red;padding: 3px 3px;border-radius: 4px;cursor: pointer;font-size: ${smallerline/15}px;position: absolute;`;
+          
+          document.body.appendChild(txtimagequality);
+          
+          adjustimagequality.style=`width:${width}px;height:${smallerline/15}px;left:0px;left:0px; top:${txtimagequality.offsetTop+txtimagequality.offsetHeight}px;position: absolute;`;
+          
+          document.body.appendChild(adjustimagequality);
+          
+          txtquietzone.style=`top:${adjustimagequality.offsetTop+adjustimagequality.offsetHeight}px; border: ${smallerline/500}px solid red;padding: 3px 3px;border-radius: 4px;cursor: pointer;font-size: ${smallerline/15}px;position: absolute;`;
+          
+          document.body.appendChild(txtquietzone);
+          
+          adjustsizeofquietzone.style=`width:${width}px;height:${smallerline/15}px;left:0px;left:0px; top:${txtquietzone.offsetTop+txtquietzone.offsetHeight}px;position: absolute;`;
+          
+          document.body.appendChild(adjustsizeofquietzone);
+          
+          
+          
+          if(whetherconverted){
+          
+            nlqr1button.style=`left:0px; top:${height}px; background-color: #242f5d;border: ${smallerline/500}px solid red;padding: 3px 3px;border-radius: 4px;cursor: pointer;font-size: ${smallerline/15}px;position: absolute;`;
+            
+            document.body.appendChild(nlqr1button);
+            
+            nlqr1canvas.style=`width:${smallerline}px; height:${lineratio*smallerline/nlqr1txt.length}px;left:0px;top:${nlqr1button.offsetHeight+nlqr1button.offsetTop}px; position:absolute;border: ${height/500}px solid red;image-rendering: pixellated;image-rendering: crisp-edges;`;
+            
+            document.body.appendChild(nlqr1canvas);
+            
+            nlqr2button.style=`left:0px; top:${nlqr1canvas.offsetTop+nlqr1canvas.offsetHeight}px; background-color: #242f5d;border: ${smallerline/500}px solid red;padding: 3px 3px;border-radius: 4px;cursor: pointer;font-size: ${smallerline/15}px;position: absolute;`;
+            
+            document.body.appendChild(nlqr2button);
+            
+                
+            nlqr2canvas.style=`width:${smallerline}px; height:${smallerline * (nlqr2canvas.height / nlqr2canvas.width)}px;left:0px;top:${nlqr2button.offsetHeight+nlqr2button.offsetTop}px; position:absolute;border: ${height/500}px solid red;image-rendering: pixellated;image-rendering: crisp-edges;`;
+            
+            document.body.appendChild(nlqr2canvas);
+            
+          }
+        
+      }
+      
+      
+      
+      
+      function convert(){
+        
+        if(!whetherconverted){
+          window.scrollTo({
+            top: height,
+            behavior: 'smooth'
+          });
+        }
+        
+        
+        let inputedtxt=textarea.value;
+        
+        whetherconverted=true;
+        
+        setsize();
+        
+        
+        if(!whethernl(inputedtxt)){
+          alert('it seems not nl sentence plz input letter correctly');
+          return false;
+        }
+        
+        let convertedtxt=convertintobinary(inputedtxt);
+        
+        makenlqr1(convertedtxt);
+        
+        makenlqr2(convertedtxt);
+        
+        setsize()
+        
+        
+      }
+      
+      
+      
+      function whethernl(p){
+        if(/^[01a-p]/.test(p)&&convertintobinary(p).length%8==0){
+          return true;
+        }else{
+          return false;
+        }
+        
+      }
+      
+      
+      
+      function convertintobinary(p) {
+          return p.replace(/a/g, '0000')
+            .replace(/b/g, '1000')
+            .replace(/c/g, '0100')
+            .replace(/d/g, '1100')
+            .replace(/e/g, '0010')
+            .replace(/f/g, '1010')
+            .replace(/g/g, '0110')
+            .replace(/h/g, '1110')
+            .replace(/i/g, '0001')
+            .replace(/j/g, '1001')
+            .replace(/k/g, '0101')
+            .replace(/l/g, '1101')
+            .replace(/m/g, '0011')
+            .replace(/n/g, '1011')
+            .replace(/o/g, '0111').
+            replace(/p/g, '1111');
+      }
+      
+      function convertintoletter(p){
+        
+      }
+      
+      function makenlqr1(p){
+      
+        nlqr1txt='10'+p;
+        
+        if(!(nlqr1txt.replace(/0+$/g, '').slice(-2) == '11')){
+          nlqr1txt += '11';
+        }
+        
+        
+        
+        let nlqr1ctx=nlqr1canvas.getContext('2d');
+        
+        
+        let smallerlinenlqr1;
+        
+        if(parseInt(nlqr1canvas.width)>parseInt(nlqr1canvas.height)){
+          
+          smallerlinenlqr1=parseInt(nlqr1canvas.height);
+        }else{
+          smallerlinenlqr1=parseInt(nlqr1canvas.width);
+          
+        }
+        
+     
+     
+     
+     
+        let shortercellnlqr1;
+        
+        if(nlqr1txt>lineratio){
+          shortercellnlqr1=cellsize*lineratio;
+        }else{
+          shortercellnlqr1=cellsize*nlqr1txt;
+        }
+        
+        shellsize = shellratio * shortercellnlqr1;
+     
+        nlqr1canvas.width= cellsize * nlqr1txt.length + shellsize*2;
+        
+        nlqr1canvas.height=lineratio*cellsize + shellsize * 2;
+        
+     
+        
+        
+        
+        
+        
+        
+        
+        nlqr1ctx.clearRect(0,0,nlqr1canvas.width, nlqr1canvas.height);
+        
+        if(whetherfillbackground){
+          if(whetherinversecolor){
+            nlqr1ctx.fillStyle=`#FFFFFF`;
+          }else{
+            nlqr1ctx.fillStyle=`#000000`;
+          }
+          nlqr1ctx.fillRect(0,0,nlqr1canvas.width,nlqr1canvas.height);
+        }
+        
+        
+        for(let i=0;i<nlqr1txt.length;i++){
+          if(nlqr1txt[i]=='1'){
+            if(whetherinversecolor){
+              nlqr1ctx.fillStyle='#000000';
+            }else{
+              nlqr1ctx.fillStyle='#ffffff';
+            }
+            
+          
+            nlqr1ctx.fillRect(shellsize + i * cellsize, shellsize + cellsize, cellsize, cellsize * lineratio);
+          
+          }
+          
+            
+          
+        }
+        
+        setsize();
+        
+      }
+      
+      function makenlqr2(p){
+        
+        let nlqr2ctx=nlqr2canvas.getContext('2d');
+        
+        
+        if(whethercomfortablyreadnlqr2){
+          
+          if(nlqr2length>8){
+            nlqr2txt='10111'+'0'.repeat(nlqr2length-7)+'11' +p;
+            
+          }else{
+            nlqr2txt='10100001'+p;
+          }
+        }else{
+          if(nlqr2length>8){
+            nlqr2txt='1011'+"0".repeat(nlqr2length-6)+'11'+p;
+          }else{
+            nlqr2txt='10000011'+p;
+          }
+          
+        }
+        
+        
+        let shortercellnlqr2;
+        
+        if(nlqr2txt.length/nlqr2length>nlqr2length){
+          shortercellnlqr2=nlqr2length;
+        }else{
+          shortercellnlqr2=nlqr2txt.length/nlqr2length;
+        }
+        
+        let shellsize=shellratio * cellsize * shortercellnlqr2;
+        
+        
+        nlqr2canvas.width=parseInt(Math.ceil(nlqr2txt.length/nlqr2length)*cellsize + (shortercellnlqr2 * cellsize * shellratio * 2));
+        
+        nlqr2canvas.height=nlqr2length * cellsize + shellsize * 2;
+        
+        let nlqr2smallerline;
+        
+        if(nlqr2canvas.width>nlqr2canvas.height){
+          nlqr2smallerline=parseInt(nlqr2canvas.height);
+        }else{
+          nlqr2smallerline=parseInt(nlqr2canvas.width);
+        }
+        
+        
+        nlqr2ctx.clearRect(0,0,nlqr2canvas.width, nlqr2canvas.height);
+        
+        if(whetherfillbackground){
+          if(whetherinversecolor){
+            nlqr2ctx.fillStyle='#ffffff';
+            nlqr2ctx.fillRect(0,0,nlqr2canvas.width,nlqr2canvas.height);
+          }else{
+            nlqr2ctx.fillStyle='#000000';
+            nlqr2ctx.fillRect(0,0,nlqr2canvas.width,nlqr2canvas.height);
+          }
+        }
+        
+        for(let i=0;i<nlqr2txt.length;i++){
+          
+          if(nlqr2txt[i]=='1'){
+            
+            if(whetherinversecolor){
+              nlqr2ctx.fillStyle='#000000';
+            }else{
+              nlqr2ctx.fillStyle='#ffffff';
+            }
+            
+            
+            nlqr2ctx.fillRect(shellsize + Math.floor(i / nlqr2length) * cellsize, nlqr2canvas.height - shellsize - ((i%nlqr2length) * cellsize) - cellsize, cellsize, cellsize);
+            
+          }
+        }
+        
+      }
+      
+      function download(p){
+        switch(p){
+          case 'nlqr1':
+            
+            let imageurl = nlqr1canvas.toDataURL('image/png');
+            
+            let link = document.createElement('a');
+            
+            link.href=imageurl;
+            link.download='nlqr1.png';
+            document.body.appendChild(link)
+            link.click();
+            document.body.removeChild(link)
+            
+          break;
+          
+        }
+        
+        
+      }
+      
+        
+    </script>
+</body>
+</html>
