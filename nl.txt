@@ -1,28 +1,18 @@
 If you view this document in portrait mode, it will be more convenient because you can see more text at once.
 
-This PDF doesn't repeat what's already said, so you need to read it in detail to understand.
-
-If you don't like this document, then give me feedback or revisit it after one month. That issue can be fixed.
-
-All feedback is welcome.
-
-Our chat room: https://discord.gg/VhHBjXbpkz
-
-YouTube(if you have quesion): https://youtube.com/@normallanguage?si=4E6OEKgSuZa9OJAj
-
 ▶norlang{
 
 This artificial language is called Norlang (Normal Language) in English.
 
 ▶Persuasion{
 
-summary: norlang is easy and most efficient and logical and unambigious binary language that can express all meaning so it can easily be converted into morse code and QR code and barcode and braille and sign language so it help all communiciation. this language have lot of advantages so it can become International Auxiliary Language. norlang reduces environmental pollution.
+summary: norlang is easy and most efficient and logical and unambigious binary language that can express all meaning so it can easily be converted into morse code and QR code and barcode and braille and sign language so it help all communiciation. this language have lot of advantages so it can become International Auxiliary Language. this language reduces environmental pollution.
 
 most words are not randomly made.
 
 lot of words is compound words.
 
-eg word 'hnmc' mean music.(norlang use phonetic script but norlang is pronounced differently from english and it is easy to pronounce.)
+eg word 'hnmc' mean music.(this language use phonetic script but this language is pronounced differently from english and it is easy to pronounce.)
 
 word 'hnmc' is compound word of sound and pleasure.
 
@@ -40,7 +30,7 @@ eg bihd mean hydrogen(Atomic number 1). cihd mean helium(Atomic number 2). dihd 
 
 so it help technology grow cuz it make science easy.
 
-Word that have similar meanings consist of similar letters.
+Words used in similar situations or words with similar meanings are made of similar letters
 
 eg mkfd mean love. mkid mean like. mkcd mean pleasure so you can easily guess the meaning of abbreviation you see for the first time.
 
@@ -54,31 +44,35 @@ the bits is reversed.(8n-th bit didnt reversed since it play role of whitespace 
 
 length of most words are short.(2~4letters) so you can easily remember words.
 
-grammar is simplest and very logical and consistent so norlang can be used in programming.
+grammar is simplest and very logical and consistent so this language can be used in programming.
 
 eg javascript code 'var gh=1==2;
 console.log(gh);' is expressed as 'ja lh nh gh
 elba gh'. grammar didnt be changed.
 
+the programming language is called 'pmfa'.
+
+Other programming languages have limits. For example, C++ cannot represent numbers beyond a certain size, but pmfa can represent all number.
+
 if you learn a little grammar, then you can explain every meaning, regardless of your native language.
 
-norlang dont have slang.
+this language dont have slang.
 
-norlang dont have all ambigous.
+this language dont have all ambigous.
 
 eg in english, "A of B and C" can be interpreted as "(A of B) and C" and "A of (B and C)".
 
-but in norlang, "be af A B C" means only "(A of B) and C".
+but in this language, "be af A B C" means only "(A of B) and C".
 
-'af A be B C' means only 'A of (B and C)'.(it is like profix notation)
+'af A be B C' means only 'A of (B and C)'.(it is like profix notation. profix notation have lot of advanrage. eg it dont need all parentheses)
 
 word think have three meaning it is imagine and beilive and ponder so word for think is not exist in this language.
 
 unambigous is very good for language cuz it make efficient cuz it doesn't need any additional explanation or images to explain exactly.
 
-Norlang doesn't have exceptions.
+this language doesn't have exceptions.
 
-norlang version of barcodes is exist and it is called NL QR1.
+this language version of barcodes is exist and it is called NL QR1.
 
 NL QR1 is most efficient 1D code.
 
@@ -86,7 +80,7 @@ it is usually four times more efficient than barcode.
 
 barcode use 145cell to mention 'i am person' but NL QR1 use 28cell.
 
-norlang version of QR code is exist and it is called NL QR2.
+this language version of QR code is exist and it is called NL QR2.
 
 NL QR2 is most efficient 2D code.
 
@@ -96,19 +90,19 @@ eg QR code use 441cell to mention 'i am person' but NL QR2 use 32cell.
 
 NL QR mean NL QR1, NL QR2, NL QR3.
 
-meaning of NL QR is Not affected by direction, like a QR code.
+meaning of all NL QR is Not affected by direction, like a QR code.
 
 NL QR3 is most efficient code.
 
 NL QR can help cheating in exam because it is human-readble. it takes up little space and most people won't think of it as a language, so it won't get caught.
 
-norlang version of morse code is exist and it is called NL morse.
+this language version of morse code is exist and it is called NL morse.
 
 NL Morse is usually two times more efficient than Morse code.
 
 morse code cant explain mathmatical expression but NL morse can express all meaning.
 
-norlang version of braille is exist and it is called NL braille.
+this language version of braille is exist and it is called NL braille.
 
 NL braille is usually 1.5 times more efficient than braille.
 
@@ -116,44 +110,58 @@ original Braille is ambigious cuz meaning of original braille depending on direc
 
 Sign language is difficult or inefficient for expressing new words or slang but this language is not.
 
-norlang is a binary language so it can easily be converted into NL QR and NL morse and NL braille and sign language and minecraft language and etc and you can learn it easily so you can do many things by learning this language so person who learn this language can easily communicate with the blind and the deaf.
+this language is a binary language so it can easily be converted into NL QR and NL morse and NL braille and sign language and minecraft language and etc and you can learn it easily so you can do many things by learning this language so person who learn this language can easily communicate with the blind and the deaf.
 
-norlang is usually three times more efficient than English.
+this language is usually three times more efficient than English.
 
-eg 'i know you' in Norlang is 'lbbd'.
+eg 'i know you' in this language is 'lbbd'.
 
 English is 80 bits (in ASCII code).
 
-Norlang is 16 bits cuz one letter is 4 bits.
+this language is 16 bits cuz one letter is 4 bits.
 
-one letter is 8bit in ascii code but norlang can express all meaning using binary.
+one letter is 8bit in ascii code but this language can express all meaning using binary.
 
-letter is used for expressing binary and norlang use only binary so it is 4bit.
+letter is used for expressing binary and this language can express all}meaning using only binary so it is 4bit.
 
-The prevention of environmental pollution through norlang is enormous scale.
+The prevention of environmental pollution through this language is enormous scale.
 
-most data in world is video data but if someone speak in norlang, the someone dont need to speak for long time so video become short.
+most data in world is video data but if someone speak in this language, the someone dont need to speak for long time so video become short.
 
-A sentence that takes 10 seconds to say in English can be said in just 5 seconds in Norlang.
+A sentence that takes 10 seconds to say in English can be said in just 5 seconds in this language.
 
-norlang is very consistent so polution by AI and LLM will be reduced.
+this language is very consistent so polution by AI and LLM will be reduced.
 
-norlang dont have homonyms and synonyms.
+this language dont have homonyms and synonyms.
 
-keyboard that is for norlang is easy to type cuz it has only 2~16letter.
+keyboard that is for this language is easy to type cuz it has only 2~16letter.
 
 this language can be unambiguous interpreted without whitespace so it deosnt need hassle mark eg whitespace and hyphen.
 
 
-norlang can be International Auxiliary Language cuz it is needed to reduce environaltal pollution and make easy communicafion between disabled people and non-disabled people and support efficient communiciation.
+this language can and must be International Auxiliary Language cuz it is needed to reduce environaltal pollution and make easy communicafion between disabled people and non-disabled people and support efficient communiciation.
 
-norlang brings easy communication and peace and helps technology grow.
+this language brings easy communication and peace and helps technology grow.
+
+person that dislike this language are just those who haven’t properly read this document.
 
 as a developer, i belive that this language is perfect so dont dislike this language before you are fluent in it.
 
 }persuasion◀
 
-this language is beta version. making this language is started in 2023year 2month.
+this language is beta version. making this language is started in 2023year 2month. if this language can become more perfect then it is changed.
+
+All feedback is welcome.
+
+Our chat room: https://discord.gg/VhHBjXbpkz
+
+YouTube: https://youtube.com/@normallanguage?si=4E6OEKgSuZa9OJAj
+
+email: fhres126@gmail.com
+
+If you don't like this document, then give me feedback or revisit it after one month. That issue can be fixed.
+
+This PDF doesn't repeat what's already said, so you need to read it in detail to understand.
 
 ▶alphabet{
 
@@ -167,7 +175,7 @@ i:0001. j:1001. k:0101. l:1101.
 
 m:0011. n:1011. o:0111. p:1111.
 
-norlang uses only lowercase letters.
+this language uses only lowercase letters.
 
 more efficient alphabet is here(only pdf user can see. bottom to top writting alphabet):
 
@@ -269,7 +277,7 @@ but i wont omit subject to make you easily understand.
 
 this grammar can express every meaning.
 
-eg 'The happy boy gives her a small book in the today and smiles.' is expressed as 'mb oihg cd gb if ab elellkkg fjmd lmle ad ab fjde mkcd'.
+eg 'The happy boy gives her a small book in the today and smiles.' is expressed as 'mb oihg cd gb if ab elellkkg nimd lmle ad ab nide mkcd'.
 
 explaing logical language using unlogical language is difficult so sometime i will use norlang to explain norlang so you should well understand so i need to use part of word dictionary to explain it so you need to know how to interpret a word dictionary.
 
@@ -588,17 +596,17 @@ You might feel that some words is weird until reading this document since you do
 
 ▶'fc anga bd oe'{
 
-free translation: 'what is people? i ask you'.
+free translation: 'what is human? i ask you'.
 
 FYR: (fc anga bd) oe.
 
 translation whose only words are translated: '(thing that ask you about people) is me'.
 
-literal translation: i am thing that ask you about people.
+literal translation: i am thing that ask you about human.
 
 fc o,o!r=thing that ask B about A.//c command, reply,
 
-anga !r=people.
+anga !r=human.
 
 bd !r=you.//a i,
 
@@ -688,7 +696,7 @@ just saying 'fc  ja  kjca oe  bd' is enough.
 
 ▶'fc  ec  gjfg  oa anga  boba'{
 
-free translation: 'how do we save this person?'.
+free translation: 'how do we save this human?'.
 
 FYR: fc (ec (gjfg (oa anga)) boba).
 
@@ -722,11 +730,11 @@ ekfb o-n!1p=how to become A.//c how,normal,
 
 }◀
 
-▶'fc  ee  de id  boba'{
+▶'fc  ee  kb id  boba'{
 
 free translation: 'when we sense each other?'.
 
-FYR: fc (ee (de id) boba).
+FYR: fc (ee (kb id) boba).
 
 translation whose only words are translated: (thing that ask you about time when thing that sense each other is we) is me'.
 
@@ -740,11 +748,11 @@ id !r=each other.//c what,interface,self,.
 
 }how to ask◀
 
-▶'kjca cf gjif olib bd fjmd oe'{
+▶'kjca cf gjif olib bd nimd oe'{
 
 free translation: 'I see her giving you food'.
 
-FYR: (kjca (cf (gjif olib bd) fjmd)) oe.
+FYR: (kjca (cf (gjif olib bd) nimd)) oe.
 
 translation whose only words are translated: '(thing that see (situation that thing that give food to you is she)) is me'.
 
@@ -758,7 +766,7 @@ gjif o,o,n!r=thing that give A to B.//c cause,have,
 
 olib !r=food.
 
-fjmd !r=she.//c the,women,.
+nimd !r=she.//c the,women,.
 
 reason why word 'give' is 'c cause,have,' is following.
 
@@ -934,15 +942,15 @@ eb o!v=thing that is not A.
 
 }◀
 
-▶'mb midg mkfd bd fjde''{
+▶'mb midg mkfd bd nide''{
 
 free translation: 'he always loves you'.
 
-FYR: (mb midg (mkfd bd)) fjde.
+FYR: (mb midg (mkfd bd)) nide.
 
 midg !t=always.//c all,time,
 
-fjde !r=he.//c the,men,
+nide !r=he.//c the,men,
 
 }◀
 
@@ -1006,17 +1014,17 @@ second omitted parameter is parameter of 'be'.
 
 }symbol that omit parameter◀
 
-▶'nnga ma bd oe' {
+▶'nlga ma bd oe' {
 
 free translation: 'hello everyone'.
 
-FYR: (nnga (ma bd)) oe.
+FYR: (nlga (ma bd)) oe.
 
 translation whose only words are translated: 'thing that greet all you is me'.
 
 literal translation: i am thing that greet all you.
 
-nnga o!r=thing that greet A.
+nlga o!r=thing that greet A.
 
 ma o!p=all A.//m all,
 
@@ -1056,7 +1064,7 @@ so it is not biased toward any specific culture.
 
 a:'m', 'oo'. b:'b', 'o'. c:'d', eo'. d:'g', 'eu'.
 
-e:'n', 'a'. f: 'l', 'e'. g:'pp', 'i'. h:'tt', 'wo'.
+e:'n', 'a'. f: 'l', 'e'. g:'f', 'i'. h:'tt', 'wo'.
 
 i:'kk', 'oom'. j:'p', 'om'. k:'t', 'eom'. l:'k', 'eum'.
 
@@ -1112,7 +1120,7 @@ There is way to express all pronunciations in norlang so dont worry.
 
 ▶'fjda anga'{
 
-free translation: the person.
+free translation: the human.
 
 fjda o!1p=the A.
 
@@ -1130,7 +1138,7 @@ If different type word like 'r' is in place of an 'n' type parameter, then 'n' i
 
 if parameter 'n' of 'cb' is omitted, it is one.
 
-eg 'cb anga' mean 'one person' or 'a person'.
+eg 'cb anga' mean 'one human' or 'a human'.
 
 'a' is not necessary.
 
@@ -1158,11 +1166,11 @@ inef !r=country.//c group,big,
 
 }◀
 
-▶'ob fjde fnjb oe'{
+▶'ob nide fnjb oe'{
 
 free translation: 'i work with he'.
 
-FYR: (ob fjde fnjb) oe.
+FYR: (ob nide fnjb) oe.
 
 translation whose only words are translated: thing that is worker with he is me.
 
@@ -1188,15 +1196,15 @@ eoof !r=vehicle.//c machine,move,
 
 }◀
 
-▶'kb ca anga oe fjde'{
+▶'lb ca anga oe nide'{
 
-free translation: he express me as person.
+free translation: he know me as human.('as' as in 'i describe me as human').
 
-FYR: (kb (ca anga oe)) fjde.
+FYR: (lb (ca anga oe)) nide.
 
-literal translation: he is thing that express me as person.
+literal translation: he is thing that know me as human.
 
-kb o!r=thing that express A.
+lb o!r=thing that know A.
 
 ca o,o!1p=B as A.
 
@@ -1274,7 +1282,7 @@ gmkg o,o!r=thing that be A quikly than B.//c using time,less,
 
 advetb word have adverb.
 
-'gmkg jokb anga ad oe' mean 'i quikly kill person'.
+'gmkg jokb anga ad oe' mean 'i quikly kill human'.
 
 some people think that this conlang is ineffcient
 
@@ -1282,7 +1290,7 @@ this conlang sentence conaist of 16letter and subject can be omitted.
 
 this english sentence consist of 20letter.(english need whitespace so including whitespace)
 
-'gmkg jokb anga bd oe' mean 'i quikly kill person tham you'.
+'gmkg jokb anga bd oe' mean 'i quikly kill human than you'.
 
 }adverb◀
 
@@ -1340,9 +1348,9 @@ word 'he' is 'ea nh'.
 
 'he mkfd bd oe' mean 'ea nh mkfd bd oe'.
 
-as for how to express person that i love.
+as for how to express human that i love.
 
-"ab anga ea mkfd oe' mean 'person that is what i love' and 'person that i love' or 'lovely person'.
+"ab anga ea mkfd oe' mean 'human that is what i love' and 'human that i love' or 'lovely human'.
 
 it is little inefficient so we can use word 'ae'.
 
@@ -1378,7 +1386,7 @@ word 'pc' is word 'pa' that target sentence.
 
 ▶comparative{
 
-▶'mkfd bd pg fjde oe'{
+▶'mkfd bd pg nide oe'{
 
 free translation: 'I love you as much as I love him'.
 
@@ -1386,19 +1394,19 @@ translation whose only words are translated:
 
 pg o!n=A that is converted into number.//c B converted into A,number,
 
-fjde !r=he.//a she,
+nide !r=he.//a she,
 
 if word that is not a numeric type is in parameter of 'pg', it automatically converted number.
 
-'pg fjde' converted into 'pg he mkfd fjda oe'.
+'pg nide' converted into 'pg he mkfd nide oe'.
 
 it tend to target number.
 
-FYR: (mkfd bd (pg fjde)) oe.
+FYR: (mkfd bd (pg nide)) oe.
 
 }◀
 
-▶'mkfd bd fh fjmd oe'{
+▶'mkfd bd fh nimd oe'{
 
 free translation: 'i love you more than she'.
 
@@ -1406,9 +1414,9 @@ translation whose only words are translated:
 
 fh o!n=thing that is more than A.//a less,
 
-fjmd !r=she.//c the,women,.
+nimd !r=she.//c the,women,.
 
-FYR: (mkfd bd (fh fjmd)) oe.
+FYR: (mkfd bd (fh nimd)) oe.
 
 }◀
 
@@ -1586,7 +1594,7 @@ If it was updated a long time ago, it's highly likely that it won't change in th
 
 }◀
 
-▶'bg n,str...!r//e this word is for expressing text.'{
+▶'eg n,str...!r//e this word is for expressing text.'{
 
 parameter int ≠ parameter str.
 
@@ -1598,9 +1606,9 @@ str that have 8n-th bit that is 1 dont become longer unlike parameter int.
 
 '...' in right of str is the quantity of parameter is determnined by number that is around.
 
-eg 'bg lh ba' is text 'ba'.
+eg 'eg lh ba' is text 'ba'.
 
-eg 'bg nh baba' is text 'baba'.
+eg 'eg nh baba' is text 'baba'.
 
 }◀
 
@@ -1660,6 +1668,10 @@ so 'oidd' is 0111 + 0000 + 11001100.
 
 8th bit become 1.
 
+it is 4bit + 4bit + 8bit.
+
+8bit + 4bit + 4bit is prohibited cuz the earlier-used word should be made with fewer bits but if quantity of bit of element word is 8 or more, then all bit dont need to be reduced.
+
 as i mentioned, 'c' can mean abbreviation.
 
 'i dislike being people' can be translated into 'dnfd ab dd anga oe'.
@@ -1687,6 +1699,16 @@ new word should make element of new word remain order of original expression so 
 why word is not antonym of love.
 
 if it is made by antonym then it is dnke so form and sound of it is similar to dfke and meaning of dfke similar to love cuz it mean thing that dread that something become victim.
+
+}◀
+
+▶loanword{
+
+loanword must have 24 or more bit.
+
+russia is pronunced as 'rosiya' in russian.
+
+rosiya -> fjpoee.
 
 }◀
 
@@ -2084,7 +2106,7 @@ plda !r=hexagon.//n pentagon,
 
 foba !r=solid.
 
-goba !r=liquid.//n gas,
+goba !r=liquid.//n solid,
 
 hoba !r=gas.//n liquid,
 
@@ -2120,6 +2142,8 @@ lnda !r=right.//n behind,
 
 mnda !r=top.//n right,
 
+nnda !r=bottom.//n top,,u 2025.11.24.11.28.
+
 }direction◀
 
 ▶direction in earth{
@@ -2138,7 +2162,7 @@ lndd !r=east.//s right,
 
 jkba n!r=A meter.//n size,
 
-kkba n!r=A metet^2.//n meter,
+kkba n!r=A meter^2.//n meter,
 
 lkba n!r=A meter^3.//n meter^2,
 
@@ -2226,11 +2250,11 @@ ab o,o!r=A that is B.////no c but intend c be,and,.
 
 ac o,o!p=A that is in B.
 
-ag int-n!n=rational number.
+ag int,n!n=rational number.
 
 ah dec-dec!n=decimal rational number.
 
-anga !r=people.
+anga !r=human.
 
 alha o!p=any A.
 
@@ -2266,17 +2290,11 @@ bpme o,o,n=thing that dont need to be A to be B.//a need to,,g OIDD AB DD EB,,
 
 ▶b.b{
 
-bmba o!r=south.//b west,
-
 }b.b◀
 
 ▶b.c{
 
 be c o!p=A1 and A2 and.//c or,most,
-
-eloa !r=information.//c code,need,
-
-eikg o!r=thing that is weaker than A.//c newton,less,
 
 bmjb c o!n=distance of between A1 and B2.//meter,between,
 
@@ -2414,6 +2432,12 @@ coif !r=box.//c tool,have,,r box is tool thing to have someting.
 
 cnbc !r=situation.//c situation that A2 is A1,BC,,u 2025.11.17.21.39.
 
+cnjc !r=context.//c situation,ralated,,d 2025.11.22.16.10,,u2025.11.27.21.25.
+
+coda o,o!r=thing that write A at B.//c text,mention,,u 2025.11.22.23.50.
+
+cocg !r=keyboard.//c tool,write,,u2025.11.17.21.25.
+
 }c.c◀
 
 ▶c.n{
@@ -2446,17 +2470,21 @@ conb !r=tool.
 
 coob !r=machine.//s tool,
 
+coga !r=text.//u 2025.11.22.23.49..d 2025.11.22.14.35.
+
 }c.r◀
 
 ▶c.s{
 
 cmda o!r=As.//s c quantity,more,two,.
 
-clpg !r=politics.//s control,
+clpg !r=politician.//s control,
 
-coda c o!r=ratio of A1 to A2 to.//s divided by,
+coba c o!r=ratio of A1 to A2 to.//s divided by,,u 2025.11.22.23.51.
 
 cida !r=color.//s photon,,d 2025.11.6.19.53...u 2025.11.20.19.49.
+
+cjca o!1p=some A.//s CB,,d2025.11.26.22.41.
 
 }c.s◀
 
@@ -2470,6 +2498,8 @@ df s,n!r=thing that dread A with B percent intensity,//a hope,
 
 dh o-o!n=A minus B.//a plus.
 
+dnce o,n!r=thing that feel A is disgusting.//a holy,
+
 dnne o,n!r=thing that feel pain about A.//a pleasure,.
 
 dnhe o,n!r=thing that dislike A.//a like,
@@ -2482,7 +2512,7 @@ dnle o,n!r=what A dangerous for.//a safe,,u 2025.11.6.14.32.
 
 dnde o,n!r=thing that is scare of A.//a cute,,u 2025.11.6.14.31.
 
-dnce o,n!r=thing that feel that A is annoying.//a intersting,
+dnee o,n!r=thing that feel that A is annoying.//a intersting,
 
 dmfb !r=increasing.//a decreasing,
 
@@ -2554,7 +2584,7 @@ dmmkid !r=gentle man.//c man,like,
 
 doee !r=doctor.//c promise,beneficial,organism,
 
-djna t!r=A old.//c remain,exist,
+djfb t!r=A old.//c remain,exist,,u 2025.11.22.10.32.
 
 djkg o!r=thing that is younger than A.//c A old, less,
 
@@ -2566,7 +2596,7 @@ dnkg !r=eugenics.//c hate, abnormal,,u 2025.11.11.6.48
 
 doed !r=antonym.//c minus, word,,d 2025.11.13.2.14.
 
-dndd o,n!r=thing that is jealous of A.//c dread, self,,d 2025.11.16.14.
+dnlh o,n!r=thing that is jealous of A.//c dread, strong,,d 2025.11.16.14.u2025.11.27.17.9.
 
 dnkg o,n!r=thing that pity A.//c dread, abnormal,,u 2025.11.18.17.7..d 2025.11.11.22.53..
 
@@ -2590,13 +2620,11 @@ doba o,o,o!r=thing that promise that B if myself is A then B becomes C.
 
 djlc o!p=thing that remain A for time A.
 
-djna !r=atom.
-
 dlee !r=tree.
 
 diba !r=electron.
 
-dida o!r=thing that mention A.//u 2025.11.21.19.40.
+dida o,o!r=thing that mention A to B.//u 2025.11.21.19.40.
 
 }d.r◀
 
@@ -2648,11 +2676,9 @@ ekhg s!r=thing that doubt A2 is A1.//a sure,
 
 ▶e.c{
 
-ec <o-o>-n!r=how B become A.//what,need to,
+ec s,n!r=how B become A.//what,need to,
 
 ee s!t=time when A2 is A1.//c what,thing that be B when A,
-
-elda o,o!r=thing that write A at B.//c letter,mention,,u 2025.11.21.19.41.
 
 enef c o!p=c by.//c by,by,.
 
@@ -2691,7 +2717,7 @@ ejkjca !r=blind.//c not,sense,photon,,r thing that can not sense photon.u 2025.1
 
 elog s,o!r=thing that denies that A2 is A1 to B.//c assert,false,
 
-ejlkpd !r=albino.//c not,can,black,,r thing cant make melanin.
+ejaipa !r=albino.//c not,black,,r thing cant make melanin.,u2025.11.27.21.23.
 
 elng !r=flag.//c symbol,image,
 
@@ -2704,8 +2730,6 @@ endc c o!r=thing that distinguish A1 and A2 and.//c depend,diffrence,,r distingu
 elajpd !r=morse code.//c code,morse,,r morse code is code that morse made.
 
 ejdf n!r=ethic.//c not,pain,.
-
-eoed !r=keyboard.//c tool,write,
 
 encb o!n=quantity of A.//c EA,NA,CB,
 
@@ -2721,7 +2745,13 @@ elfh !r=ambigious.//c mean,FH,,d 2025.11.17.23.44.
 
 elff !r=video.//c code, shift,,d 2025.11.20.21.37.
 
-elad o,o!r=thing that express A to B.//c assert, AD,,,r expressing A is maybe assert about A.,,u 2025.11.21.17.29.
+elad o,o!r=thing that express A to B.//c assert, AD,,,r expressing A is maybe assert about A..m explain,,u 2025.11.21.17.29.
+
+elfb !r=religion.//c assert, world,,d2025.11.27.20.12.
+
+eloa !r=information.//c code,need,
+
+eikg o!r=thing that is weaker than A.//c newton,less,
 
 }e.c◀
 
@@ -2779,7 +2809,7 @@ elpa !r=unit.//s code,,standard quantity used for measurement,, eg meter is a un
 
 elib !r=post.//s code,
 
-eljb !v=label.//s code,,piece of paper, fabric, or material attached to something that gives information about it,,eg the label on the bottle says "milk".
+eljb !v=label.//s code,,e piece of paper, fabric, or material attached to something that gives information about it,,eg the label on the bottle says "milk".
 
 elmb !r=language.//s code,, u 2025.11.21.19.45.
 
@@ -2831,8 +2861,6 @@ fifd o!r=thing that hail A.//c command,profit,
 
 filg o,o!r=thing that apologize to A about B.//c please,forgive,
 
-fjmd !r=she.//c the,women,.
-
 foef !r=continent.//c land,big,,u 2025.11.20.22.56
 
 fmld n!r=lucky.//c profit,not,intend,
@@ -2840,8 +2868,6 @@ fmld n!r=lucky.//c profit,not,intend,
 fofd !r=ice.//c solid,cold,
 
 flkg o!r=thing that is colder than A.//degree celsius,less,
-
-fjde !r=he.//c the,men,.
 
 fpgg !r=nipple.//c emit,milk,
 
@@ -2887,8 +2913,6 @@ fiif !r=rule.//c command,group,,d 2025.11.17.21.15.
 
 fa o,o!r=thing that command B to become A.
 
-fb n,o!=B that has id A.
-
 fd n!r=thing that gains profit.
 
  !si=continue say.
@@ -2905,6 +2929,8 @@ fjda o!p=the A.
 
 ▶f.s{
 
+fb !r=exist.//u 2025.11.22.10.32.//s true,
+
 fida o,o!r=thing that requests that B become A.//mean please,,s command,
 
 fjob n!r=normal.//s profit,,
@@ -2918,6 +2944,12 @@ foga !r=stone.//s soild,
 foob !r=land.//solid,
 
 fodd !r=ore.//s hard,
+
+fjba !r=world.//s exist,,u 2025.11.22.10.37
+
+fjga !r=reality.//s exist,,u 2025.11.22.10.37
+
+fjma !r=universe.//s exist,,u 2025.11.22.10.37.
 
 }f.s◀
 
@@ -2959,8 +2991,6 @@ gjfb o-n!r=thing that fix A.//c cause,normal,
 
 gjfe o,n!r=thing that open A.//c cause,opened,
 
-gjna o,n!r=thing that create A.//c cause,exist,
-
 gjed o,o!r=thing that define A as B.//c cause,mean,,u 2025.11.20.19.44.
 
 gjfc o!r=thing that turn on A.//c cause,on,
@@ -2997,8 +3027,6 @@ gplb o,o,n!r=thing that promote A to B.//c cause,about,know,,,,,To make people a
 
 gilb !r=math.//c number,know,,r knowledge about number.
 
-gmlb o,o!r=thing that explain A to B.//s teach,
-
 gooa !r=saliva.//c liquid,digest,,r liquid that help digest.
 
 gjjg o,o,o!r=thing that exchange C for B and received A.//c give,receive,
@@ -3025,7 +3053,7 @@ gikc !n=constant.//c number,fixed,
 
 gieb !n=euler number.//c conatant, euler,
 
-gnpc o,o!r=thing that translate B into A.//c make,PC,
+gnpe o,o!r=thing that translate B into A.//c make,PC,,u 2025.11.22.21.29.
 
 goge o,o!r=thing that convert B into A.//c cause,GE,GE,
 
@@ -3057,7 +3085,7 @@ gc s,n!r=reason why A2 is A1.
 
 gd s!t=past of A.
 
-ge <o-o>-n!p=thing that use A to become B.
+ge o,o,n!p=thing that is B using A.
 
 gg o!n=not A.//logic gate.
 
@@ -3073,7 +3101,7 @@ glba n!r=A complexity.
 
 ▶g.s{
 
-gb <o-o>-n!r=thing that cause A to become B.//s reason,
+gb o,o,n!r=thing that cause A2 to be A1.//s reason,
 
 goga !r=water.//s liquid,
 
@@ -3151,11 +3179,13 @@ hnda o!r=thing that speak A.//c sound,mention,,ori use,sound,mention,.u 2025.11.
 
 hokg o!r=thing that is quieter than A.//c decibel,less,,d 2025.11.8.11.46.
 
-hodg !r=silent.//c quite, minus most,,d 2025.11.8.11.47.
+hodg !r=silent.//c decibel, minus most,,d 2025.11.8.11.47.
 
 hmog o,o!r=log A B.//c HE,OG,, u 2025.11.15.7.51.
 
 hned !r=anthem.//c music, symbolize,,d 2025.11.15.20.10.. u 2025.11.15.20.12
+
+hkif !r=member.//c element, organization,,d2025.11.25.14.3
 
 }h.c◀
 
@@ -3175,7 +3205,7 @@ he//g what,two,.
 
 hf n,o!p=thing that similar to A.
 
-hg o-o!n=and A B.
+hg o,o!n=and A B.
 
 hh !n=y.
 
@@ -3269,6 +3299,12 @@ infa !r=program.//c group,command,,as in program in computer program.d 24.10.202
 
 inld !r=civilization.//c group, artificial,
 
+inmd !r=pregnant.//c include, baby,,d 2025.11.21.22.36.
+
+inob !r=organization.//c group,cooperate,,d 2025.11.25.14.2.
+
+inab s,o!1p=B whose A2 is A1.//c include,AB,
+
 }i.c◀
 
 ▶i.n{
@@ -3283,7 +3319,7 @@ ib o!v=freeze word.
 
 ic n,o!2p=Ath B.
 
-ie o,o!1p=A that is according to B.
+ie n,o!=B that has id A.//u2025.11.25.16.16.
 
 ig o-o!n=or A B.
 
@@ -3307,7 +3343,7 @@ ijpb !r=fixed.//e stay still.
 
 ▶i.s{
 
-imca o,n!1p=thing that is relate to A.//s accoding,
+imca o,n!1p=thing that is related to A.//s accoding,
 
 inca !r=group.//s-a element,
 
@@ -3341,7 +3377,7 @@ jokb o-n!r=thing that kill A.//a save,
 
 jokd o,n!r=thing that close A.//a open,
 
-jomd <o-o>-n!r=thing that hide A from B.//a show,.
+jofg o,o,n!r=thing that hide A from B.//a show,,u2025.11.23.10.55.
 
 jmfb o!r=thing that is more complex than A.//a simple,
 
@@ -3373,7 +3409,7 @@ johe !r=bread.//c fermented,wheat,,
 
 jnif !r=army.//c attack,group,,
 
-jomlciba !r=blindfold.//c hide,photon,
+jociba !r=blindfold.//c hide,photon,,u 2025.11.24.19.43.
 
 jllb !r=geometry.//c shape,know,,r knowledge about shape.
 
@@ -3386,6 +3422,8 @@ jlkg o!r=thing that stupid than A.//c iq,less,
 joee !r=disease.//c harmful,organism,
 
 jkbf n!r=wavelength.//c length, wave,,d 2025.11.20.19.43.
+
+jibc !r=proposition.//c whether, BC,,d 2025.11.24.11.24..u 2025.11.25.1.46
 
 }j.c◀
 
@@ -3401,7 +3439,7 @@ ja s=whether A is true.//zero is true.cuz true is important.exist made false.one
 
 jb c o!p=between A1 and A2 and.
 
-jc s!p2=whose A2 is A1.
+jc o,o!1p=A that is according to B.//u2025.11.25.16.15.
 
 jd o!r=thing that Imagine A.
 
@@ -3497,9 +3535,11 @@ kjca o!r=thing that see A.//c sense,photon,,2025.11.21.19.47.
 
 kjhf o!r=thing that listen to A.//c sense,sound,,u 2025.11.21.21.15.
 
-kjed o!r=thing that read A.//c sense, code,,u 2025.11.21.21.16.
+kjcg o!r=thing that read A.//c sense, text,,u 2025.11.22.23.48.
 
 kjja s!r=thing that check whether A2 is A1.//c sense,whether,,u 2025.11.21.21.17.
+
+kmkf n!r=pervert..//abnormal,hope,sex,,u2025.11.27.15.52.
 
 }k.c◀
 
@@ -3536,6 +3576,8 @@ kljb !r=closed.//s off,
 knba o,o!t=thing that communicate with A about B.//s reply,
 
 knjb o!r=thing that is connect to A.//s communicate,
+
+klfa o!p=most A.//s average,,u 2025.11.22.21.35.
 
 }k.s◀
 
@@ -3593,7 +3635,7 @@ ljkg !r=private.//c know,less,,r what few thing know.
 
 llka !r=chopstick.//c stick,inhale,,r stick that is used when inhaling.
 
-llbb o!r=thing that research A.//c intend,know,true,
+llff o!r=thing that research A.//c intend,know,true,,u2025.11.23.15.44.
 
 lnod o!r=thing that ability to be A.
 
@@ -3611,6 +3653,12 @@ llmf !r=knife.//c stick, sharp,,d 2025.11.20.13.38.
 
 lnhd o,s!r=thing that I agree with A's opinion that B2 is B1. .//c belive,other,..e eg 'ellf he lf ff bd oe' mean 'i agree with your thought'..d 2025.11.20.16.55..u 2025.11.20.20.12.
 
+lkff n!r=thing that is Apercent likely to be possible.//c can,true,,u2025.11.25.13.17..u 2025.11.22.10.34lkfb.
+
+lole o,o!r=thing that joke about A to B.//c intend,cause,funny,,d2025.11.27.22.0
+
+lnac n!r=Aliter.//c meter^3, times, AH, 0.1,,d2025.11.29.11.54.
+
 }l.c◀
 
 ▶l.n{
@@ -3619,7 +3667,7 @@ lnhd o,s!r=thing that I agree with A's opinion that B2 is B1. .//c belive,other
 
 ▶l.p{
 
-lmle o,n!r=thing that feel A is fun.//p haha people,
+lmle o,n!r=thing that feel A is funny.//p haha people,
 
 }l.p◀
 
@@ -3652,6 +3700,8 @@ llma o,n!r=thing that effort to be A.//s intend,
 llga o!r=thing that imitate A.//s intend,
 
 lnib s!r=thing that sure that A2 is A1.//s belive,
+
+lkfa o,n!1p=thing that is ready to be A.//s can,,d2025.11.27.16.28.
 
 }l.s◀
 
@@ -3739,8 +3789,6 @@ mnkg o!r=thing that is sharper than A.//c sharpness,less,
 
 mkgf o,n!r=thing that feel sexual desire from A.//c hope,breed,
 
-komc n!r=pervert..//abnormal,sexual desire,
-
 mlbb o!r=thing that calculate A.//c become, know,BB,
 
 hkmllb !r=calculator.//c engine,calculate,
@@ -3753,11 +3801,13 @@ mkcb n!r=introvert.//c like,inside,,.u 2025.11.4.
 
 mijb o,o,o!r=∫ B -> C A.//c all,between,,.d 2025e Integral symbol.
 
-mlna !r=occur.//c become, exist,,d 2025.11.5.
+mlfb !r=occur.//c become, exist,,d 2025.11.5..u 2025.11.22.10.33
 
 mkdb o,n!r=thing that envy A.//c hope,DB,,d 2025.11.16.23.23.
 
 mkef n!r=thing that have conscience.//c hope,obey,,u 2025.11.17.21.22
+
+mjbg o,o!r=thing that surrenders to A in a competition that becomes B.//c give up, compete,,d 2025.11.23.21.30.
 
 }m.c◀
 
@@ -3801,11 +3851,13 @@ mked o,n!r=what A safe for.//s love,
 
 mkmd o,n!r=thing that think that feel that A is cute.//s love,,u 2025.11.6.14.30
 
+mknd o,n!r=thing that feel A is holy.//s love,,d2025.11.28.11.23.
+
 mkod o,n!r=thing that resfect A.//s love,
 
 o,n!r=thing that A is safe.
 
-mknd o,n!r=thing that feel A is interesting.//s wonder,
+mkld o,n!r=thing that feel A is interesting.//s wonder,,u2025.11.28.11.22.
 
 mlba o!p=new A.//s become,,r if i become member i am new member.
 
@@ -3865,6 +3917,10 @@ nnmc !r=earth.//c planet, good,,d 3.11.2025.
 
 nnid !r=gather.//c around,each other,
 
+nide !r=he.//c the,men,,u2025.11.26.18.37
+
+nimd !r=she.//c the,women,,u2025.11.26.18.39.
+
 }n.c◀
 
 ▶n.n{
@@ -3873,7 +3929,7 @@ nnid !r=gather.//c around,each other,
 
 ▶n.r{
 
-na !r=exist.
+na o!1p=the A.//u 2025.11.25.1.
 
 nb n or o!r=location of A.
 
@@ -3895,19 +3951,13 @@ nnag o!r=thing that revolve A.//d 23.10.2025
 
 nnea o!r=thing that point to A.
 
-nnga o!r=thing that greet A.//s toward,
-
-nnca o!r=thing that toward A.//s point,
-
 }n.r◀
 
 ▶n.s{
 
-nida !r=world.//s exist,
+nnca o!r=thing that toward A.//s point,
 
-nica !r=reality.//s exist,
-
-niea !r=universe.//s exist,
+nlga o!r=thing that greet A.//s call,u2025.11.22.9.28.
 
 }n.s◀
 
@@ -3955,8 +4005,6 @@ iogmmc !r=hedonist.//c tend,intend,only,what,hope,
 
 oidd o-o-n!r=thing that need to be A to be B.//c need,ab,self,
 
-okna n!r=thing that is Apercent likely to be possible.//c can,exist,
-
 onnf o!r=thing that follow A.//c go,around,
 
 oomc !r=cat.//c animal,cute,
@@ -3969,23 +4017,23 @@ olod !r=meat.//c food,animal,,r food that is part of animal.
 
 ▶o.n{
 
-}o.n
+}o.n◀
 
 ▶o.r{
 
 oa o!p=this A.
 
-ob <o,o>-n!2p=B that is with A.
+ob o,o,n!2p=B that is with A.
 
 of o!r=thing that move from B to A.
 
-og o-o!n=A square B.
+og o,o!n=A square B.
 
 oh !n=minus three.
 
 oica o!p=inverse of A.
 
-oilb o-<o,n>!r=thing that need A to be B.//c can,use,
+oilb o,o,n!r=thing that need A to be B.//c can,use,
 
 olma !r=animal.
 
@@ -3993,7 +4041,9 @@ olib !r=food.
 
 okkb !r=insect.
 
-}o.r
+ojda !r=protein.//d2025.11.27.21.29.
+
+}o.r◀
 
 ▶o.s{
 
@@ -4001,11 +4051,11 @@ olga o!r=thing that for being A.//s intend,
 
 o!r=thing that stuck A.//s enter,
 
-oiob o,o,n!p=thing whose A is important for being B.//s need,
+oiob o,o,n!p=thing that A is important for being B.//s need,
 
-}o.s
+}o.s◀
 
-}o
+}o◀
 
 ▶p{
 
@@ -4015,11 +4065,11 @@ pljd !r=child.//a parent,,word child can be used as young people but this word m
 
 pjce o!r=thing that fly on A.//a walk,
 
-}p.a
+}p.a◀
 
 ▶p.b{
 
-}p.b
+}p.b◀
 
 ▶p.c{
 
@@ -4027,23 +4077,23 @@ pc !o=.//c PA, CF,,e word PA that return sentence..d 2025.11.16.22.52.,,e eg 'ea
 
 pkdd !r=fruit.//c child,tree,,r what tree make.
 
-}p.c
+}p.c◀
 
 ▶p.n{
 
-}p.n
+}p.n◀
 
 ▶p.p{
 
 pmag !r=norlang.
 
-}p.p
+}p.p◀
 
 ▶p.r{
 
 pa//untranslatable word, it is used by ea.
 
-pb n-int...!o=what function.//1st bit 1 mean int type
+pb n,int...!o=what function.//1st bit 1 mean int type
 
 pd simpleipa!o=foreign word.
 
@@ -4063,19 +4113,17 @@ pigg !r=pig.
 
 pimb o!r=thing that is wearing A.
 
-}p.r
+}p.r◀
 
 ▶p.s{
 
-pmfa o!p=most A.//s average,
+}p.s◀
 
-}p.s
-
-}p
+}p◀
 
 //eewo
 
-}word dictionary
+}word dictionary◀
 
 ▶expression dictionary{
 
@@ -4616,7 +4664,7 @@ you should request to me to make function word.
 
 //vc
 
-nl version:112125.first two number is month and next is day and next is year.
+nl version:113025.first two number is month and next is day and next is year.
 
 license can be changed.
 
@@ -4717,11 +4765,11 @@ NL QR have some change so it become finalization in 2025 5m.(video that use NL Q
 
 starting perfectizing language in 5m 2025.
 
-}prediction
+}prediction◀
 
-}history
+}history◀
 
-}other
+}other◀
 
 ▶element of this conlang{
 
@@ -4733,6 +4781,6 @@ CL is abbreviation for Cpu Language.
 
 ML is abbreviation for Memory Language.
 
-}element of this conlang
+}element of this conlang◀
 
-}norlang
+}norlang◀
