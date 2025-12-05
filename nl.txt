@@ -4,7 +4,7 @@ If you view this document in portrait mode, it will be more convenient because y
 
 This artificial language is called Norlang (Normal Language) in English.
 
-▶Persuasion{
+▶persuasion{
 
 summary: norlang is easy and most efficient and logical and unambigious binary language that can express all meaning so it can easily be converted into morse code and QR code and barcode and braille and sign language so it help all communiciation. this language have lot of advantages so it can become International Auxiliary Language. this language reduces environmental pollution.
 
@@ -12,17 +12,13 @@ most words are not randomly made.
 
 lot of words is compound words.
 
-eg word 'hnmc' mean music.(this language use phonetic script but this language is pronounced differently from english and it is easy to pronounce.)
+eg word 'hnmc' mean music.(this language use phonetic script but this language is pronounced differently from english and it is easy to pronounce.) word 'hnmc' is compound word of sound and fun.
 
-word 'hnmc' is compound word of sound and pleasure.
-
-word 'bomc' mean sports.
-
-it is compound word of compete and pleasure.
+word 'bomc' mean sports. it is compound word of compete and fun.
 
 lot of words is abbreviations.
 
-eg word 'od' is abbreviation for Oa(this) and Doea(time).
+eg word 'od' is abbreviation for 'Oa Doea'(this time).
 
 lot of words are arranged in an orderly way.
 
@@ -40,7 +36,7 @@ lot of words is antonyms.
 
 'le'(1101.0010) mean 'will' and it is antonym of word 'was'.
 
-the bits is reversed.(8n-th bit didnt reversed since it play role of whitespace in english)
+the bits is reversed.(8n-th bit that is zero is for expressing border of word)
 
 length of most words are short.(2~4letters) so you can easily remember words.
 
@@ -48,7 +44,7 @@ grammar is simplest and very logical and consistent so this language can be used
 
 eg javascript code 'var gh=1==2;
 console.log(gh);' is expressed as 'ja lh nh gh
-elba gh'. grammar didnt be changed.
+dida gh'. grammar didnt be changed.
 
 the programming language is called 'pmfa'.
 
@@ -60,7 +56,9 @@ this language dont have slang.
 
 this language dont have all ambigous.
 
-eg in english, "A of B and C" can be interpreted as "(A of B) and C" and "A of (B and C)".
+english eaaly becomes ambiguous. eg 'i love situation that i love person who love cow and people and chicken or he eat meal'. but this language express all situation without ambigious.
+
+in english, "A of B and C" can be interpreted as "(A of B) and C" and "A of (B and C)".
 
 but in this language, "be af A B C" means only "(A of B) and C".
 
@@ -96,6 +94,9 @@ NL QR3 is most efficient code.
 
 NL QR can help cheating in exam because it is human-readble. it takes up little space and most people won't think of it as a language, so it won't get caught.
 
+imagine what if NL QR replace pictogram. we dont need to learn lot of pictogram.
+
+
 this language version of morse code is exist and it is called NL morse.
 
 NL Morse is usually two times more efficient than Morse code.
@@ -108,7 +109,7 @@ NL braille is usually 1.5 times more efficient than braille.
 
 original Braille is ambigious cuz meaning of original braille depending on direction but NL braille can have same meaning in any direction.
 
-Sign language is difficult or inefficient for expressing new words or slang but this language is not.
+Sign language is difficult or inefficient for expressing new words or slang but this language's sign language is not.
 
 this language is a binary language so it can easily be converted into NL QR and NL morse and NL braille and sign language and minecraft language and etc and you can learn it easily so you can do many things by learning this language so person who learn this language can easily communicate with the blind and the deaf.
 
@@ -149,17 +150,13 @@ as a developer, i belive that this language is perfect so dont dislike this lang
 
 }persuasion◀
 
-this language is beta version. making this language is started in 2023year 2month. if this language can become more perfect then it is changed.
-
-All feedback is welcome.
+this language is beta version. making this language is started in 2023year 2month. if this language can become more perfect then it is changed so you can provide feedback for this language or this doucment.
 
 Our chat room: https://discord.gg/VhHBjXbpkz
 
 YouTube: https://youtube.com/@normallanguage?si=4E6OEKgSuZa9OJAj
 
 email: fhres126@gmail.com
-
-If you don't like this document, then give me feedback or revisit it after one month. That issue can be fixed.
 
 This PDF doesn't repeat what's already said, so you need to read it in detail to understand.
 
@@ -205,8 +202,6 @@ the example converted to latin letter is 'ppph'.
 
 norlang dont need whitespace but i will use whitespace to make you easily understand.
 
-you can learn pronunciation in intermediate section and i recommend that you read this document in order.
-
 quiz: How many words does this sentense have?
 
 'mkfdbdoe'.
@@ -218,6 +213,90 @@ quiz: How many words does this sentense have?
 answer: 3.
 
 }alphabet◀
+
+▶pronunciation{
+
+* Two letters make one syllable.
+
+* (2n-1)th letter is pronounced as initial consonant. 
+
+* 2n-th letter is pronounced as vowel and final consonant.
+
+eg 'bb fh anba' is pronounced as [ bo ɾwʌ membu ].
+
+if 'b' is in (2n-1)-th letter then it pronounced as 'b'.
+
+if 'b' is in 2n-th letter then it pronounced as 'o'.
+
+in pronunciation chart, 'b' is 'b' and 'o'.
+
+(2n-1)th letter 'f' is pronounced as 'r'.
+
+2n-th letter 'h' is pronounced as 'wo'.
+
+then 'anba' is pronounced as 'membu' then it can be pronounced as 'meb'.
+
+▶pronunciation chart{
+
+sound consists of decibels (dB) and hertz (Hz).
+
+the pronunciation is arranged with lower Hz sounds coming first.(eg m(100hz) < s(14000hz))
+
+so it is not biased toward any specific culture.
+
+a:'m', 'oo'. b:'b', 'o'. c:'d', eo'. d:'g', 'eu'.
+
+e:'n', 'a'. f: 'l', 'e'. g:'f', 'i'. h:'tt', 'wo'.
+
+i:'kk', 'oom'. j:'p', 'om'. k:'t', 'eom'. l:'k', 'eum'.
+
+m:'j', 'am'. n:'jj', 'em'. o:'ch', im'. p:'s', 'wae'.
+
+m as in mom. b as in bee. d as in doctor. g as in goal.
+
+n as in no. l as in ling. p as in polar.
+
+eu in bro.(silent vowel)
+
+▶IPA version{
+
+a: /m/, /u/. b:/b/, /o/, . c: /d/, /ʌ/. d: /g/, /ɯ/.
+
+e:/n/, /a/. f: /ɾ/, /ɛ/. g: /p͈/, /i/. h: /t͈/, /wʌ/.
+
+i: /k͈/, /um/. j: /p/, /om/. k: /t/, /ʌm/. l:/k/, /ɯm/.
+
+m:/tɕ/, /am/. n: /t͈ɕ/, /ɛm/. o:/t͡ʃ/, /im/. p: /s/, /wɛ/.
+
+}IPA version◀
+
+}pronunciation chart◀
+
+this language can express all pronunciation using parameter.
+
+▶read it if you dislike this pronunciation{
+
+initial consonant that is easy to distinguish is 19.
+
+vowel that is easy to distinguish is 10.
+
+silent sound and h aren't used cuz it make problem.
+
+The pronunciation [ma] is made by quickly saying [m] and [a].
+
+The pronunciation [ta] is made by quickly saying [d] and [ha].
+
+I think adding silent sounds and h would make the language inconsistent and unlogical.
+
+i allow that user freely pronunce so It doesn't matter whether you pronounce the 'r' in a Spanish, German, or British accent/pronunciation.
+
+if word is long then there are final consonant 'm'.
+
+This mechanism makes long word difficult to say so user dont wanna made long word so it becomes efficient.
+
+}read it if you dislike this pronunciation◀
+
+}pronunciation◀
 
 ▶EML(Efficient Memory Language){
 
@@ -442,17 +521,13 @@ in this case, 'c' used to mean 'abbreviation'.
 
 }◀
 
-▶ 'mkfd o,n!r=thing that love A with B percent power.//c hope,profit,,e The love between a family and a child,,'{
+▶ 'mkfd o,n!r=thing that love A with B percent power.//e B is degree of love'{
 
 ',,' finished 'c'.
 
 this symbol is used when word need more explaination.
 
-some english word have lot of meaning so some word have explanation of meaning in additional explanation.
-
-'e' in '//e' is abbreviation for 'explanation'.
-
-'//e A' mean that explaination of this word is A.
+B is second parameter.
 
 }◀
 
@@ -1031,86 +1106,6 @@ ma o!p=all A.//m all,
 bd !r=you.//a i,
 
 }◀
-
-▶pronunciation{
-
-* Two letters make one syllable.
-
-* (2n-1)th letter is pronounced as initial consonant. 
-
-* 2n-th letter is pronounced as vowel also final consonant.
-
-eg 'bb fh anba' is pronounced as 'bo rwo memboo'.
-
-'b' is 'b', "o' in pronunciation chart.
-
-if 'b' is in (2n-1)-th letter then it pronounced as 'b'.
-
-if 'b' is in 2n-th letter then it pronounced as 'o'.
-
-(2n-1)th letter 'f' is pronounced as 'r'.
-
-2n-th letter 'h' is pronounced as 'wo'.
-
-then 'anba' is pronounced as 'memboo' then it can be pronounced as 'meb'.
-
-▶pronunciation chart{
-
-sound consists of decibels (dB) and hertz (Hz).
-
-it is arranged with lower Hz sounds coming first.(eg m(100hz) < s(14000hz))
-
-so it is not biased toward any specific culture.
-
-a:'m', 'oo'. b:'b', 'o'. c:'d', eo'. d:'g', 'eu'.
-
-e:'n', 'a'. f: 'l', 'e'. g:'f', 'i'. h:'tt', 'wo'.
-
-i:'kk', 'oom'. j:'p', 'om'. k:'t', 'eom'. l:'k', 'eum'.
-
-m:'j', 'am'. n:'jj', 'em'. o:'ch', im'. p:'s', 'wae'.
-
-m as in mom. b as in bee. d as in doctor. g as in goal.
-
-n as in no. l as in ling. p as in polar.
-
-eu in bro.(silent vowel)
-
-▶IPA version{
-
-a: /m/, /u/. b:/b/, /o/, . c: /d/, /ʌ/. d: /g/, /ɯ/.
-
-e:/n/, /a/. f: /ɾ/, /ɛ/. g: /p͈/, /i/. h: /t͈/, /wʌ/.
-
-i: /k͈/, /um/. j: /p/, /om/. k: /t/, /ʌm/. l:/k/, /ɯm/.
-
-m:/tɕ/, /am/. n: /t͈ɕ/, /ɛm/. o:/t͡ʃ/, /im/. p: /s/, /wɛ/.
-
-}IPA version◀
-
-}pronunciation chart◀
-
-initial consonant that is easy to distinguish is 19.
-
-vowel that is easy to distinguish is 10.
-
-silent sound and h aren't used cuz it make problem.
-
-The pronunciation [ma] is made by quickly saying [m] and [a].
-
-The pronunciation [ta] is made by quickly saying [d] and [ha].
-
-I think adding silent sounds and h would make the language inconsistent and unlogical.
-
-i allow that user freely pronunce so It doesn't matter whether you pronounce the 'r' in a Spanish, German, or British accent/pronunciation.
-
-if word is long then there are final consonant 'm'.
-
-This mechanism makes long word difficult to say so user dont wanna made long word so it becomes efficient.
-
-There is way to express all pronunciations in norlang so dont worry.
-
-}pronunciation◀
 
 }intermediate◀
 
@@ -1906,33 +1901,13 @@ FYR: (ancjeg oe) (mkfd cjeoog) oe.
 
 }complex sentences◀
 
-▶NL QR{
+NL QR: https://youtu.be/rPGDHublCDI?si=LGGqzc4bVFdQmC9D
 
-https://youtu.be/rPGDHublCDI?si=LGGqzc4bVFdQmC9D
+NL braille: https://youtu.be/UKd6Fry-k8g?si=RRccCNANzb7LMkG9
 
-0 is black or white.
+NL morse: https://youtu.be/bp8b8FhJHTc?si=uLMRb4zWim0HeDxC
 
-1 is opposite color of 0.
-
-NL QR1: draw 10.
-
-NL QR2: draw 10000011.
-
-convert letter to binary.
-
-NL QR1: '10' + 'the binary'.
-
-NL QR2: '10000011' + newline + the binary.
-
-eg 'de' -> '11000010'.
-
-NL QR1: 1011000010
-
-last must be not finished by '010' cuz it can be readed any direction so wrongly interpret.
-
-1011000010 -> 1011000011(8n-th bit of 'de' become 1) or 101100001011(word 'da' is inputed).
-
-}NL QR
+NL sign language one hand: https://youtu.be/4SJ2bu0ngnk?si=w0jSCCvQHDL6AGfP
 
 }advanced◀
 
@@ -1946,7 +1921,13 @@ last must be not finished by '010' cuz it can be readed any direction so wrongly
 
 }for who interpret dictionary◀
 
+▶tool{
+
 site for searching word: https://fhres126.github.io/w/worddictionary.html
+
+convert into various system: https://fhres126.github.io/w/nlintovarious.html
+
+}tool◀
 
 Norlang has no synonyms so just think and use words as appropriate.
 
@@ -1964,7 +1945,7 @@ the rule is listing by initial letter and word formation rule
 
 //ewo
 
-▶orther{
+▶other{
 
 many is first.
 
@@ -2005,6 +1986,34 @@ nlpa !r=mint.
 gipa !r=brown.
 
 }color◀
+
+▶month{
+
+bljg !t=january.//d25.12.2.8.
+
+cljg !t=february.//d25.12.2.8.
+
+dljg !t=march.//d25.12.2.8.
+
+eljg !t=april.//d25.12.2.8.
+
+fljg !t=may.//d25.12.2.8.
+
+gljg !t=june.//d25.12.2.8.
+
+hljg !t=july.//d25.12.2.8.
+
+iljg !t=august.//d25.12.2.8.
+
+jljg !t=september.//d25.12.2.8.
+
+kljg !t=october.//d25.12.2.8.
+
+lljg !t=november.//d25.12.2.8.
+
+mljg !t=december.//d25.12.2.8.
+
+}month◀
 
 ▶atom{
 
@@ -2472,6 +2481,8 @@ coob !r=machine.//s tool,
 
 coga !r=text.//u 2025.11.22.23.49..d 2025.11.22.14.35.
 
+cmig !r=oil.//d25.11.30.17.
+
 }c.r◀
 
 ▶c.s{
@@ -2693,7 +2704,7 @@ elkg o-o!r=thing that efficiently become A than B.//co
 
 eleodd !r=english.//c language,england,dofocd !r=english.//c language,england,
 
-eicd c o,n!2p=process of A1 becoming A2 becoming.//c what,be A to B,
+eicd c o,n!2p=process of A1 becoming A2 becoming.//c what,CD,
 
 elog !r=novel.//c document,false,,r document that include false.
 
@@ -2702,8 +2713,6 @@ eiia !r=culture.//c what, tend,, r what something tend to.
 elcf !r=sentence.//c code,situation,,r sentence code that explain situation.
 
 emfa !r=organism.//s-c was,become,alive,,r thing that became alive.
-
-eled !r=document.//c write,code,,r document is thing where the code is written,,m file,
 
 elld !r=conlang.//c language,artificial,,u 2025.11.7.18.10.. r conlang is language that is made.
 
@@ -2753,6 +2762,13 @@ eloa !r=information.//c code,need,
 
 eikg o!r=thing that is weaker than A.//c newton,less,
 
+elgb !r=post.//c doucment,give,,u25.12.3.12.
+
+elcg !r=document.//c file, text,,r file that include text.
+u25.12.4.12.
+
+emde !r=sperm.//c organism,men,,d25.12.5.14.
+
 }e.c◀
 
 ▶e.n{
@@ -2791,25 +2807,25 @@ eoga o!p=same A.
 
 ▶e.s{
 
-elca s!r=thing that assert that A2 is A1.//s mean,
-
 elba !o=code.
 
-elfa int!r=word A.//s code,,u 2025.11.19.20.45
+elca s!r=thing that assert that A2 is A1.//s mean,
+
+elda !r=word.//s code,,u25.12.2.9.
 
 elea o!p=thing that mean A.//s code,,u 2025.11.19.20.44.
 
-elga !r=name.//s code,,u 2025.11.21.19.42.
+elfa int!r=word A.//s code,,u 2025.11.19.20.45
 
-elha !r=word.//s code,
+elga !r=name.//s code,,u 2025.11.21.19.42.
 
 elma !r=symbol.//s code,,something that represents or stands for something else, especially an idea, quality, or feeling,,eg pigeon is symbol of peace,,
 
+elib !r=file.//d25.12.4.12.
+
 elpa !r=unit.//s code,,standard quantity used for measurement,, eg meter is a unit of length.
 
-elib !r=post.//s code,
-
-eljb !v=label.//s code,,e piece of paper, fabric, or material attached to something that gives information about it,,eg the label on the bottle says "milk".
+eljb !v=label.//s code,,e piece of paper, fabric, or material attached to something that gives information,
 
 elmb !r=language.//s code,, u 2025.11.21.19.45.
 
@@ -3065,6 +3081,10 @@ gifg !r=dirt.//c brown, land,, u 2025.11.6.17.47
 
 godd !r=auto.//c use,only,self,,d 2025.11.11.7
 
+gomd !r=vaginal lubrication.//c water,women,,d25.12.5.13.
+
+gode !r=semen.//c water,men,,d25.12.5.14.
+
 }g.c◀
 
 ▶g.n{
@@ -3127,7 +3147,7 @@ hmfb o!r=thing that is heavier than A.//a lighter,
 
 fofb o!r=thing that is harder than A.//a soft,
 
-hoag n!r=shift.//a fixed,,m action,
+hoag n!r=shift.//a stop,,m action,
 
 }h.a◀
 
@@ -3211,11 +3231,11 @@ hh !n=y.
 
 hmkd !r=wheat.
 
-hoda n!r=Adecibel.
+hnca n!r=Adecibel.//u25.12.2.10.
 
 hnib !r=sound.
 
-hoga o!r=thing that play A.
+hoga o!r=thing that play A.//e 'play' as in play game.
 
 }h.r◀
 
@@ -3305,6 +3325,8 @@ inob !r=organization.//c group,cooperate,,d 2025.11.25.14.2.
 
 inab s,o!1p=B whose A2 is A1.//c include,AB,
 
+ijmc !r=rest.//c stop, comfortable,,d25.12.1.12.
+
 }i.c◀
 
 ▶i.n{
@@ -3337,13 +3359,11 @@ ikba n!r=A size.
 
 innb o,n!r=thing that surround A.//s have,,m encircle,
 
-ijpb !r=fixed.//e stay still.
+ijpb !r=stop.//e stay still.
 
 }i.r◀
 
 ▶i.s{
-
-imca o,n!1p=thing that is related to A.//s accoding,
 
 inca !r=group.//s-a element,
 
@@ -3425,6 +3445,8 @@ jkbf n!r=wavelength.//c length, wave,,d 2025.11.20.19.43.
 
 jibc !r=proposition.//c whether, BC,,d 2025.11.24.11.24..u 2025.11.25.1.46
 
+jngd !r=revolution.//c attack, past,,d25.12.1.18.
+
 }j.c◀
 
 ▶j.n{
@@ -3462,6 +3484,8 @@ jnke o!r=thing that attack A.//s harmful,
 jnhc o,o!r=thing that steal A from B.//s recive,
 
 jjcb s!r=routine of A2 being A1.//s JB,,d 2025.11.20.19.33.
+
+jkca o,n!1p=thing that is related to A.//s accoding,,d25.12.3.3.
 
 }j.s◀
 
@@ -3658,6 +3682,8 @@ lkff n!r=thing that is Apercent likely to be possible.//c can,true,,u2025.11.25.
 lole o,o!r=thing that joke about A to B.//c intend,cause,funny,,d2025.11.27.22.0
 
 lnac n!r=Aliter.//c meter^3, times, AH, 0.1,,d2025.11.29.11.54.
+
+llle o,n!r=thing that plan to be A.//c intend, will,,d25.11.30.10.3
 
 }l.c◀
 
@@ -3921,6 +3947,10 @@ nide !r=he.//c the,men,,u2025.11.26.18.37
 
 nimd !r=she.//c the,women,,u2025.11.26.18.39.
 
+nkmd !r=pussy.//c genitalia, women,,d25.12.5.0.
+
+nkde !r=cock.//c genitalia, men,,d25.12.5.0.
+
 }n.c◀
 
 ▶n.n{
@@ -3951,6 +3981,8 @@ nnag o!r=thing that revolve A.//d 23.10.2025
 
 nnea o!r=thing that point to A.
 
+nkda !r=gender.//d25.12.5.0.
+
 }n.r◀
 
 ▶n.s{
@@ -3958,6 +3990,8 @@ nnea o!r=thing that point to A.
 nnca o!r=thing that toward A.//s point,
 
 nlga o!r=thing that greet A.//s call,u2025.11.22.9.28.
+
+nkga !r=genitalia.//d25.12.5.0..s gender,
 
 }n.s◀
 
@@ -4167,11 +4201,11 @@ FYR: (mg lh nh) ph.
 
 'ae goch og pa nh kg jh A' = 'A = x ∈ Q | x² < 4'.
 
-}mathematical expression
+}mathematical expression◀
 
 //eex
 
-}expression dictionary
+}expression dictionary◀
 
 ▶suffix dictionary{
 
@@ -4183,7 +4217,7 @@ ep- =un A.
 
 gp- =As.
 
-}suffix dictionary
+}suffix dictionary◀
 
 ▶id dictionary{
 
@@ -4193,21 +4227,21 @@ gp- =As.
 
 b=space,
 
-}english
+}english◀
 
 ▶Sheet music{
 
 d 2025.11.5.9.4.
 
-}Sheet music
+}Sheet music◀
 
 ▶efficientexplainmath{
 
-}efficientexplainmath
+}efficientexplainmath◀
 
-}id dictionary
+}id dictionary◀
 
-parameter dictionary{
+▶parameter dictionary{
 
 ▶nletter{
 
@@ -4269,25 +4303,39 @@ jb=z.
 
 kb=a.
 
-}nletter
+}nletter◀
 
 ▶explainfunc{
 
-}explainfunc
+}explainfunc◀
 
-}parameter dictionary
+}parameter dictionary◀
 
-}EML(Efficient Memory Language)
+}EML(Efficient Memory Language)◀
 
 ▶ECL{
 
-you should know EML words.
+you can understand well if you know EML and ECL words.
 
-sentence 'A B' mean 'hey B, be A!' so 'mg A B C' make C is A + B.
+sentence 'A B' command B to be A.
 
-capital letter in norlang is value and not norlang word.
+We’ll learn some rules that help me explain it more efficiently.
 
-so you can know basic ECL so ill explain basic few.
+A ◇ B ◇ C. A is ECL code. B is programming language name. C is code that is wrriten by A.
+
+eg, ja •1 •2 ◇ js ◇ •2 == •1. •1 is first variable. •2 is second variable. in real, you should input variable name instead of •1.
+
+'A ♤ B' mean 'B is explanation of A'.
+
+▶example{
+
+•1 •2 ♤ make variable called •2. assign •1 into •2.
+
+mg •1 •2 •3 ♤ •3 is •1 + •2.
+
+coda •1 ♧ •1 is printed. if right of expression is none then it command to system.
+
+encf •1 •2 ◇ js ◇ if( •2 == •1)
 
 ▶word dictionary{
 
@@ -4303,191 +4351,23 @@ fifa c s!r=starting ecl./c command,comand,
 
 lnlf c s!r={A2:A1, A4 : A3}.//c whose,whose,,js's object.
 
-}word dictionary
+}word dictionary◀
 
-▶exam{
+▶other{
 
-▶ARM instructions to ECL{
-
-AND R0, R1, R2.
-hg gh hh
-
-ORR R1, R2, R3 ;
-og hh bpph gh
-
-MOV R1, R2 ;
-ojkb hh gh ad
-
-LDR R1, [R2] ;
-bb hh gh ad
-
-BPPH: ;
-eopa BPPH
-
-B BPPH ;
-of bpph ad
-
-cmp r1, #3,
-beq npph ;
-encf gh ph of bpph cc
-
-other command is expressed using javascript.
-
-}ARM. instructions to ECL
-
-▶javascript instructions to ECL{
-
-'if()' and 'for()' can be implemented by ARM.
-
-ib lh gh.
-Assign 0 to the variable named 'gh'.
-var a=0;.
-
-gc cglhoa ac cgnhfobg gh bc.
-replace the string 'fobg' in gh with 'oa'.
-gh.replace('fobg', 'oa');.
-
-ja njef cglhjb cgnhfobg.
-whether the variable named fobg has the character 'jb'.
-fobg.includes('jb');.
-
-cncf kb gh ad kf gh bc gdda.
-function A(var a){
-console.log(a);
-return a;
-}.
-
-janahb A B ad.
-it is true when either A is true, B is true, or both A and B are true.
-A||B.
-
-janabe A B ad.
-it is true only when both A and B are true."
-A&&B.
-
-ackddhdpphadbpph.
-call the method dh of the object bpph, passing dpph as an parameter.
-bpph.dh(dpph);.
-
-try{ throw() }catch{ }.
-
-import { add } from './math.js';.
-
-typeof().
-
-getElementById().
-
-ifcbphheadA.
-var A=new Array(3);.
-
-icohheA.
-second element of A.
-A[3].
-
-ibgaadgh.
-var a=underfined;.
-
-jalhnh.
-whether 2 is 1.
-2==1;.
-
-bblhbeghhhad.
-let a = b = 1;.
-
-let bpph={gh:1, hh: 2};
-for(let gh in bpph){
-
-console.log(gh);
-
-}
-
-lnlf lh gh nh hh ad bpph
-
-let bpph=[1, 2];
-for(let gh of bpph){
-
-console.log(gh);
-
-}
-
-do{}while().
-
-document.createElement().
-
-document.body.style.backgroundColor = 'yellow';.
-
-canvas.style='#FF0000';
-canvas.fillRect(0,0,1,1);.
-
-if ka B C ad A.
-var A =[B, C].
-
-A.pop();.
-
-ic kh he A
-A[0].
-
-import
-
-}exam
-
-▶canvas is work as window
-
-}javascript instructions to ECL
-
-▶python instructions to ECL{
-
-//if ursina is imported
-
-from A import B.
-
-if key == 'right button down':
-
-box = Button(color=color.white, model='cube', position(i,0,j), texture='grass.png', parent=scene, origin_y=0.5)
-
-}python instructions to ECL
-
-▶english to ecl{
-
-A = B + 1.
-mg B lh A.
-
-A = A + 1.
-mg dd lh A.
-
-making layer.
-
-making window.
-
-set size of window.
-
-show window.
-
-drawing.
-
-connected device.
-(device type,id)
-
-finding device by id.
-
-'hello'.
-@5hello.//only expressing foreign language.
-
-}english to ecl
-
-▶principle{
+dont need main(){}.
 
 screen work like html.
 
-}principle
+}other◀
 
-}ECL
+}ECL◀
 
 ▶official account{
 
 youtube: https://youtube.com/@normallanguage?si=4E6OEKgSuZa9OJAj
 
-}official account
+}official account◀
 
 ▶rule{
 
@@ -4507,7 +4387,7 @@ it is eficency.
 11000000=+1.
 01000000=-1.
 
-}number
+}number◀
 
 ▶reading way in NL QR{
 
@@ -4519,7 +4399,7 @@ or
 read like➡️⬇️
 rows should not 8,
 
-}reading way in NL QR
+}reading way in NL QR◀
 
 ▶for developer{
 
@@ -4541,15 +4421,15 @@ relative things must have standard.
 
 sentence 'anga oa' means 'i have features of people'.
 
-logic of sentence{
+▶logic of sentence{
 
 left of nl sentence have smaller concept.
 
-}logic of sentence
+}logic of sentence◀
 
 ▶word formation rule{
 
-word that need parameter{
+▶word that need parameter{
 
 meaning of word whose all or nothing is in parameter is what other word can express
 
@@ -4565,13 +4445,13 @@ very unefficient.
 
 word whose numeral is not useful.
 
-}word that need parameter
+}word that need parameter◀
 
-random word{
+▶random word{
 
 initial of word should siimilar to initial of word that have similar meaning.(eg word like and pleasure have similar initial)
 
-}random word
+}random word◀
 
 ▶antonym{
 
@@ -4587,7 +4467,7 @@ original(eg 'df' mean 'meeb' so 'me' is first).
 
 many quantity(eg photon is mannier than neutrino).
 
-}antonym that should be made first
+}antonym that should be made first◀
 
 if spectific word have lot of antonym, order of antonym that should be made first is 'firsrt exist(no slave,no king)->low number(0% can=cant)->purpose(weapon,treatment tool,,intend,evolution)->diffrence set(dont know,know)'.
 
@@ -4595,7 +4475,7 @@ antonym of specific compound word dont following rule 'word that should come fir
 
 antonym form should not same as antonym converted into compound word(eg word 'forgot' that made by antonym mechnism)
 
-}antonym
+}antonym◀
 
 ▶compound word{
 
@@ -4623,14 +4503,14 @@ function word is before.
 
 first action word is made first, if it is advantageous(eg remember is firster than forgot).
 
-}compound word
+}compound word◀
 
 ▶phonetic loanword{
 
 'russia'->'romsimna(russia in russian. slient consonant become 'n')'.
 'higgs particle'->'(kims('h'->'k')).
 
-}phonetic loanword
+}phonetic loanword◀
 
 word formation rule that should be used first{
 
@@ -4646,11 +4526,11 @@ and If a compound word consists of two words, use the compound word mechanism fi
 
 If not, use the antonym mechanism first.
 
-}word formation rule that should be used first
+}word formation rule that should be used first◀
 
-}word formation rule
+}word formation rule◀
 
-}for developer
+}for developer◀
 
 ▶user{
 
@@ -4658,13 +4538,13 @@ you cant edit norlang(eg u cant chaiging grammar) but you can make new word but 
 
 you should request to me to make function word.
 
-}user
+}user◀
 
 ▶license{
 
 //vc
 
-nl version:113025.first two number is month and next is day and next is year.
+nl version: 25.1205
 
 license can be changed.
 
@@ -4686,9 +4566,9 @@ Users must comply with the license version associated with the version of the la
 
 only i can make language that similar to this language.
 
-}license
+}license◀
 
-}rule
+}rule◀
 
 ▶other{
 
