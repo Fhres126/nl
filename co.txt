@@ -212,13 +212,13 @@ nnda !r=bottom.//n top,,u 2025.11.24.11.28.
 
 ▶direction in earth{
 
-indd !r=north.//s front,
+injd !r=north.//s front,,u25.12.16.19.
 
-jndd !r=west.//s left,
+jnjd !r=west.//n north,,u25.12.16.19.
 
-kndd !r=south.//s behind,
+knjd !r=south.//s west,,u25.12.16.19.
 
-lndd !r=east.//s right,
+lnjd !r=east.//s south,,u25.12.16.19.
 
 }direction in earth◀
 
@@ -294,6 +294,10 @@ aomb !r=circle.//c gon,infinity,
 
 aocb o!r=thing that swim in A.//c walk,inside,
 
+ajfb n,o!2p=well A.//c AB, normal,,d25.12.28.14.
+
+aojf o,o!r=thing that kick A into B.//c foot,attack,,r attack using foot,,u25.12.29.22.
+
 }a.c◀
 
 ▶a.n{
@@ -332,6 +336,8 @@ akcg !r=ass.
 
 aond o!r=thing that walk on A.//s touch,
 
+aopd !r=foot.//s walk,u15.12.29.22.
+
 }a.s◀
 
 }a◀
@@ -360,19 +366,17 @@ bpme o,o,n=thing that dont need to be A to be B.//a need to,,g OIDD AB DD EB,,
 
 be c o!p=A1 and A2 and.//c or,most,
 
-bmjb c o!n=distance of between A1 and B2.//meter,between,
-
 blkg o!r=thing that is more inflexible than A.//c flexibility,less,
 
-boba !r=we.//c and,i,you,o,
+boba !r=we.//c and,i,you,AD,
 
-kigoba o!r=thing that drink A.//c inhale,liquid,
+kigg o!r=thing that drink A.//c inhale,liquid,,u25.12.9.12.
 
 bnih !r=wave.//c hz,over,zero,.
 
 bomc !r=sports.//c compete,pleasure,,r enjoyed compete.
 
-bohkjf !r=soccer.//c sports,kick,,r soccer include sports for kick.
+boag !r=soccer.//c sports,kick,,r soccer include sports for kick.,,u25.12.29.22.
 
 bocd o!r=thing that war with A.//c fight,politics,
 
@@ -420,9 +424,9 @@ bode !r=body.//s body en.
 
 boeg o,o!r=thing that compete to being B with A.//A is like enemy,,s dont need,
 
-bojf o!r=thing that fight with A.//s compete.
+bojf o!r=thing that fight with A.//s compete,
 
-bjlb !r=logic.//s true,/d 2025.11.7.9.25.
+bjlb !r=logic.//s true,d 2025.11.7.9.25.
 
 bmpe o!1p=even A.//s too,
 
@@ -434,7 +438,7 @@ bmpe o!1p=even A.//s too,
 
 ▶c.a{
 
-ch o-o!n=A divided by B.//a times,
+ch o,o!n=A divided by B.//a times,
 
 ckhg o!r=thing that is until A.//a from,,d 13092025,
 
@@ -450,7 +454,7 @@ ckpe o!r=thing that avoid A.//a met,
 
 cb n,o!p=A B.//eg two apple.
 
-cd <o-o>-n!p=thing that is B by being A.//c use,A that is B,self,.
+cd o,o,n!p=thing that is B by being A.//c use,A that is B,self,.
 
 cmkg o!r=thing that is cheaper than A.//c dollar,less,
 
@@ -468,15 +472,15 @@ cjea n,o!1p=thing that repeat B at A times.//s-c quantity,was,
 
 ckkg o!r=thing that is thin than A.//c thickness,less,
 
-cnpe !r=crowd.//c lot of,average,
+cnkd !r=crowd.//c lot of,average,,u25.12.9.12.
 
-cjih !=byte.//c CB,BG,eight,bit,
+ciih !=byte.//c CB,BG,eight,bit,,u25.12.9.12.
 
 cjfa s!r=thing that coerce A2 to be A1.//c repeat,command,
 
 cnga !r=mathematical expression.//c situation,number,,r situation that include number.
 
-clpd o!r=o,o!r=thing that control A to be B.//c GB,EA,LD,GB,PA,DB,DB,,d 23.10.2025.
+clpd o!r=thing that control A.//c GB,EA,LD,GB,PA,DB,DB,,d 23.10.2025.
 
 cied !r=image.//c photon,code,
 
@@ -552,6 +556,8 @@ cida !r=color.//s photon,,d 2025.11.6.19.53...u 2025.11.20.19.49.
 
 cjca o!1p=some A.//s CB,,d2025.11.26.22.41.
 
+cnig !r=economy.//s money,,d25.12.31.17.
+
 }c.s◀
 
 }c◀
@@ -582,11 +588,11 @@ dnee o,n!r=thing that feel that A is annoying.//a intersting,
 
 dmfb !r=increasing.//a decreasing,
 
-djhc o!r=thing that lost A.//a get,
+dmhc o!r=thing that lost A.//a get,,u25.12.9.17.
 
 dmld !r=adult.//a baby,
 
-dnme o,n!r=thing that suffers from being A.//a enjoy,,u 2025.11.5.
+dnme o,n!r=thing that suffers by being A.//a enjoy,,u 2025.11.5.
 
 dmdg !r=men.//a women,
 
@@ -618,7 +624,7 @@ dlhc !t=yesterday.//c minus,today,day,one,
 
 djlb o!r=thing that remember A.//c remain, know,
 
-djif o!r=thing that keep A.//c remain,have,
+djif o,t!r=thing that keep A.//c remain,have,
 
 dned o,n!r=thing that regret A.//c dread,was,
 
@@ -638,7 +644,7 @@ dogc !r=police.//c promise,protect,,r police promise to protect something.
 
 dogb !r=doctor.//c promise,save,
 
-sodd o!r=thing that decide to be A.//c promise, self,,r promise to self.
+dodd o!r=thing that decide to be A.//c promise, self,,r promise to self.
 
 dmnf !r=brother.//c men,older,
 
@@ -658,7 +664,7 @@ dncb n!r=extrovert.//c dislike,inside,
 
 dnod o,n!r=thing that feel that A is tasteless.//c pain,food,, u 2025.11.5.
 
-dnkg !r=eugenics.//c hate, abnormal,,u 2025.11.11.6.48
+jokobg !r=eugenics.//c kill, abnormal,,u 2025.12.10.1
 
 doed !r=antonym.//c minus, word,,d 2025.11.13.2.14.
 
@@ -667,6 +673,10 @@ dnlh o,n!r=thing that is jealous of A.//c dread, strong,,d 2025.11.16.14.u2025.1
 dnkg o,n!r=thing that pity A.//c dread, abnormal,,u 2025.11.18.17.7..d 2025.11.11.22.53..
 
 doge o!r=thing that select A.//c decide,use,,d 2025.11.20.21.41.
+
+doff !r=logic.//c essence,true,,r essence that assert true,,d25.12.20.12.
+
+domc o!r=thing that marry A.//c promise,love,,d25.12.30.3.
 
 }d.c◀
 
@@ -700,7 +710,7 @@ domb !o=minus most.//s minus,,c minus,most,
 
 dnkb o!r=thing whose A is enemy.//s hate,
 
-doda !r=essense.//s minus most,
+doda !r=essence.//s minus most,
 
 doca o!1p=un A.//s minus,
 
@@ -748,7 +758,7 @@ ee s!t=time when A2 is A1.//c what,thing that be B when A,
 
 enef c o!p=c by.//c by,by,.
 
-eaga o!p=sole A.//c what,only,
+eiga o!p=sole A.//c what,only,,u25.12.10.1.
 
 elhf !r=phonetic alphabet.//c letter,sound,
 
@@ -761,7 +771,7 @@ eleodd !r=english.//c language,england,dofocd !r=english.//c language,england,
 
 eicd c o,n!2p=process of A1 becoming A2 becoming.//c what,CD,
 
-elog !r=novel.//c document,false,,r document that include false.
+elmc !r=novel.//c document,fun,,u25.12.9.17.
 
 eiia !r=culture.//c what, tend,, r what something tend to.
 
@@ -826,11 +836,13 @@ emde !r=sperm.//c organism,men,,d25.12.5.14.
 
 ekfb s!v=evidence that A2 is A1.//c express,that A2 is A1,true,whether,,u25.12.9.0.
 
+eldg !r=clock.//c express,time,,u25.12.9.1.
+
+fnoa !r=scholarship.//c true,need,,d25.12.31.16.
+
 }e.c◀
 
 ▶e.n{
-
-ejna !r=molecule.//n atom,
 
 }e.n◀
 
@@ -998,8 +1010,6 @@ flda n!r=A°c.
 
 fojb !r=alive.
 
-fjda o!p=the A.
-
 }f.r◀
 
 ▶f.s{
@@ -1052,9 +1062,9 @@ gf o!r=thing that make A.//c cause,exist,
 
 gjfd o-n!r=thing that beneficial A.//c cause,profit,,m help,support,
 
-gjif o-o!r=thing that give A to B.//c cause,have,
+gjif o,o,n!r=thing that give A to B.//c cause,have,
 
-gjne o-o!r=thing that teach A to B.//c cause,know,
+gjne o,o!r=thing that teach A to B.//c cause,know,
 
 gjkb o,o!r=thing that shows A to B.//c cause,sense,,u 2025.11.21.21.17.
 
@@ -1143,6 +1153,8 @@ godd !r=auto.//c use,only,self,,d 2025.11.11.7
 gomd !r=vaginal lubrication.//c water,women,,d25.12.5.13.
 
 gode !r=semen.//c water,men,,d25.12.5.14.
+
+gkid !r=family.//c protect,each other,,d25.12.10.1.
 
 }g.c◀
 
@@ -1246,10 +1258,6 @@ hkhg !r=nose.//c engine,inhale,air,
 
 hkbd !r=hand.//c engine,hold,
 
-hkag !r=foot.//c engine,walk,
-
-hkjf o,o!r=thing that kick A into B.//c foot,attack,,r attack using foot.
-
 hngg !r=cry.//c eye,emit,liquid,,r cry thing include eye that emit liquid.
 
 hmef !r=life.//c HE, MB, when, exist,
@@ -1294,7 +1302,7 @@ hnca n!r=Adecibel.//u25.12.2.10.
 
 hnib !r=sound.
 
-hoga o!r=thing that play A.//e 'play' as in play game.
+hoga o!r=thing that play A.//e 'play' as in 'play game'.
 
 }h.r◀
 
@@ -1348,7 +1356,7 @@ ijfb o!r=thing that is noisier than A.//a quite,,d 2025.11.8.11.48
 
 id !r=each other.//c what,interface,self,.
 
-iifd n!r=slefish.//c tend, profit,
+iifd n!r=selfish.//c tend, profit,
 
 ilkg o!r=thing that is lighter than A.//c Akg,less,
 
@@ -1386,6 +1394,8 @@ inab s,o!1p=B whose A2 is A1.//c include,AB,
 
 ijmc !r=rest.//c stop, comfortable,,d25.12.1.12.
 
+indd !r=homeland.//c country, self,,d25.12.2.23.
+
 }i.c◀
 
 ▶i.n{
@@ -1394,7 +1404,7 @@ ijmc !r=rest.//c stop, comfortable,,d25.12.1.12.
 
 ▶i.r{
 
-ia o,n!p=thing that tends to become A.
+ia o,n!p=thing that tends to be A.
 
 ib o!v=freeze word.
 
@@ -1402,7 +1412,7 @@ ic n,o!2p=Ath B.
 
 ie n,o!=B that has id A.//u2025.11.25.16.16.
 
-ig o-o!n=or A B.
+ig o,o!n=or A B.
 
 ih !n=zero.
 
@@ -1448,11 +1458,11 @@ jlje o-o!r=thing that lose to A in competition of being B.,//a win,.
 
 joeg !r=student.//a teach,
 
-jjng <o-o>-n!r=thing that take B out of A.//a put,
+jjng o,o,n!r=thing that take B out of A.//a put,
 
 joke o,n!r=thing that harmful A.//a benefical,
 
-jokb o-n!r=thing that kill A.//a save,
+jokb o,n!r=thing that kill A.//a save,
 
 jokd o,n!r=thing that close A.//a open,
 
@@ -1506,11 +1516,15 @@ jibc !r=proposition.//c whether, BC,,d 2025.11.24.11.24..u 2025.11.25.1.46
 
 jngd !r=revolution.//c attack, past,,d25.12.1.18.
 
+jkjb c o!n=distance of between A1 and B2.//meter,between,,u25.12.9.12.
+
+jodd !r=suicide.//c kill,self,,d25.12.18.3.
+
 }j.c◀
 
 ▶j.n{
 
-jnkedd !r=self harm.//c attack,self,
+jndd !r=self harm.//c attack,self,,u25.12.16.19.
 
 }j.n◀
 
@@ -1526,7 +1540,7 @@ jd o!r=thing that Imagine A.
 
 je s!t=future of A.//a past,
 
-jg o-o!n=xor A B.
+jg o,o!n=xor A B.
 
 jh !n=four.
 
@@ -1558,7 +1572,7 @@ ke n!r=victim.//a profit,
 
 kf o,o!r=thing that reply to B by saying A..//a ask,
 
-kobg n!r=inferior.//a superior,
+kobg n!r=abnormal.//a normal,
 
 kpbc o,o!r=thing that ban A from B.//a invite,
 
@@ -1597,8 +1611,6 @@ kjif !r=collapce.//c broken,whole,, g lf kjinea.
 kled !r=braille.//c point,, g whose,*point,*code,
 
 kihg !r=thing that breathe.//c inhale,air,
-
-kjdg !r=clock.//c express,time,
 
 knee o!r=thing that sex with A.//c connected,organism,
 
@@ -1718,7 +1730,7 @@ llka !r=chopstick.//c stick,inhale,,r stick that is used when inhaling.
 
 llff o!r=thing that research A.//c intend,know,true,,u2025.11.23.15.44.
 
-lnod o!r=thing that ability to be A.
+lknd o!r=thing that ability to be A.//u25.12.10.0.
 
 llee !r=biomimicry.//c imitate, nature,
 
@@ -1744,6 +1756,8 @@ llle o,n!r=thing that plan to be A.//c intend, will,,d25.11.30.10.3
 
 lldb n!r=lookist.//c mind, shell,,d25.11.6.13.
 
+lljd o,n!r=thing that mind A.//c intend,imagine,,u25.12.9.12.
+
 }l.c◀
 
 ▶l.n{
@@ -1758,7 +1772,7 @@ lmle o,n!r=thing that feel A is funny.//p haha people,
 
 ▶l.r{
 
-la efficientmath!n=effiently explain math expression.
+la efficientmath!n=.//e effiently explain math expression
 
 lb o!r=thing that know A.
 
@@ -1820,9 +1834,9 @@ mkgg s!r=thing that allow that A2 is A1.//a reject,
 
 md o!p=thing that become A.//c becoming,ph,
 
-mf o-o!p=intersection of A and B,//c A that is B,part,part,
+mf o,o!p=intersection of A and B,//c A that is B,part,part,
 
-mkdd o,n!r=thing that enjoy be A.//c pleasure,self,,u 2025.11.5
+mkdd o,n!r=thing that enjoy to be A.//c pleasure,self,,u 2025.11.5
 
 mnmf c o!p=c intersecrion.//c intersection,intersection,.
 
@@ -1832,9 +1846,7 @@ mkfd o,n!r=thing that love A by B percent.//c hope,profit,
 
 mlif o!r=thing that get A.//c become,have,.
 
-mkne o,n!r=thing that wonder about A.//c hope,know,
-
-mkpf o,n!r=thing that want to sex with A.//c hope,sex.
+mklb o,n!r=thing that wonder about A.//c hope,know,,u25.12.9.19.
 
 mkod o,n!r=thing that feel A is delicious.//c pleasure,food. u 2025.11.5.
 
@@ -1842,19 +1854,17 @@ mlkg !r=decreasing.//c become,less,.
 
 mmlb o!r=thing that learn A.//c becoming,know,.
 
-mlee !r=born.//c become,organism,.
+mlemfa !r=born.//c become,organism,,u25.12.9.12
 
 mlee !r=baby.//c new,organism,
 
-mkoa !r=we.//c friend,i,
+mkoe !r=we.//c friend,i,,u25.12.9.13.
 
 mkka n!r=thing that is hungry.//c hope,eat,
 
 midg !t=always.//c all,time,.
 
 mkgb o,n!r=thing that is proud of A.//c hope,teach,
-
-o!r=conquer A.//c become,rule,
 
 mmlc o!r=thing that practice A.//c becoming,can,
 
@@ -1868,7 +1878,7 @@ mmgg !r=melt.//c becoming,liquid,
 
 mkaf !r=dog.//c friend,people,
 
-mkkf o,n!r=thing that feel A is attractive.//c hope,breed,
+mkgf o,n!r=thing that feel A is attractive.//c hope,breed,,u25.12.14.17.
 
 mnkg o!r=thing that is sharper than A.//c sharpness,less,
 
@@ -1904,9 +1914,9 @@ mjbg o,o!r=thing that surrenders to A in a competition that becomes B.//c give u
 
 ma o!p=all A.//m every,mb t-o!2p=thing that be B when A.
 
-mc s,n!r=thing that desire A is true with B percent intensity.
+mc s,n!r=thing that hope A2 is A1.//e B is degree of hope.
 
-me o-t-n!p=thing that becoming A.
+me o,t,n!p=thing that becoming A.
 
 mg n or o-o!t=A plus B.
 
@@ -1921,6 +1931,7 @@ mojb o!r=thing that combined with A.//s plus,
 mnga n!r=sharpness.
 
 }m.r◀
+
 ▶m.s{
 
 mkcd o,n!r=thing that feel pleasure about A.//s love
@@ -1985,9 +1996,9 @@ njcg !r=trash.//a tool,
 
 ▶n.c{
 
-nnod !t=recent.//c arount,now,
+nnod !t=recent.//c around,now,
 
-nndg !r=neighbor.//c around,live,
+nndg !r=neighbor.//c around,reside,
 
 nnfh !r=boob.//c around,nipple,
 
@@ -2003,7 +2014,7 @@ nimd !r=she.//c the,women,,u2025.11.26.18.39.
 
 nkmd !r=pussy.//c genitalia, women,,d25.12.5.0.
 
-nkde !r=cock.//c genitalia, men,,d25.12.5.0.
+nkde !r=penis.//c genitalia, men,,d25.12.5.0.
 
 }n.c◀
 
@@ -2023,7 +2034,7 @@ nd o!r=thing that call A.
 
 ne//g ae,two,,but it target only r, o parameter,.
 
-nf o!p=part of around of A.
+nf o!1p=part of around of A.
 
 ng o,o!n=A times B.
 
@@ -2079,23 +2090,21 @@ oe !r=i.//c this,assert,
 
 oihg !t=time part of today.//c this,day,.
 
-oljd o,n!r=thing that mind A.//c intend,imagine,
-
 ondb !r=thing that come.//c move,Ath subject,
 
 oidf o,n!r=thing that feel that A is noisy.//c suffer,listen,.
 
 oncb o,o!r=thing that enter into A from B.//c move,inside,, this word mean to go inside,,
 
-olgc o-n!r=thing that is for A.//c for being, benefical,.
+olgc o,n!r=thing that is for A.//c for being, benefical,.
 
-iogmmc !r=hedonist.//c tend,intend,only,what,hope,
+ilgmmc !r=hedonist.//c tend,intend,only,what,hope,,u25.12.9.17.
 
 oidd o-o-n!r=thing that need to be A to be B.//c need,ab,self,
 
 onnf o!r=thing that follow A.//c go,around,
 
-oomc !r=cat.//c animal,cute,
+olmc !r=cat.//c animal,cute,,u25.12.10.1.
 
 olje !r=dessert.//c food,future,,r dessert is food that is eaten future.
 
@@ -2121,7 +2130,7 @@ oh !n=minus three.
 
 oica o!p=inverse of A.
 
-oilb o,o,n!r=thing that need A to be B.//c can,use,
+oilb o,o,n!r=thing that need A to be B.
 
 olma !r=animal.
 
@@ -2542,9 +2551,7 @@ this document and this language have copyright.
 
 When sharing this document, we recommend sharing only this github link because all documents should be updated with changes when this document is updated.
 
-Large corporations are required to sign license agreement to use it.
-
-The standards of large corporations are determined by the rules of their countries.
+Large corporations are required to sign license agreement to use it. The standards of large corporations are determined by the rules of their countries.//got moeny is used to promote this lang.
 
 other can use this language legally for free.
 
